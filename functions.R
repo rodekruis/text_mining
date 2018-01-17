@@ -1,3 +1,12 @@
+standardize_record <- function(value_list) {
+  fields <- c("id", "name", "url", "snippet")  # we only need these columns
+  record <- value_list[fields]                 # filter
+  names(record) <- fields                      # in case some of them is missing
+  record[sapply(record, is.null)] <- NA        # dttp
+  return(record)
+}
+
+
 # https://www.w3schools.com/cssref/css_selectors.asp
 
 extract_text_from_url <- function(url,
