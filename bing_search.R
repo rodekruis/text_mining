@@ -31,6 +31,8 @@ get_all_urls <- function(query_string = "drought",
                                  "&offset=", offset),
                     add_headers(`Ocp-Apim-Subscription-Key` = api_key))
     
+    message(i, "\tstatus code: ", response$status_code)
+    
     if (response$status_code == 200) {  # OK
       
       # extract main content object
@@ -47,8 +49,6 @@ get_all_urls <- function(query_string = "drought",
       matches_batch <- length(response_content$webPages$value)          # 46 (?)
       matches_total <- response_content$webPages$totalEstimatedMatches  # 1530
     }
-    
-    message(i)
     
     articles_data[[i]] <- list()
     
@@ -88,5 +88,16 @@ get_all_urls <- function(query_string = "drought",
 }
 
 
-result1 <- get_all_urls("drought", "times.mw", TRUE, TRUE)
+# result1 <- get_all_urls("drought", "times.mw", API_KEY_1, TRUE, TRUE)
 
+results <- list()
+results[["times.mw"]]        <- get_all_urls("drought", "times.mw")
+results[["nyasatimes.com"]]  <- get_all_urls("drought", "nyasatimes.com")
+results[["mwnation.com"]]    <- get_all_urls("drought", "mwnation.com")
+results[["maravipost.com"]]  <- get_all_urls("drought", "maravipost.com")
+results[["malawi24.com"]]    <- get_all_urls("drought", "malawi24.com")
+results[["malawivoice.com"]] <- get_all_urls("drought", "malawivoice.com")
+
+results_all <- rbindlist(results)
+saveRDS(results_all, paste0("data/", Sys.Date(), "_results_all.rds"))
+        
