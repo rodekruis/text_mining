@@ -1,37 +1,23 @@
 library(tidyverse)
 library(rvest)
 library(stringr)
-library(tokenizers)
+library(data.table)
 
-
-
-#########################
-xxx <- read_html("https://www.nyasatimes.com/uladi-claims-joyce-banda-sets-political-dynasty-pp/")
-xxx %>% html_nodes("article div.entry-content") %>% html_text() %>% cat()
-
-url1 <- "http://www.times.mw/bad-sobo-on-market/"
-url1 %>% read_html() %>% html_nodes("div.entry-content") %>% html_text()
-
-#########################
-
-source("config.R")
 source("functions.R")
+source("config.R")
 
-text_pattern <- "drought"
+results_all <- readRDS("data/2018-01-17_results_all.rds")
 
+html1 <- extract_html_from_url(results_all[1, url],  # "http://www.times.mw/drought-recovery-project-starts-this-month/"
+                               sleep_sec_interval = c(1, 4))
 
-# get urls
-novinky_urls <- novinky_get_all_links(query = "uprchlíci",
-                                      exact_phrase = 0,
-                                      section = -1,
-                                      exclude = "",
-                                      date_from = "1.9.2016",
-                                      date_to = "",
-                                      sleep_secs = 5)
+text1 <- extract_article_text_from_html(html1,
+                                        website = "times.mw",
+                                        verbose = TRUE)
 
-# get named character vectors
-novinky_bodies <- sapply(novinky_urls, 
-                         function(url) extract_text_from_url(url = url,
-                                                             website = "novinky",
-                                                             sleep_secs = 5))
+html2 <- extract_html_from_url(results_all[2200, url],
+                               c(1, 2))
+text2 <- extract_article_text_from_html(html2,
+                                        website = "mwnation.com",
+                                        verbose = TRUE)
 

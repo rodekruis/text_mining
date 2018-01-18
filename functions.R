@@ -1,19 +1,9 @@
 
-# helper function for extracting relevant items from list of values 
-# (and handling missing data)
-standardize_record <- function(value_list, 
-                               fields = c("id", "name", "url", "snippet")) {
-  record <- value_list[fields]                 # filter
-  names(record) <- fields                      # in case some of them is missing
-  record[sapply(record, is.null)] <- NA        # dtto
-  return(record)
-}
-
 
 # https://www.w3schools.com/cssref/css_selectors.asp
 
-extract_text_from_url <- function(url,
-                                  website = c("undefined",
+extract_article_text_from_html <- function(html,
+                                           website = c("undefined",
                                               "times.mw", 
                                               "nyasatimes.com",
                                               "mwnation.com", 
@@ -21,8 +11,7 @@ extract_text_from_url <- function(url,
                                               "malawi24.com", 
                                               "malawivoice.com"),
                                   css = NULL,
-                                  verbose = FALSE,
-                                  sleep_secs = 1) {
+                                  verbose = FALSE) {
   website <- match.arg(website)
   
   if (website == "undefined" & is.null(css)) {
@@ -31,25 +20,31 @@ extract_text_from_url <- function(url,
     css <- switch(website,
                   undefined = css,
                   `times.mw` = "div.entry-content", 
-                  `nyasatimes.com` = "article div.entry-content",
-                  `mwnation.com` = "", 
-                  `maravipost.com` = "", 
-                  `malawi24.com` = "", 
-                  `malawivoice.com` = ""
+                  `nyasatimes.com` = "div#content article div.entry-content",
+                  `mwnation.com` = "div#content article div.entry-content",  # JS 
+                  `maravipost.com` = "div.content div.post-content", 
+                  `malawi24.com` = "div.post-container div.post-content", 
+                  `malawivoice.com` = "article div.entry-content"
                   )
   }
   
   text <- try(
-    url %>%
-      url_connection(handle = new_handle()) %>%
-      read_html() %>%
+    html %>%
       html_nodes(css = css) %>% 
       html_text() %>%
       paste(collapse = "\n")
   )
   if (verbose) print(substr(text, 1, 50))
-  Sys.sleep(sleep_secs)
   text
+}
+
+extract_html_from_url <- function(url,
+                                  sleep_sec_interval) {
+  con <- try(url_connection(url,
+                     handle = new_handle(), 
+                     sleep_sec_interval = sleep_sec_interval))
+  on.exit(close(con))
+  read_html(con)
 }
 
 url_connection <- function(url, 
@@ -61,7 +56,9 @@ url_connection <- function(url,
     user_agent_options <- c("Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko")
   }
   # do nothing for a random amount of seconds (within interval)
-  Sys.sleep(runif(1, sleep_sec_interval[1], sleep_sec_interval[2]))
+  sleep_sec <- runif(1, sleep_sec_interval[1], sleep_sec_interval[2])
+  message(round(sleep_sec, 2), "s sleep")
+  Sys.sleep(sleep_sec)
   # pretend to be a random browser
   handle_setheaders(handle = handle, "User-Agent" = sample(user_agent_strings, 1))
   # return connection

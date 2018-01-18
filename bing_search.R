@@ -6,6 +6,18 @@ source("functions.R")  # load standardize_record()
 
 # response <- readRDS("data/response1.rds")
 
+
+# helper function for extracting relevant items from list of values 
+# (and handling missing data)
+standardize_record <- function(value_list, 
+                               fields = c("id", "name", "url", "snippet")) {
+  record <- value_list[fields]                 # filter
+  names(record) <- fields                      # in case some of them is missing
+  record[sapply(record, is.null)] <- NA        # dtto
+  return(record)
+}
+
+
 ############
 
 get_all_urls <- function(query_string = "drought",
