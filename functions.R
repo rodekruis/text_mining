@@ -4,14 +4,14 @@
 
 extract_article_text_from_html <- function(html,
                                            website = c("undefined",
-                                              "times.mw", 
-                                              "nyasatimes.com",
-                                              "mwnation.com", 
-                                              "maravipost.com", 
-                                              "malawi24.com", 
-                                              "malawivoice.com"),
-                                  css = NULL,
-                                  verbose = FALSE) {
+                                                       "times.mw", 
+                                                       "nyasatimes.com",
+                                                       "mwnation.com", 
+                                                       "maravipost.com", 
+                                                       "malawi24.com", 
+                                                       "malawivoice.com"),
+                                           css = NULL,
+                                           verbose = FALSE) {
   website <- match.arg(website)
   
   if (website == "undefined" & is.null(css)) {
@@ -25,7 +25,7 @@ extract_article_text_from_html <- function(html,
                   `maravipost.com` = "div.content div.post-content", 
                   `malawi24.com` = "div.post-container div.post-content", 
                   `malawivoice.com` = "article div.entry-content"
-                  )
+    )
   }
   
   text <- try(
@@ -41,8 +41,8 @@ extract_article_text_from_html <- function(html,
 extract_html_from_url <- function(url,
                                   sleep_sec_interval) {
   con <- try(url_connection(url,
-                     handle = new_handle(), 
-                     sleep_sec_interval = sleep_sec_interval))
+                            handle = new_handle(), 
+                            sleep_sec_interval = sleep_sec_interval))
   on.exit(close(con))
   read_html(con)
 }
@@ -63,4 +63,8 @@ url_connection <- function(url,
   handle_setheaders(handle = handle, "User-Agent" = sample(user_agent_strings, 1))
   # return connection
   curl(url = url, open = "rb", handle = handle)
+}
+
+get_domain_from_url <- function(url) {
+  str_replace(url, "https?://(www\\.)?([\\d\\w]*\\.(com|mw))/.*", "\\2")
 }
