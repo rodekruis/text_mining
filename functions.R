@@ -22,9 +22,45 @@ extract_article_text_from_html <- function(html,
                   `times.mw` = "div.entry-content", 
                   `nyasatimes.com` = "div#content article div.entry-content",
                   `mwnation.com` = "div#content article div.entry-content",  # JS 
-                  `maravipost.com` = "div.content div.post-content", 
+                  `maravipost.com` = "div.content div.post-content p span", 
                   `malawi24.com` = "div.post-container div.post-content", 
                   `malawivoice.com` = "article div.entry-content"
+    )
+  }
+  
+  text <- try(
+    html %>%
+      html_nodes(css = css) %>% 
+      html_text() %>%
+      paste(collapse = "\n")
+  )
+  if (verbose) print(substr(text, 1, 50))
+  text
+}
+
+extract_article_date_from_html <- function(html,
+                                           website = c("undefined",
+                                                       "times.mw", 
+                                                       "nyasatimes.com",
+                                                       "mwnation.com", 
+                                                       "maravipost.com", 
+                                                       "malawi24.com", 
+                                                       "malawivoice.com"),
+                                           css = NULL,
+                                           verbose = FALSE) {
+  website <- match.arg(website)
+  
+  if (website == "undefined" & is.null(css)) {
+    stop("Specify css or select a website!")
+  } else {
+    css <- switch(website,
+                  undefined = css,
+                  `times.mw` = "div.mom-post-meta time", #datetime 
+                  `nyasatimes.com` = "div#content article div.entry-meta",
+                  `mwnation.com` = "div#content article span.entry-date time",  # datetime 
+                  `maravipost.com` = "div.meta-holder", #text 
+                  `malawi24.com` = "span.posted-on time", 
+                  `malawivoice.com` = "p.postmeta time" #datetime
     )
   }
   
