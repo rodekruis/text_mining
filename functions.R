@@ -80,7 +80,8 @@ extract_html_from_url <- function(url,
                             handle = new_handle(), 
                             sleep_sec_interval = sleep_sec_interval))
   on.exit(close(con))
-  read_html(con)
+  tryCatch(read_html(con),
+           error = function(e) message("Missed url: ", url))
 }
 
 url_connection <- function(url, 
