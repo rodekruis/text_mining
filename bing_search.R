@@ -99,8 +99,16 @@ get_all_urls <- function(query_string = "drought",
   return(all_results)
 }
 
+results_flood <- list()
+for (domain in c("times.mw", "nyasatimes.com", "mwnation.com",
+                 "maravipost.com", "malawi24.com", "malawivoice.com")) {
+  results_flood[[domain]] <- get_all_urls("flood", domain)
+}
+results_flood_all <- rbindlist(results_flood)
+results_flood_all <- results_flood_all[!str_detect(url, "/(category|tag)/")]
+saveRDS(results_flood_all, paste0("data/", Sys.Date(), "_results_flood.rds"))
 
-# result1 <- get_all_urls("drought", "times.mw", API_KEY_1, TRUE, TRUE)
+####
 
 results <- list()
 results[["times.mw"]]        <- get_all_urls("drought", "times.mw")

@@ -20,6 +20,7 @@ texts[domain == "nyasatimes.com",
                                "(\\(adsbygoogle = window\\.adsbygoogle \\|\\| \\[\\]\\)\\.push\\(\\{\\}\\);|Follow and Subscribe Nyasa TV.* $)", 
                                "")]
 
+
 texts[domain == "mwnation.com",
       text1 := str_replace_all(text1, "\\(Visited .*$", "")]
 
@@ -34,4 +35,4 @@ texts[domain == "malawi24.com",
 texts[domain == "malawivoice.com",
       text1 := str_replace_all(text1, " added by.*", "")]
 
-fwrite(texts[, .(domain, url, text = text1)], "data/texts1.csv", sep = "\t")
+fwrite(texts[, .(type = "drought", domain, url, text = text1)], "data/texts11.csv", sep = "\t")

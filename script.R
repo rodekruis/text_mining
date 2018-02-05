@@ -17,14 +17,15 @@ example_text <- extract_article_text_from_html(example_html,
                                                verbose = TRUE)
 # ---------------
 
-urls <- results_all[, unique(url)]
+# urls <- results_all[, unique(url)]
+urls <- results_flood_all[, unique(url)]
 
 htmls <- list()
-for (url in urls[2008:length(urls)]) {
-  htmls[[url]] <- extract_html_fromURL(url,
+for (url in urls[1:length(urls)]) {
+  htmls[[url]] <- extract_html_from_url(url,
                                         sleep_sec_interval = c(1, 4))
 }
-saveRDS(htmls, "data/htmls1.rds")
+saveRDS(htmls, "data/htmls2.rds")
 
 texts <- data.table(url = names(htmls), text = character(length(htmls)))
 texts[, id := .I]
@@ -44,6 +45,6 @@ for (URL in texts$url) {
     )]
 }
 
-saveRDS(texts, "data/texts.rds")
-fwrite(texts, "data/texts.csv")
+saveRDS(texts, "data/texts2.rds")
+fwrite(texts, "data/texts2.csv", sep = "/t")
 
