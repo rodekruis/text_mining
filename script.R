@@ -5,7 +5,7 @@ library(data.table)
 library(httr)
 
 source("functions.R")
-source("config.R")
+source("config.R")  # load API_KEY_1 and API_KEY_2 
 
 ### (1) get article urls from Bing search API --------
 
