@@ -1,0 +1,20 @@
+# three scripts to scrap, analyze articles and convert them into a list of events
+
+# 1) scrap_articles
+# get articles from various Zambian newspapers.
+# N.B. some parts need to be configured by hand for each website.
+# To be implemented: configure things automatically.
+# output: pandas dataframe of articles
+# row format: ['title', 'publish_date', 'text', 'url']
+
+# 2) inspect_articles_tag_topical
+# analyze the output of scrap_articles and decide if each article is relevant or not
+# add a corresponding boolean to the dataframe
+# To be implemented: automatize the process with a classification algorithm, too few data so far
+
+# 3) convert_articles_to_database_events
+# analyze relevant articles and build a dataframe of events
+# row format: ['event_type', 'date', 'locations', 'source']
+# save to csv
+
+# author: Jacopo Margutti
