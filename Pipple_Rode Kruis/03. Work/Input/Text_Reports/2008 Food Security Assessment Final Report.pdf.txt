@@ -1,0 +1,4251 @@
+    
+ 
+
+RAPID FOOD SECURITY ASSESSMENT  
+
+ 
+
+ 
+ 
+ 
+ 
+VAC 
+ 
+ 
+ 
+ZAMBIA 
+ 
+ 
+
+Vulnerability 
+
+Assessment Committee 
+
+ 
+
+ 
+
+ 
+
+BY 
+
+ 
+
+THE ZAMBIA VULNERABILITY ASSESSMENT COMMITTEE (ZVAC) 
+
+DECEMBER 2008 
+
+LUSAKA 
+
+ 
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+LIST OF TABLES.......................................................................................................... iii 
+
+LIST OF FIGURES ........................................................................................................ iv 
+
+ACKNOWLEDGEMENTS .................................................................................................. v 
+
+ACRONYMS.................................................................................................................... vi 
+
+EXECUTIVE SUMMARY ................................................................................................. vii 
+
+1.0 INTRODUCTION .......................................................................................................1 
+
+1.1 
+
+Objectives of the assessment.................................................................................1 
+
+1.1.1 
+
+Overall Objective ................................................................................................1 
+
+1.1.2 
+
+Specific Objectives..............................................................................................1 
+
+2.0 METHODS AND PROCEDURES.................................................................................2 
+
+2.1 Study Methodology ........................................................................................................2 
+
+2.2 Estimation of Food Needs .............................................................................................2 
+
+2.3 Selection Criteria of the Districts for Eligibility for Relief Food ..............................3 
+
+2.4 Determination of Quantities for Districts under Market Intervention .....................3 
+
+3.0 PERFOMANCE OF THE 2007/8 RAINFALL SEASON ...............................................4 
+
+4.0 
+
+FINDINGS AND DISCUSSIONS .............................................................................5 
+
+4.1 
+
+Livelihoods................................................................................................................5 
+
+4.2 Coping Strategies...........................................................................................................6 
+
+4.3 
+
+Food Crop and Livestock Availability.....................................................................7 
+
+4.3.1 
+
+Food Crop Availability.........................................................................................7 
+
+4.3.2 
+
+Livestock Availability ..........................................................................................8 
+
+4.4 
+
+Market Access...........................................................................................................9 
+
+4.4.1 Staple Food Prices......................................................................................................9 
+
+4.4.2 Livestock Prices..........................................................................................................9 
+
+ 
+
+i 
+
+4.5 
+
+Food Security Programmes ...................................................................................10 
+
+4.6 
+
+Off-season Production...........................................................................................10 
+
+4.7 
+
+Prospects for 2008/9 Production .........................................................................10 
+
+5.1 CONCLUSIONS...............................................................................................................12 
+
+5.2 
+
+RECOMMENDATIONS...............................................................................................13 
+
+ANNEXES ...................................................................................................................... 14 
+
+Annex 1: 
+
+Team Composition/Areas visited/Editorial Team......................................14 
+
+Annex 2a: 
+
+District Focus Group Discussion Questionnaire ......................................17 
+
+Annex 2b: 
+
+Community Focus Group Discussion Questionnaire2005 .......................23 
+
+Annex 3: 
+
+Areas visited ..................................................................................................28 
+
+Annex 4: 
+
+2008/9 Input Distribution Table ..................................................................29 
+
+Annex 5: Old and Additional Needs for Assessed Districts (January to March 2009) ..30 
+
+Annex 6: Districts with Additional Food Needs at Ward Level ......................................31 
+
+Annex 7: Maize Grain Requirement for Market Interventions .......................................33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ii 
+
+ 
+
+LIST OF TABLES 
+
+Table 1: Availability of Food by District.............................................................................................. 8 
+
+Table 2: Staple Food prices ................................................................................................................... 9 
+
+Table 3: Livestock Prices...................................................................................................................... 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii 
+
+LIST OF FIGURES 
+
+Figure 1: Comparisons of Livelihood and Income Sources: Dec-2007 and Dec 2008........................ 5 
+
+Figure 2: Coping Mechanisms Employed by Assessed Communities (Compared to last Year for 
+
+the Same Period) ................................................................................................................................... 6 
+
+ 
+
+iv 
+
+ACKNOWLEDGEMENTS 
+
+The December 2008 Food Security Rapid Assessment was made possible through 
+
+the support of the following institutions: 
+
+•  CARE International 
+
+•  Central Statistical Office (CSO) 
+
+•  Department of Resettlement, Office of the Vice President 
+
+•  Disaster Management and Mitigation Unit, Office of the Vice President 
+
+•  Famine Early Warning Systems Network (FEWSNET) 
+
+•  Food and Agriculture Organization (FAO) 
+
+•  Lutheran World Federation (LWF) 
+
+•  Lusaka District Health Management Team (LDHMT) 
+
+•  National AIDS Council (NAC) 
+
+•  National Association for the Prevention of Starvation (NAPS) 
+
+•  National Institute for Public Administration (NIPA) 
+
+•  Ministry of Health (MOH) 
+
+•  United Nations International Children’s Emergency Fund (UNICEF) 
+
+•  United Nations Development Programme (UNDP) 
+
+•  World Food Programme (WFP) 
+
+•  Zambia Relief and Development Foundation (ZRDF) 
+
+ 
+
+The  Zambia  Vulnerability  Assessment  Committee  (ZVAC)  wishes  to  express  its 
+
+sincere gratitude to the  above mentioned  institutions  for participating in,  and 
+
+providing financial, human resource and logistical support for the assessment.  
+
+ 
+
+Furthermore  the  Committee  wishes  to  thank  the  District  Disaster  Management 
+
+Committees  (DDMCs)  and  the  communities  in  the  thirty  four  (34)  districts 
+
+where the assessments were conducted, for their cooperation and assistance in 
+
+providing information during the exercise.  
+
+ 
+
+ 
+
+v 
+
+ACRONYMS 
+ 
+
+ART 
+
+Anti-Retroviral Therapy 
+
+CBPP   
+
+Contagious Bovine Pleura Pneumonia 
+
+CRS 
+
+CSO 
+
+ 
+
+ 
+
+Catholic Relief Services 
+
+Central Statistical Office 
+
+DDMC   
+
+District Disaster Management Committee 
+
+DHMT   
+
+District Health Management Team  
+
+DMMU  
+
+Disaster Management and Mitigation Unit 
+
+FAO 
+
+FFA 
+
+FFW 
+
+FRA 
+
+FSP 
+
+FSP 
+
+GFD 
+
+HBC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Food and Agriculture Organization  
+
+Food for Assets  
+
+Food for Work 
+
+Food Reserve Agency 
+
+Fertilizer Support Programme 
+
+Food Security Pack 
+
+General Food Distribution  
+
+Home Based Care  
+
+LCMS    
+
+Living Conditions Monitoring Survey 
+
+LWF 
+
+MET 
+
+MTs 
+
+ 
+
+ 
+
+ 
+
+Lutheran World Federation 
+
+Meteorological Department 
+
+Metric Tons 
+
+MACO   
+
+Ministry of Agriculture and Cooperatives 
+
+NAPS            National Association for the Prevention of Starvation 
+
+OVP 
+
+PAM 
+
+PRA 
+
+ 
+
+ 
+
+ 
+
+Office of the Vice President 
+
+Program Against Malnutrition 
+
+Participatory Rural Appraisal 
+
+UNICEF         United Nations International Children’s Emergency Fund 
+
+WCS 
+
+WFP 
+
+ 
+
+ 
+
+Wildlife Conservation Society 
+
+World Food Program  
+
+WHO   
+
+World Health Organization 
+
+ZRDF   
+
+Zambia Relief Development Foundation 
+
+ZVAC   
+
+Zambia Vulnerability Assessment Committee 
+
+ 
+
+vi 
+
+EXECUTIVE SUMMARY  
+ 
+Following  reports  of  food  insecurity  received  by  DMMU  from  various  districts 
+across  the  country,  the  Zambia  Vulnerability  Assessment  Committee  (ZVAC) 
+constituted teams to undertake a rapid food security assessment to verify these 
+reports.  The  assessment  was  undertaken  in  thirty  four  (34)  districts  in  eight 
+provinces  namely  Central,  Copperbelt,  Eastern,  Luapula,  Lusaka,  North 
+Western,  Southern  and  Western  respectively.  The  main  objective  of  the 
+assessment  was  to  verify  the  food  security  situation  in  the  above  mentioned 
+districts.  Most  of  the  food  insecurity  reports  were  attributed  to  the  floods 
+experienced  in  the  2007/08  rain  season  as  well  as  the  general  rise  in  food 
+prices  and  the  effects  of  the  failure  of  the  global  economic  systems.  The 
+assessment  generally  employed  participatory  approaches  at  district  and 
+community levels respectively. 
+ 
+The assessment also revealed that the population of livestock had reduced due 
+to livestock diseases  such  as CBPP and increased sales. The reduction in goats 
+was attributed to increased selling to the urban markets, while the reduction in 
+poultry was mainly due to diseases such as New Castle and Gumboro. There was 
+a  reduction  in  the  prices  of  some  livestock  as  most  communities  were 
+desperate to raise money to buy agricultural inputs  and  food (goats  – 14% and 
+cattle – 2%). This compelled most communities to sell more livestock to match 
+the higher costs of food and agricultural inputs. 
+ 
+Generally,  most  communities  were  found  to  have  run  out  of  stocks  of  staple 
+foods from own production. The supply of these foods from other sources (e.g. 
+purchases) had also reduced. This was mainly due to the impact of the 2007/8 
+floods. The results of the assessment also revealed that some districts that had 
+a normal harvest (going by the Crop Forecast Survey) had run out of the maize 
+stock  due  to  the  selling  of  all  the  maize  stocks  that  they  produced.  The 
+situation  was  exacerbated  by  the  general  price  increase  of  staple  food 
+commodities such as maize, cassava and rice as a  result of the scarcity of the 
+commodities on the market.  
+ 
+Out  of  the  thirty  four  (34)  districts  assessed,  twenty  nine  (29)  were 
+recommended  for  food  relief  intervention.  Twenty  one  (21)  districts  of  the 
+twenty  nine  were  earlier  identified  as  being  food  insecure  and  recommended 
+food relief. Furthermore, eight (8) additional districts were also found to be in 
+need of relief food. The total number requiring relief  food in these 29 districts 
+amounts to 674,464 people (112,411 households) requiring 16,854 metric tones 
+for  a  period  of  three  (3)  months  starting  January  2009  to  March  2009.  Within 
+the  21  districts  that  the  2008  In-depth  Assessment  recommended  for  relief 
+food, four (4) districts will have an additional case load of 46,803 people (7,801 
+households) requiring 1,169 MT of food for three months from January to March 
+2009 (refer to annex 5  for details). Eight new districts which were not part of 
+the 21 recommended for relief food under the 2008 In-depth Assessment would 
+
+ 
+
+vii 
+
+require 4,575 MT of maize  for three months. The mode of intervention should 
+be labour based in nature. 
+ 
+The  assessment  revealed  that  the  livelihoods  and  income  sources  for  most  of 
+assessed communities remained largely unchanged compared to last year. Crop 
+production  continued  to  be  the  most  important  livelihood  and  income  source 
+followed by small businesses.  Furthermore,  there was no  significant change in 
+the coping mechanisms employed by the communities in the assessed districts. 
+ 
+The FRA should offload 11,435 metric tons of commercial maize to a total of 16 
+districts that will need market intervention  for a period of three months from 
+January to March 2009 (refer to Annex 7 for details). Out of these 16 districts, 
+11 would also require relief food.  
+ 
+The  prospects  of  the  2008/9  season  may  not  be  promising  due  to  the  huge 
+increase in the costs of agricultural inputs, reduction in the area cultivated and 
+the small proportion of the number of subsistence farmers accessing the input 
+support compared to the total number of such farmers in the country.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+viii 
+
+1.0 INTRODUCTION  
+ 
+Following  reports  of  food  insecurity  received  by  DMMU  from  various  districts 
+across  the  country,  the  Zambia  Vulnerability  Assessment  Committee  (ZVAC) 
+constituted  teams  to  verify  these  reports.  The  reports  from  the  districts 
+attributed the looming food insecurity situation being experienced by a number 
+of  districts  to  last  year’s  floods,  the  general  rise  in  food  prices  and  effects  of 
+the failure of the major global economic systems.  
+ 
+1.1  Objectives of the assessment 
+ 
+1.1.1  Overall Objective 
+ 
+The  overall  objective  of  the  assessment  was  to  verify  the  reports  about  the 
+food security situation in thirty four (34) districts. 
+ 
+1.1.2  Specific Objectives 
+ 
+
+•  To  determine  the  actual  areas  affected,  number  of  affected  people 
+
+as well as amount of relief food required if any; 
+
+•  To  review  the  food  insecurity  levels  in  the  twenty-one  (21)  districts 
+earlier  identified  as  needy  in  June  2008  so  as  to  determine  the 
+additional case loads and food needs if any;  
+
+•  To determine the appropriate mode of intervention  in the identified 
+
+food insecure areas; 
+
+•  To  determine  the  prospects  for  the  2008/9  farming  season  in  the 
+
+thirty four (34) districts. 
+
+ 
+
+ 
+
+1 
+
+level  key 
+
+informant 
+
+(FGD)  and  district 
+
+2.0 METHODS AND PROCEDURES 
+ 
+2.1 Study Methodology 
+ 
+The  assessment  was  done  through  a  combination  of  desk  review  of  secondary 
+data  as  well  as  analysis  of  primary  data  collected  through  community  Focus 
+Group  Discussions 
+interviews 
+respectively.  Field  data  was  collected  using  two  checklists  at  each  level. 
+Supplementary  data  was  also  collected  through  intelligent  observations, 
+proportional  piling,  ranking  exercises,  mapping  and  time  trends.  The  Teams 
+used  participatory  approaches  to  collect  information  relating  to  the  food 
+security situation in the reported districts to derive conclusions on the reported 
+food security situation. 
+ 
+The key entry points were the District Disaster Management Committees which 
+comprises  of  District  Commissioner’s  office,  other  line  Government  Ministries 
+and  NGOs.  At  district  level,  interviews  were  conducted  with  the  members  of 
+the  District  Disaster  Management  Committees  (DDMC).  The  DDMCs  provided 
+lists of worst, moderately and least affected wards. At community level, Focus 
+Group Discussions (FGD) in each of the three selected wards was conducted.  
+ 
+2.2 Estimation of Food Needs  
+ 
+The  FAO/WHO  analytical  framework  was  used  for  the  calculation  of  food 
+needs. The ward population was based on the CSO projected populations taking 
+into  account  HIV/AIDS.  A  percentage  of  the  food  insecure  persons  in  the 
+affected  wards  were  determined  using  triangulated  data  from  the  DDMC  and 
+the  communities  which  was  derived  through  the  use  of  a  Participatory  Rural 
+Appraisal  (PRA)  technique  of  proportional  piling.  An  adjustment  was  done  on 
+the  estimated  percentages  using  the  other  information  collected  from  the 
+checklist,  which  showed  clearly  the  major  sources  of  food  for  the  affected 
+communities,  that  is  whether  much  of  it  was  through  own  production  or 
+purchases.   
+ 
+The following formula was used to determine the amount of cereal required by 
+food insecure households: 
+
+ 
+MAIZE REQUIREMENT1 = STANDARD RATION2 X # OF MONTHS3 X # AFFECTED PEOPLE 
+                                                                              1000 
+
+Source: ZVAC, 2005 
+ 
+Where, 
+1 
+
+2 
+
+3 
+
+ 
+
+Total maize requirements in Metric Tonnes (MT) refers to total quantity 
+of maize required for the affected population in the needy districts 
+Standard  ration  =  8.33  kilograms  per  person  per  month  (278 
+g/person/day) 
+Number of months = duration of the food assistance 
+
+2 
+
+2.3 Selection Criteria of the Districts for Eligibility for Relief Food 
+ 
+The  following  selection  criterion  for  identifying  food  insecure  districts  was 
+used: 
+
+•  The percentage of people whose livelihoods had remained stable even in 
+
+the presence of the current shocks; 
+
+•  The  percentage  of  people  in  the  district  indicating  ability  to  purchase 
+
+the staple if FRA were to offload the commodity on the markets; 
+
+•  The percentage change in the price of the staple between June 2008 and 
+
+December 2008 with December 2007 acting as the base year. 
+
+•  The  proportion  of  people  engaged  in  off-season  production  in  the 
+
+district. 
+
+ 
+Using the above criterion, the following bench marks were used for identifying 
+most needy districts: 
+ 
+
+•  Districts where it was established that 50% or more of people with ability 
+to  purchase  maize  and  greater  than  or  equal  to  10%  of  respondents 
+practicing off-season agriculture were put under Market intervention. 
+
+•  Those  districts  where  there  was  evidence  that  less  than  50%  of  people 
+had capacity to purchase FRA maize and had less than or equal to 30% of 
+respondents practicing off-season agriculture were put under relief food 
+intervention. 
+
+ 
+
+2.4 Determination of Quantities for Districts under Market Intervention 
+ 
+The  determination  of  quantities  for  districts  under  intervention  was  based  on 
+the  MACO  standard  of  90Kg  per  person  per  annum.  This  was  divided  by  12  to 
+determine the monthly requirement per person. Information on the proportion 
+of  people  with  the  ability  to  purchase  maize  stocks  from  the  market  was 
+obtained  from  primary  data  collected  in  the  field.  To  determine  the  monthly 
+requirement for the district, the following formula was used:  
+
+ 
+DISTRICT REQUIREMENT FOR THREE MONTHS (in tonnes)1 = STANDARD RATION2 X # OF MONTHS3 X # AFFECTED PEOPLE WITH PURCHASING CAPACITY4 
+                                                                                                                                        1000 
+
+ration 
+
+= 
+
+7.5 
+
+District  requirement  for  three  months  in  Metric  Tonnes  (MT)  refers  to 
+total quantity of maize required for the districts 
+Standard 
+per 
+(90Kg/person/month divided by 12 months) 
+Number of months = duration of the food assistance (three months) 
+Affected People with purchasing Capacity was determined by multiplying 
+projected population for 2008 by the proportion of people with capacity 
+to buy FRA maize as obtained from primary survey data. 
+
+per  month 
+
+kilograms 
+
+person 
+
+Source: ZVAC, 2008  
+ 
+Where, 
+1 
+
+2 
+
+3 
+4 
+
+ 
+
+ 
+
+3 
+
+The district population was based on the CSO projected populations taking into  
+Account HIV/AIDS. 
+ 
+ 
+ 
+3.0 PERFOMANCE OF THE 2007/8 RAINFALL SEASON 
+ 
+The  2007/08  rainy  season  had  a  normal  start  with  the  southern  half  of  the 
+country  experiencing  an  early  onset  while  the  extreme  northern  parts  had  a 
+late  onset.  From  the  month  of  November  2007  to  January  2008,  the  rainfall 
+activity increased substantially in the southern half of the country resulting in 
+widespread  heavy  rains  that  caused  floods  in  these  areas.    Furthermore,  dry 
+spells  were  also  experienced  during  the  month  of  February  2008  and  early 
+March 2008 which affected most of the late planted crops (re-plants). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+4 
+
+ 
+Livelihoods 
+
+4.0  FINDINGS AND DISCUSSIONS 
+ 
+4.1 
+ 
+A  comparison  of  people’s  livelihoods  between  December  2007  and  December 
+2008 indicated that there was no significant change in the main livelihood and 
+income  sources  for  the  assessed  communities  in  the  34  districts  as  seen  in 
+Figure 1 below.  
+ 
+
+Figure 1: Comparisons of Livelihood and Income Sources: Dec-2007 and Dec 2008 
+
+ 
+
+Crop  Production  continued  to  be  the  most  important  livelihood  and  income 
+source  for  majority  of  the  people  in  these  districts.  This  consisted  of  rain  fed 
+and off-season production of  field crops (food and cash crops). The main  food 
+crops grown included maize, cassava, sorghum, millet and rice, while the main 
+cash crops include maize, cotton, tobacco, rice, sweet potatoes and beans.           
+
+ 
+
+Small  Businesses  were  the  second  most  important  source  in  both  years.  This 
+was  petty  trading  in  consumables  such  as  groceries,  second  hand  clothes  and 
+food stuffs. Casual Labour was the third most important livelihood and income 
+source in 2007, while in 2008 Livestock Rearing (cattle, goats, pigs and poultry) 
+had been the third most important source in the 34 assessed districts.  
+
+ 
+
+5 
+
+ 
+The  other  livelihood  and  income  sources  of  economic  importance  such  as 
+fishing,  bee  keeping  (honey  production)  and  vegetable  gardening  had  also 
+remained relatively unchanged.  
+ 
+The  assessment  also  established  that  there  had  been  a  minor  decrease  in 
+livelihood  activities  such  as  beer  brewing  and  charcoal  burning  in  2008  as 
+compared to 2007. 
+
+ 
+
+4.2 Coping Strategies 
+ 
+Most  assessed  communities  employed  sustainable  coping  mechanisms  such  as 
+collection and consumption of wild  fruits/roots (59%), casual labour  (15%) and 
+barter  system  (6%)  as  the  first  most  important  strategy.  The  assessment  also 
+revealed  that  most  of  the  assessed  communities  employed  diverse  coping 
+mechanisms  such  as  begging  (3%),  poaching  (6%),  prostitution  (9%)1 and  theft 
+(12%) as second most important due to increased food insecurity. Respondents 
+indicated  that  early  marriages  (3%)  were  being  employed  as  the  third  most 
+important  coping  strategy  in  some  communities  in  Lundazi,  in  order  to  get 
+some  money  from  dowry  and  also  reduce  the  family  size  to  facilitate  easy 
+feeding.  
+ 
+
+Figure 2: Coping Mechanisms Employed by Assessed Communities (Compared to last Year for the Same Period) 
+
+Coping Mechanisms
+
+First Important Coping Mechanism
+Second Important Coping Mechanism
+Third Important Coping Mechanism
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+B e ggin g
+
+C harcoal B urnin g
+C asu al L a bo ur
+B orro win g
+
+C o m
+
+L a b o ur  Migratio n
+m ercial S ex
+
+M ushro o m S ales
+
+N on e
+
+P o achin g
+
+Wild Fruits/R o ots
+Ste aling
+
+B arter S yste m
+
+E arly  M arria g es
+
+It  was  worth  noting  that  the  first  and  second  coping  strategies  were  the  main 
+determinants  of  resilience  levels  in  the  communities  in  mitigating  the  food 
+insecurity situation, while the third coping strategies were the last resort.  
+
+                                                
+1 Prostitution is on the increase as a coping strategy in Luangwa , Monze, Siavonga and Kafue  
+
+ 
+
+6 
+
+ 
+
+III 
+
+4.3  Food Crop and Livestock Availability 
+ 
+4.3.1  Food Crop Availability 
+ 
+The major staple crop grown in the 34 assessed districts was maize followed by 
+cassava, sorghum and rice.  While maize was generally found to be grown in all 
+the  districts,  cassava  was  grown  in  districts  found  in  agro-ecological  regions  II 
+and 
+(Chavuma,  Zambezi,  Kabompo,  Mwinilunga,  Lukulu,  Serenje, 
+Shang’ombo  and  Milenge)  while  sorghum  is  mainly  grown  in  agro-ecological 
+region  I  (Shang’ombo,  Sesheke,  Siavonga,  Gwembe,  Mkushi,  Serenje,  Mambwe 
+Sinazongwe, Luangwa, Chongwe). 
+  
+The  assessment  indicated  that  97  %  of  the  respondents  had  less  amounts  of 
+maize  stocks  remaining  from  own  production  compared  to  the  same  period  in 
+2007.  The  situation  was  further  compounded  by  the  dwindling  levels  of  maize 
+stocks from other sources which included casual work, barter system and food 
+aid among others.  About 53 % of respondents indicated that there were  fewer 
+stocks  of  maize  coming  from  other  sources.  Furthermore,  85  %  of  the 
+respondents indicated that the supplies of the maize from own production had 
+already  run  out.  This  was  due  to  the  fact  that  most  farmers  had  sold  their 
+maize  stocks  to  organizations  and  individuals  who  offered  a  very  high  price. 
+Farmers  also  had  pressure  to  meet  other  pressing  needs  such  as  the 
+procurement of household requirements. 
+ 
+About  44  %  of  the  respondents  indicated  that  they  had  less  cassava  coming 
+from  own  production  as  compared  to  last  year.  About  12%  of  the  respondents 
+said  that  cassava  coming  from  other  sources  had  reduced.  The  trend  for 
+sorghum was similar to that presented by maize and cassava. 
+ 
+The reductions in the availability of the staples from both own production and 
+other  sources  were  attributed  to:  the  2007/8  flood  impact  experienced  in  all 
+the assessed districts, and sales to individuals and organizations that take these 
+commodities outside the district. 
+ 
+On  the  general  availability  of  food  in  the  assessed  areas,  all  the  respondents 
+indicated  that  food  was  inadequate  (Table  1).  Of  these  58  percent  indicated 
+that the food was extremely inadequate. The table below shows the summary 
+of the findings relating to food availability: 
+
+ 
+
+7 
+
+ 
+
+Table 1: Availability of Food by District 
+
+Province 
+
+ 
+ 
+Central 
+
+ 
+Copperbelt 
+
+ 
+Eastern 
+
+ 
+Lusaka 
+
+Luapula 
+ 
+ 
+North Western 
+ 
+ 
+ 
+Southern 
+
+ 
+Western 
+
+District 
+
+Chibombo 
+Kapiri Mposhi 
+Mkushi 
+Mumbwa 
+Serenje 
+Lufwanyama 
+Masaiti 
+Ndola 
+Chadiza 
+Chama 
+Lundazi 
+Mambwe 
+Chongwe 
+Kafue 
+Luangwa 
+Milenge 
+Kabompo 
+Mwinilunga 
+Zambezi 
+Choma 
+Gwembe 
+Itezhi - Tezhi  
+Kalomo 
+Kazungula 
+Mazabuka 
+Monze 
+Namwala 
+Shang’ombo 
+Lukulu 
+Kalabo 
+Sesheke 
+
+Food Availability 
+
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Inadequate 
+Inadequate 
+Inadequate 
+Inadequate 
+Inadequate 
+Extremely Inadequate 
+Inadequate 
+Inadequate 
+Extremely Inadequate 
+Inadequate  
+Extremely Inadequate 
+Inadequate  
+Inadequate  
+Inadequate  
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Inadequate  
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Extremely Inadequate 
+Inadequate  
+Inadequate  
+
+ 
+4.3.2  Livestock Availability 
+ 
+All  the  34  districts  assessed  indicated  that  poultry  and  goats  were  the  most 
+common  livestock  kept  by  communities.  The  numbers  of  poultry  in  these 
+districts  had  however  reduced  due  to  the  occurrence  of  New  Castle  and 
+Gumboro  diseases.  The  availability  of  goats  being  reared  by  the  local 
+communities had also decreased, as indicated by 59 % of the respondents. The 
+reason  given  for  this  decrease  was  the  sell  of  goats  mainly  to  urban  areas 
+where the demand is high.  
+ 
+ 
+ 
+
+ 
+
+8 
+
+Most  communities  (97%)  indicated  that  there  were  people  who  reared  cattle 
+but  these  were  households  that  were  well  –  off.  However,  56%  of  the 
+respondents indicated that the numbers of  cattle in the assessed districts  had 
+reduced  due  to  livestock  diseases  and  increased  cattle  sales.  Pigs  and  sheep 
+were not commonly reared in most of the districts. 
+                                                                   
+4.4  Market Access 
+ 
+4.4.1 Staple Food Prices 
+ 
+The  availability  of  the  main  staple  food  commodities  such  as  maize  in  the 
+assessed  areas  could  be  described  as  low  as  indicated  by  less  stocks  coming 
+from  both  own  production  and  other  sources.  The  main  mode  of  exchange  in 
+the  34  districts  visited  was  money.  Others  though  not  very  pronounced  were 
+barter system and casual labour.  
+ 
+There  was  a  general  increase  in  prices  of  the  staple  commodities  (maize, 
+cassava,  sorghum  and  rice,  refer  to  table  2.  The  prices  of  these  staples  had 
+increased  by  more  than  fifty  percent  during  the  same  period  this  year 
+compared to last year.  The price increases were mainly due to scarcity of the 
+staple  foods  on  the  market.  However,  the  price  increase  had  also  been 
+exacerbated by the general rise in food prices in the world which in a way has 
+affected  the  country.  The  high  price  levels  in  December  2008  could  be 
+attributed  to  last  year’s  reduced  harvest  due  to  floods,  but  more  so  the 
+reflection  of  the  low  supply  of  the  staples  on  the  market.  The  effect  of  low 
+yields  due  to  floods  had  also  been  seen  in  the  low  reduction  in  food  prices  in 
+June 2008 compared to December 2007 prices. 
+ 
+
+Table 2: Staple Food prices 
+
+Commodity 
+
+Dec 2007 
+
+June 2008 
+
+Dec 2008 
+
+% change in 
+
+ZMK 
+
+ZMK 
+
+ZMK 
+
+price 
+
+(50kg bag) 
+
+(50kg bag) 
+
+(50kg bag) 
+
+  98,638.89  
+  53,333.33  
+ 62,142.86  
+ 162,000.00  
+
+73 
+35 
+76 
+27 
+
+( 50kg bag) 
+      58,738.10  
+      34,333.33  
+   37,166.67  
+   134,727.27  
+
+   56,000.00  
+   41,250.00  
+   34,000.00  
+   126,000.00  
+
+Maize 
+Sorghum 
+Cassava 
+Rice 
+ 
+4.4.2 Livestock Prices 
+ 
+Generally  the  livestock  prices  in  the  assessed  districts  did  not  change  much 
+compared to the same period last year as shown in Table 3. Apart from cattle 
+and  poultry  whose  prices  on  average  decreased,  prices  for  the  other  livestock 
+such  as  sheep,  pigs  and  goats  increased  though  with  a  very  small  percentage. 
+The change in price of cattle might be an indication of some stress setting in. 
+The  communities  that  sold  livestock  did  so  primarily  to  raise  money  to  buy 
+agricultural inputs, whilst others sold to buy food.  
+
+ 
+
+9 
+
+ 
+
+Table 3: Livestock Prices 
+
+Commodity 
+
+Dec 2007   
+
+  June 2008 
+
+Dec 2008 
+
+ZMK 
+
+           ZMK 
+
+ZMK 
+
+% change 
+in price 
+
+ 1,607,352.94  
+      75,875.00  
+    235,000.00  
+    138,250.00  
+      16,900.00  
+
+ 1,476,388.89  
+      81,350.00  
+    258,571.43  
+    145,464.29  
+      16,520.83  
+
+-8.6 
+     5.7 
+      10.03  
+       5.1  
+       -2.4  
+
+  1,516,052.63  
+      95,625.00  
+    235,000.00  
+    141,692.31  
+      15,791.67  
+
+Cattle 
+Goats 
+Sheep 
+Pigs 
+Poultry 
+ 
+4.5  Food Security Programmes 
+ 
+The  assessment  established  that  there  were  ongoing  food  and  input  support 
+programmes  in  most  of  the  districts.  These  included  the  Fertilizer  Support 
+Programme (FSP), Food Security Pack (FSP), Food for Work and Assets creation 
+(FFW/FFA), Home Based Care (HBC), Anti-retroviral Therapy (ART) and General 
+Food  Distribution  (GFD).  These  programmes  were  being  implemented  by 
+Government Departments (MACO,  MCDSS, MOH and DMMU) and  its cooperating 
+partners.  
+
+ 
+
+However  the  number  of  beneficiaries  of  these  programmes  was  limited  to 
+about  600  people  per  programme.  The  Food  for  Work  and  Asset  creation 
+programmes  had  the  highest  numbers  of  beneficiaries  averaging  about  6,000 
+people  per  programme  because  these  were  directly  related  to  emergencies. 
+The others were ongoing developmental programmes. 
+ 
+4.6  Off-season Production 
+ 
+Thirty  One  (31)  out  of  the  thirty  four  (34)  assessed  districts  were  reported  to 
+practice  off-season  production  except  for  Chadiza,  Choma  and  Milenge.  The 
+crops grown under off-season production included maize and vegetables such as 
+tomatoes, rape, carrots and cabbages. The proportion of population involved in 
+off-season  production  ranged  between  10  %  for  districts  such  as  Lundazi, 
+Mambwe and Chongwe to 50% in Kafue.  
+ 
+ 
+4.7  Prospects for 2008/9 Production 
+ 
+The 2008/09 rainy season had a normal start with most parts of Western, North 
+Western,  Northern  and  Luapula  Provinces  experiencing  an  early  onset 
+(November  2008  Dekad  2)  while  the  rest  of  the  country  had  a  late  onset.  The 
+Zambia Meteorological Bulletin for December 2008 Dekad 1 indicated that most 
+parts of Western, North Western, Southern, Luapula and some parts of Central 
+Provinces  have  received  above  normal  rainfall.  Furthermore,  some  parts  of 
+Southern, Copperbelt, Eastern, Central and Northern Provinces received normal 
+rainfall  with  few  parts  of  Eastern  and  Northern  receiving  below  normal.  It  is 
+
+ 
+
+10 
+
+anticipated  that  most  parts  of  the  season  will  be  characterized  by  normal  to 
+above normal rainfall. 
+ 
+Input  distribution  for  the  2008/9  season  had  been  done  through  the  Fertilizer 
+Support  Programme  (FSP),  the  PAM  Food  Security  Pack  (FSP)  programme  and 
+also  through  direct  sales  from  retail  shops.  Except  for  Lundazi,  Zambezi, 
+Chavuma,  Masaiti  and  Serenje  which  had  not  received  planned  amounts  of 
+inputs  for  compound  D  all  the  district  had  received  the  inputs  as  shown  in 
+Annex 4. The assessment indicated that although there  was an  increase in the 
+number of beneficiaries by the FSP Programme, the situation on the ground is 
+such that farmers are having difficulty in accessing the subsidized inputs. 
+ 
+About 50 percent of the respondents indicated that they had reduced both the 
+area cultivated and area planted to the staple as compared to last year. Only 
+18%  had  increased  their  area  cultivated  and  planted  while  32%  had  not 
+changed.    The  majority  of  the  households  (97%)  had  started  planting  their 
+staple crop.  
+ 
+The  assessment  indicates  that  the  prospects  for  the  2008/9  cropping  season 
+may not be promising due to increased cost of inputs, reduced area cultivated 
+and limited number of those accessing subsidized inputs. 
+
+ 
+
+ 
+
+11 
+
+5.0  CONCLUSIONS AND RECOMMENDATIONS 
+  
+5.1 CONCLUSIONS 
+ 
+The following are the conclusions of the assessment: 
+ 
+
+•  The  livelihoods  and  income  sources  remained  largely  unchanged  in  the 
+
+34 districts assessed compared to last year. 
+
+•  There  was  no  significant  change  in  the  coping  mechanisms.  However 
+commercial  sex  and  early  marriages  were  some  of  the  unsustainable 
+coping  strategies  being  employed  to  mitigate  the  food  insecurity 
+situation. 
+
+•  Generally  most  communities  were  found  to  have  run  out  of  stocks  of 
+staple  foods  from  own  production,  and  the  supply  of  these  foods  from 
+other  sources  had  also  reduced.  This  was  mainly  due  to  the  impact  of 
+the 2007/8 floods. The assessment also revealed that some districts that 
+had a normal harvest (going by the Crop Forecast Survey) had run out of 
+the  maize  stock  due  to  the  selling  of  all  the  maize  stocks  that  they 
+produced. 
+
+•  The  availability  of  livestock  had  reduced.  The  reduction  in  cattle  was 
+attributed to livestock diseases and increased cattle sales. The reduction 
+in  goats  was  due  to  increased  selling  to  the  urban  markets,  while  the 
+reduction in poultry was mainly due to diseases such as New Castle and 
+Gumboro. 
+
+•  There  was  a  general  increase  in  staple  commodity  prices  of  maize, 
+cassava  and  rice.  This  was  attributed  to  the  scarcity  of  the  staple  food 
+commodities on the market.  
+
+•  There  was  a  reduction  in  the  prices  of  some  livestock  -  cattle  (2%)  and 
+goats  (14%),  as  the  communities  sold  more  of  these  livestock  to  raise 
+money to buy agricultural inputs and food. 
+
+•  All of the assessed districts apart from Chadiza, Choma and Milenge are 
+
+practicing off-season production. 
+
+•  The  prospects  of  the  2008/9  season  may  not  be  promising  due  to  the 
+increase  in  the  costs  of  agricultural  inputs,  reduction  the  area  overall 
+cultivated and a limited number of those accessing subsidized inputs. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+12 
+
+5.2  RECOMMENDATIONS 
+ 
+
+•  All the 34 assessed districts will need some form of intervention. Of the 
+21  districts  that  the  2008  In-depth  Assessment  recommended  for  relief 
+food,  17  will  continue  with  the  Labour  based  relief  food  programme  as 
+before. The remaining 4 districts were  found to have an increased case 
+load of 46,803 people (7,801 households) requiring 1,169 MT of food for 
+three months from January to March 2009 (refer to Annex 5 for details). 
+ 
+ Eight  new  districts  which  were  not  part  of  the  21  recommended  for 
+relief  food  under  the  In-depth  Assessment  would  require  4,575  MT  of 
+maize for three months.  
+
+• 
+
+•  A  total  of  674,464  people  (112,411  households)  in  29  districts  will  need 
+food assistance (maize) amounting to 16,854 metric tons for a period of 
+three  months  from  January  to  March  2009.  This  intervention  should  be 
+labour based (refer to Annex 5 for details). 
+
+•  The  FRA  should  offload  11,435  metric  tons  of  commercial  maize  to  a 
+total  of  16  districts  that  will  need  market  intervention  for  a  period  of 
+three months from January to March 2009 (refer to Annex 7 for details). 
+Out of these 16 districts, 11 would also require relief food. 
+
+•  DMMU  needs  to  strengthen  the  monitoring  system  related  to  the  food 
+security  situation  in  the  34  districts  to  track  the  food  security 
+parameters/variables  as  they  evolve.  This  would  assist  in  making 
+informed decisions on the districts whose situation changes.  
+
+•  Off-season production  should be strengthened in all districts where  it is 
+
+practiced. 
+
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ANNEXES  
+
+ 
+
+ 
+Annex 1: 
+ 
+
+Team Composition/Areas visited/Editorial Team 
+
+TEAM 
+
+PROVINCE 
+
+DISTRICTS ASSESSED 
+
+ 
+Eastern 
+
+ 
+Chama and Lundazi  
+
+ 
+Eastern 
+ 
+
+ 
+Mambwe and Chadiza 
+ 
+
+ 
+North-Western 
+
+ 
+Zambezi and Chavuma 
+
+ 
+North-Western 
+
+ 
+Mwinilunga and Kabompo 
+
+ 
+Central and 
+Western 
+
+ 
+Mumbwa and Lukulu  
+
+ 
+1. 
+
+ 
+2. 
+
+ 
+3. 
+
+ 
+4. 
+ 
+
+ 
+5. 
+
+ 
+
+TEAM COMPOSITION 
+ 
+Team leader: Mr Christopher Chitembo – CSO  
+Team member: Mr Martin Chifuna – NIPA  
+District Staff: Mr J. Ngalabila –MACO Chama, Mr S. Mwanza – MCDSS Chama, Mr D. 
+Kamunga – MACO Lundazi 
+ 
+Team Leader: Ms Chizongo M. Mwiya – LDHMT 
+Team Member: Mr Gift Himunya – CSO,  
+District Staff: Ruth Tembo–MACO Mambwe, Maximo Niyenda-MACO Mambwe,  
+Mwaba Lubasi – DACO Chadiza, Frazer Ngula – DLCO Chadiza 
+ 
+Team Leader: Mr Hambayi Mweetwa – DMMU, 
+Team Member: Mr Vincent Mungalu – NAPS 
+District Staff: Mr Kwalombota – DAO Zambezi, Mr. Luwale – DA Zambezi,  
+Mr. Christopher Likando – Acting District Commissioner Chavuma, Mr. Chungu Gershom 
+– MACO Chavuma 
+ 
+Team Leader: Ms Esnart Makwakwa – DMMU 
+Team Member: Ms Tebuho Tabakamulamu – CSO 
+District Staff: Mr Anos Luvuwa –MACO Mwinilunga, Sarah Mutanda – MCDSS Mwinilunga, 
+Nyambe Nawa – MACO Kabompo, Allan K. Kalimukwa – MoH Kabompo 
+  
+Team Leader: Mr Francis Banda – WFP    
+Team Members:  Mr Trust Hamaleka – CSO 
+District Staff: Mr J.A. Banda – MACO Mumbwa, Mr W. Chilembo – MCDSS Mumbwa, Mr 
+Tabo – MACO Lukulu, Mr D. Hampungani – DFO Lukulu, Mrs Mebelo – DEBS Lukulu, Mr M. 
+Mwenda – MCDSS Lukulu, Mr M. Liomba – DAO Lukulu   
+    
+
+14 
+
+TEAM 
+
+PROVINCE 
+
+DISTRICTS ASSESSED 
+
+ 
+Copperbelt  
+ 
+
+  
+Lufwanyama, Masaiti and 
+Ndola  
+
+TEAM COMPOSITION 
+ 
+Team Leader: Mr. Lenganji Sikaona – DMMU  
+Team Member : Mr Edwin Peteli – OVP / Dept of Resettlement  
+District Staff: Mr Musunga – MCDSS Lufwanyama, Mr. Malimbika – MACO Lufwanyama, 
+Mr Lubungo – MACO Masaiti, Mr Chewe – MACO Masaiti,  
+Mr Samiselo – MCDSS Ndola, Mr D. Phiri – MACO Ndola , Mr H. Matola   
+
+ 
+6. 
+
+ 
+7. 
+
+ 
+8. 
+
+ 
+9. 
+
+ 
+Central and 
+Luapula 
+
+ 
+Milenge and Serenje 
+
+Team Leader: Mr Teddy Kabanda – CARE International 
+Team Member: Mr Chiiya Nchimunya – NAPS 
+District Staff: Mr S. Chibwana – DC Serenje, Mr R. Sinyangwe–DAO Serenje, Ms E. 
+Gondwe – PUSH Serenje, Mr D. Bunda – MOH Milenge,  
+Mr Chongo Mambwe – MCDSS Milenge 
+
+ 
+Western 
+
+ 
+Kalabo and Shang’ombo 
+
+Team Leader: Mr Pumulo Mubita – DMMU  
+Team Member: Ms Mercy Mbewe – ZRDF 
+District Staff: Mr. G. Sitali – MACO Shangombo, Mr L. Nyirenda – MACO Shangombo, Mr 
+Kasompa – MACO Kalabo, Mr Mishengo – MACO Kalabo,  
+Mrs D. Nalishowa – SEPO Kalabo   
+
+ 
+Western and 
+Southern 
+
+ 
+Kazungula, Sesheke and 
+Kalomo 
+
+Team Leader:  Mr Douglas Mwasi – CARE International 
+Team Member: Ms Diana Hambote – CSO 
+District Staff: Nawa Akolukwa – MACO Kalomo, Jane Muchabi –MACO Kalomo, Mr T. 
+Simfukwa – MACO Kazungula, Mr D. Silungwe – MACO Kazungula,  
+Milimo Mudenda – MACO Sesheke, Sifwelele K – MACO Sesheke  
+
+ 
+10. 
+
+ 
+Southern 
+
+ 
+Namwala, Itezhi-tezhi and 
+Mazabuka 
+
+Team Leader: Mr Andrea Habweza – CSO  
+Team Member: Mr Kingfred Mubinde – WFP 
+District Staff: Mr F.M. Lubasi – MACO Itezhi-Tezhi, Mr M. Hambayi – MACO Itezhi-Tezhi, 
+Mr B. Mbozi – MACO Namwala, L.M. Sikaaze – MCDSS Namwala, Getrude S. Mwaanga – 
+MACO Mazabuka, Mr C. Ntalasha – MACO Mazabuka    
+
+ 
+
+15 
+
+TEAM 
+
+PROVINCE 
+
+DISTRICTS ASSESSED 
+
+ 
+11. 
+
+ 
+12. 
+
+ 
+Lusaka 
+
+ 
+Chongwe and Luangwa 
+
+ 
+Lusaka and 
+Southern  
+
+ 
+Monze, Siavonga and Kafue 
+
+ 
+13. 
+
+ 
+Central 
+
+ 
+Kapiri Mposhi,Chibombo and 
+Mkushi 
+
+ 
+14. 
+
+ 
+Southern  
+
+ 
+Gwembe, Choma and 
+Sinazongwe 
+
+TEAM COMPOSITION 
+ 
+Team Leader:  Dr  Chama Chanda – NAC 
+Team Member: Ms Emmy McMillan – LDHMT 
+District Staff: Chanda Bwalya – MACO Chongwe, A. Chanda – MACO Chongwe, Mr B. 
+Musonda – MOH Chongwe, Mr Nyirenda – MCDSS Luangwa, Mr Nzila – MCDSS Luangwa 
+
+ 
+Team Leader: Mr Ephraim Mambwe – MOH 
+Team Member: Ms Linda Nyasulu – CSO 
+District Staff: Pamela Mwanachiwema – MCDSS Siavonga, Chibwe Edward – MACO 
+Siavonga, Sister Mulinga A – Monze, R.H. Muzungaile – MACO Monze, K. Busiku – MACO 
+Kafue, Mulenga Sendeme – MCDSS Kafue. 
+   
+Team Leader: Mr Tipo Ntini – ZRDF 
+Team Member: Mr Ryan Mwape – NIPA 
+District Staff: Mr K. Sinyangwe – MACO Chibombo, Mr C. Siyachiti – MACO Chibombo, 
+Mrs. Sunga – MCDSS Kapiri Mposhi, Mrs. Munsanje – MACO Kapiri Mposhi, Mr Nkote – 
+MLGH Mkushi, Mr Chisenga – MACO Mkushi, Mr. Chibuye – DC’s Office Mkushi. 
+ 
+Team Leader: Mr Nyambe Namakando – MACO  
+Team Member: Ms  Mulele Namasiku – CSO 
+District Staff: Miriam Zimba – ZANIS Gwembe, Mr E. Mulenga – MACO Gwembe, Mr 
+Goliath Chooye –Gwembe , Esther Sianga – MACO Choma, Kalima L. Nkama – MACO 
+Choma, Mr Patrick Litia – MACO Sinanzongwe, G. Sinchinji – MACO Sinazongwe.  
+
+  
+Editorial Team 
+Name  
+Dominiciano Mulenga 
+Yande Mwape 
+Evans Kapekele  
+Lenganji Sikaona 
+Sibajene Munkombwe  
+Allan Mulando  
+Chansa Mushinge 
+
+ 
+
+ Organization 
+DMMU – OVP 
+DMMU – OVP  
+DMMU  - OVP 
+DMMU  - OVP 
+LWF 
+WFP 
+Fewsnet 
+
+16 
+
+Annex 2a:  District Focus Group Discussion Questionnaire 
+2005 
+
+Rapid Food Security Assessment – December, 2008. 
+
+        District Focus Group Discussion Questionnaire2005/06 
+
+ 
+Composition of Interviewees: 
+The composition of the interviewees should include all members of the District Disaster Management Committee (DDMC).  
+
+ 
+
+District Name: 
+
+Place of Interview: 
+
+Enumerator Name: 
+
+District Code: |__|__|__| 
+
+Date of Interview:  |__|__|__|__|__|__| (DD-MM-YY) 
+
+ 
+
+ 
+
+DDMC Members:  
+ 
+1. LIVELIHOODS AND INCOME SOURCES: 
+ 
+1.a.  What are the three (3) major livelihoods in this district? Rank in order of importance 
+ 
+Rank Order 
+1. 
+2. 
+3. 
+ 
+1.b.  What are the three (3) major income sources for households in this district (compare current to June 2008 and Dec 2007)? Please 
+
+Major Livelihood 
+
+ 
+ 
+ 
+
+rank in the order of importance as provided below (Trading, Crop sales, Casual labour); 
+
+ 
+
+Rank Order 
+1 
+2 
+3 
+
+ 
+ 
+ 
+
+December 2008  
+
+June 2008 
+
+December 2007 
+
+Income Source 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+17 
+
+2.  Food Crop and Livestock Availability 
+
+ 
+2a. 
+3=Less) 
+
+What is the current general staple food and livestock availability in the district compared to December 2007?    (1= More, 2= Same 
+
+ (Find out availability in neighbouring districts as well) 
+
+ 
+
+Food Type 
+
+Maize 
+
+Sorghum/Millet 
+
+Cassava (areas under mature 
+cassava) 
+Other 
+Livestock 
+
+Own Production  
+
+system, Food Aid etc) 
+
+ 
+
+Other  sources (e.g. Casual work, barter 
+
+Comments (reason for change?) 
+
+ 
+ 
+
+ 
+
+ 
+
+Own Production 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Other sources 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Comments (Reason for change?) 
+
+Cattle 
+Goats 
+Pigs 
+Poultry 
+Other 
+ 
+ 
+2b. 
+ 
+2c. 
+
+ 
+2d. 
+
+ 
+
+ 
+
+How long will the main staple food from own production last (indicate number of months)? ....................................... 
+
+How long does the main staple food from own production usually last in a normal year (indicate number of months)? 
+...................................... 
+
+How do you describe the current food availability in the district?      
+ 1.   Adequate        2.  Inadequate       3.  Extremely inadequate.  
+
+18 
+
+2.e. 
+
+Describe the current food security situation in the district (express as a %) 
+ 
+
+Staple Stocks 
+
+District % 
+
+Run out already 
+Will run out in January 
+Will run out in February 
+Will run out in March 
+Will run out in April 
+
+MARKET ACCESS  
+
+ 
+ 
+ 
+ 
+ 
+
+Are there functional markets in this district? Yes |__|  No   |__|      If answer is no go to 3e           
+
+Are these markets easily accessible? Yes |__|  No   |__| (If answer is yes go to question 3d) 
+
+If No Why |__| 
+
+1= impassable roads 
+
+2 =damaged bridges 
+
+ 
+
+3 = too far      4 = Other (specify…………………………………………………… |__| 
+
+ 
+3. 
+ 
+3.a. 
+ 
+3.b. 
+ 
+3.c. 
+ 
+
+ 
+3.d.     Where does most of the food on the market come from?  1. Within the district       2. Outside the district (Name district……………….…. ) 
+|__| 
+ 
+3.e. 
+
+  No   |__| If No then go to 3g 
+
+Are there any maize sales by FRA taking place in this district    Yes |__| 
+ 
+Price at which maize is being sold (50Kg): ………………………………….. 
+
+If FRA maize was made available, what proportion of the population would be able to buy?  |__| 
+
+ What proportion of the population are accessing this maize: |__|  
+
+ 
+3.f. 
+ 
+3.g. 
+ 
+ 
+3.h..  What is the most common mode of exchange when accessing food in this district?  
+ 
+ 
+ 
+3.i. 
+
+3 = Labour 
+
+1= Barter 
+
+2 = Money 
+
+ 
+
+Compare the current prices of staple foods to those of Dec 2007. Please use the table below; 
+
+ 
+
+4 = Other……………….. 
+
+ 
+
+19 
+
+ 
+Commodity 
+
+Unit of 
+measure  
+
+ 
+Maize 
+Sorghum 
+Millet 
+Rice 
+Cassava 
+
+ 
+50kg 
+50kg 
+50kg 
+50kg 
+chips 
+
+Dec -
+07 
+
+(price) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+June 
+2008 
+(price) 
+
+Dec-08 
+(price) 
+
+Reason for price variation 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+How have selling prices for livestock (live weight) been in the last seven months (May 2008 – Dec 2008)? Please use the table below; 
+
+ 
+3.j. 
+. 
+Type of Livestock (full 
+grown) 
+
+Cattle 
+
+Goats 
+
+Price Now 
+(December) 
+
+June 
+2008 
+(price) 
+
+December 
+
+2007 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Reason for price variation 
+
+ 
+ 
+ 
+ 
+
+Sheep 
+Pigs 
+Poultry 
+Other 
+ 
+4. Are there any food security programmes (e.g. food aid distribution; input distribution – seeds, fertiliser etc) currently running in the 
+     District?   Yes        No If no go to 4.2 
+ 
+4.1. If yes what type of food security programme? Which organisation is carrying out the programme? What number of beneficiaries are 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+benefiting from each programme?  How long is the programme expected to last (months from today)? (NOTE: ENQUIRE ABOUT FOOD AID 
+AND OTHER PROGRAMMES.) 
+ 
+
+4.1 On-Going Food Support Programmes 
+Type of Relief food Distribution 
+programme 
+Home Based Care (HBC) 
+
+ 
+
+Organisation Implementing 
+
+Number of 
+
+beneficiaries 
+
+When Started 
+
+Expected end  
+
+mm/yy 
+
+mm/yy 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 
+
+ART 
+FFW/FFA 
+General Food Distribution 
+other (specify): 
+ 
+4.2. On-Going Input Support Programmes 
+ 
+Type of programme 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Organisation 
+Implementing  
+ 
+
+Number of 
+Beneficiaries 
+ 
+
+Actual Number of 
+Beneficiaries 
+ 
+
+Date of Start of 
+Distribution 
+ 
+
+Expected end  
+mm/yy 
+ 
+
+Fertiliser  Support  Programme 
+(FSP) 
+PAM Food Security Pack 
+other (specify): 
+ Use the codes provided below when indicating which organisation/agency is implementing the food security program in the 
+ Area;  
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+1= Government 
+District authorities 8= Church organisation   9= other (specify) 
+
+2= International NGO  3= National (local) NGO 4= WFP   5= FAO 
+
+    6= Village Association Committees  7= 
+
+ 
+
+What unusual coping strategies are people engaged in now? (Probe)  
+
+OFF-SEASON PRODUCTION AND PROSPECTS FOR 2008/9 PRODUCTION 
+
+…………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………… 
+
+ 
+ 
+ 
+6.  
+ 
+6.1.  What proportion of the population are harvesting off-season crops (if applicable)? …………………………………. 
+ 
+6.2. 
+ 
+6.3.       Has planting of the staple crop started?      1. Yes      2. No   |__|   
+ 
+6.4.  What is the size of the area to be planted compared to last season? 
+ 
+
+Describe the start of the 2008/9 rain? 1 = Early  2 = Normal 
+
+3 = Late  
+
+|__| 
+
+1 = More 
+
+2 = Same 
+
+3 = Less           |__|    
+
+ 
+6.5        Please give reasons why?         …………………………………………………………………………………………………………………………………………………………………………            
+………………………………………………………………………………………………………………………………………………………………………… 
+
+ 
+
+21 
+
+6.6 
+6.7 
+ 
+
+How many bags of fertilizer (50kg bags) has the district received so far ……………………………………………………………………. 
+How much fertilizer (50kg bags) was the district expected to receive………………………………………………………………………… 
+
+
+
+7220.   AFFECTED WARDS: 
+Kindly list the worst affected wards: 
+
+       
+
+Reason for considering them critical 
+
+Worst Affected Wards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Critical Wards (list 3 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+22 
+
+Annex 2b:  Community Focus Group Discussion Questionnaire2005 
+
+Rapid Food Security Assessment –December, 2008 
+
+            Community Focus Group Discussion Questionnaire2005/06 
+
+Composition of Interviewees: 
+The composition of the interviewees should include 8 – 12 key informants. Note that gender balance should be observed. The interviewees 
+must be a mixed group that should at least include any of the following; village headman, elders, teachers, pastors or priests, Ministry of 
+Agriculture Extension workers, local NGO workers, nurse/health workers, representative of women’s groups, etc 
+
+ 
+
+District Name: 
+
+Constituency Name: 
+
+Ward Name: 
+
+Place of Interview: 
+
+Enumerator Name: 
+
+District Code: |__|__|__| 
+
+Constituency Code: |__|__|__| 
+
+Ward Code: |__|__|__| 
+
+Date of Interview:  |__|__|__|__|__|__| (DD-MM-YY) 
+
+: 
+
+ 
+
+DDMC Members (Accompanying Assessment Team): 
+ 
+ 
+ 
+1. LIVELIHOODS AND INCOME SOURCES: 
+ 
+1.a.  What are the three (3) major livelihood sources in this community? Rank in order of importance 
+ 
+Rank Order 
+1. 
+2. 
+3. 
+ 
+1.b.  What are the major income sources for households in this community (compare current to Dec 2007)? Please rank in the order of 
+
+Major Livelihood 
+
+ 
+ 
+ 
+
+importance as provided below; 
+
+Rank Order 
+1 
+2 
+3 
+
+ 
+ 
+ 
+
+December2008  
+
+Income Source 
+
+December 2007 
+
+ 
+ 
+ 
+
+ 
+
+23 
+
+2. Food Crop and Livestock Availability 
+ 
+2a. 
+3=Less) 
+
+What is the current general staple food and livestock availability in the area compared to December 2007?    (1= More, 2= Same 
+
+ (Find out availability in neighboring communities as well) 
+
+ 
+
+Food Type 
+
+Maize 
+
+Sorghum/Millet 
+
+Cassava (areas under mature 
+cassava) 
+Other 
+Livestock 
+
+Own Production  
+
+barter system, Food Aid, inter district 
+
+ 
+
+Other indirect sources (e.g. Casual work, 
+
+etc) 
+
+Comments (reason for change?) 
+
+ 
+ 
+
+ 
+
+ 
+
+Own Production 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Other sources 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Comments (Reason for change?) 
+
+Cattle 
+Goats 
+Pigs 
+Poultry 
+Other 
+ 
+ 
+2b. 
+ 
+2c. 
+ 
+2d. 
+
+ 
+2.e. 
+
+ 
+
+How long will the main staple food from own production last   (indicate month)?....................................... 
+
+How long does the main staple food from own production usually last in a normal year (indicate month)?...................................... 
+
+How do you describe the current food availability in the community?   Do you think the community has adequate food?   
+ 1 .   Adequate        2. Inadequate      3.     Extremely inadequate.  
+
+If inadequate, use proportional piling to find out when food shortages are expected in the community? 
+ 
+
+24 
+
+Staple Stocks 
+
+Proportion of Community 
+
+(%) 
+
+Run out already 
+Will run out in January 
+Will run out in February 
+Will run out in March 
+Will run out in April 
+
+MARKET ACCESS  
+
+ 
+ 
+ 
+ 
+ 
+
+Are there functional markets in this ward? Yes |__| 
+
+No   |__|                 
+
+Are these markets easily accessible? Yes |__|  No   |__| 
+
+If No Why |__| 
+
+ 
+3. 
+ 
+3.a. 
+ 
+3.b. 
+ 
+3.c. 
+ 
+
+1= impassable roads 
+
+2 =damaged bridges 
+
+ 
+
+3 = destruction of market infrastructure 
+
+ 
+
+4 = too far  
+
+ 
+3.d.     Where does most of the food on the market come from?  1. Within ward   2.  Outside the ward in district    3. Outside district (name     
+
+district……………….)   
+
+ 
+3.e. 
+
+Are there any maize sales by FRA taking place in your community / neighbouring communities Yes |__| No   |__ 
+ 
+Price at which maize is being sold (50Kg):………………………………….. 
+If Yes: What proportion of the population are accessing this maize: Use proportional pilling |__|  
+
+If there are no FRA sales and the FRA maize was made available, what proportion of the population would be able to buy? Use 
+
+3.f. 
+ 
+3.g. 
+proportional pilling |__| 
+ 
+3.i..  What is the most common mode of exchange when accessing food in this community?  
+ 
+ 
+ 
+3.g. 
+ 
+
+4 = Other……………….. 
+
+2 = Money 
+
+1= Barter 
+
+ 
+
+3 = Labour 
+
+ 
+
+Compare the current prices of staple foods to those of Dec 2007. Please use the table below; 
+
+ 
+
+25 
+
+Commodity 
+
+ 
+Maize 
+Sorghum 
+Millet 
+Rice 
+Cassava 
+
+Unit of 
+measure 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Dec -07 
+(price) 
+
+Dec-08 (price) 
+
+Reason for price variation 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3.h. 
+. 
+Type of Livestock (full 
+grown) 
+
+How have selling prices for livestock (live weight) been in the last seven months (May 2008 – Dec 2008)? Please use the table below; 
+
+Cattle 
+Goats 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Price Now  
+
+May 2008 (price) 
+
+Reason for price variation 
+
+Sheep 
+Pigs 
+Poultry 
+Other 
+ 
+4. Are there any food security programmes (e.g. food aid distribution; input distribution – seeds, fertiliser etc, cash transfer and/or vouchers) 
+currently running in the community?  If yes, approximately what proportion of households are benefiting from each programme?  What are  
+people receiving?  How long is the programme expected to last (months from today)? Which organisation is carrying out the programme?  
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+(NOTE: ENQUIRE ABOUT FOOD AID AND OTHER PROGRAMMES.) 
+
+Type of programme 
+Relief food Distribution: 
+Home Based Care (HBC) 
+ART 
+FFW/FFA 
+General Food Distribution 
+Input support  (e.g. FSP) 
+
+Organisation Implementing 
+ 
+ 
+ 
+ 
+ 
+ 
+
+other (specify): 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+When Started mm/yy 
+
+Expected end  mm/yy 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ Use the codes provided below when indicating which organisation/agency is implementing the food security program in the 
+
+ 
+
+26 
+
+ Area;  
+
+1= Government 
+District authorities  8= Church organisation   9= other (specify) 
+
+2= International NGO  3= National (local) NGO 4= WFP   5= FAO 
+
+    6= Village Association Committees  7= 
+
+ 
+
+7220.   What unusual coping strategies are people engaged in now? (Probe)  
+
+
+…………………………………………………………………………………………………………………………………………………………………… 
+…………………………………………………………………………………………………………………………………………………………………… 
+
+OFF-SEASON PRODUCTION AND PROSPECTS FOR 2008/9 PRODUCTION 
+
+ 
+ 
+ 
+6.  
+ 
+6.1.  What proportion of the population are harvesting off-season crops? (Use proportional piling) 
+ 
+6.2. 
+ 
+6.4.       State whether planting of the staple crop has started?  
+ 
+6.4.  What is the size of the area to be planted compared to last season? 
+ 
+
+Describe the start of the 2008/9 rain? 1 = Early  2 = Normal 
+
+3 = Late  
+
+ 
+
+1  = Same  
+ 
+
+2 = More 
+
+3 = Less 
+
+6.5.        If response in 6.4 above is 2 or 3, please give reasons why? 
+            ……………………………………………………………………………………………………………………………………………………………………………. 
+            ……………………………………………………………………………………………………………………………………………………………………………. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+27 
+
+Annex 3: 
+
+Areas visited  
+
+Map Showing Districts Assessed (December 2008)
+
+KEY
+
+SAMP LED
+
+NOT SAMP LED
+
+Mwi nil unga
+
+Sol wezi
+
+Chavuma
+
+Kabompo
+
+Za mbezi
+
+Mufumbwe
+
+Kas empa
+
+Chiengi
+
+Kaputa
+
+Nche lenge
+
+Mpulungu
+
+Mbala
+
+Kaw ambwa
+
+Mporok oso
+
+Nak onde
+
+Mungw i
+
+Isoka
+
+Mwe nse
+
+Luwi ngu
+
+Kas ama
+
+Chilubi
+
+Chinsali
+
+Mansa
+
+Samfya
+
+Chilil abombwe
+
+Milenge
+
+Mpika
+
+Chama
+
+Lundazi
+
+Chingol a
+
+Kal ul ushi
+
+Lufwanya ma
+
+Mpongwe
+
+Mufuli ra
+
+Kitwe
+
+Ndola
+
+Luanshya
+
+Mas aiti
+
+Serenje
+
+Mambwe
+
+Chipata
+
+Lukulu
+
+Kaoma
+
+Kal abo
+
+Mongu
+
+Senanga
+
+Shang'ombo
+
+Sesheke
+
+Kapiri  Mposhi
+
+Mkushi
+
+Petauke
+
+Katete
+
+Chadiza
+
+Kabw e
+
+Nyi mba
+
+Mumbwa
+
+Chibombo
+
+Lusa ka
+
+Chongw e
+
+Luangwa
+
+Kafue
+
+Ite zhi-tezhi
+
+Namw ala
+
+Maza buk a
+
+Monze
+
+Siavonga
+
+Gwembe
+
+Choma
+
+Sinazongw e
+
+Kazungula
+
+Kal omo
+
+Liv ings tone
+
+Data Sourcse: ZVAC 2008 
+December  Rapid Assessm ents
+
+Desktop M apping and
+Map Design By ZVAC Core
+Team
+
+Production Date: 18/12/08
+
+ 
+
+28 
+
+2008/9 Input Distribution Table 
+
+PLANNED_DCOMP  PLANNED_UREA 
+3,000 
+23,583 
+3,600 
+1,200 
+3,200 
+3,000 
+7,040 
+8,000 
+15,000 
+2,000 
+20,900 
+16,384 
+7392  
+1,976 
+20,800 
+557 
+1,920 
+16,000 
+1,200 
+78,784 
+8,000 
+9,600 
+96,000 
+22,400 
+512 
+54,720 
+2,984 
+26,920 
+51,200 
+56,000 
+24,000 
+8,000 
+7,232 
+3,200 
+
+3,000 
+23,584 
+3,600 
+1,200 
+3,200 
+3,000 
+7,040 
+8,000 
+15,000 
+2,000 
+20,900 
+16,384 
+7392  
+1,976 
+20,800 
+557 
+1,920 
+16,000 
+1,200 
+78,784 
+8,000 
+9,600 
+96,000 
+22,400 
+512 
+54,720 
+2,984 
+26,920 
+51,200 
+56,000 
+24,000 
+8,000 
+7,232 
+3,200 
+
+Annex 4: 
+ 
+ 
+
+DISTRICT 
+CHAMA 
+LUNDAZI 
+MAMBWE 
+CHADIZA 
+ZAMBEZI  
+CHAVUMA 
+MWINILUNGA 
+KABOMPO 
+MUMBWA 
+LUKULU 
+LUFWANYAMA 
+MASAITI 
+NDOLA 
+MILENGE 
+SERENJE 
+KALABO 
+SHANG’OMBO 
+KAZUNGULA 
+SESHEKE 
+KALOMO 
+NAMWALA 
+ITEZHI-TEZHI 
+MAZABUKA 
+CHONGWE 
+LUANGWA 
+MONZE 
+SIAVONGA 
+KAFUE 
+KAPIRI MPOSHI 
+CHIBOMBO 
+MKUSHI 
+GWEMBE 
+CHOMA 
+SINAZONGWE 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ACTUAL_D COMP 
+
+ACTUAL_UREA 
+135 
+13,000 
+3,600 
+1,150 
+1,287 
+1,117 
+2,420 
+4,500 
+19,810 
+1,216 
+12,900 
+14,700 
+7220  
+987 
+6,481 
+518 
+50 
+6,400 
+1,600 
+39,392 
+3,160 
+3,480 
+59,000 
+22,400 
+512 
+54,720 
+1,600 
+26,920 
+35,840 
+39,000 
+24,000 
+2,136 
+7,232 
+800 
+
+108 
+15,000 
+3,600 
+1,150 
+1,330 
+2,700 
+5,000 
+4,500 
+13,750 
+1,216 
+12,900 
+12,800 
+7220  
+998 
+10,664 
+518 
+50 
+6,400 
+1,600 
+39,392 
+3,160 
+3,480 
+59,000 
+22,400 
+512 
+54,720 
+1,600 
+26,920 
+35,840 
+39,000 
+13,600 
+2,136 
+7,232 
+800 
+
+29 
+
+Annex 5: Old and Additional Needs for Assessed Districts (January to March 2009) 
+ 
+ 
+
+District Name 
+
+Old 
+
+Caseload 
+
+Old Food 
+
+Needs 
+
+Additional 
+Caseload 
+
+Additional 
+Food Needs 
+
+Total Caseload  Total Needs up  
+
+No Additional Case Loads 
+
+Chibombo 
+
+Choma 
+
+Chongwe 
+
+Itezhi-tezhi 
+
+Kafue 
+
+Kalabo 
+
+Kalomo 
+
+Kapiri Mposhi 
+
+Kazungula 
+
+Luangwa 
+
+Mazabuka 
+
+Namwala 
+
+Ndola 
+
+Sesheke 
+
+Shang’ombo 
+
+Siavonga 
+
+Sinazongwe 
+
+Sub-Total 
+
+18,802 
+
+36,170 
+
+34,714 
+
+14,504 
+
+27,934 
+
+33,242 
+
+33,564 
+
+6,200 
+
+17,703 
+
+5,044 
+
+39,009 
+
+28,813 
+
+23,064 
+
+14,134 
+
+12,955 
+
+14,394 
+
+21,898 
+
+470 
+904 
+868 
+362 
+698 
+831 
+839 
+155 
+442 
+126 
+975 
+720 
+576 
+353 
+324 
+360 
+547 
+
+382,144 
+
+9,550 
+
+With Additional Case Loads 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+18,802 
+
+36,170 
+
+34,714 
+
+14,504 
+
+27,934 
+
+33,242 
+
+33,564 
+
+6,200 
+
+17,703 
+
+5,044 
+
+39,009 
+
+28,813 
+
+23,064 
+
+14,134 
+
+12,955 
+
+14,394 
+
+21,898 
+
+470 
+904 
+868 
+362 
+698 
+831 
+839 
+155 
+442 
+126 
+975 
+720 
+576 
+353 
+324 
+360 
+547 
+
+382,144 
+
+9,573 
+
+Gwembe 
+
+Milenge 
+
+Monze 
+
+Serenje 
+
+Sub-Total 
+
+New Districts 
+
+Chama 
+
+Kabompo 
+
+Lundazi 
+
+Mambwe 
+
+Masaiti 
+
+Mkushi 
+
+Mumbwa 
+
+Mwinilunga 
+
+Sub-Total 
+
+TOTAL 
+
+ 
+ 
+ 
+ 
+
+ 
+
+13,621 
+
+10,732 
+
+31,627 
+
+6,500 
+
+340 
+
+268 
+
+790 
+
+162 
+
+62,480 
+
+1,560 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+4,331 
+
+8,012 
+
+21,382 
+
+13,078 
+
+46,803 
+
+8,905 
+
+14,537 
+
+42,850 
+
+12,194 
+
+13,748 
+
+24,854 
+
+50,278 
+
+15,671 
+
+183,037 
+
+108 
+
+200 
+
+534 
+
+327 
+
+17,952 
+
+18,744 
+
+53,009 
+
+19,578 
+
+1169 
+
+109,283 
+
+223 
+
+363 
+
+1,071 
+
+305 
+
+344 
+
+621 
+
+1,256 
+
+392 
+
+4575 
+
+8,905 
+
+14,537 
+
+42,850 
+
+12,194 
+
+13,748 
+
+24,854 
+
+50,278 
+
+15,671 
+
+183,037 
+
+448 
+
+468 
+
+1,324 
+
+489 
+
+2,730 
+
+223 
+
+363 
+
+1,071 
+
+305 
+
+344 
+
+621 
+
+1,256 
+
+392 
+
+4575 
+
+444,624 
+
+11,110 
+
+229,840 
+
+5,744 
+
+674,464 
+
+16,854 
+
+30 
+
+Annex 6: Districts with Additional Food Needs at Ward Level 
+
+DISTRICT 
+
+2008 Projected 
+
+WARD NAME 
+
+Ward 2008 Projected 
+
+New Case 
+
+Food Needs 
+
+ 
+
+District Population 
+
+ 
+
+Population 
+
+Loads 
+
+(MT) 
+
+ 
+
+ 
+
+Kazembe 
+
+Lukusuzi 
+
+Lundazi 
+
+314,765 
+
+Kajilime 
+
+Chama 
+
+100,584 
+
+Sub Total 
+
+Chipala 
+
+Chilenge 
+
+Mwalala 
+
+Sub Total 
+
+Malama 
+
+Ncheka 
+
+Mambwe 
+
+60,894 
+
+Nsefu 
+
+Sub Total 
+
+Kakoma 
+
+Kamapanda 
+
+Mwinilunga 
+
+154,752 
+
+Mukangala 
+
+Sub Total 
+
+Chikenga 
+
+Lunyiye 
+
+Kabompo 
+
+94,974 
+
+Kashinakaji 
+
+Sub Total 
+
+Shimbizi 
+
+Milandu 
+
+Mumbwa 
+
+207,501 
+
+Nalusangu 
+
+Sub Total 
+
+Misikishi 
+
+Miputu 
+
+Masaiti 
+
+120,348 
+
+Miengwe 
+
+Sub Total 
+
+29,628 
+
+32,949 
+
+8,840 
+
+6,559 
+
+6,809 
+
+1,473 
+
+2,877 
+
+7,778 
+
+9,669 
+
+9,587 
+
+11,888 
+
+4,644 
+
+4,770 
+
+3,169 
+
+16,290 
+
+4,995 
+
+6,397 
+
+108,608 
+
+10,423 
+
+7,629 
+
+4,861 
+
+                                                      
+                                    
+444  
+17,777  
+                                    
+                                                      
+494  
+19,769  
+                                                      
+                                      
+133  
+5,304  
+                                                   
+                                    
+1,071  
+42,850  
+                                                       
+                                      
+98  
+3,935  
+                                                      
+                                      
+102  
+4,085  
+                                        
+                                                       
+22  
+884  
+                                                      
+                                      
+8,905  
+223  
+                                                       
+                                      
+43  
+1,726  
+                                                      
+                                      
+117  
+4,667  
+                                      
+                                                      
+145  
+5,801  
+                                                      
+                                    
+305  
+12,194  
+                                      
+                                                      
+144  
+5,752  
+                                                      
+                                      
+178  
+7,133  
+                                                       
+                                      
+2,786  
+70  
+                                             
+                                    
+392  
+15,671  
+                                                       
+                                      
+72  
+2,862  
+                                      
+                                             
+48  
+1,901  
+                                                      
+                                      
+244  
+9,774  
+                                    
+                                                      
+363  
+14,537  
+                                                       
+                                      
+75  
+2,997  
+                                                       
+                                      
+3,838  
+96  
+                                                   
+                                    
+1,086  
+43,443  
+                                                   
+                                    
+1,256  
+50,278  
+                                      
+                                                      
+156  
+6,254  
+                                                      
+                                      
+114  
+4,577  
+                                      
+                                                       
+73  
+2,917  
+                                                      
+                                    
+13,748  
+344  
+
+ 
+
+31 
+
+DISTRICT 
+
+2008 Projected 
+
+WARD NAME 
+
+Ward 2008 Projected 
+
+New Case 
+
+Food Needs 
+
+ 
+
+District Population 
+
+ 
+
+Population 
+
+Loads 
+
+(MT) 
+
+ 
+
+ 
+
+Lulimala 
+
+Kabansa 
+
+Serenje 
+
+175,587 
+
+Luombwa 
+
+Sub Total 
+
+Ufwenuka 
+
+Chipembele 
+
+Monze 
+
+210,845 
+
+Moomba 
+
+Sub Total 
+
+Chipaba 
+
+Mwalala 
+
+Mkushi 
+
+145,940 
+
+Chingombe 
+
+10,287 
+
+3,250 
+
+8,260 
+
+3,793 
+
+18,759 
+
+13,085 
+
+7,753 
+
+10,478 
+
+23,192 
+
+Sub Total 
+
+Chisale 
+
+                             1,285  
+
+Jumbo/kkoma 
+
+                             3,113  
+
+Gwembe 
+
+45,404 
+
+Syampande 
+
+                             2,820  
+
+Sub Total 
+
+Nsaka 
+
+Mumbotuta 
+
+Milenge 
+
+35,773 
+
+Sokontwe 
+
+Sub Total 
+
+Grand Total 
+
+3,331 
+
+2,525 
+
+7,497 
+
+                                                      
+                                      
+154  
+6,172  
+                                                       
+                                      
+49  
+1,950  
+                                                      
+                                      
+124  
+4,956  
+                                                      
+                                    
+327  
+13,078  
+                                                       
+                                      
+57  
+2,276  
+                                                      
+                                    
+281  
+11,255  
+                                                      
+                                      
+196  
+7,852 
+                                                      
+                                    
+534  
+21,383 
+                                                      
+                                      
+116  
+4,652  
+                                                      
+                                      
+157  
+6,287  
+                                                      
+                                    
+348  
+13,915  
+                                                      
+                                    
+621  
+24,854  
+                                        
+                                                       
+19  
+771  
+                                                       
+                                      
+47  
+1,868  
+                                                       
+                                      
+42  
+1,692  
+                                      
+                                                      
+108  
+4,331  
+                                                       
+                                      
+50  
+1,999  
+                                                       
+                                      
+1,515  
+38  
+                                                      
+                                      
+112  
+4,498  
+                                                      
+                                      
+8,012  
+200  
+                                                   
+                                 
+229,840 
+5,744  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+32 
+
+Annex 7: Maize Grain Requirement for Market Interventions 
+ 
+
+Projected Population 
+
+with Capacity to 
+Purchase Maize 
+
+Three Month 
+
+Requirement (Tons) 
+
+23,569 
+
+7,603 
+
+62,674 
+
+34,714 
+
+37,245 
+
+27,702 
+
+49,581 
+
+5,044 
+
+16,099 
+
+17,320 
+
+52,011 
+
+30,950 
+
+92,258 
+
+18,845 
+
+14,394 
+
+16,625 
+
+530 
+
+171 
+
+1,410 
+
+781 
+
+838 
+
+623 
+
+1,116 
+
+150 
+
+362 
+
+390 
+
+1,170 
+
+696 
+
+2,076 
+
+424 
+
+324 
+
+374 
+
+506,634 
+
+11,435 
+
+District 
+
+Chadiza 
+
+Chavuma 
+
+Chibombo 
+
+Chongwe 
+
+Kafue  
+
+Kalabo 
+
+Kapiri Mposhi 
+
+Luangwa  
+
+Lufwanyama 
+
+Lukulu 
+
+Mazabuka 
+
+Mwinilunga 
+
+Ndola  
+
+Sesheke 
+
+Siavonga 
+
+Zambezi  
+
+TOTAL 
+  
+
+ 
+
+33 
+
+

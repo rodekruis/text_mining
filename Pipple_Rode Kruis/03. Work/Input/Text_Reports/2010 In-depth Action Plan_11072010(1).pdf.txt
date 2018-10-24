@@ -1,0 +1,7123 @@
+(This document is the property of the Government of the Republic of Zambia) 
+
+ 
+
+ 
+
+               
+
+Republic of Zambia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PREPARED BY:  
+
+DMMU/PARTNERS 
+
+LUSAKA 
+
+ 
+
+FLOODS RECOVERY ACTION PLAN 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July 2010 
+
+TABLE OF CONTENTS 
+ 
+Table of Tables ..............................................................................................3 
+ 
+Acronyms......................................................................................................1 
+ 
+EXECUTIVE SUMMARY ....................................................................................2 
+ 
+1. INTRODUCTION .........................................................................................4 
+ 
+2.0. SCALE OF THE PROBLEM ..........................................................................4 
+ 
+3.0. RATIONALE FOR THE IMPLEMENTATION OF RECOMMENDED .........................5 
+INTERVENTIONS ............................................................................................5 
+ 
+4.0 GENERAL RESPONSE STRATEGY.................................................................5 
+ 
+5.0 REQUIRED INTERVENTIONS.......................................................................5 
+ 
+6.0    IMPLEMENTATION PLAN .........................................................................9 
+6.1  Current level of response .....................................................................9 
+6.2  Scaling Up .........................................................................................9 
+
+ 
+7.0    ROLES AND RESPONSIBILITIES...............................................................9 
+ 
+8.0    TIME FRAME ....................................................................................... 10 
+ 
+9.0    REPORTING ARRANGEMENTS ................................................................ 10 
+ 
+10.0   COORDINATION ................................................................................. 10 
+ 
+11.0   MONITORING AND EVALUATION ........................................................... 11 
+ 
+ANNEXES .................................................................................................... 15 
+Annex 1: EDUCATION ................................................................................ 15 
+Annex 2: HEALTH...................................................................................... 22 
+Annex 3: NUTRITION................................................................................. 28 
+Annex 4: HUMAN SETTLEMENT AND SHELTER .............................................. 31 
+Annex: 5. INFRASTRUCTURE ...................................................................... 36 
+Annex 6: SOCIAL PROTECTION ................................................................... 42 
+Annex 7: WATER AND SANITATION ............................................................. 46 
+
+ 
+
+ 
+
+2 
+
+Table of Tables 
+
+Table 1: Summary of Financial Requirements for Sectors ....................................3 
+Table 2: Sector by Activity ..............................................................................7 
+Table 3: Monitoring and Evaluation Indicators.................................................. 12 
+Table 4: Education Activity Budget ................................................................. 16 
+Table 5: Cost Breakdown of Item 14 in the activity table above ......................... 17 
+Table 6: Education Implementing Schedule ..................................................... 21 
+Table 7: Health Activity Schedule ................................................................... 23 
+Table 8: Essential Drugs and Supplies ............................................................ 25 
+Table 9: Repair of Damaged Health Infrastructure............................................ 26 
+Table 10: Nutrition Activity Schedule .............................................................. 29 
+Table 11: Human Settlement and Shelter Activity Based Budget ........................ 34 
+Table 12: Human Settlements and shelter Activity Matrix.................................. 35 
+Table 13:  Summary of the Number of damaged structures - 2008/09/2009/10... 37 
+Table 14: Activity Costs of Infrastructure per Province...................................... 38 
+Table 15: Infrastructure Activity Matrix........................................................... 39 
+Table 16: Infrastructure Priority Cost List Per Province ..................................... 40 
+Table 17: Infrastructure Implementation Schedule ........................................... 41 
+Table 18: Social Protection Activity Budget...................................................... 44 
+Table 19: Social Protection Implementation Schedule 2010 - 2011..................... 45 
+Table 20: Water and Sanitation Activity Budget and Schedule 2009 – 2010 
+
+(Requirements by District)....................................................................... 48 
+Table 21: Water and Sanitation Activity Schedule............................................. 50 
+
+Acronyms 
+ 
+DDMC 
+
+District Disaster Management Committee 
+
+DMMU 
+
+Disaster Management and Mitigation Unit 
+
+ITNs   
+
+Insecticides Treated Nets 
+
+IOM           International Organisation for Migration  
+
+MCDSS 
+
+Ministry of Community Development and Social services 
+
+MoE   
+
+Ministry of Education 
+
+MEWD 
+
+Ministry of Energy and water Development 
+
+MoH   
+
+Ministry of Health 
+
+NGO   
+
+Non Governmental Organization 
+
+RDA   
+
+Road Development Agency 
+
+UN 
+
+ZA 
+
+ 
+
+ 
+
+United Nations 
+
+Zambia Army 
+
+ZMD   
+
+Zambia Meteorological Department 
+
+ZNS   
+
+Zambia National Service 
+
+ZVAC  
+
+Zambia Vulnerability Assessment Committee 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EXECUTIVE SUMMARY 
+
+ 
+The  Zambia  Vulnerability  Assessment  Committee  (ZVAC)  undertook  the  In-Depth 
+
+Vulnerability and Needs Assessment in seventeen (17) districts following reports of 
+
+flooding  and/or  dry  spells.  The  assessment  report  has  proposed  recommendations 
+
+necessary  to  mitigate  the  effects  of  floods  and  /or  dry  spells  in  the  affected 
+
+districts. These recommendations have been translated into a Recovery Action Plan 
+
+with specific activities and costing.  
+
+ 
+
+The  Recovery  Action  Plan  is  divided  into  various  sections.  The  required  sector 
+
+specific  interventions  and  costing  are  discussed  focusing  on  Education,  Health, 
+
+Nutrition, Infrastructure, Human Settlement and Shelter, Water and Sanitation. 
+
+ 
+
+It is important to note that recommended interventions reflect sector needs in short, 
+
+medium and long-term perspectives. The financial requirements per sector are also 
+
+discussed. 
+
+The  summary  of  the  financial  requirements  per  sector  is  reflected  in  the  table 
+
+below: 
+
+ 
+
+ 
+
+2 
+
+Table 1: Summary of Financial Requirements for Sectors 
+ 
+
+Name of Sector 
+
+Education 
+
+Health 
+
+Nutrition 
+
+Infrastructure  
+
+Human  Settlement  and 
+Shelter 
+Social Protection 
+
+Water and Sanitation 
+
+10% Contingency 
+
+  
+Grand Total  
+
+ 
+
+No. of 
+
+activities 
+
+Net Financial 
+Requirements 
+
+(ZMK) 
+
+Net Financial 
+Requirements 
+
+(US$) @ K5,0001 
+
+4 
+
+4 
+
+4 
+
+4 
+
+3 
+
+3 
+
+8 
+
+ 
+
+ 
+
+                             
+
+3,518,000,000.00 
+
+703,600.00  
+
+13,247,644,000 
+
+2,649,529 
+
+                      
+
+                      
+
+5,373,776,850.60 
+
+1,074,755.37  
+
+                     
+
+96,996,209,146.32 
+
+19,399,241.83  
+
+                         
+
+        663,000,000.00  
+
+132,600.00  
+
+     4,627,500,000.00  
+
+925,500.00  
+
+        
+
+3,256,376,000 
+
+651,275.20  
+
+   
+12,270,848,599.69  
+
+                      
+
+2,454,169.72  
+
+                         
+
+139,953,354,596.61 
+
+27,990,671.12 
+
+The  Implementation  of  the  action  plan  is  to  be  done  with  full  participation  of  all 
+
+stakeholders  such  as  relevant  Government  agencies,  donors,  UN  System,  private 
+
+sector  and  NGOs.  The  NGOs  in  conjunction  with  the  district  and  satellite  disaster 
+
+management  committees  will  be  the  front  line  implementers  at  the  district  level. 
+
+The  timeframe  for  the  implementation  of  interventions  is  projected  to  be  twelve 
+
+(12) months beginning in August 2010. 
+
+The Disaster  Management  and  Mitigation  Unit (DMMU)  will  spearhead  coordination 
+
+and  monitoring  of  the  implementation  of  the  action  plan  with  the  support  of  the 
+
+core  coordination  team,  drawing  membership  from  Government,  UN,  and  NGO 
+
+agencies. 
+
+Monitoring  and  evaluation  of  the  Recovery  Action  Plan  will  be  based  on  sector 
+
+specific performance indicators that form part of this action plan document. 
+
+                                                
+1 The Bank of Zambia Foreign Exchange rate used in this document is US$ 1 = ZMK 5, 000 
+
+ 
+
+3 
+
+ 
+
+1. INTRODUCTION 
+
+ 
+
+The 2009/10 rainfall season was characterised by heavy rains in most parts of the 
+
+country.  The  extreme  southern  parts  of  the  country  experienced  a late  start  while 
+
+the rest of the country experienced normal start. Overall, most parts of the country 
+
+received  normal  to  above  normal  rainfall  which  led  to  excessive  rains  that 
+
+culminated  into  flash  flood  in  low  lying  areas  and  water  logging  in  plateau  areas. 
+
+The  excessive  rainfall  experienced  resulted  into  varying  impacts  on  key  sectors  of 
+
+the economic.  
+
+ 
+Furthermore, following  reports  from  the  District Disaster  Management  Committees 
+
+(DDMC)  on  negative  effects  the  floods  and/or  dry  spells,  the  Zambia  Vulnerability 
+
+Assessment  Committee  (ZVAC)  undertook  an  in-depth  assessment  in  seventeen 
+
+(17)  districts  in  Central,  Eastern,  Lusaka,  North  Western,  Southern  and  Western 
+
+Provinces. 
+
+ 
+
+To  ensure  a  speedy  and  coordinated  response,  the Government  of  the Republic  of 
+
+Zambia  has  provided  a  general  framework  within  which  all  stakeholders  will 
+
+undertake  all  interventions  related  to  floods.    The  plan  defines  the  scale  of  the 
+
+problem  and  the  rationale 
+
+for  the 
+
+implementation  of  the  recommended 
+
+interventions. It brings out the general response strategy and outlines sector based 
+
+interventions  in  short  and  medium  to  long-term  perspectives.  Implementation, 
+
+reporting, monitoring and coordination arrangements are also spelt out. 
+
+ 
+
+2.0. SCALE OF THE PROBLEM 
+ 
+The  country  has  in  the  recent  past  experienced  floods  which  have  resulted  in 
+
+damage  to  Infrastructure  mainly  roads,  culverts  and  bridges  and  to  some  extent 
+
+Crops.  These  floods  have  generally  exposed  the  affected  Population  to  the  risk  of 
+
+outbreak  of  waterborne  diseases.  The  damage  to  crops  has  resulted  into  food 
+
+insecurity  problems in  very  few  districts  despite  an increase in  production in most 
+
+ 
+
+4 
+
+of  the  sampled  districts.  In  order  to  mitigate  the  impact  of  the  floods  and/or  dry 
+
+spells,  Government  will  need  to  implement  short  to  medium  and  long-term 
+
+interventions in all the seven (7) sectors identified to have been affected.  
+
+ 
+
+3.0. RATIONALE FOR THE IMPLEMENTATION OF RECOMMENDED 
+
+      INTERVENTIONS 
+
+ 
+
+In  order  to  mitigate  the  effects  of  the  floods  and/or  dry  spells,  the  Government 
+
+should as a matter of urgency address the negative effects thereof by implementing 
+
+sector specific interventions which range from short term needs to those that seek 
+
+to  address  medium  to  long  term  needs.  The  interventions  will    help  mitigate 
+
+negative effects in the identified sectors such as prevention of water borne diseases, 
+
+maintain  economic  viability  and  reduce  if  not  prevent  increase  in  the  levels  of 
+
+malnutrition  among  affected  communities  through  provision  of  relief.  The 
+
+interventions will also help rehabilitate damaged infrastructure. 
+
+ 
+
+4.0 GENERAL RESPONSE STRATEGY 
+
+ 
+
+The government’s strategy is to mobilize all available human, financial and material 
+
+resources and redirect these to areas that were affected. This strategy also entails 
+
+cooperate  approach  by  involving  all  relevant  Government,  Donor  community,  UN 
+
+System, Private sector and NGOs agencies (both local and international). 
+
+ 
+
+5.0 REQUIRED INTERVENTIONS 
+
+ 
+
+As  reflected in  the 2010  In-Depth  Vulnerability  and  Needs  Assessment  report,  the 
+
+required interventions involve  seven  (7)  sectors  with  activities  ranging  from  those 
+
+of  short  to  medium  and  long  term.  The  main  sectors  involved  are  those  that  the 
+
+assessment established  as  having  been  severely  affected  by  the  floods.  These  are 
+
+Health  and  Nutrition,  Water  and  Sanitation,  Infrastructure,  Human  settlement and 
+
+Shelter, Education, Agriculture and Food Security. 
+
+ 
+
+5 
+
+ 
+
+These  interventions  are  based  on  the  fact  that  there  is  some  level  of  response 
+
+going  on  in  each  of  these  sectors.  This  level  of  response  however,  falls  short  of 
+
+meeting  the  demands/needs  in  the  floods  affected  districts.    What  is  required 
+
+therefore is the scaling up of the interventions so as to make them more effective 
+
+and responsive to the needs of the affected districts. The required interventions are 
+
+as summarised in the sector by activity in table 2 below: 
+
+ 
+
+ 
+
+ 
+
+6 
+
+Table 2: Sector by Activity 
+ 
+
+SECTOR 
+
+1. Education 
+
+2.  Health   
+  
+
+3. Nutrition 
+  
+
+4. Human 
+Settlement and 
+Shelter  
+
+ACTIVITY 
+
+Carryout  rehabilitation  works  on  all  school  infrastructure  damaged  by  floods,  Identify  schools  in 
+disaster  prone  areas,  and  conduct    sessions  in  disaster  risk  reduction    ,  upgrade    temporal 
+classrooms    into  permanent  school    infrastructure  (Classrooms,  Teachers’  houses,  VIP  latrines)    at 
+identified sites 
+Procurement and Pre-positioning of  school in a box and recreational kits 
+Disease surveillance, prevention and management 
+
+Health Promotion 
+
+Procurement of essential drugs and other non-medical supplies 
+
+Rehabilitation of Health Infrastructure 
+
+Supportive visits and continuous monitoring and evaluation of floods on nutrition.  
+
+Training of community volunteers in Active Case Finding of malnourished in the flood affected areas. 
+Training  in  management  of  severe  malnutrition  in  the  flood  affected  districts  both  for  hospital  and 
+community management 
+Procurement  of  supplementary  and  therapeutic  feeds  (HEPS,  F  75  and  F100,  RUTF)  for  both 
+malnourished U 5 children and adults  
+Consultations  with  local  leadership  (traditional  and  district  administration)  on  identification  of  safer 
+
+lands [Identification of Safer Lands for Displaced persons - Phase I] 
+
+Acquisition of land to resettle the communities vulnerable to flooding 
+
+Conduct  a  survey  among  the  concerned  communities  to  determine  their  willingness  to  relocate  to 
+
+higher  lands  and  educate  them on  possible  livelihood  sources  [Identification  of  Safer  Lands  for  the 
+
+Displaced Persons - Phase II] 
+
+Site preparation and development of  new settlement - Water Supply Development in Phases I and 
+
+ 
+
+II 
+
+ 
+
+SECTOR 
+
+5. Infrastructure 
+
+ Repairs to Washed Away and construction of new Bridges   
+ 
+Repair Works to Damaged Culverts/Drifts and Installation of New Culverts/Drifts   
+Reinstatement of washed/eroded embankments and stone pitching 
+
+ACTIVITY 
+
+6. Social 
+Protection  
+
+ 
+7. Water and      
+Sanitation 
+
+Reinstatement of washed/eroded road sections 
+
+Repairs to Washed Away and construction of new Bridges   
+
+Awareness Raising 
+
+Empowerment of Families 
+
+Psychosocial support 
+Provision of safe water to affected communities (Household Chlorine, HTH Chlorine) 
+Provision  of  water  (boreholes)  and  sanitation  (latrines) 
+sinking/digging of new ones) 
+Provision of water storage containers, soap and hand washing facilities. 
+Improvement of water sources 
+Hygiene promoters and V-WASHE committees 
+Water  quality  &  quantity  monitoring,  proper  usage  of  home  chlorination  and  HTH,  management  of 
+water and sanitation facilities and safe excreta disposal. 
+Proper garbage handling and disposal 
+
+infrastructure  (rehabilitation  and 
+
+ 
+
+8 
+
+6.0    IMPLEMENTATION PLAN 
+
+In order to ensure maximum participation of all stakeholders and at the same time 
+
+ensure  that  Portfolio  institutions  and  agencies  take  up  their  responsibilities  as  we 
+
+scale-up  the  operation,  the  affected  sectors  in  conjunction  with  relevant  UN,  NGO 
+
+and  Private  sector  agencies  will  be  responsible  for  the  implementation  of  their 
+
+activities  based  on  the  sector  needs  as  per  attached  sector  specific  annexes. 
+
+Satellite  Disaster  Management  Committees  in  conjunction  with  NGOs  will  be  front 
+
+line  implementers  while  District  Disaster  Management  Committees  will  be  the 
+
+overall district supervisors. 
+
+ 
+ 
+6.1  Current level of response 
+ 
+As mentioned earlier, it is important to recognize that a lot has already been 
+
+done  by  Government in  collaboration  with its  co-operating  partners in  terms 
+
+of response interventions.   
+
+The  implementation  of  this  action  plan  should  therefore  be  seen  within  the 
+
+context  of  scaling  up  of  the  existing  interventions  and  not  necessarily  kick-
+
+starting of the recovery operation. 
+
+ 
+
+6.2  Scaling Up 
+
+ In  order  to  scale  up  the  level  of  current  response  and  make  the  operation 
+
+more  effective  and  responsive  to  the  needs  of  the  affected  populations, it is 
+
+important 
+
+that 
+
+the  sector-based 
+
+interventions  are 
+
+implemented  as 
+
+recommended (see Annexes 1 to 8 for more details). 
+
+ 
+
+7.0    ROLES AND RESPONSIBILITIES 
+ 
+The  major  stakeholders  such  as  the  Ministries  of  Education,  Health,  Agriculture, 
+
+Works  and  Supply,  Department  of  Water  Affairs,  Local  Government  and  Housing, 
+
+Community  Development,  Finance  and  Donor  community,  the  UN  system,  Private 
+
+sector  including  NGOs  both  local  and  international  will  play  an  important  role  to 
+
+ensure  that  the  planned  programmes  are  timely  and  efficiently  implemented  in 
+
+order  for  the  programme  to  be  effective  and  responsive  enough  to  achieve  the 
+
+programme objectives. Each Ministry/Department will nominate a dedicated officer 
+
+who  will  be  part  of  the  coordination  core  team  to  overseer  the  implementation  of 
+
+the  recommended  interventions.    Satellite  Disaster  Management  Committees  in 
+
+conjunction with NGOs will be the front line implementers of the interventions while 
+
+District  Disaster  Management  Committees  (DDMC)  will  have  the  district  overall 
+
+supervisory responsibilities.  
+
+  
+
+8.0    TIME FRAME 
+
+The  activities  will  be  implemented  within  twelve  (12)  months  beginning  in  August 
+
+2010. This period will cover the implementation of short to medium and some long-
+
+term interventions. 
+
+ 
+
+9.0    REPORTING ARRANGEMENTS 
+
+All implementing agencies will generate progress reports and submit them to DMMU 
+
+through the National Coordinator on monthly basis.  DMMU will in turn consolidate 
+
+the  sector  reports  in  one  document  and  submit  it  to  Government  and  other 
+
+stakeholders for decision-making and information sharing. 
+
+ 
+
+10.0   COORDINATION 
+
+ 
+
+The coordination of the implementation of the rehabilitation plan (short to medium 
+
+and long  term)  will be  spearheaded  by DMMU  supported  by  the  Coordination  Core 
+
+Team  with  representation  from  Government,  Donors,  UN  system,  private  sector 
+
+and NGOs.  
+
+ 
+
+ 
+
+10 
+
+11.0   MONITORING AND EVALUATION 
+
+ 
+
+Monitoring of the implementation of interventions will be based on the indicators as 
+
+brought  out  in  the  monitoring  and  valuation  indicators  table  (Refer  to  Table  3) 
+
+and will be done at different levels namely: through reports, field trips involving a 
+
+combined  team  of  main  stakeholders  or  individual  institutions  and  organizations. 
+
+Political leadership at national, provincial and local levels will be critical in ensuring 
+
+that the objectives of this recovery action plan are achieved in line with its rationale. 
+
+  
+
+Effectiveness  of  the  interventions  will  be  evaluated  in  terms  of  outcomes  and 
+
+impact  on  the  target  population  and  districts.  A  final  impact  assessment  will  be 
+
+conducted.  The  report  will  be  presented  to  Government  and  shared  with  other 
+
+stakeholders for important reflections on the response and recovery programme. 
+
+ 
+
+ 
+
+11 
+
+ 
+
+Table 3: Monitoring and Evaluation Indicators  
+ 
+
+SECTOR 
+
+1.Education 
+
+RESPONSIBLE 
+INSTITUTION             
+MoE 
+• 
+
+ACTIVITIES 
+
+infrastructure, 
+teachers’ 
+houses  and  construct  VIP 
+latrines 
+
+•  Document 
+
+schools 
+disaster prone areas. 
+
+in 
+
+•  Conduct 
+
+training 
+
+of 
+Trainers  in  disaster  risk 
+reduction 
+
+•  Conduct 
+
+disaster 
+in 
+
+reduction  measures 
+these schools 
+ 
+
+•  Procurement  and  Pre-
+positioning  of  school  in  a 
+box and recreational kits. 
+•  Upgrade  temporal  school 
+into 
+
+infrastructure 
+permanent 
+
+•  Disease  prevention  and 
+
+treatment 
+
+•  Health promotion 
+•  Monitoring and evaluation 
+
+OUTPUT INDICATORS 
+
+OUTCOMES 
+
+•  No. 
+
+of 
+
+infrastructure 
+teachers’ 
+rehabilitated 
+
+school 
+and 
+houses 
+
+•  No.  of  pit 
+
+latrines 
+
+constructed 
+
+•  No. 
+
+of 
+
+schools 
+
+in 
+disaster  prone  areas 
+identified. 
+
+•  Disaster  risk  reduction 
+
+measures conducted. 
+•  Formation of disaster 
+Reduction committees 
+in schools and 
+communities 
+
+•  No. 
+
+of 
+
+community 
+
+schools upgraded 
+
+•  No  of  school  in  a  box 
+kits  procured  and  pre-
+positioned 
+
+•  No.  of  ITNs  distributed 
+to  children  under  five 
+and pregnant women 
+
+•  No 
+
+of 
+
+cumulative 
+acute diarrhoea 
+
+estimated 
+cases  of 
+
+•  Estimated  average  rate 
+diarrhoea 
+
+acute 
+
+of 
+deaths 
+
+•  %  of  population  with 
+primary 
+
+access 
+health care services  
+
+to 
+
+• 
+
+• 
+
+• 
+
+Improved school  
+Infrastructure 
+Improved 
+accommodation 
+Improved sanitary facilities 
+Improved school attendance 
+
+• 
+•  Continuous learning during 
+
+teachers’ 
+
+flooding 
+
+•  Predictable evacuation patterns 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Improved  child  and  women 
+health 
+Improved disease management 
+Improved  access  to  primary 
+health care services 
+Improved  hygiene  practices 
+and waste disposal 
+
+ 
+ 
+ 
+ 
+ 
+
+•  Rehabilitation and 
+
+•  No. 
+
+of 
+
+Health 
+
+• 
+
+Improved Health infrastructure 
+
+maintenance of Health 
+infrastructure 
+
+Infrastructure 
+maintained 
+rehabilitated 
+
+and 
+
+2.  Health 
+ 
+
+MoH 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+OUTPUT INDICATORS 
+
+OUTCOMES 
+
+• 
+
+Improved Nutrition status 
+
+•  Estimated % of children 
+under  5  covered  by 
+nutritional  surveillance 
+in the affected areas 
+
+•  Amount  of  therapeutic 
+
+feeds procured. 
+
+ 
+
+SECTOR 
+
+RESPONSIBLE 
+INSTITUTION             
+
+ACTIVITIES 
+
+3.  Nutrition 
+
+MoH/NFNC 
+
+•  Support  mitigation 
+impact 
+
+of 
+of 
+nutritional 
+floods  on  health  through 
+growth monitoring  
+
+•  Training  of  community 
+volunteers  in  Active  Case 
+Finding  of  malnourished 
+in the flood affected areas 
+•  Training  in  management 
+of  severe  malnutrition  in 
+the flood affected districts 
+both 
+for  hospital  and 
+community management 
+
+•  Number 
+
+of 
+
+officers 
+trained  in  infant  and 
+child feeding. 
+
+•  Number  of  nutrition 
+
+education conducted 
+
+•  No.  of 
+districts 
+visited 
+identify safer land 
+
+flood  prone 
+to 
+
+•  Procurement 
+
+of 
+therapeutic  feeds  (HEPS, 
+F  75  and  F100)  for  both 
+malnourished U 5 children 
+and  adults  and  provides 
+nutrition  education  during 
+distribution sessions. 
+ 
+Identification  of  land  for 
+relocation  in  flood  prone 
+areas 
+
+• 
+
+4.Human 
+shelter and 
+Settlement 
+
+DMMU, 
+DEPT.OF 
+RESETTLEMEN
+TUN, 
+HABITAT, IOM 
+
+•  People’s lives secured 
+•  No. 
+
+of 
+reduced 
+Improved habitations 
+
+houses 
+
+collapsing 
+
+•  Consultation  with 
+
+local 
+
+•  No.  of  pieces  of  land 
+
+• 
+
+leadership 
+
+•  Community sensitization 
+•  Human settlement 
+  
+
+identified 
+of 
+
+•  No. 
+
+consultative 
+meetings  held  with 
+local leadership 
+
+5. 
+Infrastructure 
+
+RDA,ZNS.ZA 
+
+•  Repairs to Washed Away 
+and construction of new 
+Bridges  
+
+•  Construction of New Bridge 
+
+•  No. 
+
+of 
+
+sensitization 
+
+meetings held 
+
+•  No. 
+
+of 
+
+cartographic 
+
+equipment procured 
+
+•  No. of persons resettled 
+
+on safer land 
+
+•  No. of 
+
+bridges/culverts/drifts 
+reinstated/constructed 
+
+• 
+
+Improved accessibility 
+
+ 
+
+13 
+
+ 
+
+SECTOR 
+
+RESPONSIBLE 
+INSTITUTION             
+
+ACTIVITIES 
+
+OUTPUT INDICATORS 
+
+OUTCOMES 
+
+ Structure (Permanent 
+
+•  Repair Works to Damaged 
+
+• 
+
+Culverts/Drifts 
+Installation of New 
+Culverts/Drifts 
+
+6.Social 
+Protection 
+
+MCDSS, MoH 
+
+NGOs 
+
+  
+
+ 
+
+7.Water  
+  and 
+Sanitation 
+
+MEWD 
+
+ Repair Works to Damaged 
+Culverts/Drifts and Installation of 
+New Culverts/Drifts   
+
+ 
+
+ 
+
+Reinstatement of washed/eroded 
+embankments and stone pitching 
+Reinstatement of washed/eroded 
+road sections 
+
+ 
+
+ 
+
+ 
+
+•  No 
+
+of 
+
+awareness 
+campaigns  done  on 
+children’s  and  women’s 
+rights 
+the 
+communities 
+
+in 
+
+•  protective 
+
+environment 
+
+children  and 
+created 
+
+their 
+
+for 
+families 
+
+•  No 
+
+of 
+
+prevention 
+measures  put  in  place 
+Initiate  and  promote 
+family  and  community 
+level 
+safety 
+(prevention) 
+
+•  No 
+
+of 
+
+counseling 
+done 
+
+Psychosocial 
+sessions 
+
+•  No. boreholes drilled 
+•  No.  of  hand  pumps 
+
+installed  
+
+•  No. 
+
+of 
+
+water 
+
+committees trained 
+
+•  No.  of  sanitary  facilities 
+
+constructed 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Improved  child  and  women 
+health 
+Improved water supply 
+Increased access to safe water 
+Improved disease management 
+Improved sanitary facilities 
+
+•  No 
+
+Hygiene 
+V-
+committees 
+
+and 
+
+of 
+promoters 
+WASHE 
+members trained 
+ 
+
+• 
+
+• 
+
+ 
+
+14 
+
+• 
+
+• 
+
+ 
+
+ 
+
+ 
+
+ANNEXES 
+
+Annex 1: EDUCATION 
+ 
+
+Problem statement and rationale 
+
+The  Education  Sector  was  not  spared  from  the  effects  of  the  floods  that  occurred 
+
+during  the  2009/10  rainfall  season.  Arising  from  that,  learning  was  disrupted  as 
+
+School Infrastructure got submerged and damaged resulting in some schools being 
+
+closed and others were operating at half capacity.  
+
+ 
+
+ 
+
+The  Ministry  of  Education  has  assessed  the  impact  of  the  floods  and  prioritized 
+
+interventions  as  medium  and long term  to  rehabilitate the  damaged infrastructure 
+
+upgrade temporal infrastructure and preposition school kits. 
+
+ 
+
+Activities 
+
+The  activities  to  be  implemented  in  the  medium  term  and  long  term  are  mainly 
+
+rehabilitation  works  on  all  school  infrastructure  damaged  by  floods,  upgrading  of 
+
+infrastructure  (Classrooms,  Teachers’  houses,  VIP,  latrines)      that  is  built  from 
+
+temporal materials, to make it resilient to floods, mapping of schools in flood prone 
+
+areas,  train  school  Heads  and  communities  in  disaster  risk  reduction  (DRR) 
+
+measures, and procurement and Pre-positioning of school in a box and recreational 
+
+kits.  
+
+ 
+
+Targets 
+
+Carry out rehabilitation works at 32 schools in 12 districts in 5 provinces.  
+
+ 
+
+Implementing Agency 
+
+Ministry of Education will be the lead-implementing Agency and will be assisted by 
+
+Cooperating Partners. 
+
+ 
+Immediate Financial Requirements: ZMK 3,518,000,000.00 (US$703,600.00)
+
+ 
+
+15 
+
+ 
+
+Table 4: Education Activity Budget 
+ 
+
+Activity 
+
+required ZMK 
+
+ZMK 
+
+Resource 
+
+Resource 
+available 
+
+Net resource 
+required ZMK 
+
+Net resource 
+
+required 
+
+USD 
+
+41,000,000 
+
+1,000,000 
+
+25,000,000 
+
+15,000,000 
+
+300,000,000 
+
+200,000,000 
+
+25,000,000 
+
+50,000,000 
+
+200,000,000 
+
+40,000,000 
+
+54,000,000 
+
+41,000,000 
+ 
+2,526,000,000 
+ 
+ 
+3,518,000,000 
+ 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+41,000,000 
+
+1,000,000 
+
+25,000,000 
+
+15,000,000 
+
+                                
+
+8,200  
+
+       
+
+200  
+
+                                
+
+5,000  
+   
+3,000  
+
+300,000,000 
+
+60,000 
+
+                              
+
+                              
+
+200,000,000 
+
+40,000  
+
+                                
+
+25,000,000 
+
+5,000  
+
+50,000,000 
+
+10,000  
+
+                              
+
+                              
+
+200,000,000 
+
+40,000  
+
+40,000,000 
+
+8,000  
+
+                                
+
+54,000,000 
+
+10,800  
+
+                              
+
+                                
+
+41,000,000 
+
+8,200  
+
+                             
+
+2,526,000,000 
+
+505,200  
+
+0 
+
+3,518,000,000 
+
+703,600  
+
+                             
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+ 5 
+
+6 
+
+7 
+
+ 9 
+
+10 
+
+ 11 
+
+12 
+
+13 
+
+14 
+
+Site selection and planning of 
+infrastructure for upgrading 
+
+ Identify implementation partners 
+Mapping of  schools in disaster prone 
+areas, 
+ 
+ Defining criteria for rehabilitation, 
+conduction of disaster reduction sessions 
+Procurement and Pre-positioning of  
+school in a box and recreational kits 
+ Training on site planning and  
+management , 
+Training of trainers for disaster risk 
+reduction 
+
+Assess the needs and design solutions 
+Provide necessary equipment and 
+materials for infrastructure upgrading  
+ Construct  temporal classrooms and 
+latrines 
+Assess how the plan is working and 
+make necessary changes to improve the 
+situation  
+Periodical monitoring to review situation 
+on the ground to make corrections if 
+need be 
+
+ Evaluation of the implementation plan 
+Carryout rehabilitation works on all 
+school  infrastructure damaged by floods 
+
+  
+
+TOTAL 
+
+ 
+
+ 
+Table 5: Cost Breakdown of Item 14 in the activity table above 
+ 
+
+Districts 
+
+Name of 
+School 
+
+Gibson Basic 
+
+Serenje 
+
+Kafue 
+
+Mpelembe 
+Basic 
+ 
+Chanyanya 
+Basic 
+
+Chavuma 
+
+Lukolwe Basic 
+
+Malabali Basic 
+
+Sinazongwe 
+
+Muuka Basic 
+ 
+
+Kalabo 
+
+Kuuli Basic 
+
+Lyoke West 
+Basic 
+
+ 
+
+Activity 
+construction of 
+latrines 
+Roof repairs , and 
+minor works to 
+walls, paintworks 
+construction of 
+latrines, roof repairs 
+to houses, 
+purchase of desks 
+
+Paintworks to staff 
+houses and latrines 
+construction of 
+latrines 
+Mending of cracks 
+and paint works to 
+classrooms and 
+staff houses 
+Mending of cracks 
+and paint works to 
+classrooms and 
+staff houses 
+Mending of cracks  
+and paint works to 
+classroom blocks 
+and staff houses 
+ 
+Roof repairs , and 
+minor works to 
+walls of classrooms 
+and houses, 
+paintworks, 
+construction of 
+latrines, 
+
+Resource 
+required 
+
+ZMK 
+
+Resource 
+available 
+
+ZMK 
+
+Net resource 
+
+required  
+
+ZMK 
+
+60,000,000 
+
+85,000,000 
+
+15,000,000 
+
+60,000,000 
+
+35,000,000 
+
+35,000,000 
+
+35,000,000 
+
+78,000,000 
+
+17 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+60,000,000 
+
+85,000,000 
+
+15,000,000 
+
+60,000,000 
+
+35,000,000 
+
+35,000,000 
+
+35,000,000 
+
+78,000,000 
+
+ 
+
+Districts 
+
+Lukulu 
+
+Kazungula 
+
+Namwala 
+ 
+
+ 
+
+Name of 
+School 
+
+ 
+Ndoka Basic 
+
+Situlu Basic 
+
+Mukola High 
+
+Dongwe Basic 
+
+Likulu Basic 
+
+Lupuz Basic 
+
+Anaganga 
+.Com  
+
+Sikaunze Basic 
+ 
+Siumbwa Basic 
+ 
+
+Activity 
+
+Mending of cracked 
+walls of staff houses 
+Construction of 1x3 
+classroom block 
+Staff house Roof 
+construction  
+Construction of staff 
+houses 
+ 
+Roof repairs , and 
+minor works to 
+walls, paintworks, 
+construction of 
+latrines 
+Roof repairs , and 
+minor works to 
+walls, paintworks, 
+construction of 
+latrines 
+Mending of cracks 
+and paint works 
+Roof repairs , and 
+minor works to 
+walls, paintworks, 
+construction of 
+latrines 
+Purchase of desks 
+construction of 
+latrines, paintworks 
+to staff houses 
+
+ 
+
+ 
+
+ 
+Mokotoolo 
+Basic 
+
+ 
+Construction of 1x3 
+classroom block 
+
+ 
+
+ 
+
+Resource 
+required 
+
+ZMK 
+
+Resource 
+available 
+
+ZMK 
+
+Net resource 
+
+required  
+
+ZMK 
+
+15,000,000 
+
+220,000,000 
+
+80,000,000 
+
+75,000,000 
+
+75,000,000 
+
+38,000,000 
+
+85,000,000 
+
+80,000,000 
+
+ 
+ 
+ 
+
+220,000,000 
+
+ 
+
+18 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+0 
+0 
+
+0 
+
+15,000,000 
+
+220,000,000 
+
+80,000,000 
+
+75,000,000 
+
+75,000,000 
+
+38,000,000 
+
+85,000,000 
+
+80,000,000 
+
+ 
+ 
+ 
+
+220,000,000 
+
+ 
+
+ 
+
+Districts 
+
+Mongu 
+
+Name of 
+School 
+
+Kataba Basic 
+Itema 
+Community 
+ 
+
+Malabo Basic 
+
+Litabwa Basic 
+Namalungu 
+Basic 
+
+Matongo Basic 
+
+Mumbula Basic 
+
+Nzilu Basic 
+
+Sabilo Basic 
+
+Sikana Basic 
+
+Silowana Basic 
+
+Senanga 
+
+Sunda Basic 
+
+Shangombo 
+
+Nzilu Basic 
+
+Sesheke 
+
+Silumbu Basic 
+
+ 
+
+Activity 
+
+Resource 
+required 
+
+ZMK 
+
+Resource 
+available 
+
+ZMK 
+
+Paint works to walls 
+
+15,000,000 
+
+construction of 
+latrines,  
+construction of 
+latrines,  
+purchase of 
+furniture 
+construction of 
+latrines,  
+
+Purchase of 
+furniture 
+
+construction of 
+latrines, mending of 
+cracked  walls for 
+staff houses 
+construction of 
+latrines, 
+construction of 
+latrines, 
+Construction of 1x3 
+classroom block 
+Rehabilitation to 
+classroom block, 
+houses and latrines 
+Construction of 1x3 
+classroom block and 
+latrines, 
+Purchase of 
+furniture 
+Construction of 1x3 
+classroom block and 
+latrines 
+construction of 
+latrines, 
+Construction of 1x3 
+classroom block and 
+
+60,000,000 
+
+75,000,000 
+
+60,000,000 
+
+15,000,000 
+
+80,000,000 
+
+60,000,000 
+
+60,000,000 
+
+220,000,000 
+
+75,000,000 
+
+75,000,000 
+
+220,000,000 
+
+60,000,000 
+
+220,000,000 
+
+19 
+
+Net resource 
+
+required  
+
+ZMK 
+
+15,000,000 
+
+60,000,000 
+
+75,000,000 
+
+60,000,000 
+
+15,000,000 
+
+80,000,000 
+
+60,000,000 
+
+60,000,000 
+
+220,000,000 
+
+75,000,000 
+
+75,000,000 
+
+220,000,000 
+
+60,000,000 
+
+220,000,000 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+ 
+
+ 
+
+Districts 
+
+Name of 
+School 
+
+Activity 
+
+latrine, purchase of 
+furniture 
+
+Resource 
+required 
+
+ZMK 
+
+Resource 
+available 
+
+ZMK 
+
+Net resource 
+
+required  
+
+ZMK 
+
+ 
+
+ 
+
+TOTAL ESTIMATE 
+
+2,526,000,000 
+ 
+
+0 
+
+2,526,000,000 
+ 
+
+20 
+
+ 
+
+ 
+Table 6: Education Implementing Schedule 
+ 
+ 
+ 
+
+ACTIVITIES 
+
+ 
+
+MEDIUM TERM 
+
+ 
+Identify damaged school sites and develop bills of 
+Quantities and schedule of materials 
+ 
+Mapping of schools in flood prone areas of Zambia 
+ 
+ 
+Identify small contractors and enter into labour 
+contract for the rehabilitation of classrooms, teachers' 
+houses and construction of VIP latrines at the schools 
+affected by the floods 
+ 
+Draw up teaching training material for disaster risk 
+reduction , 
+ 
+Training of trainers at zonal centers in disaster risk 
+reduction activities 
+ 
+Conduction of disaster risk reduction in schools and 
+communities 
+ 
+ 
+Rehabilitation of School Infrastructure and Teachers' 
+houses and construction of VIP Latrines at schools 
+affected by the floods. 
+ 
+Procurement and Pre-positioning of  school in a box 
+and recreational kits. 
+
+Year 2010 
+
+Year 2011 
+
+Au
+g 
+ 
+
+Sep
+t 
+ 
+
+Oc
+t 
+ 
+
+No
+v 
+ 
+
+De
+c 
+ 
+
+Ja
+n 
+ 
+
+Fe
+b 
+ 
+
+Ma
+r 
+ 
+
+Apri
+l 
+ 
+
+Ma
+y 
+ 
+
+Ju
+n 
+ 
+
+Ju
+l 
+ 
+
+Sep
+t 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21 
+
+ 
+
+Annex 2: HEALTH 
+ 
+
+PROBLEM STATEMENT 
+The heavy rains and floods that the country experienced in the 2009-2010 rainy 
+season had a significant impact on the health sector.  From the 2010 In Depth 
+Assessment, the major challenges were: 
+
+•  High disease burden as demonstrated by the number of households reporting 
+
+a sick member and the high frequency of occurrence of infectious diseases 
+such as malaria, diarrheal diseases and Acute Respiratory Infections (ARI). 
+This puts a strain on limited healthcare facilities as well as on healthcare 
+providers. 
+
+•  Suboptimal childhood immunization coverage in some areas particularly for 
+
+measles vaccine. These conditions are favorable for the occurrence of disease 
+outbreaks. 
+
+• 
+
+ Poor sanitation and exposure to contaminated drinking water perpetuating 
+the occurrence of diarrheal diseases such as cholera and dysentery 
+
+•  Destruction of health infrastructure 
+
+ 
+ACTIVITIES 
+
+•  Disease surveillance, prevention and management 
+
+o  Epidemic prone diseases : Malaria, diarrheal diseases 
+
+o   Strengthen Immunization activities 
+
+•  Health Promotion 
+
+o  Development , procurement and distribution of IEC materials 
+
+o  PA System, Radio and television 
+
+•  Procurement of essential drugs and other non-medical supplies 
+
+•  Rehabilitation of Health Infrastructure 
+
+ 
+
+ 
+
+         Financial Requirements: ZMK 13,247,644,000 (US$ 2,649,529)  
+
+ 
+
+Table 7: Health Activity Schedule  
+ 
+ 
+
+ACTIVITY 
+
+RESOURCE 
+
+RESOURCES 
+
+GAP 
+
+TIME FRAME 2010 
+
+COMMENT 
+
+REQUIRED 
+
+AVAILABLE 
+
+Jul   Aug   Sep   Oct   Nov   Dec  
+
+1.  Sub-activity: health (Disease surveillance, Prevention and Management 
+
+Support 
+
+the 
+
+175,325,000 
+
+0 
+
+175,325,000 
+
+ 
+
+ 
+
+procurement 
+
+and 
+
+distribution 
+
+of 
+
+essential 
+
+drugs, 
+
+vaccines and supplies 
+
+Support the sustained 
+
+205,700,000 
+
+0 
+
+205,700,000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+delivery  of  essential 
+
+health  services  such 
+
+as 
+
+immunization, 
+
+child, 
+
+maternity, 
+
+HIV/AIDS, 
+
+TB 
+
+including 
+
+through 
+
+outreach 
+
+where 
+
+appropriate. 
+
+Staff 
+
+refresher 
+
+176,000,000 
+
+0 
+
+176,000,000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+training 
+
+prevention 
+
+for 
+
+and 
+
+control 
+
+of 
+
+flood 
+
+related 
+
+medical 
+
+conditions 
+
+(emergency 
+
+triage, 
+
+ 
+
+diarrhoeal  diseases, 
+
+plague etc 
+
+Support 
+
+integrated 
+
+264,600,000 
+
+0 
+
+264,600,000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+disease 
+
+surveillance 
+
+and  reporting  (IDSR) 
+
+especially  measles, 
+
+polio 
+
+and 
+
+cholera 
+
+surveillance. 
+
+2.  Sub –activity: health promotion 
+
+Health  education  to 
+
+440,000,000 
+
+0 
+
+440,000,000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+communities 
+
+(on 
+
+good 
+
+hygiene 
+
+practices,  disinfection 
+
+of  water  and  waste 
+
+disposal, etc). 
+
+3. procurement of 
+
+156,019,000 
+
+0 
+
+156,019,000 
+
+ 
+
+essential drugs and 
+
+None Medical supplies 
+
+4. Rehabilitation 
+
+11,830,000,000 
+
+ 
+
+11,830,000,000 
+
+ 
+
+Health infrastructure 
+
+ 
+
+GRAND TOTAL 
+
+ 
+
+ZMK 13,247,644,000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 8: Essential Drugs and Supplies 
+ 
+
+NO. 
+
+ITEM 
+
+1  Insecticide Treated Nets 
+2  ORS 
+3  Anti-malarials  
+
+Arthemeter- lumefantrine (coartem)[20/120] 18’s 
+& 12’s 
+
+4  Sulfadoxine- pyrimethamine tabs(pac 1000) 
+
+Quinine 300mg tab (pac100) 
+Quinine injection (300mg/ml) 2ml ampoules 
+(boxes) 
+
+5  Anti-bacterials  
+
+Metronidazole(250mg) Pac 
+Cotrimoxazole (pac) 
+Ciprofloxacin(250mg)pac 
+
+6  Intravenous fluids 
+
+Ringers lactate 500mls W/gse (Boxes) 
+5% dextrose w/gset(Boxes) 
+50% dextrose (10ml bottles(Boxes) 
+Normal saline 500mls W/gset(Boxes) 
+
+7  Canulae 
+
+14G 
+16G 
+18G 
+
+8  Syringes 
+
+2ml (pack 100) 
+5ml(pack 100 
+10ml(pack 100) 
+Cotton wool(500g) 
+Methylated spirit 2.5litres 
+Plaster/strapping 
+Total  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+25 
+
+QUANTITY 
+
+UNIT PRICE(K)  TOTAL COST(K) 
+
+1500 
+7500 
+
+50000 
+2500 
+
+75000000 
+18750000 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+12 
+30 
+350 
+
+150 
+
+75 
+150 
+250 
+
+50 
+30 
+200 
+20 
+
+600 
+600 
+1200 
+
+2500 
+5000 
+500 
+400 
+300 
+200 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+250000 
+1800 
+2400 
+
+8500 
+
+52000 
+25000 
+2000 
+
+140000 
+120000 
+20000 
+130000 
+
+1500 
+1500 
+1500 
+
+1000 
+2000 
+2500 
+15000 
+20000 
+12000 
+
+3000000 
+54000 
+840000 
+
+1275000 
+
+3900000 
+3750000 
+500000 
+
+7000000 
+3600000 
+4000000 
+2600000 
+
+900000 
+900000 
+1800000 
+
+2500000 
+10000000 
+1250000 
+6000000 
+6000000 
+2400000 
+ 156,019,000 
+
+ 
+
+Table 9: Repair of Damaged Health Infrastructure 
+
+District  Health Facility 
+
+Lukulu 
+
+Mbanga RHC 
+
+Mongu 
+
+Senanga 
+
+Liyolelo RHC 
+Nambwae Upper 
+PHC 
+
+Senanga  Kataba 
+
+  
+
+Luiwanyau 
+
+Nanjaka RHC 
+  
+Liyolelo RHC 
+
+  
+  
+Mongu 
+Senanga  Kataba 
+  
+  
+  
+ 
+
+Luiwanyau 
+Nanjaka RHC 
+  
+ 
+Nyantanda Health 
+post 
+
+Chavuma 
+
+Senanga  Kataba 
+
+  
+
+  
+  
+ 
+
+Luiwanyau 
+
+Nanjaka RHC 
+  
+ 
+
+Activity 
+Repair of 
+Maternity 
+Repair of 
+Maternity 
+Repair of 
+Maternity 
+Repair of 
+Maternity 
+Repair of 
+Maternity 
+Repair of 
+Maternity 
+  
+Repair of MCH 
+Repair of MCH 
+Repair of MCH 
+Repair of MCH 
+  
+ 
+ Repair of 
+incinerator 
+ Repair of 
+incinerator 
+ Repair of 
+incinerator 
+ Repair of 
+incinerator 
+  
+ 
+
+Resource 
+Required 
+ZMK 
+
+Resource 
+Available  ZMK 
+
+Net Resource 
+required 
+
+85000000    
+
+85000000    
+
+85000000    
+
+85000000    
+
+85000000    
+
+85000000    
+
+510000000 
+850000000    
+850000000    
+850000000    
+850000000    
+
+3400000000 
+
+ 
+
+970000000    
+
+970000000    
+
+970000000    
+
+970000000    
+
+3880000000 
+
+ 
+
+ 
+
+ 
+
+85000000 
+
+85000000 
+
+85000000 
+
+85000000 
+
+85000000 
+
+85000000 
+510000000 
+850000000 
+850000000 
+850000000 
+850000000 
+3400000000 
+
+970000000 
+
+970000000 
+
+970000000 
+
+970000000 
+3880000000 
+
+0 
+
+0 
+
+ 
+
+0 
+
+ 
+
+ 
+
+Chavuma 
+
+Nyantanda Health 
+post 
+
+Senanga  Kataba 
+
+  
+
+  
+  
+
+Luiwanyau 
+
+Nanjaka RHC 
+  
+Nyantanda Health 
+post 
+Liyolelo RHC 
+
+Luiwanyau 
+Nanjaka RHC 
+  
+Nyantanda Health 
+post 
+
+Chavuma 
+Mongu 
+Senanga  Kataba 
+  
+  
+  
+
+Chavuma 
+
+Mongu 
+
+Liyolelo RHC 
+
+Senanga  Kataba 
+
+Luiwanyau 
+
+Nanjaka RHC 
+  
+
+GRAND TOTAL 
+
+  
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Repair of Mothers 
+shelter 
+Repair of Mothers 
+shelter 
+Repair of Mothers 
+shelter 
+Repair of Mothers 
+shelter 
+  
+
+Repair of Lab 
+Repair of Lab 
+Repair of Lab 
+Repair of Lab 
+Repair of Lab 
+  
+Drilling of 
+Borehole 
+Drilling of 
+Borehole 
+Drilling of 
+Borehole 
+Drilling of 
+Borehole 
+Drilling of 
+Borehole 
+  
+
+860000000    
+
+860000000    
+
+860000000    
+
+860000000    
+
+3440000000 
+
+75000000    
+75000000    
+75000000    
+75000000    
+75000000    
+
+375000000 
+
+45000000    
+
+45000000    
+
+45000000    
+
+45000000    
+
+45000000    
+
+225000000 
+
+27 
+
+0 
+
+0 
+
+860000000 
+
+860000000 
+
+860000000 
+
+860000000 
+3440000000 
+
+75000000 
+75000000 
+75000000 
+75000000 
+75000000 
+375000000 
+
+45000000 
+
+45000000 
+
+45000000 
+
+45000000 
+
+0 
+
+45000000 
+225000000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11,830,000,000  
+
+ 
+
+        
+
+ 
+
+Annex 3: NUTRITION 
+ 
+Problem Statement 
+
+Floods  are  likely  to  cause  numerous  health  and  nutritional  problems  in  the 
+
+country. An anticipated increase in levels of food and nutrition insecurity and 
+
+diseases  related  to  overcrowding  is  inevitable.  The  broad  nutrition  sector 
+
+challenges include the following: 
+
+ 
+
+•  Disruption  of  preventive  health  and  nutrition  services  such  as 
+
+inaccessible  health  facilities  and  inadequate  Growth  Monitoring  and 
+
+promotion  service  points  and  the  resulting  surge  in  demand  at  other 
+
+service  delivery  points  is  likely  to  result  in  shortages  of  essential 
+
+medicines and nutrition supplies and over-stretched health staff.  
+
+  
+
+•  Resultant  household 
+
+food  and  nutrition 
+
+insecurity  will 
+
+lead  to 
+
+malnutrition  and increased  susceptibility  to infectious  and immunizable 
+
+diseases such as measles. 
+
+  
+
+           Activities 
+
+The mitigation measures for Nutrition fall under the broad categories as 
+
+shown in table1 below. 
+
+ 
+
+ 
+
+         Financial Requirements: ZMK3,323,765,850.60(US$664,753.17)  
+
+ 
+
+ 
+Table 10: Nutrition Activity Schedule  
+ 
+
+ACTIVIVTY 
+
+ 
+
+Support 
+to  mitigation  of 
+nutritional  impact  of  floods 
+on  health  (Supportive  visits 
+and  continuous  monitoring 
+and evaluation).  
+of 
+community 
+Training 
+in  Active  Case 
+volunteers 
+Finding  of  malnourished  in 
+the flood affected areas. 
+Training  in  management  of 
+severe  malnutrition  in  the 
+flood  affected  districts  both 
+for  hospital  and  community 
+management 
+of 
+Procurement 
+supplementary 
+and 
+therapeutic  feeds  (HEPS,  F 
+75  and  F100,  RUTF)  for  both 
+malnourished  U  5  children 
+and adults  
+
+GRAND TOTALS 
+
+ 
+
+Resource 
+required 
+
+Resource 
+Avail 
+
+Gap 
+
+Timeframe 
+(2010) 
+
+Q1 
+
+Q
+2 
+
+Q3  Q4 
+
+Comment 
+
+500,000,000 
+
+0 
+
+    500,000,000 
+
+250, 000, 050 
+
+0 
+
+250,000,050 
+
+300, 000, 050 
+
+0 
+
+300,000,050 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2,823,765,751 
+ 
+3,873,765,851 
+ 
+
+0 
+
+2,823,765,751 
+
+3,873,765,851 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Assistance 
+transport 
+required  
+
+with 
+be 
+
+will 
+
+ 
+
+ 
+
+what 
+
+is 
+Currently 
+available  in  the  country 
+routine 
+is 
+for 
+therapeutic 
+services 
+(therapeutic  feeding  for 
+non-complicated cases 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Target 
+ 
+This  plan  targets  the  districts  moderately  or  severely  affected  by  floods.  The 
+
+classification  is  based  on  reports  sent  to  DMMU,  field  reports,  key  informant 
+
+interviews and the in-depth vulnerability assessment.  
+
+ 
+
+Implementing Agency 
+
+ 
+
+The National Food and Nutrition Commission, the Ministry of Health and its various 
+
+Cooperating  partners  operating  in  the  field  of  nutrition  sectors  will  implement  this 
+
+plan. 
+
+ 
+ 
+
+ 
+
+Annex 4: HUMAN SETTLEMENT AND SHELTER  
+
+ 
+
+Problem Statement 
+
+During the 2009/10 rain season, a total of 17 districts experienced floods which led 
+
+to the displacement of a number of households in 15 districts.  
+
+ 
+
+The  vulnerability  of  the  affected  households  was  worsened  by  the  fact  that 
+
+households’  settlements  were  located  in  the  flood  prone  areas  coupled  with  the 
+
+weak housing structures due to weak building materials used which are mainly pole, 
+
+mud and grass.  
+
+ 
+
+Although  the  impact  of  floods  on  human  settlements  was  low  in  terms  of  the 
+
+number  of households  affected,  there is  need  to  reduce  such vulnerability  and  the 
+
+impact  of  floods  by  realigning  the  settlements  located  in  low  lying  areas  prone  to 
+
+flooding to higher and safer lan 
+
+ 
+
+31 
+
+ 
+
+ds. 
+
+ 
+
+Furthermore, there is need to sensitize the vulnerable communities on the dangers 
+
+of settling in flood water channels and the benefits of building better structures on 
+
+higher and safer lands as a permanent solution. 
+
+ 
+
+Activities 
+
+1.  consultations  with local leadership  (traditional  and  district  administration)  on 
+
+identification of safer lands 
+
+2.  acquisition  of  such  safe  lands  to  resettle  the  communities  vulnerable  to 
+
+flooding 
+
+3.  conduct  a  survey  among  the  concerned  communities  to  determine  their 
+
+willingness  to  relocate  to  higher  lands  and  educate  them  on  possible 
+
+livelihood sources 
+
+4.  site preparation of the new settlement 
+
+a.  boundary delineation 
+
+b.  plot demarcation 
+
+c.  road clearing 
+
+d.  borehole drilling 
+
+e.  plot allocation 
+
+f.  resettling of the new settlers 
+
+The  action  plan will  be implemented in two  phases.  The  affected  districts  by  order 
+
+of severity are as follows: - 
+
+ 
+
+Phase I 
+
+In phase 1, districts along the Zambezi River catchments are targeted. These are  
+
+i.  Shangombo’ 
+
+ii.  Senanga 
+
+iii. Mongu 
+
+iv. Sesheke 
+
+ 
+
+ 
+
+32 
+
+ 
+
+Phase II 
+
+In this phase, the following districts are targeted; 
+
+i.  Lukulu 
+
+ii.  Namwala 
+
+iii. Sinazongwe 
+
+Implementation Agency 
+
+a.  The Department of Resettlement in conjunction with the Department of Physical 
+
+Planning and Housing, UN-HABITAT, IOM, District Councils, Red Cross etc. 
+
+b.  DMMU will coordinate the implementation 
+
+ 
+
+Financial  Requirements:  An  estimated  budget  total  of  ZMKK663,  000,000  or 
+
+(US$132,600.00)  will  be  required  to  undertake  the  above  alluded  to  activities  in 
+
+both phases one and two.  
+
+ 
+
+The tables below show the budgets for the implementation of the various activities 
+
+and  the  activity  matrix  that  shall  guide  the  implementation  of  those  activities  in 
+
+terms of time frame. 
+
+After  the  implementation  of  both  phases  one  and  two,  the  department  of 
+
+Resettlement  together  with  other  sector  partners  shall  under  the  coordination and 
+
+funding by the DMMU relocate the affected and targeted households.  
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+33 
+
+ 
+
+Table 11: Human Settlement and Shelter Activity Based Budget 
+ 
+
+  
+
+Activity  
+
+Resources Required 
+
+Resources 
+Available 
+
+Resource Gap 
+
+Identification of Safer Lands for Displaced 
+persons [Phase I] 
+
+A  
+1  Hand Tools 
+2  Protective Wear 
+3  Survey and Mapping 
+4  Printing of Maps 
+6  Allowances 
+7  Petrol Oil and Lubricants 
+   Total For Land Identification 
+
+Identification of Safer Lands for the 
+Displaced Persons [Phase II] 
+
+B 
+   Allowances 
+   Petrol Oil and Lubricants 
+   Community Sensitization on Relocation 
+   Total For Land Identification 
+
+Resettlement of Displaced Persons and 
+Road Infrastructure development 
+
+C 
+   Road Pegging  and Clearing 
+   Road Formation 
+   Monitoring and Evaluation 
+
+Total For Resettlement of Displaced 
+Persons Road Infrastructure 
+Development 
+Water Supply Development in Phases I and 
+II 
+Borehole Tendering 
+6 X Boreholes Sitting and Drilling 
+Total for Water Supply Development 
+
+  
+
+D 
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+   Grand Total  
+
+ 
+
+  
+4,800,000    
+2,300,000    
+5,400,000    
+9,500,000    
+25,000,000    
+16,000,000    
+
+63,000,000 
+
+  
+
+  
+
+  
+
+30,000,000 
+15,000,000 
+30,000,000 
+75,000,000 
+
+90,000,000 
+240,000,000 
+30,000,000 
+
+360,000,000 
+
+15,000,000 
+150,000,000 
+165,000,000 
+
+663,000,000 
+
+34 
+
+  
+
+  
+
+  
+
+  
+
+0 
+
+  
+  
+  
+0 
+
+  
+  
+  
+
+0 
+
+  
+  
+0 
+
+0 
+
+4,800,000 
+2,300,000 
+5,400,000 
+9,500,000 
+25,000,000 
+16,000,000 
+63,000,000 
+
+30,000,000 
+15,000,000 
+30,000,000 
+75,000,000 
+
+90,000,000 
+240,000,000 
+30,000,000 
+
+360,000,000 
+
+15,000,000 
+150,000,000 
+165,000,000 
+
+663,000,000 
+
+ 
+
+ 
+ 
+ 
+Table 12: Human Settlements and shelter Activity Matrix 
+ 
+
+ACTIVITY MATRIX 
+
+  
+
+Phase One 
+[01] 
+
+  
+
+Phase Two 
+[02] 
+
+ 
+ 
+
+  
+
+  
+
+Districts 
+Activity Details 
+Identification of Safer 
+Lands 
+Community 
+Sensitization 
+Procurement of Hand 
+Tools 
+Surveying Area 
+Boundary  
+Layout Planning  
+Plot Demarcation 
+Road Pegging and 
+Clearing 
+Road Formation 
+Borehole Sitting 
+Borehole Drilling 
+
+ 
+
+ 
+e
+k
+e
+h
+s
+e
+S
+ 
+d
+n
+a
+ 
+u
+g
+n
+o
+M
+
+  
+ 
+d
+n
+a
+ 
+e
+w
+g
+n
+o
+z
+a
+n
+S
+ 
+,
+u
+u
+k
+u
+  L
+
+ 
+
+l
+
+i
+
+ 
+d
+n
+a
+ 
+o
+b
+m
+o
+g
+n
+a
+h
+S
+Aug  Sep  Oct  Nov  Dec  Apr  May  Jun  Jul  Aug  Sep 
+
+ 
+ 
+a
+g
+n
+a
+n
+e
+S
+
+ 
+a
+a
+w
+m
+a
+N
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+l
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+35 
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+
+ 
+
+Annex: 5. INFRASTRUCTURE 
+ 
+Problem Situation:  
+Road infrastructure, such as embankments, bridges and culverts, were damaged in 
+some  parts  of  the  country  due  to  heavy  rains  experienced  during  the  2008/9  and 
+2009/10  rainfall  season.  The  hardest  hit  areas  were  Eastern,  Northern,  Western, 
+Lusaka  and  Copperbelt  provinces  of  the  country.  This  has  impacted  negatively  on 
+the social service delivery and economic development. 
+ 
+Rationale 
+
+ 
+
+To  develop  road  infrastructure  sector  reinstatements  to  the  affected  road 
+infrastructure in order to restore accessibility to the affected areas. Therefore, there 
+is need to carryout urgent repairs to ensure that: 
+
+•  Access  to  health  centers,  schools,  market  places  and  agricultural  areas  is   
+
+restored; 
+
+•  The much-needed relief supplies are delivered to the affected communities.  
+
+ 
+Activities  
+ 
+The proposed intervention measures are outlined below: 
+
+•  Repair and installation of washed away culverts; 
+•  Reinstatement  of  washed/eroded  embankments  and  stone  pitching  the 
+
+embankments; 
+
+•  Replacement of rotten timber bridges; 
+•  Reinforcing the existing bridge decks; 
+•  Reinstatement of washed away bridges with permanent structures; 
+•  Provision  of  vented drifts to allow for overtopping; and  
+•  Heavy  dredging  works  using  specialized  machinery  for  the  clearing  and 
+
+construction of channels. 
+
+ 
+Target  
+ 
+The target is to reinstate the following 344 road and drainage structures in the 66 
+districts which experienced severe floods:  
+
+•  Thirty four (34) Bridges;  
+•  Two hundred and Ninety  (290) Culverts; 
+•  Fifteen (15) Embankment structures; and 
+•  Five (05) road sections that have experienced severe erosion.  
+
+ 
+Implementing Agency 
+a.  Road Development Agency 
+b.  Zambia National Service 
+c.  Zambia Army 
+d.  Rural Roads Unit under Buildings Department. 
+
+ 
+
+36 
+
+ 
+
+      
+ 
+Table 13:  Summary of the Number of damaged structures - 2008/09/2009/10  
+ 
+
+No. 
+
+Name of 
+Province  Bridges 
+
+No. of Structures Assessed 
+
+Culverts/Drifts 
+
+Road 
+Sections 
+
+Embankments 
+
+Total No. 
+
+of 
+
+Structures 
+Assessed 
+
+ Estimate Cost 
+Reinstatement 
+
+(ZMK)  
+
+3 
+
+Central 
+
+5 
+
+Copperbelt 
+
+6 
+
+Eastern 
+
+2 
+
+Luapula 
+
+9 
+
+1 
+
+Lusaka 
+North-
+Western 
+
+4  Northern 
+
+7 
+
+Southern 
+
+8  Western 
+
+1 
+
+5 
+
+15 
+
+0 
+
+0 
+
+6 
+
+2 
+
+2 
+
+3 
+
+12 
+
+41 
+
+95 
+
+14 
+
+15 
+
+37 
+
+53 
+
+15 
+
+8 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+3 
+
+0 
+
+2 
+
+0 
+
+0 
+
+2 
+
+0 
+
+0 
+
+0 
+
+5 
+
+ 
+
+1 
+
+7 
+
+13 
+
+48 
+
+           
+
+2,900,000,000.00 
+
+           
+
+4,497,000,000.00 
+
+         
+
+110 
+
+19,758,000,000.00 
+
+14 
+
+15 
+
+51 
+
+55 
+
+19 
+
+18 
+
+3,231,067,546.32 
+
+           
+
+           
+
+6,790,141,600.00 
+
+5,915,000,000.00 
+
+       
+
+         
+
+16,055,000,000.00 
+
+           
+
+29,894,000,000.00 
+
+           
+
+7,956,000,000.00 
+
+     
+
+Total 
+ 
+
+ 
+
+34.0 
+
+290.0 
+
+ 
+
+ 
+
+5.0 
+
+ 
+
+15.0 
+
+ 
+
+344.0 
+
+ 
+
+96,996,209,146.32  
+ 
+
+ 
+
+Table 14: Activity Costs of Infrastructure per Province 
+ 
+ 
+
+No. 
+
+Name of 
+Province 
+
+Cost. of Structures Assessed 
+
+Bridges 
+
+Culverts/Drifts 
+
+Road 
+Sections 
+
+Embankments 
+
+ Estimate Cost 
+Reinstatement 
+
+(ZMK)  
+
+Central 
+
+200,000,000  
+
+2,700,000,000  
+
+           
+
+         
+
+           
+
+           
+
+Copperbelt 
+
+600,000,000  
+
+3,805,000,000  
+
+Eastern 
+
+3,800,000,000  
+
+15,958,000,000  
+
+        
+
+         
+
+        
+
+           
+
+Luapula 
+
+1,202,000,000  
+
+2,029,067,546  
+
+Lusaka 
+
+6,790,141,600  
+
+         
+-   
+           
+
+           
+
+           
+
+North-Western 
+
+885,000,000  
+
+4,275,000,000  
+
+170,000,000  
+
+585,000,000  
+
+5,915,000,000  
+
+Northern 
+
+1,160,000,000  
+
+13,645,000,000  
+
+        
+
+         
+
+           
+
+           
+
+1,250,000,000  
+
+16,055,000,000  
+
+      
+
+      
+
+         
+
+        
+
+Southern 
+
+25,300,000,000  
+
+4,044,000,000  
+
+350,000,000  
+
+200,000,000  
+
+4,894,000,000  
+
+Western 
+
+1,340,000,000  
+
+1,835,000,000  
+
+Total 
+
+34,487,000,000  
+
+55,081,209,146  
+
+        
+
+     
+
+           
+
+                   
+-   
+  
+520,000,000  
+
+4,781,000,000  
+   
+6,908,000,000  
+
+      
+
+7,956,000,000  
+   
+96,996,209,146  
+
+      
+
+        
+
+92,000,000  
+
+4,497,000,000  
+
+                       
+-   
+          
+
+2,900,000,000  
+
+        
+
+        
+
+19,758,000,000  
+
+                       
+-   
+                       
+-   
+                       
+-   
+         
+
+3,231,067,546  
+
+6,790,141,600  
+
+      
+
+        
+
+        
+
+        
+
+                   
+-   
+                   
+-   
+                   
+-   
+                   
+-   
+                   
+-   
+     
+
+                   
+-   
+     
+
+3 
+
+5 
+
+6 
+
+2 
+
+9 
+
+1 
+
+4 
+
+7 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Table 15: Infrastructure Activity Matrix 
+
+ 
+
+ 
+
+Type of 
+
+Structure 
+
+Activity 
+
+Resources Required  
+
+(ZMK) 
+
+Resources 
+Available 
+
+(ZMK) 
+
+GAP                     
+
+(ZMK) 
+
+Bridges 
+
+Culverts 
+
+Embankments 
+
+Road Sections 
+
+ Repairs to Washed Away 
+and construction of new 
+Bridges   
+
+ Repair Works to Damaged 
+Culverts/Drifts and 
+Installation of New 
+Culverts/Drifts   
+Reinstatement of 
+washed/eroded 
+embankments and stone 
+pitching 
+
+Reinstatement of 
+washed/eroded road 
+sections 
+
+GRAND TOTAL 
+
+ 
+
+ 
+
+Total Financial Requirement: ZMK  
+
+34,487,000,000.00  
+
+                    
+
+                                
+-    
+
+34,487,000,000.00  
+
+                
+
+55,081,209,146.00  
+
+                  
+
+                                
+-    
+
+6,908,000,000.00  
+
+                    
+
+  
+
+520,000,000.00  
+
+                  
+
+  
+
+  
+
+              
+
+96,996,209,146.00  
+
+ 
+          
+96,476,209,146.00    
+
+ 
+
+55,081,209,146.00  
+
+    
+
+6,908,000,000.00  
+
+                
+
+520,000,000.00  
+
+96,476,209,146.00  
+
+          
+
+ 
+
+ 
+
+ 
+NOTE 
+The Annual Work Plan 2010 for the RDA allowed for an amount of 3.549 Billion Kwacha for emergencies which has since been used 
+and exhausted for other major emergencies on the Maamba – Batoka road in Southern province and reinstatement of culverts in 
+Western, Northern, Lusaka, Central and North – western Provinces.  
+ 
+The projects were listed in order of priority from all the districts. The first three were taken as priority 1, 2, and 3 if the district had 
+more than three projects the process was repeated for the remaining ones until all projects were classified. 
+ 
+
+ 
+
+39 
+
+ 
+
+Table 16: Infrastructure Priority Cost List Per Province 
+ 
+
+ 
+
+No. 
+
+Province 
+
+7 
+
+2 
+
+5 
+
+6 
+
+8 
+
+1 
+
+4 
+
+3 
+
+Central 
+
+Copperbelt  
+
+Eastern  
+
+Luapula 
+
+Lusaka 
+
+North-Western 
+
+Northern  
+
+Southern  
+
+9  Western 
+
+ Bridges  
+
+ Culverts/Drifts  
+
+ Priority 1  
+
+ Priority 2  
+
+ Priority 3  
+
+Overall Cost (ZMK) 
+
+1,740,000,000.00  
+
+680,000,000.00  
+
+                
+
+                   
+
+                             
+480,000,000.00  
+
+2,900,000,000.00  
+
+                           
+
+                
+
+                
+
+                           
+
+                           
+
+2,140,000,000.00  
+
+1,167,000,000.00  
+
+1,190,000,000.00  
+
+4,497,000,000.00  
+
+5,907,000,000.00  
+
+6,004,000,000.00  
+
+7,847,000,000.00  
+
+19,758,000,000.00  
+
+                
+
+                
+
+                           
+
+                         
+
+                
+
+                
+
+                             
+
+                           
+
+1,128,727,108.74  
+
+1,373,167,763.66  
+
+729,172,673.92  
+
+3,231,067,546.32  
+
+                
+
+                
+
+                           
+
+                           
+
+2,210,000,000.00  
+
+2,828,764,000.00  
+
+1,751,377,600.00  
+
+6,790,141,600.00  
+
+                
+
+                
+
+                           
+
+                           
+
+1,865,000,000.00  
+
+2,385,000,000.00  
+
+1,665,000,000.00  
+
+5,915,000,000.00  
+
+                
+
+                
+
+                           
+
+                         
+
+5,925,000,000.00  
+
+6,150,000,000.00  
+
+3,980,000,000.00  
+
+16,055,000,000.00  
+
+                
+
+                
+
+                             
+
+                           
+
+2,300,000,000.00  
+
+1,796,000,000.00  
+
+798,000,000.00  
+
+4,894,000,000.00  
+
+                
+
+                
+
+                             
+
+                           
+
+5,146,000,000.00  
+
+2,310,000,000.00  
+
+500,000,000.00  
+
+7,956,000,000.00  
+
+Cost Per Activity 
+
+   
+53,361,727,108.74  
+
+   
+24,693,931,763.66  
+
+             
+18,940,550,273.92  
+
+             
+96,996,209,146.32  
+
+ 
+ 
+ 
+ 
+
+ 
+
+40 
+
+ 
+
+ 
+Table 17: Infrastructure Implementation Schedule 
+ 
+
+Activity 
+
+No. 
+
+Activity 
+
+2010 
+
+2011 
+
+Aug  Sept  Oct  Nov  Dec  Jan  Feb  Mar  Apr  May  June  July   Aug  Sep  Oct  Nov 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Repairs  to  Washed 
+Away Bridges 
+
+Construction of New 
+Bridge Structures 
+(Permanent) 
+Repair Works to 
+Damaged 
+Culverts/Drifts 
+
+Installation of New 
+Culverts/Drifts 
+
+Reinstatement of 
+washed/eroded 
+embankments and 
+stone pitching 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+ 
+ 
+
+ 
+
+41 
+
+ 
+
+Annex 6: SOCIAL PROTECTION 
+ 
+
+Problem statement and rationale 
+
+The  assessment  established  that  the  communities  were  affected  by  the  disasters 
+
+and  this  compounded  their  vulnerability  and  poverty  situation.  The  supportive 
+
+mechanisms  on  which  the  families  depend  on  were  affected  and  there  were 
+
+reported cases of gender based violence and child abuse during the disaster among 
+
+the  assessed  districts.    Further,  the  communities  reported  that  the  exiting 
+
+institutions  and  NGOs  were  not  with  the  vicinity  to  report  cases  of  gender  based 
+
+violence and child abuse. 
+
+  
+
+Social protection should ideally seek to reduce people’s vulnerability and poverty as 
+
+well as prevent and put an end to violence, exploitation and abuse against children, 
+
+women and other vulnerable groups during an emergency. This should be done by 
+
+strengthening  the  ability  of  individuals  and  families  to  protect  themselves  from 
+
+future  threats  thereby  laying  the  foundation  for  lasting  security  and  stability. 
+
+Individuals and families will only be able protect themselves if all stakeholders and 
+
+child  protection  workers  endeavor  to  create  a  protective  environment  which  will 
+
+warrant protection in emergency situations.  
+
+ 
+
+Activities 
+
+The mitigation measures for the Protection sector will include the following: 
+
+•  Prevention - Initiate and promote family and community level safety 
+
+•  Awareness raising on children’s and women’s rights 
+
+•  Psychosocial support 
+
+•  Empowerment of families 
+
+ 
+
+All activities will be centered on creating a protective environment for children and 
+
+their families. 
+
+ 
+
+ 
+
+Implementing Agencies 
+
+•  Ministry of Community Development and Social Services 
+
+•  Ministry of Local Government and Housing 
+
+•  Ministry of Health 
+
+•  Ministry of Home Affairs 
+
+•  Ministry of Labour and Social Security 
+
+•  Gender in Development Division  
+
+•  Cooperating Partners 
+
+•  Private Sector 
+
+•  Non Governmental Organizations 
+
+ 
+
+Financial Requirements: K4, 627,500,000.00 (US$ 925,500)  
+ 
+ 
+
+ 
+
+43 
+
+ 
+
+ 
+Table 18: Social Protection Activity Budget 
+ 
+
+Province  District 
+
+ Affected 
+Population  
+
+ Awareness 
+raising  
+
+ Empowerment  
+
+  
+
+  
+
+  
+
+ cost  
+
+                    
+
+Central 
+
+Serenje 
+
+192,858  
+
+120,000,000.00  
+
+Lusaka 
+
+Kafue 
+
+213,020  
+
+150,000,000.00  
+
+                    
+
+                       
+
+29,514  
+
+50,000,000.00  
+
+                       
+
+40,962  
+
+150,000,000.00  
+
+Luangwa 
+
+  
+North 
+Western  Chavuma 
+
+Eastern  Mambwe 
+
+66,374  
+
+185,000,000.00  
+
+Western  Kalabo 
+
+149,203  
+
+140,000,000.00  
+
+214,953  
+
+175,000,000.00  
+
+                
+
+                       
+
+                       
+
+                       
+
+                       
+
+                       
+
+ cost  
+                       
+130,000,000.00  
+                          
+90,000,000.00  
+                          
+                          
+60,000,000.00  
+                       
+110,000,000.00  
+                       
+150,000,000.00  
+                       
+170,000,000.00  
+                       
+140,000,000.00  
+                       
+150,000,000.00  
+                       
+130,000,000.00  
+                       
+140,000,000.00  
+                       
+120,000,000.00  
+                       
+100,000,000.00  
+                          
+80,000,000.00  
+                       
+110,000,000.00  
+                       
+120,000,000.00  
+                    
+1,800,000,000.00  
+
+ Psychosocial 
+support  
+
+ cost  
+
+Total (ZMK) 
+
+cost 
+
+                      
+
+60,000,000.00  
+
+310,000,000.00 
+
+75,000,000.00  
+
+315,000,000.00 
+
+                      
+
+                
+
+25,000,000.00  
+
+135,000,000.00 
+
+                      
+
+75,000,000.00  
+
+335,000,000.00 
+
+                      
+
+90,000,000.00  
+
+425,000,000.00 
+
+75,000,000.00  
+
+385,000,000.00 
+
+                      
+
+                      
+
+90,000,000.00  
+
+405,000,000.00 
+
+                      
+
+25,000,000.00  
+
+245,000,000.00 
+
+40,000,000.00  
+
+290,000,000.00 
+
+                      
+
+40,000,000.00  
+
+330,000,000.00 
+
+                      
+
+                      
+
+60,000,000.00  
+
+270,000,000.00 
+
+75,000,000.00  
+
+285,000,000.00 
+
+                      
+
+                      
+
+37,500,000.00  
+
+267,500,000.00 
+
+75,000,000.00  
+
+255,000,000.00 
+
+                      
+
+80,000,000.00  
+
+375,000,000.00 
+
+                      
+
+                   
+922,500,000.00  
+
+4,627,500,000.00 
+
+                    
+
+                    
+
+                    
+
+             
+
+                  
+
+                       
+
+                    
+
+                    
+
+                          
+70,000,000.00  
+                       
+120,000,000.00  
+                       
+150,000,000.00  
+                          
+90,000,000.00  
+                       
+110,000,000.00  
+                       
+150,000,000.00  
+                          
+70,000,000.00  
+                       
+175,000,000.00  
+                    
+1,905,000,000.00  
+
+                    
+
+                    
+
+                       
+
+Mongu 
+
+Lukulu 
+
+93,874  
+
+Senanga 
+
+141,625  
+
+Sesheke 
+
+102,025  
+
+Shang'ombe 
+
+92,653  
+
+Gwembe 
+
+49,568  
+
+Sinazongwe 
+
+120,375  
+
+Namwala 
+
+127,735  
+
+Southern  Kazungula 
+
+98,475  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Total 
+
+  
+
+  
+
+ 
+
+ 
+Table 19: Social Protection Implementation Schedule 2010 - 2011 
+ 
+
+Jan  
+ 1 
+
+Feb  
+
+Mar  
+
+April  
+
+May  
+
+Jun  
+
+July  
+
+Aug  
+
+Sept  
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+Oct  
+10 
+
+Nov 
+11 
+
+Dec  
+12 
+
+Months 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+45 
+
+Activity 
+
+ 
+Awareness Raising 
+ 
+Capacity building of 
+Stakeholders 
+Empowerment of 
+Families 
+Psychosocial 
+support 
+Construction of One 
+stop Centres 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+Monitoring of 
+Protection Activities     
+
+ 
+
+ 
+
+ 
+
+Annex 7: WATER AND SANITATION 
+ 
+ 
+Problem Statement and Rationale 
+ 
+
+During the  2009/10  floods,  13.4%  of  the  protected  water  sources  commonly used 
+
+for domestic purposes was affected by the floods resulting in communities drawing 
+
+water  from  unprotected  water  sources  as  the  alternative.  Those  that  continued  to 
+
+use  the  affected  protected  water  sources  were  still  drawing  unsafe  or  potentially 
+
+unsafe  water  as  the  quality  of  the  water  these  affected  sources  produced  went 
+
+significantly down.  
+
+ 
+
+From the assessment, it is also revealed that 40.6% of the latrines in the affected 
+
+areas collapsed due to the floods. Only 47.6% of the communities wash their hands 
+
+with  soap.  This  is  assumed  to  have  resulted  in  contributing  to  the  increased 
+
+occurrence of water borne diseases 
+
+ 
+
+It is therefore necessary that the damaged water facilities are urgently rehabilitated. 
+
+Furthermore, the affected communities should be sensitized on hand washing with 
+
+soap, water treatment and proper hygiene practices. It is also necessary to provide 
+
+chlorine for treatment of drinking water.  
+
+ 
+
+Activities 
+
+ 
+
+The sector will address household level and community water safety and awareness 
+
+raising  on  improved  sanitary  disposal  and  hygiene  practices.  Apart  from  a  few 
+
+minor  alterations  as  explained  in  the  report,  very  little  was  done  during  the 
+
+2008/09  floods  on  the  work  plan  and  the  identified  mitigating  measures.  Most  of 
+
+the identified measures are still not adequately addressed, therefore the mitigation 
+
+measures for Water & Sanitation save for a few additions are as shown in the table 
+
+below;  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECTOR 
+Water and 
+sanitation 
+
+infrastructure 
+
+(rehabilitation 
+
+(boreholes)  and  sanitation 
+and 
+
+ACTIVITY 
+Water and Sanitation 
+Provision  of  safe  water  to  affected  communities                   
+(Household Chlorine, HTH Chlorine)  
+Provision  of  water 
+(latrines) 
+sinking/digging of new ones) 
+Provision of water storage containers. 
+Improvement of water sources 
+Improvement of sanitation facilities 
+Training and Sensitisation 
+Hygiene promoters and V-WASHE committees 
+Water  quality  &  quantity  monitoring,  proper  usage  of 
+home  chlorination  and  HTH,  management  of  water 
+and  sanitation  facilities  and  safe  excreta  disposal, 
+hand washing with soap. 
+Proper garbage handling and disposal 
+Monitoring and Evaluation 
+
+  
+
+The  activities  will  include  supply  of  chlorine  for  treatment  of  domestic  water, 
+granular  chlorine  for  communal  water  sources  and  strengthening  community 
+sensitization programmes on public health and hygiene, drilling and rehabilitation of 
+water  facilities  to  ensure  access  to  safe  drinking  water  and  promotion  of 
+construction of adequate sanitary facilities and hand washing with soap. 
+ 
+Implementing Agencies 
+ 
+
+•  Ministry of Local Government and Housing 
+•  Ministry of Energy and Water Development 
+•  Cooperating Partners 
+•  Private Sector 
+•  Non Governmental Organizations 
+
+ 
+ 
+Financial Requirements: ZMK 3,256,376,000 (approx US$680,000)  
+
+ 
+
+47 
+
+ 
+
+Table 20: Water and Sanitation Activity Budget and Schedule 2009 – 2010 (Requirements by 
+District) 
+
+ 
+
+Water 
+
+Sanitation 
+
+Water Quality 
+
+ 
+
+Affected 
+
+Population 
+
+Boreholes with 
+handpumps10% 
+
+of need 
+
+Total Cost 
+
+Total Cost 
+
+Chlorine 
+(bottles) 
+
+Chlorine cost 
+
+(K1000/bottle) 
+
+Granular 
+Chlorine 
+
+(HTH) 
+(50Kg) 
+
+HTH cost 
+
+20litre 
+
+(K800,000/50Kg) 
+
+Containers 
+
+Container cost 
+(K20,000/cont) 
+
+Ordinary 
+
+Pit 
+
+Latrines 
+10% of 
+
+need 
+
+ 
+
+50 
+
+ 
+
+160 
+
+ 
+
+ 
+
+30,000,000.00 
+
+120,000,000.00 
+
+ 
+
+ 
+
+ 
+
+25,000,000.00 
+
+675 
+
+675,000.00 
+
+80,000,000.00 
+
+330 
+
+330,000.00 
+
+30,000.000.00 
+
+20 
+
+10,000,000.00 
+
+45 
+
+45,000.00 
+
+30,000.000.00 
+
+35 
+
+18,500,000.00 
+
+66 
+
+66,000.00 
+
+30,000,000.00 
+
+40 
+
+20,000,0000.00 
+
+81 
+
+81,000.00 
+
+60,000,000.00 
+
+80 
+
+40,000,000.00 
+
+150 
+
+150,000.00 
+
+60,000,000.00 
+
+100 
+
+50,000,000.00 
+
+210 
+
+210,000.00 
+
+60,000,000.00 
+
+1 
+
+500,000.00 
+
+100 
+
+500,000.00 
+
+90,000,000.00 
+
+120 
+
+160,000,000.00 
+
+264 
+
+264,000.00 
+
+60,000,000.00 
+
+80 
+
+40,000,000.00 
+
+151 
+
+151,000.00 
+
+120,000,000.00 
+
+180 
+
+90,000,000.00 
+
+342 
+
+342,000.00 
+
+90,000,000.00 
+
+150 
+
+75,000,000.00 
+
+233 
+
+233,000.00 
+
+60,000,000.00 
+
+60,000,000.00 
+
+30,000,000.00 
+
+80 
+
+80 
+
+40 
+
+40,000,000.00 
+
+151 
+
+151,000.00 
+
+40,000,000.00 
+
+148 
+
+148,000.00 
+
+20,000,000.00 
+
+110 
+
+110,000.00 
+
+ 
+
+ 
+
+ 
+
+Serenje 
+
+3,258 
+
+  Mambwe 
+
+9,800 
+
+ 
+
+Kafue 
+
+1,373 
+
+Luangwa 
+
+2,380 
+
+ 
+
+Chavuma 
+
+2,445 
+
+Gwembe 
+
+4,748 
+
+Kazungula 
+
+6,300 
+
+Namwala 
+
+631 
+
+Sinazongwe 
+
+7,345 
+
+ 
+
+Kalabo 
+
+4,634 
+
+Lukulu 
+
+10,267 
+
+Mongu 
+
+6,997 
+
+Senanga 
+
+4,728 
+
+ 
+
+Sesheke 
+
+4,575 
+
+Shangombo 
+
+3,258 
+
+ 
+
+1 
+
+4 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+2 
+
+3 
+
+2 
+
+4 
+
+3 
+
+2 
+
+2 
+
+1 
+
+ 
+
+1 
+
+3 
+
+1 
+
+1 
+
+1 
+
+2 
+
+2 
+
+1 
+
+2 
+
+1 
+
+4 
+
+2 
+
+2 
+
+2 
+
+1 
+
+ 
+
+ 
+
+ 
+
+800,000.00 
+
+1,629 
+
+24,435,000 
+
+2,400,000.00 
+
+4,900 
+
+73,500,000 
+
+800,000.00 
+
+686.5 
+
+10,297,500 
+
+800,0000.00 
+
+1,190 
+
+17,850,000 
+
+800,0000.00 
+
+1,222.5 
+
+18,337,500 
+
+1,600,000.00 
+
+2,374 
+
+35,610,000 
+
+1,600,000.00 
+
+3,150 
+
+47,250,000 
+
+800,0000.00, 
+
+315 
+
+4,725,000 
+
+1,600,000.00 
+
+3,672 
+
+55,080,000 
+
+800,000.00 
+
+2,317 
+
+34,755,000 
+
+3,200,000.00 
+
+5,133.5 
+
+77,002,500 
+
+1,600,000.00 
+
+3,498 
+
+52,470,000 
+
+1,600,000.00 
+
+2,364 
+
+35,460,000 
+
+1,600,000.00 
+
+2,287.5 
+
+34,312,500 
+
+800,000.00 
+
+1,629 
+
+24,435,000 
+
+TOTALS 
+
+72,739 
+
+31 
+
+870,000,000 
+
+1,216 
+
+889,000,000 
+
+3,056 
+
+3,456,000 
+
+26 
+
+34,400,000 
+
+36,368 
+
+545,520,000 
+
+48 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost 
+
+ 
+Additional Budget for the affected areas 
+Activity 
+Rehabilitation of water infrastructure* 
+Rehabilitation of sanitation infrastructure* 
+Training and Sensitization 
+Monitoring and Evaluation 
+Total 
+*Rehabilitation of approximately 1328 water points and 1600 latrines 
+ 
+The estimated Total Budget for Water and Sanitation for the period (July 2010 to 
+June 2011) is ZMK 3,256,376,000  
+ 
+Note: The estimate for chlorine is for 1 month only thereafter it is hoped that the 
+households will be able to buy the chlorine on their own.  
+ 
+
+664,000,000 
+160,000,000 
+60,000,000 
+30,000,000 
+914,000,000 
+
+ 
+
+49 
+
+ 
+
+ 
+ 
+ 
+Table 21: Water and Sanitation Activity Schedule 
+ 
+
+S/N 
+
+Activity  month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+month 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+Time Frame 
+
+  
+
+  
+
+Training of V-
+WASHE 
+Training of 
+hygiene  
+Promoters 
+Delivery of 
+Materials 
+(containers, 
+chlorine) 
+Chlorine 
+promotion   
+sensitization 
+Construction 
+and 
+equipping  of 
+boreholes 
+Construction 
+of Pit Latrines   
+Rehabilitation 
+of water  and    
+sanitation 
+facilities  
+Monitoring 
+and 
+Evaluation 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+ 
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+50 
+
+

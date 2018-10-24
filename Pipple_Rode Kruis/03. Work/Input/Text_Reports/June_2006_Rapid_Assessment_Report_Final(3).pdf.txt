@@ -1,0 +1,5477 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+TABLE OF CONTENTS ................................................................................................................................. I 
+
+ACKNOWLEDGEMENTS ...................................................................................................................... II 
+
+EXECUTIVE SUMMARY ...................................................................................................................... III 
+
+1. 
+
+INTRODUCTION ............................................................................................................................... 1 
+
+1.1  BACKGROUND............................................................................................................................ 1 
+1.2 
+JUSTIFICATION OF THE ASSESSMENT ......................................................................................... 1 
+1.3  GENERAL OBJECTIVE OF THE ASSESSMENT .............................................................................. 1 
+1.3.1  Specific Assessment Objectives .................................................................................. 1 
+1.4  LIMITATIONS .............................................................................................................................. 1 
+1.5  METHODS AND PROCEDURES .................................................................................................... 2 
+
+2.  CONTEXT .......................................................................................................................................... 3 
+
+2.1  RAINFALL ................................................................................................................................... 3 
+2.2 
+INPUT DISTRIBUTION .................................................................................................................. 3 
+2.3  FOOD SUPPLY AND ACCESS ...................................................................................................... 4 
+2.4  HEALTH AND NUTRITION ............................................................................................................ 5 
+
+3.  FINDINGS .......................................................................................................................................... 5 
+
+3.1  MAIN LIVELIHOODS .................................................................................................................... 5 
+3.2  OWN PRODUCTION .................................................................................................................... 7 
+3.3  SALE OF CROPS ......................................................................................................................... 7 
+3.4  FISHING AND LIVESTOCK ............................................................................................................ 7 
+3.5  FOOD SECURITY ........................................................................................................................ 8 
+3.5.1  Availability ...................................................................................................................... 8 
+3.5.2  Access  9 
+ HEALTH AND NUTRITION ......................................................................................................... 11 
+3.6.1  Health  11 
+
+3.6  
+
+3.7  NUTRITION ............................................................................................................................... 12 
+3.7.1  Vitamin A Coverage .................................................................................................... 12 
+3.7.2  Number of Meals ......................................................................................................... 12 
+3.7.3  Food Frequency Per week ......................................................................................... 13 
+3.8  WATER AND SANITATION .......................................................................................................... 14 
+
+3.8.1  Water  14 
+3.8.2  SANITATION ............................................................................................................... 14 
+INFRA STRUCTURE ................................................................................................................... 15 
+
+3.9  
+
+4.0  CONCLUSION................................................................................................................................. 15 
+
+5.   RECOMMENDATIONS .................................................................................................................. 16 
+
+5.1 FOOD BASED INTERVENTIONS IN THE SHORT TERM....................................................................... 16 
+5.2 NON FOOD BASED INTERVENTIONS IN THE SHORT TERM ............................................................... 16 
+5.3 MEDIUM AND LONG TERM INTERVENTIONS ................................................................................... 16 
+ANNEX 1. REPORT WRITING AND EDITORIAL TEAM .............................................................................. 18 
+
+ 
+
+ 
+
+ 
+
+i
+
+ 
+
+ACKNOWLEDGEMENTS 
+
+ 
+ 
+The  Zambia  Vulnerability  Assessment  Committee  (ZVAC)  wishes  to  thank the following 
+institutions for participating in the assessment: 
+
+ 
+•  CARE International 
+•  Catholic Relief Service (CRS) 
+•  Central Statistical Office (CSO) 
+•  Disaster Management and Mitigation Unit, Office of the Vice President 
+
+(DMMU) 
+
+•  Famine Early Warning Systems Network (FEWSNET) 
+•  Ministry of Agriculture and Cooperatives (MACO) 
+•  Meteorological Department (MET) 
+•  National Food and Nutrition Commission (NFNC) 
+•  The World Food Program (WFP) 
+•  Food and Agriculture Organization (FAO) 
+•  Ministry of Local Government 
+•  Department of Water Affairs 
+
+ 
+ 
+The  VAC  is  grateful  for  financial  support  from  the  Zambian  Government  through  the 
+DMMU,  OXFAM  and  the  Regional  VAC  Office.  The  National  VAC  is  thankful  for  the 
+logistical support rendered by the WFP, FEWS NET and DMMU.  
+ 
+The  VAC  also  wishes  to  express  gratitude  to  the  district officers  who  accompanied  the 
+teams  for  fieldwork.  Lastly,  but  not  the  least,  the  VAC  wishes  to  thank  participating 
+households  and  the  communities,  who  without their  cooperation,  the  assessment  would 
+not have been conducted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ii
+
+EXECUTIVE SUMMARY 
+
+ 
+Major findings 
+ 
+The 2005/06 production season was generally good though characterized by excessive 
+rains in some parts of the country which resulted in flooding of some low lying areas. The 
+greatest adverse effect of the rains was on infrastructure especially roads, culverts and 
+bridges. The adverse impact on other livelihoods was mostly moderate.  
+ 
+Most feeder roads became temporarily inaccessible; this coupled with the severely 
+damaged bridges had multiple effects such as disruption of relief distribution in some 
+areas and cutting off access to markets which supply commodities to the affected areas. 
+This resulted in commodity shortage and therefore increased prices.  
+ 
+Excessive rains caused flash floods in low lying areas and a few upland areas while 
+washing away some crops along river banks. However, the upland crop generally 
+performed well. Part of the crop loss in affected areas was due to damage by wild 
+animals (e.g. elephants, monkeys). The few districts (Siavonga, Shang’ombo, Sesheke, 
+Kafue, Livingstone, Luangwa and Kazungula) with deficit staple food are all normal low 
+producing areas with high dependency on neighbouring surplus markets. The steep drop 
+in maize prices in all assessed districts implies an improvement in access to the staple 
+food for those who rely on markets.  Increased sale of maize by small scale farmers at 
+very low prices due to lack of alternative competitive markets is a major concern. The 
+season was favourable for livestock due to good pasture and easy access to water. In 
+view of this, few disease incidences were reported. However, foot and mouth disease is 
+of concern in Itezhi-tezhi, Namwala, Shang’ombo and Kazungula Districts. 
+ 
+With the increased food availability and access, meal frequency has substantially 
+improved as most assessed households are currently consuming three meals per day. 
+However, food diversity is still a major problem as most assessed households are still 
+consuming mostly staple food with vegetables at harvest time. Disease incidence was 
+found to be high among assessed households who had under-five children partly due to 
+poor water and sanitation facilities.  
+  
+Recommendations 
+ 
+
+•  With improved staple food availability and access, the country should move out of 
+the emergency mode. Isolated food problems in some of visited districts should be 
+handled under ongoing developmental programs. 
+ Input  support  should  be  considered  for  wetland areas  to  enable farmers  whose 
+crops were washed away produce a second crop.  
+
+• 
+
+•  The FRA purchase program should be enhanced, while WFP should revitalize its 
+
+local purchase program to provide an alternative market for farmers.  
+
+•  There is need to strengthen health and nutrition education as it pertains to dietary 
+
+intake and disease prevention.  
+
+•  Road rehabilitation as part of developmental projects should be considered while 
+
+Government road rehabilitation and maintenance should be enhanced. 
+
+ 
+  
+ 
+ 
+ 
+  
+ 
+
+ 
+
+iii
+
+INTRODUCTION 
+
+1. 
+ 
+1.1  Background 
+ 
+The 2005/06 agricultural season was generally good with widespread rainfall. Despite the 
+timely onset of rains in most parts of the country, northern parts as well as a few parts of 
+the Eastern Province experienced late onset. By early January 2006, most of the country 
+had  received  substantial  amounts  of  rainfall  which  resulted  into  some  low  lying  areas 
+experiencing flash floods.  In view  of  the possible  negative impact  of  adverse  rainfall  on 
+general  livelihoods  and  as  a  follow-up  to  the  recommendations  from  the  VAC  Phase 
+down  exercise  conducted  in  April  2006  using  desk  top  analysis  this,  rapid  assessment 
+was  conducted  in  20  districts  which  were  identified  as  having  potential  food  insecurity 
+problems (see annex 2). 
+ 
+ 
+ 
+1.2  Justification of the Assessment 
+ 
+The  assessment  was  undertaken  in  order  to  ascertain  whether  the  districts  (two  thirds) 
+which  were  adversely  affected  by  the  drought  during  the  2004/05  season  still  have 
+pockets  of  population  vulnerable  to  livelihood  threats  such  as  food  insecurity,  health 
+problems associated with lack of access to good sanitary facilities as well as clean and 
+safe  drinking  water.  Other  livelihood  threats  considered  include  economic  related  one 
+such as market disturbances which was as a result of adverse impact of 2005/06 rainfall 
+on roads leading to main markets.  
+ 
+1.3  General Objective of the Assessment 
+
+ 
+To establish the effects of varied rainfall on livelihoods  
+ 
+
+ 
+
+1.3.1  Specific Assessment Objectives 
+
+•  To determine the effects of varied rainfall on Health and Nutrition, 
+
+  
+ 
+
+ 
+
+• 
+
+• 
+
+  WATSAN, Markets, Infrastructure, Crops and Livestock Production. 
+
+ To determine the food and non-food needs. 
+
+ To recommend appropriate response options. 
+
+ 
+1.4  Limitations 
+ 
+Major constraints faced by the assessment teams were; 
+
+Inaccessibility to some target areas due to poor road infrastructure.  
+
+o 
+o  Time  constraint  that limited  the coverage  as  well  as  number  of  discussions  with 
+
+the communities. 
+
+o  Conflicts  in  the  timing  of  food  distributions  versus  time  of  interviews  in  some 
+
+districts visited. 
+
+o  Use of household information for  cross  tabulation  with information  coming  out of 
+the  district  and  community  interviews  rather  than  using  weights  to  blow  the 
+samples for adequate district representation.  
+
+ 
+ 
+ 
+
+ 
+
+1
+
+1.5  Methods and procedures 
+ 
+The assessment was conducted using a combination of qualitative and quantitative 
+approaches. In the qualitative component, key informant interviews were conducted at 
+district level with the District Disaster Management Committee members. During the key 
+informant interviews, worst, moderate and least affected wards in terms of the impact of 
+2005/06 rainfall on livelihood were identified. In each of the identified wards, a focus 
+group discussion was conducted with community key informants. While conducting the 
+interviews, a judgment based approach (intelligent observations) was employed. 
+ 
+To supplement the key informant and focus group interviews, the household 
+questionnaire approach was conducted in each of the identified wards representing the 
+three categories (worst, moderate and least affected respectively). A total of 932 
+households were purposively sampled in the twenty visited districts. To avoid bias, the 
+household selection process was done in a circular manner with a household sampling 
+interval of five (5).  
+ 
+To establish the capacity of individual households to meet their dietary needs based on 
+energy immediately available from own production of all cereals, per capita kilocalorie 
+levels based on requirement per person (70% of 2100), was determined using the 
+following formula; 
+ 
+
+(X MT maize *3450000/MT+ X MT sorghum *3550000/MT+ X MT millet *3360000/MT+ X MT Rice * 3350000)* 100% 
+
+1470 kcal *district population * 365days (annual desirable energy) 
+
+ 
+ 
+The analytical framework above was used to determine energy surplus and/or 
+deficiencies from the available cereals from own production.  
+ 
+ 
+To  determine  the  incidences  of  major  childhood  illnesses  which  cause  mortality,  a  two 
+week recall on disease incidence among under-fives such as diarrhoea, fever/malaria and 
+cough/difficulties  in  breathing  was  given  by  caretakers  from  some  of  the  932  sampled 
+households  which  had  under  five  children  at  the  time  of  the  assessment.  Using  the 
+following case definitions, assessment of the incidence of morbidity among children was 
+done;  
+
+♦  Diarrhoea:  3 or more liquid watery stools per day 
+♦  Fever:  temperature, indicative of possible malaria 
+♦  Cough/difficulties  in  breathing:    indicative  of  lack  of  access  to  adequate  hygiene 
+
+practices 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+2
+
+2.  CONTEXT  
+
+ 
+
+Rainfall 
+
+Input Distribution 
+
+2.1 
+ 
+The 2005/06 rainy season started early in most parts of the country with the exception of 
+northern  parts  (Luapula  and  Northern  Provinces)  as  well  as  a  few    parts  of  Eastern 
+Province.  The  first  two  dekads  of  November  2005  were  relatively  dry,  however  by  the 
+third dekad, significant amounts of rain fell over most parts of the country. By the end of 
+December 2005, most parts of the country had already received normal to above normal 
+rainfall  which  resulted  in  flooding  in  some  low  lying  areas  and  water  logging  in  some 
+plateau areas. 
+ 
+2.2 
+ 
+The input support program targeting small scale farmers with subsidized inputs has been 
+running since 2000/01 production season  with the major implementers being Ministry of 
+Agriculture  and  Co-operatives  (MACO),  Program  Against  Malnutrition  (PAM)  and  FAO. 
+During the 2005/06 season, the number of beneficiaries targeted increased on account of 
+the  relatively  poor  crop  performance  during  the  2004/05  production  season-Table  2-1. 
+The MACO Fertiliser Support Programme targeted 125,000 households with maize seed 
+and fertiliser to cultivate one hectare of maize per household. This represents an increase 
+of 9% with respect to the previous season.  
+ 
+ 
+Table 2-1. Input Distribution through Support Programmes (2000-2006) 
+ 
+
+Quantity by agricultural season 
+
+Item 
+Number of 
+beneficiaries 
+
+2000/01  2001/02  2002/03 
+
+2003/04 
+
+2004/05  2005/06 
+
+60,000  135,000  305,924 
+
+336,000 
+
+134,000  257,776 
+
+Maize Seed (MT) 
+
+300 
+
+675 
+
+3,333 
+
+3,935 
+
+2,545 
+
+2,973 
+
+Fertilizer (MT) 
+
+6,000 
+
+13,500 
+
+66,600 
+
+79,445 
+
+45,900 
+
+53,143 
+
+ 
+
+ 
+
+Source: FAO, PAM, MACO 
+ 
+  
+PAM  provided  fertiliser  and  seed  such  as  maize,  sorghum,  millet  and  legumes  to 
+encourage  households  to  diversify  instead  of  just  growing  maize.  FAO  distributed 
+cowpeas,  Soya  beans  and  cassava  cuttings  to  99,776  households  in  the  Eastern, 
+Southern  and  Western  Province.  Both  the  total  amount  of  maize  seed  and  fertilizer 
+distributed increased by 17% and 16% respectively compared to the 2004/05 season.  
+ 
+Generally, the input support programs have had a positive impact on small scale farmers’ 
+access to inputs despite assisting less than 30% of them. At the same time, small-scale 
+farmers  have  become increasingly  dependent on  these programs. Inputs  on  the  market 
+have  largely  remained  inaccessible  to  most  of  them  due  to  high  cost  combined  with 
+unavailability in remote areas resulting in widespread use of recycled seeds and therefore 
+relatively low yield.  
+ 
+ 
+ 
+
+ 
+
+3
+
+Food Supply and Access 
+
+2.3 
+ 
+Zambia produced a surplus crop during the 2005/06 season with adequate staple food to 
+meet national requirement. Generally, the 2005/06 season was characterized by an 
+increase in food production mostly as a result of increased yield rather than increase in 
+area planted while cash crop production dropped by significant margins as a result of 
+reduced hectarage.  
+ 
+The total maize output was 64% above the previous season having increased from 
+866,187MT in 2004/05 season to 1,424,439MT in 2005/06 season. Compared to the five 
+year average, the 2005/06 maize output is 53% higher. Millet production increased by 
+63% during the 2005/06 season compared to the previous season. Slight increases in 
+production were recorded for groundnuts (13%), sorghum (12%) and rice (5%) while 
+cassava remained stable. Major cash crops sharply dropped in output by large margins 
+ranging from 24% for cotton to 41% for tobacco. The significant reductions can be 
+attributed to reduced earnings by farmers during the previous season.  
+ 
+Maize has remained the major cereal in terms of both production and consumption. Using 
+MACO statistics, the 2005/06 maize production in all twenty assessed districts increased 
+significantly (range of 21% for Chama to 214% for 
+ Itezhi-tezhi) compared to the 2004/05 season- figure 1.  
+
+Figure 1:  2005/06 Maize Production vs. 2003/04, 2004/05 and 5 year Average  
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+250
+
+200
+
+150
+
+100
+
+50
+
+-
+
+(50)
+
+(100)
+
+i
+
+h
+s
+u
+k
+M
+
+a
+w
+b
+m
+u
+M
+
+j
+
+e
+n
+e
+r
+e
+S
+
+i
+
+a
+z
+d
+a
+h
+C
+
+a
+m
+a
+h
+C
+
+i
+
+z
+a
+d
+n
+u
+L
+
+e
+w
+b
+m
+a
+M
+
+a
+b
+m
+y
+N
+
+i
+
+e
+k
+u
+a
+e
+P
+
+t
+
+e
+w
+g
+n
+o
+h
+C
+
+e
+u
+
+f
+
+a
+K
+
+a
+w
+g
+n
+a
+u
+L
+
+i
+
+h
+z
+e
+
+t
+
+i
+
+_
+h
+z
+e
+
+t
+I
+
+l
+
+a
+u
+g
+n
+u
+z
+a
+K
+
+ 
+Source : MACO  
+ 
+
+% Diff. from  2003/04
+
+% Diff. from  2004/05
+
+% Diff. from  5yr Avge
+
+e
+z
+n
+o
+M
+
+l
+
+a
+a
+w
+m
+a
+N
+
+a
+g
+n
+o
+v
+a
+S
+
+i
+
+e
+k
+e
+h
+s
+e
+S
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+ 
+
+e
+n
+o
+
+t
+s
+g
+n
+v
+L
+
+i
+
+i
+
+Compared  to  the  last  surplus  year  (2003/04),  only  six  of  the  twenty  districts  recorded 
+reductions in production with the highest being Shang’ombo which had 68% drop. All the 
+districts except six produced above their five year average. Overall, significant reduction 
+in  maize  output  has  been  recorded  in  Shang’ombo,  Livingstone  and  Siavonga  Districts 
+where the drops in output with respect to the 2003/04 season and five year average are 
+over  30%.  However,  these  three  districts  are  maize  deficit  producing  areas  with  high 
+dependency on neighbouring district to meet their maize shortfall. 
+
+ 
+
+4
+
+Health and Nutrition 
+
+2.4 
+ 
+The Zambia Demographics and Health Survey (ZDHS) conducted in 2001/02 established 
+that  only  36%  of  households  in  Zambia  always  have  enough  food  to  eat  while  45% 
+sometimes  have  enough  to  eat.  The  remaining  19%  seldom  have  enough  and  are 
+therefore food insecure.  Statistics also show a decline in the nutritional status of children 
+below five years. Based on ZDHS statistics, the proportion of stunted under-five children 
+had  increased  from  40%  in  1992  to  42%  in  1996  and  then  to  47%  in  2001/2.  The 
+proportion of underweight children had also increased from 25% in 1992 to 24% in 1996 
+and 28% in 2001/2. However the wasting has remained almost static at 5%, 4% and 5% 
+in 1992, 1996 and 2001/2 respectively. 
+ 
+The cross sectional rapid nutrition assessment conducted in 60% of the drought affected 
+districts in November 2005 to ascertain the impact of food deficit on nutrition status of the 
+vulnerable groups also showed generally high malnutrition rates. The wasting prevalence 
+was found to be 7.7% which is higher than the 5% acceptable level and underweight at 
+24.2%  while  stunting  was  very  high  at  33.3%.The  assessment  was  conducted  by 
+UNICEF/WFP  in  collaboration  with  Ministry  of  Health  and  National  Food  and  Nutrition 
+Commission  in  22  selected  districts  out  of  the  36  which  were  adversely  affected  by 
+2004/05 drought.  
+ 
+A follow up assessment in selected worst affected areas was conducted in February. The 
+results showed prevalence of wasting of 9.5%, underweight still very high at 28.5%, the 
+acceptable level being 10%. The stunting rate was 33.4% similar to that of the November 
+2005 rapid assessment. 
+ 
+The declining  nutritional  status  calls for action  especially  in  the  high food insecurity risk 
+areas where droughts and floods are prevalent. 
+ 
+ 
+3.  FINDINGS 
+ 
+3.1  Main Livelihoods 
+ 
+In the districts visited crop production was found to be the main livelihood for most 
+households. Out of the sixty wards sampled in the twenty (20) districts, fifty-five (55) 
+wards reported crop production as the main livelihood followed by fishing     and livestock 
+production (figure 2). 
+ 
+
+ 
+
+5
+
+Figure 2: Major Livelihoods in assessed communities 
+
+Community Livelihoods 
+
+s
+d
+r
+a
+w
+
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+N
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Farming  Livestock
+
+Piecewor
+k/Casual 
+
+labour 
+
+Fruit 
+
+Beer 
+
+gathering 
+
+brewing 
+
+Pit 
+
+sawing/Ti
+
+Fishing
+
+mber
+
+Handicraf
+ts/Reedw
+
+orks
+
+Rank 3
+
+Rank 2
+
+Rank 1
+
+2
+
+2
+
+55
+
+2
+
+11
+
+4
+
+5
+
+6
+
+0
+
+1
+
+0
+
+0
+
+8
+
+3
+
+0
+
+2
+
+0
+
+0
+
+4
+
+13
+
+2
+
+3
+
+3
+
+0
+
+Gardenin
+
+g
+
+3
+
+5
+
+0
+
+Thatching Trading Charcoal
+
+Sale of 
+grass
+
+Mining Carpentry
+
+0
+
+1
+
+0
+
+7
+
+7
+
+1
+
+1
+
+3
+
+0
+
+2
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+ 
+Generally, the findings indicate that the greatest adverse effect of rainfall during the 
+2005/06 season was on infrastructure, while effect on crops was moderate – figure 3. The 
+effect on health, water, access and environment was also mostly moderate while 
+livestock were least affected. However, at sub district level, there were isolated areas 
+where some of these livelihoods were severely affected.  
+ 
+Figure 3: Degree of effect of Rainfall on Livelihoods for Assessed Districts 
+
+i
+
+s
+t
+c
+i
+r
+t
+s
+d
+ 
+f
+o
+ 
+r
+e
+b
+m
+u
+N
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2
+
+17
+
+1
+
+p
+o
+r
+C
+
+2
+
+8
+
+10
+
+k
+c
+o
+t
+s
+e
+v
+L
+
+i
+
+4
+
+10
+
+5
+
+h
+t
+l
+a
+e
+H
+
+4
+
+9
+
+5
+
+r
+e
+t
+a
+W
+
+4
+
+7
+
+8
+
+n
+o
+i
+t
+a
+t
+i
+n
+a
+S
+
+2
+
+10
+
+6
+
+s
+s
+e
+c
+c
+A
+
+No effect Moderate
+
+Severe
+
+6
+
+4
+
+7
+
+l
+
+i
+
+a
+c
+o
+S
+
+12
+
+7
+
+e
+r
+u
+t
+c
+u
+r
+t
+s
+a
+r
+f
+n
+I
+
+4
+
+8
+
+6
+
+t
+n
+e
+m
+n
+o
+r
+i
+v
+n
+E
+
+i
+
+ 
+Source : VAC   
+ 
+Among the twenty districts assessed, only Petauke did not report any negative impact on 
+crop performance while Livingstone and Monze reported severe impact as a result of 
+localized flooding, water logging and leaching. For the remaining districts, the effect was 
+moderate. At sub district level, the low lying areas did experience flash floods as water 
+collected from the upland and some crops along river banks were washed away. 
+However, upland crop did well. Part of the crop loss in these areas was also due to 
+damage by wild animals (e.g. elephants, monkey’s e.t.c.). 
+
+ 
+
+6
+
+Own Production 
+
+ 
+The season was favourable for livestock due to good water supply and pasture. Most 
+areas reported no major disease incidences and the common diseases reported were 
+lumpy skin and foot rot in cattle, and new castle in chickens. The reports of Foot and 
+Mouth Disease in Itezhi-tezhi, Namwala, Shang’ombo and Kazungula were not as a result 
+of high rainfall intensity.  
+ 
+3.2 
+ 
+The findings show that more households in the worst affected areas had low maize 
+production compared to the moderate and least affected groups. Out of the 932 
+households interviewed, 43% of the households in the worst affected category produced 
+less than 100Kg of maize while 40% were in the moderate group and only 18% in the 
+least affected group.  For those who produced above 1000Kg of maize, only 25% were in 
+the worst affected group while 52% were from the least affected group. The post harvest 
+survey data has established that at least one third of rural households are net maize 
+purchasers in any given year. The low producing households meet part of their maize 
+needs through purchase from income earned through various activities 
+ 
+At least 60% of the assessed districts practice wetland production. Households that have 
+access to these wetlands plant their second crop (winter) some time in July/August and 
+harvest in November/December when the lean period is just starting. For those 
+households accessing wetlands in the valleys, planting is done sometime in April/May 
+making it possible to do three plantings a year. This implies that although the worst 
+affected category may have lost part of their crop due to negative impact of rainfall, most 
+of them still have an opportunity to produce another crop. Currently PAM which supports 
+wetland production will only provide input support to three districts namely; Kazungula, 
+Sesheke and Mambwe with funding from DIFID. Additional support will be needed for 
+other areas. 
+ 
+ 
+3.3 
+ 
+Out of 932 households, 37% of the worst affected category‘s main source of income was 
+sale of cereal crops, compared to 24% in moderately affected areas and 39% in least 
+affected areas. At least 53% of households in worst affected areas obtained most of their 
+income from sale of cotton compared to only 21% and 26% for moderately and least 
+affected categories respectively. Few household in the worst affected categories rely on 
+tobacco production while this is a major income source for the other two categories. 
+Tobacco is grown more in the plateau areas than in the valley areas and most of the 
+worst affected live in the valley area. More households in least affected areas reported 
+sales of other crops as a major source of income compared to those in the other two 
+categories. Generally, reliance on cereal sales is relatively low, while cotton is a major 
+income source for the worst affected category. 
+ 
+3.4  Fishing and livestock 
+ 
+Out of 932 households interviewed, 60% of those who consider fishing as a major income 
+source were from the worst affected areas, compared to only 30% and 10% for 
+moderately and least affected areas respectively.  More households in least affected 
+areas indicated the sale of livestock as a major source of income compared to 
+households in moderately and worst affected respectively. This implies that fishing is an 
+important income source among the worst affected group in most of the visited districts. 
+ 
+ 
+
+Sale of crops 
+
+ 
+
+7
+
+Food security  
+
+ 
+3.5 
+ 
+3.5.1  Availability 
+ 
+Out of the 932 households sampled during the survey, most households (46%) produced 
+100Kg to 499Kg of cereal while 20% produced above 1000Kg. The remaining households 
+produced below 100Kg (17%) and 500Kg to 999Kg (18%).      
+Generally, cereal production increased in 2005/06 season compared to the 2004/05 
+season- Figure 4. 
+
+Comparison of Cereal Production for May 2006 and May 2005
+
+s
+d
+
+l
+
+o
+h
+e
+s
+u
+o
+H
+
+ 
+f
+o
+%
+
+ 
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+May -06
+
+May -05
+
+May-06
+
+May-05
+
+<100
+
+16.8
+
+28.3
+
+100-499
+
+45.6
+
+39.4
+
+500-999
+
+17.6
+
+17
+
+Quantities (kg)
+
+1000+
+
+20
+
+15.5
+
+ 
+ 
+Using three categories of household sizes (1-3 people, 4-6 people, 7-9 people and 10+ 
+people) it is evident from figure 5 that production increased with household size for both 
+male and female headed households. This implies that the level of production is a 
+function of labour availability at household level.   
+
+Comparison in Production Capacities by Gender (Maize - Own Production)
+
+120
+
+100
+
+80
+
+16.4
+
+16.7
+
+14.9
+
+32.8
+
+26.7
+
+31.3
+
+4.8
+
+39.3
+
+21.2
+
+13.3
+
+% of Hous e holds
+
+60
+
+37.2
+
+53.3
+
+40
+
+20
+
+0
+
+39.3
+
+11.5
+
+36.7
+
+20
+
+41.1
+
+40.5
+
+12.8
+
+15.5
+
+34.5
+
+7.1
+
+23.3
+
+10
+
+5.9
+
+58.8
+
+17.6
+
+17.6
+
+33.1
+
+39.2
+
+26.4
+
+1.4
+
+10+ people
+
+7-9 people
+
+4-6 people
+
+1-3 people
+
+<100 (Male)
+
+<100 (Female)
+
+100-499 (Male)
+
+100-499 (Female)
+
+500-999 (Male)
+
+500-999 (Female)
+
+1000+ (Male)
+
+1000+ (Female)
+
+ 
+
+Quantities  (k g)
+
+8
+
+ 
+From the cereal availability analysis where all the cereals from own production were 
+converted into kilocalories to determine per capita requirement, about seven (7) districts 
+(Siavonga, Shang’ombo, Sesheke, Kafue, Livingstone, Luangwa and Kazungula) were 
+found to have energy levels extremely below than 1,470 Kcal/person/day.  Despite these 
+districts being energy deficient based on the available cereals, this does not imply a crisis 
+situation as most households in these districts were found to be sourcing their cereals 
+(staples) through purchases and labour exchange. 
+ 
+Table 2: Energy Surplus/Deficit Situation 
+
+ 
+ 
+ 
+
+District 
+
+Energy Surplus or Deficit-no Sales (Staple Only); 
+
+avail energy as % of reqt 
+
+ 
+ 
+ 
+ 
+District Category 
+
+Chadiza 
+
+Chama 
+
+Chongwe 
+
+Itezhi-tezhi 
+
+Kazungula 
+
+Luangwa 
+
+Lundazi 
+
+Mambwe 
+
+Mkushi 
+
+Monze 
+
+Mumbwa 
+
+Namwala 
+
+Nyimba 
+
+Petauke 
+
+Serenje 
+
+Sesheke* 
+
+Shang'ombo 
+
+Siavonga 
+
+Kafue* 
+
+                     186.14  
+
+                      78.46  
+
+                      59.87  
+
+                      89.86  
+
+                      45.67  
+
+                      35.80  
+
+                      111.36  
+
+                      65.99  
+
+                      23.82  
+
+                       91.99  
+
+                      74.07  
+
+                      72.68  
+
+                    162.90  
+
+                     121.93  
+
+                       67.61  
+
+                      24.52  
+
+                      29.90  
+
+                      36.60  
+
+                       15.00  
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Rural 
+
+Urban 
+
+Urban 
+
+                         1.68  
+
+Livingstone* 
+ 
+However, the situation in terms per capita requirement of energy from own production for 
+Serenje, Mambwe and Chongwe districts indicates that energy levels are slightly below 
+1,470 Kcal/person/day. There are however other alternative food sources such as from 
+purchase that could be used to fill up the gap. 
+ 
+ 
+3.5.2  Access 
+ 
+Most households in the visited districts generally have improved access to staple food. 
+This has been attributed to a good 2005/06 production season which impacted positively 
+on the agricultural related income sources such as sale of crops. Improved pasture and 
+water availability for livestock has seen an improvement in livestock condition which in 
+turn will likely improve the income base for households whose livelihood is hinged on 
+livestock rearing.   
+ 
+
+ 
+
+9
+
+Following  the  good  harvest,  prices  of  maize  in  all  twenty  districts  dropped  sharply  an 
+indication  of  significant  increase  in  staple  food  supply.  Generally,  maize  prices  in  the 
+districts started falling in March. The highest drop in prices was recorded between March 
+and  April  for  most  of  the  districts,  which  coincides  with  significant  availability  of  early 
+foods putting less pressure on the maize. 
+
+Figure 6 Maize Price Trend for Central Province 
+
+Maize Price Trend for Eastern Province 
+
+30000
+
+25000
+
+20000
+
+K
+M
+Z
+
+15000
+
+10000
+
+5000
+
+0
+
+35000
+
+30000
+
+25000
+
+20000
+
+K
+M
+Z
+
+15000
+
+10000
+
+5000
+
+0
+
+Chadiza
+
+Chama
+
+Lundazi
+
+Mambwe
+
+Nyimba
+
+Mkushi
+
+Mumbwa
+
+Serenje
+
+Nov
+
+Dec
+
+Jan
+
+Feb March April
+
+May
+
+Nov
+
+Dec
+
+Jan
+
+Feb March
+
+April
+
+May
+
+ 
+
+ 
+
+Maize Price Trend for Lusaka Province 
+
+Maize Price Trend for Southern & Western Province 
+
+Chongwe
+
+Kafue
+
+Luangwa
+
+30000
+
+25000
+
+20000
+
+K
+M
+Z
+
+15000
+
+10000
+
+5000
+
+0
+
+Nov
+
+Dec
+
+Jan
+
+Feb
+
+March
+
+April
+
+May
+
+ 
+
+ 
+
+Source: MACO District Offices 
+
+ 
+
+35000
+
+30000
+
+25000
+
+20000
+
+K
+M
+Z
+
+15000
+
+10000
+
+5000
+
+0
+
+ 
+
+Itezhi_tezhi
+
+Kazungula
+
+Livingstone
+
+Namwala
+
+Sesheke
+
+Shangombo
+
+Nov
+
+Dec
+
+Jan
+
+Feb March
+
+April
+
+May
+
+ 
+
+The  highest  drop  in  maize  prices  of  over  60%  were  reported  in  Nyimba,  Petauke, 
+Chongwe  and  Kazungula  while  the  least  reduction  of 17%  was  recorded in  Livingstone 
+
+ 
+
+10
+
+which  had also  produced  below  average.  Being  an  urban  town  with  a  small  peri-urban 
+population,  the  situation  for  Livingstone  is  not  worrying  as  it  has  easy  access  to  food 
+surplus markets. 
+
+ Health and Nutrition 
+
+ 
+ 
+Generally, prices for the main staple food (maize) have substantially reduced as a result 
+of a general improvement in the overall maize production. This entails an improvement in 
+the  purchasing  power  for  those  households  who  depend  on  purchases  to  source  their 
+food. 
+ 
+ 
+3.6  
+ 
+3.6.1  Health 
+ 
+The major causes of childhood mortality in Zambia are acute respiratory infection (ARI), 
+malaria  and  dehydration  from  severe  diarrhoea.    Morbidities  generally  increase  during 
+stress times such as drought years and during the rainy season.   
+ 
+ 
+Out  of 932 households interviewed,  48.2%  were  headed by  the  20-39  age  group, while 
+33.4%  and 17.8%  were  headed  by  the  40- 59  years  as  well as  60  +  years  age  groups 
+respectively.  Illnesses  were  common  among  under-five  children  in  most  of  the  visited 
+households. A total of 53% of the children were reported to have been sick within the two 
+the 
+weeks  prior 
+survey  while  47%  had 
+no 
+the 
+same period.  Of  those 
+a 
+sick, 
+larger 
+was 
+percentage 
+suffering 
+from 
+diarrhoea and fever as 
+compared 
+to  cough 
+and ARI 
+ (See figure 7). 
+ 
+ 
+have 
+Past 
+shown 
+that  children 
+with  diarrhoea,  cough, 
+fever  or  malaria  were 
+more  likely  to  suffer 
+from 
+acute 
+malnutrition.    The  high 
+disease  prevalence  in 
+the  assessed  areas 
+was  partly 
+to  poor 
+access to safe drinking 
+
+Figure 7  Percentage of Child Illnesses two Weeks Prior to the 
+Assessment  
+ 
+
+ 
+Source : VAC 
+
+43.5
+
+43
+
+42.5
+
+illness  over 
+
+47.5
+
+47
+
+46.5
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+studies 
+
+Diarrhoea
+
+46
+
+45.5
+
+45
+
+44.5
+
+44
+
+to 
+
+42
+
+Fever
+
+Cough
+
+ARI
+
+water, poor child feeding and care practices and unhygienic environment. 
+ 
+ 
+ 
+ 
+
+ 
+
+11
+
+Nutrition 
+
+3.7 
+ 
+3.7.1  Vitamin A Coverage 
+ 
+Due  to  the importance of  Vitamin  A,  and its  relationship  with  malnutrition  and  measles, 
+supplementation  coverage  over  the  previous  six months  was  also  assessed among  the 
+visited households. It should be noted that coverage included children below six months. 
+Out of a total of 932 households interviewed, 63% had under-five children while 37% did 
+not have. Of those with under-five children 80% had children that had received vitamin A 
+while the remaining had not. The high vitamin A supplementation coverage in the visited 
+households  was  attributed  to  mothers  becoming  more  enlightened  on  importance  of 
+vitamin A, through the bi-annual child health week events. 
+ 
+ 
+3.7.2  Number of Meals 
+ 
+The  number  of  meals  a  family  takes  can  help  to  determine  adequacy  of  energy  and 
+protein intake as the number of meals change with the prevailing food security situation in 
+the household. 
+ 
+ The survey revealed that meal frequency pattern varied between the two periods under 
+comparison (figure 8). During the December to January period, most households (42%) 
+
+Figure 8a:  Meal Frequency for Household 
+
+Figure 8b:  Meal Frequency for U5 Children  
+ 
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Dec-Feb
+
+Mar-May
+
+One meal
+
+Dec-Feb
+Two meals
+
+Mar-May
+
+Three meals
+
+>3 meals
+
+One meal
+
+Two Meals
+
+Three Meals
+
+>3 Meals
+
+ 
+
+  
+
+Source: VAC 
+reported having had only one meal per day, while 36% had two meals and only 20% had 
+three meals. The remaining 2% had more than three meals a day. However, the scenario 
+changed during the March to May period as the majority (52%) of households had three 
+meals  a  day  while  43%  had  two  meals  and  only  2%  had  one  meal.  In  addition,  the 
+number  of  households  eating  more  than  three  meals  a  day  increased  from  2%  in  the 
+December-February period to 3% in March-May period. 
+ 
+ 
+
+ 
+
+12
+
+Meal  frequency  for  children  under-five  was  also  showing  a  similar  pattern.  During  the 
+December to February period, only 35% of children were having three meals a day, 32% 
+two  meals  a  day  and  22%  only  one  meal  a  day.  In  the  March  to  May  period,  a  larger 
+percentage of children (57%) had three meals, 22% had two  
+ 
+Meals and only 1% had one meal per day. The number of children who had more than 
+three meals increased from 11% around December to February to 20% in March to May 
+period.  
+ 
+This  could  be  attributed  to  differences  in  production  performance  related  to  the  two 
+reference periods. The 2004/05 production season  was characterized by partial drought 
+reducing food  available to households  during  the  period from  December  2005  to  March 
+2006. The good seasonal performance of the 2005/06 growing season has on the other 
+hand resulted in high food availability for most households during the March to May 2006 
+period.  It  should  however  be  noted  that  the  months  between  Dec-Feb  months  are lean 
+months  while  March-May  are  harvest  months  when  most  households  normally  have 
+plenty of food. This may also imply that nutritional deficiencies are higher around the Dec-
+Feb period as one or two meals may not provide adequate nutrients required by the body. 
+This is more crucial among children who require more nutrients per body weight as they 
+are growing fast. 
+ 
+ 
+3.7.3  Food Frequency Per week 
+ 
+ The frequency of food consumed in terms of food groups helps to determine the quality 
+of diet in terms of diversity. The findings showed a high intake of staples (92%) and 
+vegetables (85%) more than three days per week (figure 9). The rest of the food groups 
+were less consumed as findings showed less than 20% consumption per week of other 
+foods among the assessed households. Generally, there was very low intake of meat, 
+fruits, fish and legumes. This implies that the assessed households have inadequate 
+
+Figure 9 Food Frequency per Week  
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+ 
+Source : VAC 
+
+Staple
+
+Legume
+
+Fish
+
+Meat
+
+Veg
+
+Fruits
+
+One day
+
+Tw o days
+
+Three days
+
+>3 days Never ate
+
+ 
+
+dietary 
+diversity. 
+ 
+The fact that at 
+harvest 
+time 
+(May) 
+households still 
+seemed 
+to 
+consume 
+mostly  staples 
+and  vegetables 
+be  an 
+may 
+indication 
+of 
+worse  dietary 
+patterns  during 
+the lean period.  
+ 
+
+ 
+
+13
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.8  Water and sanitation 
+ 
+3.8.1  Water 
+ 
+Majority (56%) of the households interviewed use boreholes as their main source of water 
+while 19% use the river. Another 14% of the total households use unprotected well, 6% 
+use protected well and 5% use the spring and other sources respectively. This indicates 
+that a lot of people still have poor access to safe drinking water  
+ 
+Results from the assessment indicate that only 32% of the households interviewed treat 
+the drinking water while the remaining 68% do not. Of those who indicated treatment of 
+water, 86% use chlorine, 13% use boiling method and the remaining 1% use other 
+methods. 
+ 
+Data also show that households which were not treating water had higher cases of 
+diarrhoea than those who treated the water. Out of 212 households that reported having 
+diarrhoea cases, 76% were not treating, and however, the methods of treatment seemed 
+to have a bearing on the levels of diarrhoea cases. Households using chlorine as a 
+method of water treatment had higher cases of diarrhoea (21%) than those who were 
+using boiling (3%) as a method of treating. This can be attributed to the possibilities of 
+families running out of chlorine at certain times and therefore opting to use untreated 
+water.   
+ 
+The prevalence of diarrhoea was also higher (46%) in households which reported good 
+water quality compared to 20% who reported fair water quality and 23% who reported 
+poor water quality. This could be attributed to the fact that households that realized had 
+poor water quality would consider treating it before drinking as opposed to  those who 
+believed that their water quality was good. 
+ 
+3.8.2  SANITATION 
+ 
+
+Figure 10:  Sanitary Facilities Used by Households  
+ 
+
+1%
+
+2%
+
+39%
+
+58%
+
+VIP
+Traditional
+
+Sanplat
+Others
+
+ 
+Source : VAC 
+
+ 
+
+14
+
+ The  common  type  of 
+toilets  being  used  by 
+the 
+households 
+were 
+interviewed 
+traditional 
+toilets 
+(58%) and other types 
+(38%),  which  was 
+mainly the bush. Only 
+2%  and  1%  use  the 
+sanplat 
+VIP 
+toilets 
+respectively-
+figure  10.  Diarrhoea 
+was found to be more 
+prevalent 
+in 
+households  that  were 
+using 
+traditional 
+toilets 
+and 
+other 
+(bush-
+41%). Only 1% of VIP 
+
+(57%) 
+
+and 
+
+the 
+
+types 
+
+INFRA STRUCTURE 
+
+and 1% of sanplat users reported diarrhoea cases. This shows that despite the fact that 
+58% of households use traditional toilets, the quality of the toilets are questionable due to 
+high diarrhoea cases among the users.  
+ 
+The high rainfall experienced this year had considerable damage on the sanitary facilities. 
+About  22%  of  the  households  reported damage due  to  floods  while a  larger  proportion 
+(78%) reported no damage. 
+ 
+ 
+3.9  
+ 
+The excessive rains caused severe damage to a number of bridges, roads and culverts in 
+most of the assessed districts making several feeder roads impassable.  This had 
+multiple effects such as disruption of relief food distribution in some areas; access to 
+markets which supply commodities to the areas was difficult creating commodity shortage 
+and therefore increased prices. 
+ 
+The impact was worst on the roads and damage on bridges cutting off some areas while 
+temporarily making other areas inaccessible. Although the roads became accessible after 
+the water subsided, they are in a worse off state than before the rainy season started. 
+. 
+ 
+ 
+4.0 
+ 
+
+CONCLUSION  
+
+•  Major impact as a result of adverse rainfall was observed on infrastructure in all 
+
+the districts visited. Bridges, culverts were damaged and roads have become 
+impassable and are currently in worse off condition than before. In view of this, 
+some areas were cut off from main markets resulting in commodity shortages and 
+increased prices of staples. 
+
+•  Rainfall impact on crops was moderate and mostly confined to low lying areas. 
+Some farmers planted relief maize which affected yield because of loss of early 
+planted crops. 
+
+•  With the increased food supply and improved food access both at district and/or 
+
+household level, there is no justification for continued emergency food relief 
+distribution. Any isolated food problem areas to be handled under normal ongoing 
+developmental programs.   
+
+•  The impact on the livestock was generally favourable due to increased water and 
+
+pasture. However, there were isolated incidences of lumpy skin and foot rot 
+reported.  Foot and Mouth Disease (FMD) was reported in Namwala, Itezhi-tezhi, 
+Kazungula and Shangómbo districts. This outbreak was not related to high rainfall 
+intensity. 
+
+•  Generally, the impact was low on socio safety net 1as this does not exist in many 
+
+visited districts. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  Major impact of rainfall on environment was land degradation through severe soil 
+
+erosion that has resulted into gullies. 
+
+                                                 
+1 Social Protection refer to social support to incapacitated, micro-credit, informal savings schemes 
+(chilimba), and Home Based Care 
+
+ 
+
+15
+
+ 
+
+ 
+
+•  Although  dietary  intake  shows  an  improvement  during  the  period  March  to  May 
+2006 as  compared  to  the period  December  2005  to  February  2006  due to good 
+harvest, the pattern is likely to reduce in the next few months due to aggressive 
+selling of the cereal crop in most of the assessed areas.  
+
+•  The  high  disease  prevalence  due  to  poor  water  and  sanitary  facilities  in  the 
+assessed areas is likely to further worsen the nutrition situation if no public health 
+interventions are put in place.  
+
+RECOMMENDATIONS 
+
+ 
+ 
+5.  
+ 
+ 
+5.1 Food based interventions in the short term 
+ 
+
+• 
+
+Introduce developmental projects such as rehabilitation of damaged feeder roads 
+to facilitate physical access to markets.  
+
+•  WFP to revitalise the local purchase program in order to provide market to 
+
+households who have already started selling their maize at very low prices (K18, 
+000 – K20, 000 per 50kg). 
+
+•  The country should move out of the food emergency mode. Assistance for 
+
+isolated pockets of food insecurity should be through developmental programs.  
+
+•  FRA purchase programs should be enhanced immediately to provide a 
+
+competitive market for small scale farmers 
+
+ 
+
+ 
+5.2 Non food based interventions in the short term  
+
+ 
+•  Agricultural  inputs  should  be  provided  to  households  who  have  access  to 
+
+wetlands for winter cropping. 
+
+•  Strengthen health education on importance of water treatment and storage. 
+•  Ensure consistence supply of chlorine in communities especially rural areas.  
+•  Promotion of construction of quality sanitary facilities which can stand heavy 
+
+rainfall. 
+
+•  Continued  support  to  vitamin  A  supplementation  programme,  routinely  and 
+through  bi-annual  child  health  week  until  it’s  adequately  integrated  in  the  health 
+care delivery system. 
+
+ 
+
+. 
+5.3 Medium and long term interventions 
+ 
+
+• 
+
+Introduce developmental projects such as rehabilitation of damaged main roads 
+and bridges to facilitate physical access to markets which in turn will increase 
+income for households whose main income source is sale of crops. 
+
+•  The rehabilitation and maintenance of roads in rural areas by Government should 
+
+be enhanced. 
+
+•  Maintain any form of socio protection for the chronically vulnerable but within 
+
+developmental context. 
+
+•  Promotion of health and nutrition education on dietary intake and disease 
+
+prevention to be key in all developmental programs aimed at changing behaviour 
+on health and nutrition practices.  
+
+•  Strengthen health education on importance of water treatment and storage. 
+
+ 
+
+16
+
+•  There is need  to  conduct  an in-depth food consumption  survey  to  determine the 
+extent  of nutritional  inadequacy  in  affected areas.  This is  based  on  the fact  that 
+food diversity is poor in the assessed areas.  
+
+•  There  is  need  for  continued  support  to  vitamin  A  supplementation  programme, 
+routinely and through bi-annual child health week until it’s adequately integrated in 
+the health care delivery system. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+17
+
+Annex 1. Report writing and editorial team 
+ 
+
+1.  Allan Mulando              WFP 
+2.  Chansa Mushinge        FEWSNET 
+3.  Dingiswayo Banda       MACO 
+4.   Enoch Banda              CRS 
+5.  Kebby Mutale               WFP 
+6.  Raider Habulembe-mugode  NFNC 
+
+7. Esnart Makwakwa      DMMU 
+8. Alex Muwaya              MET 
+9. Martha                        DMMU 
+10. Anderson Banda       DMMU  
+11. Peter Kasonde         Consultant 
+12. Stephen Chikwanda    MACO 
+
+ 
+ 
+Annex 2. Study areas and field research teams 
+ 
+ 
+Team1 
+
+ 
+Team2 
+ 
+Team3 
+
+ 
+Team4 
+
+Shang’ombo, Sesheke, Kazungula and 
+Livingstone 
+ 
+Siavonga, Monze, Namwala and Kafue 
+ 
+Nyimba, Chadiza and Petauke 
+ 
+ 
+ 
+Lundazi, Mambwe and Chama 
+ 
+ 
+Serenje, Mkushi and Luangwa 
+ 
+Mumbwa, Itezhi-tezhi and Chongwe 
+
+ 
+Team 5 
+ 
+Team 6 
+ 
+ 
+ 
+ 
+Annex 3.  Maps showing overall rainfall performance for 2005/06 season 
+ 
+
+Rainfall Departure Map From 1st July 2005
+
+to 10th April 2006
+
+Kaputa
+
+Mpulungu
+
+Chiengi
+
+Nchelenge
+
+Kawambwa
+
+Mporokoso
+
+Mbala
+
+Nakonde
+
+Mungwi
+
+Isoka
+
+Mwense
+
+Luwingu
+
+Kasama
+
+Mwinilunga
+
+Mansa
+
+Chilubi
+
+Samfya
+
+Milenge
+
+Solwezi
+
+Chingola
+
+Lufwanyama
+
+Ndola
+
+Chinsali
+
+Chama
+
+Mpika
+
+Lundazi
+
+Chavuma
+
+Zambezi
+
+Kabompo
+
+Mufumbwe
+
+Kasempa
+
+Mpongwe
+
+Masaiti
+
+Serenje
+
+Mambwe
+
+Chipata
+
+Kapiri Mposhi
+
+Mkushi
+
+Petauke
+
+Katete
+
+Chadiza
+
+Kalabo
+
+Lukulu
+
+Mongu
+
+Senanga
+
+Kaoma
+
+Mumbwa
+
+Kabwe
+Chibombo
+
+Nyimba
+
+Itezhi-tezhi
+
+Lusaka
+Kafue
+
+Chongwe
+
+Luangwa
+
+Mazabuka
+
+Monze
+
+Siavonga
+
+Choma
+
+Gwembe
+
+ Below Normal
+Normal
+Above Normal
+
+Shang'ombo
+
+Sesheke
+
+Kazungula
+
+Kalomo
+
+Sinazongwe
+
+Livingstone
+
+Cummulative Rainfall From 1st July 2005
+
+to 10th April 2006.
+
+Kaputa
+
+Chiengi
+
+Mpulungu
+
+Nchelenge
+
+Mbala
+
+Kawambwa
+
+Mporokoso
+
+Mungwi
+
+Nakonde
+
+Isoka
+
+Mwense
+
+Luwingu
+
+Kasama
+
+Mwinilunga
+
+Mansa
+
+Chilubi
+
+Samfya
+
+Milenge
+
+Solwezi
+
+Chingola
+
+Lufwanyama
+
+Ndola
+
+Chinsali
+
+Chama
+
+Mpika
+
+Lundazi
+
+Chavuma
+
+Zambezi
+
+Kabompo
+
+Mufumbwe
+
+Kasempa
+
+Mpongwe
+
+Masaiti
+
+Serenje
+
+Mambwe
+
+Chipata
+
+Kapiri Mposhi
+
+Mkushi
+
+Petauke
+
+Katete
+
+Chadiza
+
+Kalabo
+
+Lukulu
+
+Mongu
+
+Senanga
+
+Kaoma
+
+Mumbwa
+
+Itezhi-tezhi
+
+Nyimba
+
+Chongwe
+
+Luangwa
+
+Kabwe
+Chibombo
+
+Lusaka
+Kafue
+
+Mazabuka
+
+Shang'ombo
+
+Sesheke
+
+Monze
+
+Choma
+
+Gwembe
+
+Siavonga
+
+Kazungula
+
+Kalomo
+
+Livingstone
+
+Sinazongwe
+
+Source: ZMD 
+ 
+ 
+ 
+
+Rainfall in mm
+
+0 - 850
+
+850 - 1250
+
+1250 - 1650
+
+  > - 1650
+
+ 
+
+18
+
+ 
+Annex 4. Map Showing Coverage of the Survey 
+
+Map Showing the Districts Visited During the Survey
+
+Chiengi
+
+Kaputa
+
+Nchelenge
+
+Mpulungu
+
+Mbala
+
+Kawambwa
+
+Mporokoso
+
+Mwense
+
+Luwingu
+
+Kasama
+
+Nakonde
+
+Mungwi
+
+Isoka
+
+Mansa
+
+Milenge
+
+Chilubi
+
+Chinsali
+
+Chama
+
+Samfya
+
+Mpika
+
+Chililabombwe
+
+Chingola
+
+Kitwe
+
+Ndola
+
+Masaiti
+
+Lufwanyama
+
+Mpongwe
+
+Lundazi
+
+Serenje
+
+Mambwe
+
+Kapiri Mposhi
+
+Mkushi
+
+Kabwe
+
+Nyimba
+
+Petauke
+
+Chipata
+
+Katete
+
+Chadiza
+
+Mwinilunga
+
+Solwezi
+
+Chavuma
+
+Kabompo
+
+Zambezi
+
+Mufumbwe
+
+Kasempa
+
+Lukulu
+
+Kaoma
+
+Kalabo
+
+Mongu
+
+Mumbwa
+
+Chibombo
+
+Lusaka
+
+Chongwe
+
+Kaf ue
+
+Luangwa
+
+Senanga
+
+Itezhi-tezhi
+
+Namwala
+
+Mazabuka
+
+Shang'ombo
+
+Sesheke
+
+Monze
+
+Siavonga
+
+Choma
+
+Gwembe
+
+Kazungula
+
+Kalomo
+
+Sinazongwe
+
+#
+
+Livingstone
+
+Source: VAC 2006
+
+W
+
+N
+
+S
+
+E
+
+ 
+
+19
+
+Annex 5: Selected Disease Indicators in the Sampled Districts  
+ 
+
+Diarrhoea Incidence Under 5 Qtr1, 2006
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+140
+ 
+120
+ 
+100
+ 
+80
+ 
+60
+ 
+ 
+40
+ 
+20
+ 
+ 
+ 
+
+0
+
+ 
+
+e
+t
+a
+R
+
+ 
+
+e
+c
+n
+e
+d
+
+i
+
+c
+n
+
+I
+
+e
+t
+a
+R
+ 
+e
+c
+n
+e
+d
+i
+c
+n
+
+I
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+63
+
+i
+
+a
+b
+m
+a
+Z
+
+43
+
+j
+
+e
+n
+e
+r
+e
+S
+
+50
+
+54
+
+57
+
+60
+
+65
+
+65
+
+68
+
+73
+
+79
+
+84
+
+85
+
+87
+
+88
+
+91
+
+92
+
+92
+
+167
+
+148
+
+111
+
+e
+u
+f
+a
+K
+
+e
+n
+o
+t
+s
+g
+n
+v
+L
+
+i
+
+i
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+e
+k
+e
+h
+s
+e
+S
+
+e
+w
+g
+n
+o
+h
+C
+
+e
+z
+n
+o
+M
+
+e
+k
+u
+a
+t
+e
+P
+
+l
+
+a
+u
+g
+n
+u
+z
+a
+K
+
+i
+
+z
+a
+d
+n
+u
+L
+
+i
+
+a
+z
+d
+a
+h
+C
+
+e
+w
+b
+m
+a
+M
+
+l
+
+a
+a
+w
+m
+a
+N
+
+a
+w
+g
+n
+a
+u
+L
+
+a
+b
+m
+y
+N
+
+i
+
+i
+
+h
+s
+u
+k
+M
+
+a
+w
+b
+m
+u
+M
+
+i
+
+h
+z
+e
+t
+-
+i
+h
+z
+e
+t
+I
+
+a
+g
+n
+o
+v
+a
+S
+
+i
+
+a
+m
+a
+h
+C
+
+District
+
+Diarrhoea Incidence Under 5 Q1, 2004
+
+Diarrhoea Incidence Under 5, Q1 2005 
+
+133
+
+122
+
+98
+
+88
+
+90
+
+65
+
+39
+
+30
+
+44
+
+44
+
+45
+
+46
+
+46
+
+71
+
+73
+
+69
+
+80
+
+80
+
+64
+
+64
+
+57
+
+a
+
+i
+
+b
+m
+a
+Z
+
+e
+
+j
+
+n
+e
+r
+e
+S
+
+e
+z
+n
+o
+M
+
+e
+n
+o
+
+t
+s
+g
+n
+
+i
+
+v
+
+i
+
+L
+
+e
+w
+g
+n
+o
+h
+C
+
+a
+
+l
+
+a
+w
+m
+a
+N
+
+e
+k
+e
+h
+s
+e
+S
+
+a
+
+l
+
+u
+g
+n
+u
+z
+a
+K
+
+i
+
+h
+s
+u
+k
+M
+
+i
+
+z
+a
+d
+n
+u
+L
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+Distrcit 
+
+e
+u
+
+f
+
+a
+K
+
+a
+b
+m
+
+i
+
+y
+N
+
+e
+k
+u
+a
+
+t
+
+e
+P
+
+a
+w
+b
+m
+u
+M
+
+i
+
+h
+z
+e
+
+t
+-
+i
+
+h
+z
+e
+
+t
+I
+
+a
+z
+
+i
+
+d
+a
+h
+C
+
+e
+w
+b
+m
+a
+M
+
+a
+g
+n
+o
+v
+a
+
+i
+
+S
+
+a
+w
+g
+n
+a
+u
+L
+
+a
+m
+a
+h
+C
+
+e
+t
+a
+R
+
+ 
+
+e
+c
+n
+e
+d
+
+i
+
+c
+n
+
+I
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+20
+
+135
+
+111
+
+58
+
+60
+
+61
+
+62
+
+64
+
+65
+
+66
+
+68
+
+70
+
+84
+
+84
+
+79
+
+61
+
+33
+
+27
+
+46
+
+48
+
+52
+
+52
+
+a
+
+i
+
+b
+m
+a
+Z
+
+e
+
+j
+
+n
+e
+r
+e
+S
+
+e
+z
+n
+o
+M
+
+e
+k
+e
+h
+s
+e
+S
+
+a
+
+l
+
+a
+w
+m
+a
+N
+
+e
+w
+g
+n
+o
+h
+C
+
+e
+k
+u
+a
+
+t
+
+e
+P
+
+e
+u
+
+f
+
+a
+K
+
+a
+w
+b
+m
+u
+M
+
+a
+b
+m
+y
+N
+
+i
+
+i
+
+h
+z
+e
+
+t
+-
+i
+
+h
+z
+e
+
+t
+I
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+District 
+
+a
+z
+
+i
+
+d
+a
+h
+C
+
+e
+n
+o
+
+t
+s
+g
+n
+
+i
+
+v
+
+i
+
+L
+
+a
+
+l
+
+u
+g
+n
+u
+z
+a
+K
+
+i
+
+h
+s
+u
+k
+M
+
+i
+
+z
+a
+d
+n
+u
+L
+
+e
+w
+b
+m
+a
+M
+
+a
+g
+n
+o
+v
+a
+
+i
+
+S
+
+a
+m
+a
+h
+C
+
+a
+w
+g
+n
+a
+u
+L
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+15
+
+i
+
+a
+b
+m
+a
+Z
+
+7
+
+e
+n
+o
+
+t
+s
+g
+n
+v
+L
+
+i
+
+i
+
+Underweight Ratio, Q1 2006
+
+31
+
+25
+
+18
+
+18
+
+17
+
+19
+
+20
+
+20
+
+14
+
+14
+
+14
+
+13
+
+15
+
+14
+
+12
+
+12
+
+11
+
+9
+
+9
+
+e
+u
+
+f
+
+a
+K
+
+l
+
+a
+a
+w
+m
+a
+N
+
+i
+
+h
+s
+u
+k
+M
+
+e
+w
+g
+n
+o
+h
+C
+
+l
+
+u
+u
+k
+u
+L
+
+i
+
+h
+z
+e
+
+t
+-
+i
+h
+z
+e
+
+t
+I
+
+l
+
+a
+u
+g
+n
+u
+z
+a
+K
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+a
+w
+b
+m
+u
+M
+
+e
+z
+n
+o
+M
+
+e
+k
+e
+h
+s
+e
+S
+
+a
+b
+m
+y
+N
+
+i
+
+e
+k
+u
+a
+
+t
+
+e
+P
+
+i
+
+z
+a
+d
+n
+u
+L
+
+e
+w
+b
+m
+a
+M
+
+i
+
+a
+z
+d
+a
+h
+C
+
+a
+w
+g
+n
+a
+u
+L
+
+j
+
+e
+n
+e
+r
+e
+S
+
+a
+m
+a
+h
+C
+
+Underweight Ratio, Q1 2004
+
+Underweight Ratio, Q1 2005
+
+31
+
+29
+
+22
+
+22
+
+22
+
+23
+
+23
+
+23
+
+17
+
+17
+
+17
+
+16
+
+15
+
+14
+
+12
+
+13
+
+12
+
+10
+
+10
+
+10
+
+19
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+a
+
+i
+
+b
+m
+a
+Z
+
+e
+u
+
+f
+
+a
+K
+
+e
+n
+o
+
+t
+s
+g
+n
+
+i
+
+v
+
+i
+
+L
+
+a
+
+l
+
+a
+w
+m
+a
+N
+
+e
+w
+g
+n
+o
+h
+C
+
+a
+w
+b
+m
+u
+M
+
+e
+k
+e
+h
+s
+e
+S
+
+i
+
+h
+z
+e
+
+t
+-
+i
+
+h
+z
+e
+
+t
+I
+
+i
+
+h
+s
+u
+k
+M
+
+e
+w
+b
+m
+a
+M
+
+a
+w
+g
+n
+a
+u
+L
+
+e
+z
+n
+o
+M
+
+a
+
+l
+
+u
+g
+n
+u
+z
+a
+K
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+e
+k
+u
+a
+
+t
+
+e
+P
+
+a
+g
+n
+o
+v
+a
+
+i
+
+S
+
+i
+
+z
+a
+d
+n
+u
+L
+
+a
+b
+m
+
+i
+
+y
+N
+
+a
+z
+
+i
+
+d
+a
+h
+C
+
+e
+
+j
+
+n
+e
+r
+e
+S
+
+a
+m
+a
+h
+C
+
+ 
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+18
+
+a
+
+i
+
+b
+m
+a
+
+Z
+
+7
+
+e
+n
+o
+
+t
+
+s
+g
+n
+
+i
+
+v
+
+i
+
+L
+
+54
+
+29
+
+13
+
+13
+
+13
+
+13
+
+12
+
+14
+
+14
+
+10
+
+10
+
+9
+
+22
+
+23
+
+20
+
+20
+
+16
+
+17
+
+18
+
+e
+u
+
+f
+
+a
+K
+
+a
+
+l
+
+a
+w
+
+m
+a
+N
+
+a
+
+l
+
+u
+g
+n
+u
+
+z
+a
+K
+
+a
+w
+b
+m
+u
+
+M
+
+e
+
+k
+e
+h
+
+s
+e
+S
+
+i
+
+h
+
+s
+u
+
+k
+
+M
+
+e
+w
+g
+n
+o
+h
+C
+
+i
+
+h
+
+z
+e
+
+t
+-
+i
+
+h
+
+z
+e
+
+t
+
+I
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+e
+
+z
+n
+o
+M
+
+e
+w
+b
+m
+a
+
+M
+
+a
+b
+m
+
+i
+
+y
+N
+
+a
+w
+g
+n
+a
+u
+L
+
+a
+g
+n
+o
+
+v
+a
+
+i
+
+S
+
+i
+
+z
+a
+d
+n
+u
+L
+
+e
+
+j
+
+n
+e
+r
+e
+S
+
+a
+
+z
+
+i
+
+d
+a
+h
+C
+
+a
+m
+a
+h
+C
+
+e
+
+k
+u
+a
+
+t
+
+e
+P
+
+21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Malaria Incidence total Q1, 2005
+
+704
+
+482
+
+495
+
+497
+
+510
+
+519
+
+523
+
+528
+
+531
+
+406
+
+408
+
+351
+
+268
+
+275
+
+278
+
+237
+
+308
+
+308
+
+310
+
+329
+
+333
+
+a
+bi
+m
+a
+Z
+
+e
+n
+o
+st
+g
+n
+v
+Li
+
+i
+
+e
+z
+n
+o
+M
+
+a
+ul
+g
+n
+u
+z
+a
+K
+
+a
+w
+b
+m
+u
+M
+
+e
+nj
+e
+r
+e
+S
+
+a
+al
+w
+m
+a
+N
+
+hi
+z
+e
+t
+-
+hi
+z
+e
+
+t
+I
+
+e
+k
+e
+h
+s
+e
+S
+
+e
+u
+af
+K
+
+e
+k
+u
+a
+et
+P
+
+a
+b
+m
+yi
+N
+
+zi
+a
+d
+n
+u
+L
+
+e
+w
+g
+n
+o
+h
+C
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+a
+m
+a
+h
+C
+
+a
+g
+n
+o
+v
+a
+Si
+
+e
+w
+b
+m
+a
+M
+
+hi
+s
+u
+k
+M
+
+a
+z
+di
+a
+h
+C
+
+a
+w
+g
+n
+a
+u
+L
+
+ 
+
+Malaria Incidence Rate Q 1, 2004
+
+Malaria Incidence total Q1, 2005
+
+ 
+
+ 
+
+e
+t
+a
+R
+e
+c
+n
+e
+d
+c
+n
+
+i
+
+I
+
+604
+
+507
+
+516
+
+482
+
+490
+
+443
+
+431
+
+407
+
+418
+
+379
+
+387
+
+390
+
+361
+
+344
+
+258
+
+258
+
+258
+
+243
+
+272
+
+278
+
+280
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+i
+
+a
+b
+m
+a
+Z
+
+e
+z
+n
+o
+M
+
+f
+
+e
+u
+a
+K
+
+a
+w
+b
+m
+u
+M
+
+j
+
+e
+n
+e
+r
+e
+S
+
+e
+n
+o
+t
+s
+g
+n
+v
+L
+
+i
+
+i
+
+l
+
+a
+a
+w
+m
+a
+N
+
+l
+
+a
+u
+g
+n
+u
+z
+a
+K
+
+a
+b
+m
+y
+N
+
+i
+
+e
+k
+e
+h
+s
+e
+S
+
+e
+w
+b
+m
+a
+M
+
+District
+
+i
+
+h
+z
+e
+t
+-
+i
+h
+z
+e
+
+t
+I
+
+i
+
+z
+a
+d
+n
+u
+L
+
+a
+g
+n
+o
+v
+a
+S
+
+i
+
+e
+w
+g
+n
+o
+h
+C
+
+i
+
+h
+s
+u
+k
+M
+
+e
+k
+u
+a
+e
+P
+
+t
+
+a
+w
+g
+n
+a
+u
+L
+
+a
+m
+a
+h
+C
+
+i
+
+a
+z
+d
+a
+h
+C
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+351
+
+i
+
+a
+b
+m
+a
+Z
+
+704
+
+495
+
+497
+
+482
+
+510
+
+519
+
+523
+
+528
+
+531
+
+406
+
+408
+
+308
+
+308
+
+310
+
+329
+
+333
+
+268
+
+275
+
+278
+
+e
+z
+n
+o
+M
+
+l
+
+a
+u
+g
+n
+u
+z
+a
+K
+
+a
+w
+b
+m
+u
+M
+
+j
+
+e
+n
+e
+r
+e
+S
+
+l
+
+a
+a
+w
+m
+a
+N
+
+i
+
+h
+z
+e
+t
+-
+i
+h
+z
+e
+
+t
+I
+
+e
+k
+e
+h
+s
+e
+S
+
+f
+
+e
+u
+a
+K
+
+e
+k
+u
+a
+
+t
+
+e
+P
+
+a
+b
+m
+y
+N
+
+i
+
+i
+
+z
+a
+d
+n
+u
+L
+
+e
+w
+g
+n
+o
+h
+C
+
+o
+b
+m
+o
+g
+n
+a
+h
+S
+
+a
+m
+a
+h
+C
+
+a
+g
+n
+o
+v
+a
+S
+
+i
+
+e
+w
+b
+m
+a
+M
+
+i
+
+h
+s
+u
+k
+M
+
+i
+
+a
+z
+d
+a
+h
+C
+
+a
+w
+g
+n
+a
+u
+L
+
+ 
+
+237
+
+e
+n
+o
+
+t
+s
+g
+n
+v
+L
+
+i
+
+i
+
+22
+
+

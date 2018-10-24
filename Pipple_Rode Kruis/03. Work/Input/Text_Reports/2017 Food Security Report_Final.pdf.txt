@@ -1,0 +1,4834 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2017 Food Security and Livelihoods Assessment 
+
+ 
+
+By 
+
+Zambia Vulnerability Assessment Committee 
+
+ 
+
+ ZAMBIA Vulnerability Assessment Committee VAC Table of Contents 
+1.  BACKGROUND ................................................................................................................................. 1 
+
+1.1. 
+
+Introduction ............................................................................................................................. 1 
+
+1.2. 
+
+Purpose and Objectives ........................................................................................................... 1 
+
+1.3. 
+
+Scope of the Food Security and Livelihoods Assessment ...................................................... 2 
+
+1.4. 
+
+Limitations of the Survey ........................................................................................................ 2 
+
+2.  CONTEXT ...................................................................................................................................... 3 
+
+2.1. 
+
+Economic Performance ........................................................................................................... 3 
+
+2.2. 
+
+Food Availability and Access ................................................................................................. 3 
+
+3.  ASSESSMENT METHODOLOGY ....................................................................................................... 7 
+
+3.1. 
+
+3.2. 
+
+Selection of Districts ................................................................................................................... 7 
+
+Problem Analysis ....................................................................................................................... 8 
+
+3.3. 
+
+Features of the Assessment ..................................................................................................... 9 
+
+4.  FINDINGS .................................................................................................................................... 10 
+
+4.1.  Basic Characteristics ............................................................................................................. 10 
+
+4.2.  Risk Analysis ........................................................................................................................ 10 
+
+4.3. 
+
+Livelihood Analysis .............................................................................................................. 13 
+
+4.4. 
+
+Income Sources ..................................................................................................................... 14 
+
+4.5. 
+
+Expenditure ........................................................................................................................... 15 
+
+4.6.  Agriculture and Food Security .............................................................................................. 17 
+
+4.7. 
+
+Food Consumption Score ...................................................................................................... 19 
+
+4.8. 
+
+Cereal Crops Performance .................................................................................................... 19 
+
+4.9. 
+
+Food Prices and Access......................................................................................................... 20 
+
+Figure 13: Food Prices and Access ................................................................................................... 20 
+
+4.9.1. 
+
+Food Markets .................................................................................................................... 20 
+
+4.10 Livestock ................................................................................................................................... 22 
+
+4.11 Coping Strategies ...................................................................................................................... 23 
+
+4.12. 
+
+Human Health and Nutrition ............................................................................................. 25 
+
+4.13.  WATER, SANITATION AND HYGIENE (WASH) ...................................................... 29 
+
+4.14. 
+
+EDUCATION ................................................................................................................... 33 
+
+4.15. 
+
+Infrastructure ..................................................................................................................... 34 
+
+4.16. 
+
+Social Protection ............................................................................................................... 34 
+
+5.  CONCLUSIONS AND RECOMMENDATIONS ....................................................................... 38 
+
+5.1.  Risk Analysis and Early Warning ......................................................................................... 38 
+
+ 
+
+i 
+
+5.2.  Agriculture and Food Security .............................................................................................. 38 
+
+5.3.  Human Health and Nutrition ................................................................................................. 40 
+
+5.4.  Water, Sanitation and Hygiene (WASH) .............................................................................. 41 
+
+5.5. 
+
+Education .............................................................................................................................. 43 
+
+5.6. 
+
+Infrastructure ......................................................................................................................... 43 
+
+5.7. 
+
+Social Protection ................................................................................................................... 43 
+
+ANNEXES ............................................................................................................................................ 45 
+
+Annex 1: Figure showing Food Consumption Score by District and by Wealth Group ....................... 46 
+
+Annex 2: Type of Damage to Infrastructure ....................................................................................... xlvii 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Tables 
+Table 1: Maize Availability against Total Requirements for the Past Five (5) Season ........................... 5 
+
+Table 2: Livestock Population, 2015 - 2016 ........................................................................................... 5 
+
+Table 3: Livestock Products Production, 2015- 2016 ............................................................................. 6 
+
+Table 4: Types of Fisheries ..................................................................................................................... 7 
+
+Table 5: Selected Districts and their Livelihood Zones .................................................................................. 7 
+
+Table 6: Common Hazards in Assessed Districts ................................................................................. 12 
+
+Table 7: Availability of Maize in the Last Two Seasons ...................................................................... 19 
+
+Table 8: Average livestock prices ......................................................................................................... 22 
+
+ 
+
+ii 
+
+Table 9: Diseases in Assessed Districts ................................................................................................ 25 
+
+Table 10: Key Programmes Being Implemented Under Social Protection ........................................... 35 
+
+Table 11: Key Social Protection Programmes Mentioned by Respondents.......................................... 35 
+
+Table 12: Households requiring Relief ................................................................................................. 39 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Figures 
+ 
+Figure 1: Map of Visited Areas ................................................................................................................... 8 
+Figure 2: Rainfall Performance for the period 1st July, 2016 to 10th April, 2017 .................................. 11 
+Figure 3: Hazard Analysis ..................................................................................................................... 11 
+Figure 4: The Recovery Capacity by Wealth Groups ........................................................................... 13 
+Figure 5: Livelihood in the Assessed Districts ..................................................................................... 14 
+Figure 6: Income Sources ..................................................................................................................... 15 
+Figure 7: Expenditure on Food ............................................................................................................. 16 
+Figure 8: Expenditure on Food by Wealth Group ................................................................................. 16 
+Figure 9: Main staple crop .................................................................................................................... 17 
+Figure 10: Sources of staple food ......................................................................................................... 17 
+
+ 
+
+iii 
+
+Figure 11: Experience of Food Scacity at Selected Point in a Year ..................................................... 18 
+Figure 12: Number of Months’ Staple Food lasts ................................................................................. 18 
+Figure 13: Food Prices and Access ....................................................................................................... 20 
+Figure 14: Seasonal Calendar of Staple Food Prices ............................................................................ 21 
+Figure 15: Maize Availability on the Market ........................................................................................ 22 
+Figure 16: Households Employing Unusual Coping Strategies ............................................................ 23 
+Figure 17: Copying strategies used when HHs run out of own produced staple food .......................... 24 
+Figure 18: Coping Strategies by District ............................................................................................... 24 
+Figure 19: Percentage Increase of Disease Burden from the Selected Districts. .................................. 25 
+Figure 20: Under Five Children who are Wasted. ................................................................................ 27 
+Figure 21: Number of under –weights in under 5 children ................................................................... 28 
+Figure 22: Number of Chronically Malnourished Children .................................................................. 28 
+Figure 23: Access to Water Sources ..................................................................................................... 30 
+Figure 24: Households treating or not Treating their water .................................................................. 30 
+Figure 25: Water Treatment Methods ................................................................................................... 31 
+Figure 26: Distribution of Sanitation Facilities ..................................................................................... 31 
+Figure 27: Distribution of Refuse Pits for Waste Disposal ................................................................... 32 
+Figure 28: Distribution of Refuse Pits for Waste Disposal ................................................................... 32 
+Figure 29: Percent of Communities indicating Low Attendance in Schools ........................................ 33 
+Figure 30: Reasons for Low School Attendance................................................................................... 33 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+iv 
+
+1.  BACKGROUND 
+ 
+
+1.1. Introduction 
+
+ 
+The released 2017/2018 Crop Forecast estimates by the Ministry of Agriculture indicated that 
+Zambia was poised to be food secure for that consumption season. Production figures showed 
+that  the  country  produced  a  record  3,606,549  MT  of  maize  and  had  carryover  stock  of 
+569,317MT  resulting  in  the  total  available  maize  for  the  2017/2018  marketing  season  of 
+4,175,866 MT. This was an increase of 26 percent and 27 percent of the previous harvest and 
+recent five – year average respectively. This record production was part of the concurrent seven 
+– year production surplus that the country had enjoyed. Adding other cereals and tubers to the 
+food basket raised the available maize equivalent stock to 5,440,415MT. In view of the fore – 
+going, it was deduced that at the national level, Zambia was food secure.  
+ 
+However, based on judgment  from  past  experience  there are pockets  of communities in  the 
+country that are perpetually food insecure and in most years require some support. These areas 
+mainly  lie  in  the  valley  areas  of  the  country  where  not  only  is  food  production  low  but, 
+according to the demographic health survey, the disease burden of ailments such as malaria is 
+also very high.  
+ 
+Further,  a  combination  of  factors  working  together  with  low  crop  production  (i.e.,  poverty, 
+disease and disaster vulnerability) have led to particularly negative food security  impacts in 
+Zambia’s valley areas. Even with investment going towards building resilience in these areas, 
+progress towards self – reliance has remained slow. 
+ 
+While the available secondary data paint a clear picture of food security conditions in Zambia, 
+concerted programming efforts are on - going in the country, and there are opportunities for 
+additional,  complementary  interventions,  including  those  of  future  food  aid  programmes,  to 
+meaningfully address proximate and underlying causes of food insecurity in the country and to 
+improve the lives and livelihoods of food insecure Zambians, as well as those most at risk of 
+food insecurity.  
+ 
+The  2017  Food  Security  and  Livelihoods  Assessment  therefore  was  designed  to  answer  to 
+chronic situations in the country and recommend the possible solutions for risk reduction and 
+resilience building both  for the short and long term in  addition  to support for required food 
+where necessary. 
+ 
+
+1.2. Purpose and Objectives 
+
+ 
+The purpose of this prospective Food Security and Livelihoods Assessment  was to describe 
+and analyse current and projected food security outcomes in the chronic food insecure areas of 
+the country. In addition, the outcome of the assessment was tailored to provide Government 
+and its partners adequate information for basing decisions on onwards planning and possible 
+response in  cases where the situation warrants.  The data and information  in  the report were 
+also  meant  to  assist  potential  future  initiatives  in  designing  and  identifying  areas  where 
+resilience building could be directed. In the immediate, the information obtained will help in 
+understanding the dynamics in these communities and more importantly assist in designing a 
+monitoring mechanism for observing the unfolding food security situation in those areas. 
+
+ 
+
+1 
+
+ 
+ 
+
+1.3.Scope of the Food Security and Livelihoods Assessment 
+
+ 
+The broader themes covered in the Assessment included the following: 
+ 
+Household Representative Questionnaire 
+ 
+The themes covered in the Household Representative questionnaire included the following: 
+
+•  Household experience with Hazards 
+•  Household Income Sources 
+•  Household Expenditure Patterns 
+•  Food Sources and Consumption 
+•  Social Protection 
+
+ 
+Community and District Questionnaire 
+ 
+The community and district themes covered included the following: 
+
+•  Livelihood Sources 
+•  Markets 
+•  Coping Strategies 
+•  Human Health and Nutrition 
+•  Water, Sanitation and Hygiene (WASH) 
+•  Education 
+•  Social Protection 
+•  Challenges hindering Development 
+•  Development Priorities 
+
+ 
+
+1.4. Limitations of the Survey 
+
+ 
+The following were the limitations of the survey:  
+
+• 
+
+• 
+
+Inaccessibility of some areas; and 
+
+Incomplete HEA baseline which would have helped in analysis of the situation. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+2 
+
+2.  CONTEXT 
+ 
+
+2.1. Economic Performance 
+
+ 
+Zambia has had one of the world’s fastest growing economies for the past ten years, with real 
+GDP growth averaging roughly 6.7 percent per annum which in the last five years has slowed 
+down  to  4.7  percent.  Zambia’s  economy  came  under  strain  in  2015  and  2016  as  external 
+headwinds  and  domestic  pressure  intensified.  Gross  Domestic  Product  (GDP)  grew  at  2.8 
+percent in 2015 and 3.3 percent in 2016, much slower than the average 7.4 percent between 
+2004 and 2014. The external headwinds included slower regional and global growth and lower 
+global copper prices. Domestic pressures included power outages that intensified from mid-
+2015 to the end of 2016, impacting all sectors of the economy. 
+ 
+As well as this, repeat fiscal deficits have weighed on investor confidence, and low and poorly 
+– timed rains led to reduced agricultural income for the poorest Zambians and increased food 
+prices in 2015. Economic conditions have improved slightly since the turn of 2017, and the 
+World Bank projects an improved growth rate of 4 percent in 2017. This follows high rainfall 
+in  the  2016/17  agricultural  season  that  has  improved  agricultural  output  and  quickened  the 
+replenishment of hydro-electric reservoirs. 
+ 
+Meanwhile, the Government of Zambia has approved its 7th National Development Plan 2017–
+2021 and has launched it. The plan, "Accelerating Development Efforts Towards Vision 2030 
+Without Leaving Anyone Behind,” calls for a fundamental shift in the way resources are being 
+allocated, taking into account global and regional trends. The strategic goal of the 7th National 
+Development  Plan is  to create a diversified  and resilient economy  for sustained growth and 
+social economic development. It will also include a result-oriented performance management 
+system to be used to measure progress of its implementation. 
+ 
+
+2.2.Food Availability and Access 
+
+ 
+
+2.2.1.  Crop Production 
+
+ 
+Zambia depends on maize for its staple food whilst cassava, millet and sorghum contribute to 
+the food basket in varying proportions primarily in rural communities. For the past ten years, 
+the cereal production trend has been increasing and the country has recorded surplus harvests 
+making  it  a  net  exporter  of  maize  to  countries  like  the  Democratic  Republic  of  Congo, 
+Zimbabwe, Tanzania and Malawi. 
+ 
+According to  the 2016/17 Crop Forecast  Survey, Maize production increased by 26 percent 
+from 2,873,052 metric tonnes in the 2015/2016 season to 3,606,549 metric tonnes. The national 
+average  yield  rate  for  maize  increased  slightly  to  2.19  metric  tonnes  per  hectare  from  2.10 
+metric tonnes per hectare last season which represents an increase of 4 percent. Area harvested 
+also  increased  by  24  percent  to  1,433,944  hectares  from  1,157,755  hectares  in  2015/2016 
+agriculture season. The contributing factors to the high production of maize are increased area 
+planted,  favourable  agro  meteorological  conditions  and  favourable  price  expectations  by 
+farmers  that  sold  their  maize  to  FRA  in  the  previous  market  season.  In  addition,  usage  of 
+fertilizer on maize by farmers increased by 26 percent in 2016/2017 compared to last season.   
+ 
+Cassava production also increased with cassava flour equivalent production for the 2016/2017 
+season recording an increase by 8 percent to 923,795 metric tonnes compared to 854,393 metric 
+
+ 
+
+3 
+
+tonnes produced during  the last season. Area under Cassava  equally increased by 8 percent 
+from 292,100 ha in the 2015/2016 season to 315,827 ha in the 2016/2017.  
+ 
+Production of sorghum increased by 23 percent to 17,337 metric tonnes from 14,107 metric 
+tons last season. Similarly, millet production increased by 9 percent to 32,566 metric tonnes 
+from  29,973  metric  tonnes  last  season.  Rice  production  increased  by  44  percent  to  38,423 
+metric tonnes from 26,675 metric tonnes last season.  
+ 
+
+2.2.2.  National Food Supply for the 2017/18 Marketing Season 
+
+ 
+
+At national level, the country has produced sufficient maize for both human consumption and 
+industrial  use  to  last  up  to  next  harvest  while  some  households  in  chronic  food  deficit 
+communities may face moderate food insecurity due low production but may still access the 
+commodity  from  surplus  regions.  The  total  maize  production  for  the  2016/2017  agriculture 
+season  is  estimated  at  3,606,549  metric  tonnes.  When  the  maize  carryover  stocks  from  last 
+season is added to this year’s production, the total supply of maize available for the 2017/2018 
+marketing season is 4,175,866 metric tonnes. For the current population, the food balance sheet 
+shows  that  the  total  maize  required  for  human  consumption,  industrial  use  and  other 
+commitments that includes an anticipated National Strategic Reserve stock of 500,000 metric 
+tonnes by the Food Reserve Agency (FRA) amount to 2,997,350 metric tonnes. When the total 
+maize  requirements  are  subtracted  from  total  availability,  the  Food  Balance  Sheet  (FBS) 
+indicates that the country  has recorded  a maize  surplus of 1,178,516 metric tonnes. See the 
+FBS below.  
+ 
+ 
+
+Source: Ministry of Agriculture, Early Warning Unit 
+ 
+ 
+
+ 
+
+4 
+
+ 
+
+Table 1: Maize Availability against Total Requirements for the Past Five (5) Season 
+
+availability 
+
+Marketing 
+season 
+2017/2018 
+2016/2017 
+2015/2016 
+2014/2015 
+2013/2014 
+* The 2015/2016 total requirements included the stocks held by FRA but committed for exports 
+ 
+
+Total 
+(MT) 
+4,175,866 
+3,540,577 
+3,963,622 
+3,947,863 
+2,988,021 
+
+Total 
+requirements 
+(MT) 
+2,997,350 
+2,905,896 
+3,086,854 
+2,795,358 
+2,534,026 
+
+Surplus 
+(MT) 
+1,178,516 
+634,681 
+876,768 
+1,152,505 
+453,995 
+
+2.2.3.  Livestock Performance 
+
+The performance of the livestock sector in Zambia has continued to show positive growth and 
+outlook. In 2016 livestock population increased with strong performance being recorded in the 
+pigs,  poultry  and  goats  sub  sectors  representing  growth  of  42  percent,  22percent  and  17.8 
+percent respectively.   Cattle population also recorded a positive growth of 7.8 percent while 
+sheep  stood  at  13.8  percent.  There  was  a  general  increase  in  the  population  of  all  types  of 
+livestock (cattle, pork, poultry, goat, and sheep). Table 1 below shows the livestock populations 
+of the above mentioned livestock species for the year 2016 relative to 2015. Although livestock 
+population statistics have not yet been updated, the trend indicates a positive trajectory. 
+ 
+Table 2: Livestock Population, 2015 - 2016 
+
+Type of Livestock 
+
+2015 
+
+2016 
+
+Percentage Change 
+
+Cattle 
+Sheep 
+Goats 
+Pigs  
+
+Poultry 
+
+      4,624,220  
+         131,300  
+      4,095,000  
+      2,146,762  
+
+     4,984,909  
+        149,420  
+     4,823,910  
+     3,048,403  
+
+  174,470,000  
+
+ 212,853,400  
+
+7.8 
+13.8 
+17.8 
+42.0 
+
+22.0 
+
+Source: Department of Livestock Development, Ministry of Fisheries and Livestock 
+ 
+The growth in the livestock sector is attributed to increased investment in production extension, 
+disease control and prevention by the Government and private sector as well as strong domestic 
+and regional demand for livestock and its products such as beef, pork, poultry, goats, eggs and 
+milk. Production and Consumption of livestock and poultry products continued on an upward 
+trend  as  demand  continues  to  increase.    Table  3  below  shows  the  production  of  livestock 
+products by the end of 2016. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+5 
+
+Table 3: Livestock Products Production, 2015- 2016 
+
+Product 
+
+2015 
+
+2016 
+
+Milk (MT) 
+Eggs (000) 
+
+Hides (MT) 
+Beef (MT) 
+
+Pork (Kgs) 
+
+Poultry (MT) 
+
+524,000 
+1,216,700 
+
+            544,960  
+         1,387,038 
+
+313,785 
+4,104,000 
+
+             323,199  
+           4,227,120  
+
+439,407,653 
+
+       505,318,801  
+
+4,352,779 
+
+         4,918,640  
+
+Percentage Change 
+4.0 
+14.0 
+
+3.0 
+3.0 
+
+15.0 
+
+13.0 
+
+Source: Department of Livestock Development – Ministry of Fisheries and Livestock 
+ 
+Livestock is  a major source of  food and income  and its production  continues to  be a major 
+livelihood  activity  among  small  scale  farmers  in  the  country.  Small  livestock  and  poultry 
+constitute the most  liquid assets among resource poor farming rural  households.  In difficult 
+times, these households rely on income from sales to pay for requisites such as school fees, 
+health care, purchase of food and non-food items and is also a form of insurance against shocks. 
+ 
+According to statistics from Ministry of Fisheries and Livestock, production of major livestock 
+is  concentrated in  four provinces of Southern, Western, Central  and Eastern Provinces  with 
+cattle  contributing  at  least  55  percent  share  of  major  livestock  in  Zambia.  The  other  major 
+livestock include goats (35 percent) and pigs (10 percent). Likewise, poultry continues to play 
+a major role as a source of income and food with most households rearing it. 
+ 
+However, in the past, cattle production was severely disrupted by recurring disease outbreaks 
+which  have  decimated  the  stocks.  The  common  diseases  included  Foot  and  Mouth  Disease 
+(FMD), East Coast Fever and Contagious Bovine Pleuropneumonia (CBPP). It is worth noting 
+that most of the areas affected by these diseases  are also  prone to  drought  and occasionally 
+flood occurrences.  
+ 
+In  order  to  control  livestock  diseases,  Government  has  rolled  out  vaccination  campaign 
+targeting  600,000  cattle  against  Foot  and  Mouth  Disease  in  Central,  Southern  and  Western 
+Provinces.  A total of 584,024 cattle were vaccinated by the end of December 2016 and the 
+vaccinations have continued into 2017 to meet the planned target. Further the Ministry planned 
+to vaccinate 350,000 cattle against Contagious Bovine Pleural Pneumonia (CBPP) in Western 
+Province.    293,000  cattle  were  vaccinated  by  December  2016.  During  the  same  period  the 
+Ministry immunized 37,486 calves against east coast fever in Eastern and Southern Provinces 
+and this activity is on- going to cover the planned 80,000 calves.  
+ 
+
+2.2.4.  Fisheries 
+
+ 
+Fish contribute a significant amount of animal protein to the diets of people, is highly nutritious, 
+serves as a valuable supplement in diets lacking essential vitamins and minerals, harvested by 
+artisanal and is a source of work and income for many people countrywide. If well harnessed 
+Fisheries can be a significant export commodity with potential for increased foreign exchange 
+earnings for the country. 
+ 
+Government  has  therefore  prioritised  aquaculture  and  improvement  of  infrastructure  for 
+fisheries research and marketing as well as promoting co-management of capture fisheries in 
+
+ 
+
+6 
+
+natural  water  bodies  to  ensure  sustainability  of  fisheries  resources.  Table  4  below  shows 
+Fisheries performance by end of 2016. 
+ 
+Table 4: Types of Fisheries 
+
+ Type of Fisheries 
+
+2015 
+
+2016 
+
+Percentage change 
+
+Capture Fisheries 
+Aquaculture 
+Fisheries 
+Total 
+
+83,719 
+
+83,918 
+
+0.2 
+
+22,753 
+
+27,658 
+
+21.6 
+
+108,487 
+
+113,592 
+
+4.7 
+
+ 
+
+  Source: Department of Fisheries, Ministry of Fisheries and Livestock 
+ 
+3.  ASSESSMENT METHODOLOGY  
+ 
+The  Assessment  was  based  on  participatory  methods  of  data  collection  and  was  conducted  in  four 
+phases namely: 
+
+i. 
+
+ii. 
+iii. 
+iv. 
+
+Selection  of  Districts  –  this  was  based  mainly  on  production  of  maize  compared  with 
+production of the district in the last ten years; 
+Problem Analysis 
+Design of the Needs and Response Framework; and  
+Compilation of Reports and development of monitoring mechanism. 
+
+ 
+
+3.1. Selection of Districts 
+
+ 
+The  selection  of  districts  to  be  assessed  involved  analysis  of  indicators  pertaining  to  availability  and 
+access  to  food  in  the  districts  that  are  traditionally  food  insecure.  Historical  data  from  the  ZVAC 
+Assessments for a ten-year period was also used in identifying the chronically food insecure areas. Based 
+on these indicators, the following districts were selected: 
+ 
+Table 5: Selected Districts and their Livelihood Zones 
+
+Province 
+
+District 
+
+Livelihood Zone 
+
+Eastern 
+
+Lusaka 
+
+Mambwe,  Nyimba,  Petauke,  Luangwa 
+and Chirundu 
+Chirundu and Luangwa 
+
+Muchinga 
+
+Chama 
+
+North Western 
+Southern 
+Western 
+
+Chavuma and Zambezi 
+Gwembe, Siavonga and Sinazongwe 
+Mwandi, Mulobezi, Sesheke, Sioma and 
+Shang’ombo 
+
+Zm 18  – Luangwa Valley Subsistence Farming, 
+Hunting and Tourism 
+Zm 18  – Luangwa Valley Subsistence Farming, 
+Hunting and Tourism 
+Zm 18 – Luangwa Valley Subsistence Farming, 
+Hunting and Tourism  
+Zm 01 – Zambezi Plain Rice and Livestock 
+Zm 10 – Zambezi Valley Agro – fisheries 
+Zm  02  –  South  Western  Cereal,  Livestock  and 
+timber 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+7 
+
+A map of the assessed districts is given below: 
+ 
+Figure 1: Map of Visited Areas 
+
+ 
+
+3.2. Problem Analysis 
+
+ 
+During this phase, the ZVAC determined the immediate, underlying and root causes of chronic 
+food  insecurity.  The  gist  of  this  was  to  help  pin-point  the  nature  of  the  problem,  the  likely 
+populations suffering from it and what the possible solutions could be. This phase also help in 
+the design of the monitoring framework that will be used to look at the evolving food security 
+situation situation for such communities. 
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+ 
+
+3.3.Features of the Assessment 
+
+ 
+ The following were the key features of the assessment: 
+ 
+
+3.3.1.  Desk Top Analysis  
+
+ 
+The Assessment started by gathering the necessary secondary data pertaining to livelihoods, 
+availability,  access,  utilization  as  well  as  coping  mechanisms  in  the  selected  districts.  Gaps 
+were then be identified and these gaps were then filled by using information collected from the 
+field. 
+ 
+
+3.3.2.  Assessment Methods to be Used 
+
+ 
+The Assessment was mainly based on participatory methods such as Key Informant Interviews 
+at the district level, Focused Group Discussions (FGDs) at the Community level and Household 
+interviews at the household level. 
+ 
+
+3.3.3.  Sample Selection 
+
+ 
+The selection of the sample was purposive and owing to this, profiles of each identified district 
+identified  were  created  with  no  generalization  to  the  entire  selected  districts.  In  order  to 
+understand  the  behaviour  of  the  selected  indicators,  it  was  agreed  that  the  entry  point  is  to 
+organise  a  district  level  key  informant  interview  before  going  to  assess  the  communities  in 
+question. After this was done, three communities were then selected in each district in order to 
+get the required information and understand the nature and severity of food insecurity in the 
+selected  districts.  At  the  community  level,  five  (5)  households  were  also  selected  and 
+interviewed in order to get an understanding of the household level parameters. 
+ 
+
+3.3.4.  Selection of Enumerators 
+
+ 
+Enumerators  that  collected  and  analysed  data  from  this  Assessment  were  food  security 
+practitioners from the partner institutions, the Government, UN and Non State Actors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+9 
+
+4.  FINDINGS 
+ 
+
+4.1. Basic Characteristics 
+
+ 
+The Assessment  revealed that the  households  in  the assessed  districts  consist  on average of 
+seven (7) members. Access to infrastructure and basic services is also problematic for many 
+rural households in the assessed districts. The Assessed households mostly resided in areas that 
+are  isolated  from  population  centres  and  markets.  These  areas  did  not  also  have  proper 
+connectivity  in  terms  of  road  infrastructure  and  communication  which  impeded  economic 
+participation of these areas of the country.  
+ 
+
+4.2. Risk Analysis 
+
+ 
+
+4.2.1.  Rainfall Performance 
+
+ 
+During  the  2013/  2014  rainy  season,  Zambia  experienced  hydro-  meteorological  hazards  of 
+floods,  drought,  human  and  livestock  diseases.  Contrary  to  the  projection  by  the  Southern 
+African  Climate  Outlook  Forum  and  the  Zambia  Meteorological  Department  that  Zambia 
+would  experience  normal  to  above  normal,  the  2014/  2015  rainfall  performance  was 
+characterized with an early on-set of rainfall confined to the Northern, Luapula, and some parts 
+of North Western and Western Provinces while the Southern half of the country received below 
+normal rainfall due to the El Nino conditions that prevailed over the region. The 2014/ 2015 
+and  2015/  2016  El  Nino  conditions  impacted  negatively  on  the  energy  sector,  water  and 
+agriculture  and  food  security.  The  2015/  2016  rainy  season  was  a  repeat  of  the  2014/  2015 
+which  recorded  normal  to  below  normal  rainfall  except  for  the  North-  Eastern  parts  of  the 
+country which experienced normal rainfall. The 2016/ 2017 rainfall performance was a shift 
+from  the  previous  past  two  rainy  seasons.  The  2016/  2017  rainy  season  received  normal  to 
+above normal rainfall with flash flood occurrences which was mainly attributed to the La Niña 
+phenomena over the Equatorial Pacific Ocean (Refer to figure 2).  
+ 
+During the period under review, most of the parts of the country recorded a very good rainfall 
+performance  both  in  amount  and  distribution  with  all  provinces  receiving  normal  to  above 
+normal rainfall amounts compared to the two previous El Nino events (2014/2015 and 2015/ 
+2016 rainy seasons) resulting into the following: 
+
+•  Thunderstorms causing associated with strong winds leading to infrastructure damage; 
+•  Outbreaks of pests - army worms, stalk borer and ref locusts; and 
+•  Outbreaks of diarrhoea diseases. 
+
+ 
+In term of cumulative rainfall, North Western Province recorded the highest amount of rainfall 
+at  1500mm  and  Southern  at  Kafue  polder  recorded  as  low  as  734  mm.  The  rainy  season 
+recorded  flash  floods  across  the  country  with  Lusaka  Province  having  more  pronounced 
+occurrences.  The  season  also  experienced  outbreaks  of  pest  infestations  due  to  sharp 
+temperature  gradients.  The  season  also  recorded  Tropical  Cyclone,  Dineo  by  mid-February 
+2017,  which  hit  the  Mozambique  Channel,  intensifying  rainfall  activities  over  much  of 
+Southern Africa region, including Zambia. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+10 
+
+Figure 2: Rainfall Performance for the period 1st July, 2016 to 10th April, 2017 
+
+Source: Zambia Meteorological Department, 2017 
+ 
+
+4.2.2.  Hazard Analysis  
+
+ 
+The  Assessed  districts  were  ravaged  by  various  hazards  namely  floods,  droughts,  pest 
+infestation,  livestock  diseases,  human  epidemics,  human  –  animal  conflicts  and  high  food 
+prices. Figure below shows the levels of these hazards in the survey areas. 
+ 
+Figure 3: Hazard Analysis 
+
+ 
+
+Source: Zambia Vulnerability Assessment Committee, 2017 
+
+ 
+
+11 
+
+ 
+
+0.0%2.0%4.0%6.0%8.0%10.0%12.0%14.0%16.0%NormalAbove NormalMpikaSolweziSeshekeKaomaSerenjeKalaboChamaMumbwaMkushiLukuluKasempaMufumbweKazungulaKaputaChinsaliSenangaMwinilungaLundaziKalomoZambeziIsokaNyimbaMonguItezhi-tezhiKabompoSamfyaKapiri MposhiKasamaMansaMungwiShang'omboMbalaChibomboChongweMporokosoMpulunguLuwinguPetaukeChomaKafueMpongweMwenseMilengeLufwanyamaKawambwaChipataChilubiMonzeMambweMazabukaKateteChavumaSiavongaLuangwaNakondeGwembeMasaitiSinazongweNchelengeChiengiChadizaKabweChingolaNdolaLusakaLivingstoneAnalysis of hazards across the assessed area showed that the most common hazards included 
+floods,  drought,  pest  infestation,  livestock  diseases,  human  epidemics  and  human  –  animal 
+conflicts. The Table 6 below shows the districts facing each of the listed hazards: 
+ 
+ Table 6: Common Hazards in Assessed Districts 
+
+No. 
+
+Hazard 
+
+1  Floods 
+
+2  Drought 
+
+3  Pest Infestation 
+
+4  Livestock disease 
+
+5  Human epidemics 
+6  Human - Animal 
+
+Conflict 
+
+District 
+
+Mambwe,  Nyimba,  Petauke,  Chavuma,  Zambezi,  Gwembe, 
+Shang'ombo, Sioma and Luangwa 
+Mambwe,  Nyimba,  Petauke,  Chirundu,  Chama,  Chavuma, 
+Zambezi,  Gwembe,  Siavonga,  Sinazongwe,  Sesheke, 
+Shang'ombo, Mwandi, Mulobezi, Sioma and Luangwa 
+Nyimba,  Petauke,  Chirundu,  Chama,  Chavuma,  Zambezi, 
+Gwembe,  Siavonga,  Sinazongwe,  Sesheke,  Shang'ombo, 
+Mwandi, Luangwa and Mulobezi 
+Chirundu, Chama, Siavonga, Sinazongwe, Sesheke, Mwandi 
+and Mulobezi 
+Petauke, Zambezi and Sioma 
+Mambwe,  Nyimba,  Luangwa,  Chirundu,  Chama,  Sesheke, 
+Luangwa and Sioma 
+
+Source: Zambia Vulnerability Assessment Committee 
+ 
+The mixed El Nino and La Nina events experienced from 2013 triggered a number of hazards 
+which  had  varying  effects  on  different  wealth  groups  in  the  assessed  districts.  The  major 
+hazards that affected the households in the Zambezi and Luangwa valleys in the last five years 
+included  pest  infestation  (14.3  percent),  droughts  (14  percent),  floods  (11.6  percent)  and 
+livestock diseases (10.8 percent). In terms of the impact of the hazards across the wealth groups, 
+majority  of  the  households  (55  percent)  indicated  that  they  were  severely  impacted  by  the 
+hazards, 13.5 percent of the households indicated that the impact of the hazard was moderate 
+and 3.4 percent experienced low impact. 
+ 
+
+4.2.3.  Vulnerability Analysis 
+
+ 
+The survey indicated that 34 percent of the better- off households indicated that they had fully 
+recovered compared to the poor (15.6 percent) and very poor (22.2 percent). The figure below 
+further shows that 7.4 percent of the very poor households had partially recovered compared 
+to 34.3 percent of the better- off. The table below shows that the capacity for recovery was 
+directly proportion to the wealth grouping and the better- Off had were more resilient to the 
+hazards  than  other  wealth  groups.  The  survey  also  revealed  that  the  Better-off  were  less 
+vulnerable to floods, droughts and Pest infestation due to diverse livelihoods they are engaged 
+in than other wealth groups. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+12 
+
+ 
+Figure 4: The Recovery Capacity by Wealth Groups  
+
+ 
+
+ 
+
+Source: Zambia Vulnerability Assessment Committee, 2017 
+ 
+
+4.2.4.  Early Warning 
+
+ 
+According to Assessment results, 87 percent of the people were warned of impending hazards 
+in their areas where they reside. This shows an increasing trend in the number of people warned. 
+The  number  of  people  warned  increased  by  16  percent  from  the  2016  figure.  The  mode  of 
+delivery for these warnings included radio accounting for 40 percent followed by television at 
+13 percent.  The other modes such as flyers and newspapers only accounted for 6 percent. The 
+respondents interviewed indicated that the District Disaster Management Committee were the 
+main  sources  of  warnings  (32  percent).  The  other  sources  of  information  included  Zambia 
+Meteorological Department (18 percent) and ZESCO (11 percent). 
+ 
+
+4.3.Livelihood Analysis 
+
+ 
+
+4.3.1.  Livelihood Sources 
+
+ 
+Households  in  the  sampled  districts  engage  in  a  variety  of  farm  and  non-farm  activities. 
+Agricultural activities combined (crop, livestock, and agricultural wage labour) amount to 60 
+percent  of  total  income  for  rural  households,  a  figure  that  is  driven  mostly  by  independent 
+agricultural  work.  Breaking  down  the  agricultural  activities  in  the  assessed  communities 
+indicated that 24 percent were involved in crop production, 18 percent in livestock production, 
+a  further  18  percent  in  agriculture  labour,  8  percent  in  fishing  and  6  percent  in  trading. 
+Participation  in  non-agricultural  self-employment  is  similar  to  that  of  other  developing 
+countries (Davis et al., 2010), with 40 percent of rural households engaged in these activities. 
+ 
+ 
+ 
+ 
+
+ 
+
+13 
+
+30.0%32.2%15.6%22.2%34.5%33.8%24.3%7.4%25.9%23.6%25.9%24.6%0.0%10.0%20.0%30.0%40.0%50.0%60.0%70.0%80.0%90.0%100.0%Better-OffMiddlePoorVery PoorNot RecoveredPartially RecoveredRecovered 
+  Figure 5: Livelihood in the Assessed Districts 
+
+ 
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+
+Type of Livelihoods
+
+ 
+
+ 
+It  is  expected  that  activities  pertaining  to  the  top  three  livelihoods  namely  crop 
+production/sales,  livestock  production  and  provision  of  casual  labour  will  provide 
+opportunities for households in the assessed districts at the local level. For some districts in 
+border areas, the traditional migration to other areas is expected to marginally reduce as most 
+households may opt to strengthen their production base in readiness for next season in view of 
+a good harvest. It is also expected that the quality of their livestock will significantly improve 
+in  view  of  good  grassland  and  abundance  of  water  thereby  affording  them  good  earning 
+potential from this sub – sector. 
+ 
+
+4.4. Income Sources 
+
+ 
+The Assessment showed that the common income sources included crop sales (44.1 percent), 
+agricultural wage labour (20 percent), livestock production (15.1 percent), fishing (6.9 percent) 
+and gardening (2.8 percent). Minor livelihoods included petty trading (2.1 percent), remittances 
+(1.7 percent), formal employment (1.4 percent) and brewing (1.4 percent).  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+14 
+
+ 
+Figure 6: Income Sources 
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+50.0
+
+45.0
+
+40.0
+
+35.0
+
+30.0
+
+25.0
+
+20.0
+
+15.0
+
+10.0
+
+5.0
+
+0.0
+
+44.1
+
+20.0
+
+15.1
+
+1.4
+
+2.1
+
+1.4
+
+2.8
+
+.7
+
+.7
+
+3.2
+
+1.7
+
+6.9
+
+Income Source
+
+ 
+
+ 
+It is clear that majority of the key livelihoods that are undertaken in the assessed districts mainly 
+lie in the agricultural sector and are seasonal. However, with a good harvest in some of the 
+districts, it is anticipated that both the agricultural and non – agricultural employment activities 
+will be available owing to the fact that these agricultural households may invest some of their 
+income from increased production in other aspects such as housing, storage and the like where 
+the poor may find opportunities. The assessment reported that these opportunities may arise 
+from July to September. In terms of earnings from such activities, the assessment indicated that 
+these  are  likely  to  marginally  increase  owing  to  the  fact  that  economic  performance  in  the 
+country has slackened. 
+ 
+
+4.5. Expenditure  
+
+ 
+Expenditure share is key in determining the economic vulnerability of households and population 
+in general. From the data collected, the discussion will be limited to expenditure share on food to 
+ascertain to what extent people in the assessed districts created a balance between food and non-
+food items in view of the negative impacts brought about by the shocks in the last three seasons. 
+The expenditure share analysis in this Report was based on both purchases and own production 
+estimates with a standard recall period of thirty (30) days. 
+ 
+Analysis on expenditure showed that more than 64 percent of the households in the assessed 
+districts  spent  less  than  fifty  percent  of  their  earnings  on  food.  A  further  15  percent  of  the 
+households in the assessed districts spent between 50 and 65 percent while another 14 percent 
+spent  between  65  and  75  percent.  Only  about  7  percent  of  the  households  in  the  assessed 
+districts spent more than 75 percent of their earnings on food (see figure 7 below). 
+
+ 
+
+15 
+
+ 
+Figure 7: Expenditure on Food 
+
+64
+
+70
+
+60
+
+50
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+40
+
+30
+
+20
+
+10
+
+0
+
+15
+
+14
+
+7
+
+Less than 50% Expenditure
+
+50% to 65% Expenditure on
+
+65.1% to 75% Expenditure
+
+Above 75% Expenditure on
+
+on food
+
+food
+
+on food
+
+food
+
+Share of Expenditure
+
+ 
+Further analysis of expenditure on food by wealth group indicated that only the poor and very 
+poor had expenditure that were in excess of 75 percent of their total expenditure. On the other 
+hand,  majority  on  the  better  –  off  and  the  middle  spend  less  than  65  percent  of  their  total 
+expenditure. 
+ 
+
+ 
+
+Figure 8: Expenditure on Food by Wealth Group 
+
+ 
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+90.0%
+
+80.0%
+
+70.0%
+
+60.0%
+
+50.0%
+
+40.0%
+
+30.0%
+
+20.0%
+
+10.0%
+
+0.0%
+
+ 
+
+ 
+
+<50%
+
+50 - 65%
+
+65.1 - 75%
+
+Above 75%
+
+Rich/Well Off/Better
+
+Medium/Middle
+
+Poor
+
+Very Poor
+
+ 
+
+16 
+
+4.6.Agriculture and Food Security 
+
+ 
+The survey results indicate that the main staple food is maize with a percentage share of 78 
+percent,  sorghum  12  percent  while  millet  and  sorghum  represent  5  percent.  This  finding  is 
+consistent with agro-climatic conditions in the assessed districts. Furthermore, even though the 
+sorghum  and  millet  would  do  well  in  the  assessed  districts  it  was  apparent  that  the  heavy 
+promotion of maize and programmes promoting its cultivation such as the FISP and FSP have 
+contributed to the abandonment of other crops, which apparently were the staple for some of 
+these communities. 
+ 
+Figure 9: Main staple crop 
+
+Millet
+
+5%
+
+Sorghum
+
+12%
+
+Cassava
+
+5%
+
+Maize
+78%
+
+Maize
+
+Cassava
+
+Sorghum
+
+Millet
+
+ 
+Further, 86 percent of households depend on own production farming activities as their main 
+source of staple food. The survey showed that the production of all the major staple food crops 
+such as maize, sorghum, millet, rice and cassava generally continued to expand in most of these 
+districts. Other sources of food purchases, wild  foods and barter and labour representing 10 
+percent and 2 percent each respectively as seen in figure 10 below. 
+ 
+Figure 10: Sources of staple food 
+
+ 
+
+Purchase
+
+10%
+
+Other
+
+4%
+
+Own production
+
+86%
+
+Wild foods
+
+2%
+
+Exchange (Barter 
+
+and Labour
+
+2%
+
+Own production
+
+Purchase
+
+Exchange (Barter and Labour
+
+Wild foods
+
+ 
+
+ 
+
+17 
+
+Communities and households in the assessed districts normally experience food scarcity during 
+the year and usually main staple food from own production only last 7 months in a good year. 
+Figure 11 below shows the percentage of communities that experience food scarcity at some 
+point in a normal year. 
+ 
+Figure 11: Experience of Food Scacity at Selected Point in a Year 
+
+ 
+
+ 
+From  the  above  chart,  it  can  be  seen  that  about  81  percent  of  the  communities  interviewed 
+reported to experience food shortages at some period in the year. A further analysis in the chat 
+below reveals that most communities experience food shortages as early as October. It can be 
+noticed  that  in  most  communities,  food  supplies  are  usually  available  in  high  and  medium 
+quantities in four months i.e May, June, July and August while they are low in Septembet to 
+October.  
+ 
+Despite the country producing a record harvest this year, the assessment findings indicate that 
+the  staple  food  from  own  production  in  the  chronic  food  insecure  areas  will  last  only  five 
+months up to October. 
+ 
+Figure 12: Number of Months’ Staple Food lasts
+
+s
+h
+t
+n
+o
+M
+
+ 
+f
+o
+
+ 
+.
+
+o
+N
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+ 
+
+Good year
+
+2017
+
+18 
+
+ 
+
+4.7. Food Consumption Score 
+
+ 
+The Assessment showed that most of the people in the assessed districts have acceptable food 
+consumption scores (56.8 percent) followed by those with borderline food consumption scores 
+(18.4 percent). Although the survey showed that majority of the households had good dietary 
+diversity in the form of consumption scores, there were still 24.8 percent of households which 
+had poor dietary diversity.  The good dietary diversity emanated from the fact that communities 
+had increased access and consumption of diverse own produced foods.  
+ 
+At  the  districts  level,  the  results  showed  that  the  poor  and  very  poor  in  nine  of  the  sixteen 
+assessed districts had poor consumption scores. These districts included Chirundu, Luangwa, 
+Mambwe, Sioma, Shang’ombo, Sesheke, Siavonga, Gwembe and Nyimba (See Annex I). 
+ 
+
+4.8. Cereal Crops Performance 
+
+ 
+The assessment results have shown that most districts recorded increments in maize production 
+compared to the five-year average as shown in the table in table 7 below. However, Luangwa 
+and  Zambezi  recorded  decreases  of  36  and  15  percent  respectively.  Nyimba,  Mambwe  and 
+Chama recorded higher production translating into 41, 42 and 46 percent respectively as seen 
+in table 7 below. Chavuma, Sinazongwe and Petauke districts recorded a minimal increase in 
+production. 
+ 
+Table 7: Availability of Maize in the Last Two Seasons 
+
+District 
+
+ 2016_2017   2015_2016 
+
+5 Year 
+Average 
+
+Percent change (Current 
+Compared to the last 5 year 
+Average, 2012 - 2016) 
+
+Luangwa 
+Zambezi 
+Chavuma 
+Sinazongwe 
+Petauke 
+Siavonga 
+Shang'ombo 
+Sesheke 
+Nyimba 
+Mambwe 
+Chama 
+
+871 
+9,911 
+5,082 
+16,842 
+133,715 
+12,521 
+8,421 
+13,807 
+48,858 
+18,900 
+26,749 
+
+152 
+11,983 
+5,482 
+15,448 
+111,895 
+15,102 
+5,112 
+12,492 
+32,658 
+9,508 
+11,447 
+
+1,355 
+11,681 
+4,995 
+16,210 
+127,176 
+10,846 
+6,444 
+10,439 
+34,640 
+13,286 
+18,316 
+
+-36 
+-15 
+2 
+4 
+5 
+15 
+31 
+32 
+41 
+42 
+46 
+
+Source: ZVAC, Food Security and Livelihood Assessment 
+
+ 
+The unsatisfactory performance in  Luangwa,  Zambezi,  Chavuma, Sinazongwe, Petauke  and 
+Siavonga can be attributed to floods, human animal conflict and late delivery of inputs under 
+FISP. Despite low and negative crop harvest performance in some communities in chronic food 
+insecurity districts,  the country has more than enough stocks that can be distributed to  food 
+deficit areas and improve food supply and availability in these areas. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+19 
+
+4.9. Food Prices and Access 
+
+ 
+Staple  food  prices  have  remained  stable  and  with  marginal  reductions  being  experienced 
+compared to the same period last marketing season despite the new crop harvest reaching the 
+market.  The price of maize grain which were high during the 2016/17 marketing season varies 
+depending on the region but range from ZMW 50 to ZMW 80 across the country.  
+ 
+Figure 13: Food Prices and Access 
+
+120.00
+
+100.00
+
+80.00
+
+60.00
+
+40.00
+
+20.00
+
+-
+
+May
+16
+
+Jun 16 Jul 16 Aug
+16
+
+Sep
+16
+
+Oct
+16
+
+Nov
+16
+
+Dec
+16
+
+Jan 17 Feb
+17
+
+Mar
+17
+
+Apr
+17
+
+May
+17
+
+Maize grain
+
+Breakfast Mealie Meal
+
+Roller Mealie Meal
+
+ 
+
+ 
+Due to new bumper crop harvest, maize grain, breakfast mealie meal and roller meal prices 
+that reached their peak in February and March 2017 started reducing by April and May. This 
+trend is expected to continue up and until October when upward movement is anticipated. 
+ 
+
+4.9.1.  Food Markets 
+
+ 
+The  staple  food  will  be  readily  available  on  the  market  throughout  the  year  up  to  the  new 
+harvest in April 2018 owing to the record harvest and improved availability coupled with huge 
+carryover stocks.  However, only communities that experience chronic food insecurity may run 
+out  of  own  stock  staple  food  supply  during  the  lean  period  (November  to  February)  as  the 
+commodity normally become scarce. In most parts of the country, supply of the staple food is 
+expected to be high to medium from July to October while supply will be  low but stable up to 
+March in 2018. The prices of staple food are normally high during the lean period and low after 
+the harvest month of May and June. Apart from maize other staple foods, that is, cassava, millet 
+and sorghum that are normally used for nshima are available after the harvest.  
+ 
+Among the communities interviewed, the results have revealed that high prices are prominent 
+from October to January while the lowest prices are recorded from April to July. These price 
+changes coincide with the periods of food availability and scarcity which is usually a seasonal 
+phenomenon. The figure below shows the monthly prices for the main staple food are high and 
+when they are low. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+20 
+
+  
+
+Figure 14: Seasonal Calendar of Staple Food Prices  
+
+Dec
+
+Nov
+
+Oct
+
+Sep
+
+Aug
+
+Jul
+
+Jun
+
+May
+
+Apr
+
+Mar
+
+Feb
+
+Jan
+
+0.0%
+
+5.0%
+
+10.0%
+
+15.0%
+
+20.0%
+
+25.0%
+
+30.0%
+
+High prices
+
+Low prices
+
+ 
+
+ 
+
+ 
+The number of sellers will also exhibit the same pattern unless the FRA enters the market and 
+mops excess maize on the market thereby crowding out private sector participation and free 
+market purchases and exchange.  
+ 
+Poor households in food deficit communities, will later in the season, depend on the market, 
+and, at that point, will face higher prices and difficulties meeting their food needs. The lifting 
+of the maize export ban may help maintain relatively high prices for farmers storing the maize 
+to sell later in the season. In the communities visited; it’s evident that stable food supply in 
+markets lasts for an average of 5 months from the month of May to September. The rest of the 
+period is  characterised  with  erratic  food supply  as most of the food  commodities from  own 
+production would have diminished. Poor road infrastructure in most of the communities visited 
+also contributes to scarcity and limited supply of staple food on the market. The figure below 
+shows the levels of maize grain availability on the market during the calendar year. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+21 
+
+ 
+
+ 
+
+Figure 15: Maize Availability on the Market 
+
+M A I Z E   A V A I L A B I L I T Y   O N   T H E   M A R K E T
+
+None
+
+Low Medium
+
+High
+
+40
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+ 
+
+ 
+4.10 Livestock 
+ 
+Zambia  is  endowed  with  a  vast  resource  base  for  production.  Livestock  production  and 
+associated products offer significant opportunities for economic growth which ultimately helps 
+reduce poverty. especially among the rural farmers where the resource base is not fully utilised 
+as manifested by low livestock productivity.  
+ 
+Table 8: Average livestock prices 
+
+Cattle 
+
+Price 
+(Survey 
+date) 
+
+Price 
+(November 
+2016) 
+
+Goats 
+
+Price 
+(Survey 
+date 
+
+Pigs 
+
+Village Chickens 
+
+Price 
+(November 
+2016) 
+
+Price 
+(Survey 
+date 
+
+Price 
+(November 
+2016) 
+
+Price 
+(Survey 
+date 
+
+Price 
+(November 
+2016) 
+
+3000 
+2000 
+4000 
+3000 
+2500 
+2500 
+2500 
+2500 
+
+2800 
+3000 
+4000 
+3000 
+2500 
+2000 
+3000 
+2000 
+
+350 
+500 
+400 
+300 
+200 
+180 
+350 
+180 
+
+300 
+350 
+400 
+300 
+180 
+120 
+150 
+150 
+
+300 
+600 
+500 
+600 
+600 
+300 
+600 
+200 
+
+300 
+400 
+500 
+600 
+600 
+250 
+300 
+200 
+
+60 
+70 
+50 
+50 
+50 
+50 
+50 
+30 
+
+60 
+60 
+50 
+50 
+50 
+30 
+40 
+25 
+
+  
+Chavuma 
+Zambezi 
+Gwembe 
+Sinazongwe 
+Sesheke 
+Mwandi 
+Mulobezi 
+Sioma 
+
+ 
+Results in table 8 indicate marginal differences in prices among all livestock types. The results 
+also show that livestock price remained stable from November in 2016 to May 2017 when the 
+assessment  was  conducted.  Prices  for  cattle  remained  the  same  while  generally  prices  were 
+higher on the survey date which was in May compared to prices in November 2016 for goats, 
+pigs and chickens.  This pattern could be due to the fact that during the period from November 
+2016  to  March  2017,  staple  food  availability  is  low  and  sometimes  scarce  hence  farmers’ 
+propensity to sell their small livestock in order to generate income to buy food. At the beginning 
+
+ 
+
+22 
+
+of  the  marketing  year,  livestock  prices  were  relatively  high  because  households  were  not 
+compelled to sell as they have food around this time.  
+ 
+Livestock Diseases  
+ 
+Communities pointed out Lumpy skin disease, black leg, foot and mouth and CBBP as the most 
+common diseases in cattle. The most common disease in goats is mange while swine fever and 
+new castle are the most common diseases in pigs and poultry respectively.  
+ 
+4.11 Coping Strategies 
+ 
+The  Coping  Strategies  Index  (CSI)  is  one  of  the  indicators  and  tools  for  measuring  food 
+insecurity or impact of a hazard on food security.  Watts (1983) demonstrated modest dietary 
+adjustments  (eating  less-preferred  foods  or  reducing  portion  size)  are  easily  reversible 
+strategies  that  do  not  jeopardize  longer-term  prospects.  More  extreme  behaviours  (sale  of 
+productive assets) suggest more serious long-term consequences.  
+ 
+According to assessment results, when households and communities run out of own produced 
+staple food, 79 percent reported to be engaged in unusual coping strategies while 21 percent 
+did not. This result indicates the majority of households in the assessed districts during the year 
+often experience food insecurity and resort to other sources of food to meet their food needs.  
+ 
+
+Figure 16: Households Employing Unusual Coping Strategies 
+
+21%
+
+79%
+
+Yes
+
+No
+
+ 
+
+ 
+According to the assessment findings, two main copying strategies employed by the majority 
+of  households  included  collecting  of  wild  food  (fruits  and  tubers)  which  accounted  for  83 
+percent with 17 percent engaged in the sale of household assets. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+23 
+
+Figure 17: Coping strategies used when HHs run out of own produced staple food 
+
+82.9
+
+t
+n
+e
+c
+r
+e
+P
+
+90.0
+
+80.0
+
+70.0
+
+60.0
+
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+10.0
+
+0.0
+
+17.1
+
+Collecting and eating Wild Food
+
+Sale of Household Goods
+
+ 
+
+Further,  it  was  also  observed  that  communities  in  Zambezi  (67  percent)  and  Siavonga  (50 
+percent),  accounted  for  the  highest  proportion  communities  that  engaged  in  the  sale  of 
+household assets.  
+ 
+  Figure 18: Coping Strategies by District 
+
+Mulobezi
+
+Mwandi
+
+Sesheke
+
+Sinazongwe
+
+Siavonga
+
+Gwembe
+
+Zambezi
+
+Chavuma
+
+Chama
+
+Chirundu
+
+Petauke
+
+Nyimba
+
+Mambwe
+
+Sale of Household Goods
+
+Collecting and eating Wild
+Food
+
+0.0%
+
+20.0%
+
+40.0%
+
+60.0%
+
+80.0%
+
+100.0%
+
+ 
+These findings may also indicate that as food insecurity worsens, households are more likely 
+to  employ  strategies  that  are  less  reversible,  and  therefore  represent  a  more  severe  form  of 
+coping and greater food insecurity. 
+ 
+
+ 
+
+ 
+
+ 
+
+24 
+
+4.12.  Human Health and Nutrition 
+ 
+The  outcome  of  the  assessment  for  health  and  nutrition  will  provide  government  and  its 
+partners adequate information for basing decisions on onwards planning and possible response 
+in cases where the situation warrants. The data and information in the report, including areas 
+particularly  vulnerable  to  high  disease  burden,  are  also  meant  to  assist  potential  future 
+initiatives  in  designing  and  identifying  areas  where  resilience  building  as  well  as 
+implementation  of health interventions could  be directed.  In the immediate, the information 
+obtained will help in understanding the dynamics in these communities and more importantly 
+assist in designing a monitoring mechanism for observing the unfolding health and nutrition 
+situation in those areas. 
+ 
+Findings  on  several  areas  of  importance  from  the  selected  districts  relating  to  health  and 
+nutrition are indicated below and include percentage increases on Malaria (in both under-fives 
+and pregnant women), Diarrhoea (Blood and non-blood), Cough / Acute Respiratory Infections 
+(ARI),  Measles  and  HIV  /  AIDS  in  the  period  under  review  prior  to  the  conducting  of  the 
+assessment. 
+ 
+From the sampled districts, the following were the increases in terms of percentage focusing 
+on the selected disease distribution and burden. The two periods of consideration are the 1st 
+quarter of 2016 and the 1st quarter of 2017. 
+ 
+Table 9: Diseases in Assessed Districts 
+
+Type of Disease 
+Malaria in Under 5 
+Malaria in Pregnant Women 
+Cough / ARI 
+Diarrhoea - Non Blood 
+Diarrhoea - Blood 
+HIV Infections 
+Measles 
+
+Percentage Increase 
+6.7 
+4 
+5.3 
+26.7 
+3.3 
+8.7 
+13.3 
+
+ 
+Figure 19: Percentage Increase of Disease Burden from the Selected Districts. 
+
+e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+ 
+
+Malaria in
+Uinder 5
+
+Malaria in
+Pregnant
+Women
+
+Cough/ARI Diarrhoea -
+Non Blood
+
+Diarrhoea -
+
+Measles
+
+HIV
+
+Blood
+
+Infection
+
+Type of Disease
+
+25 
+
+  
+
+Malaria 
+ 
+High prevalence of malaria cases were observed in under 5 children and pregnant women and 
+this could have been attributed to the following: 
+
+•  No household possession of Long Lasting Insecticide Treated Nets ( LLITN)  
+•  Non-use of Insecticide Treated Nets (ITNs) by persons 
+•  Non implementation of the Indoor Residual Spray activity against mosquitoes (IRS). 
+•  Failure to access Intermittent Preventive Treatment by pregnant women (IPTs) 
+•  Poor implementation of integrated vector management practices (IVM). 
+•  Favourable climatic conditions for mosquito infestation being in the valley areas. 
+
+ 
+Diarrhoea (Blood & Non – Blood) 
+ 
+There  was  an  increase  in  the  incidence  rate  of  non-bloody  diarrhoea  compared  to  bloody 
+diarrhoea and this could have largely been attributed to the following among others, 
+
+•  Poor Hygiene practises i.e. (Hand washing with soap /Ash) 
+•  Highly compromised sanitation situations (Open Defecation) 
+•  Non availability of toilet facilities. 
+• 
+•  Non availability of household water treatment supplies i.e. Chlorine. 
+•  Poor feeding habits. 
+•  Low economic status 
+
+Inadequate supply of safe water. 
+
+ 
+ACUTE RESPIRATORY INFECTIONS (ARI) 
+ 
+Coughs  /ARI  are  leading  cause  of  childhood  morbidity  and  mortality  especially  in  children 
+who are between 2-5yrs old. From the assessment, high prevalence rates of ARI recorded could 
+be as a result of deficiencies as to the way mothers and other care givers conduct home-care. 
+ 
+ It’s  a  well-known  fact  that,  early  diagnosis  and  treatment  with  antibiotics  can  reduce  the 
+mortality and morbidity statistics. Therefore, mothers and care givers in identifying the need 
+for home care, (in case of a cough or cold) should carefully observe symptoms that don’t result 
+into pneumonia and get to a health facility in the case were its severe pneumonia. 
+ 
+Skilled  health  workers  will  assess  to  determine  what  category  the  patient  is  in  e.g.  severe 
+pneumonia, very severe pneumonia, pneumonia or no pneumonia and recommend appropriate 
+mode of care. 
+ 
+Measles 
+ 
+Measles  remains  one  of  the  leading  causes  of  death  among  small  children  despite  the 
+availability  of  safe  and  effective  vaccines.  From  the  assessment,  most  districts  from  the 
+sampled areas could have implemented accelerated immunization activities. 
+ 
+ Few  districts  indicated  a  slight  increase  in  the  disease  burden  though  the  prevalence  was 
+relatively low. And in populations with high levels of malnutrition and a lack of adequate health 
+care, measles cases result into death. 
+ 
+ 
+
+ 
+
+26 
+
+HIV Infections 
+ 
+From the assessment, there was a significant rise of incidence cases across districts which 
+could have resulted from the following among others; 
+
+•  Lack of individual knowledge of HIV transmission;  
+•  Non adoption of safer sexual practises; and 
+•  Lack of information on antiretroviral drugs. 
+
+ 
+Nutrition 
+ 
+Adequate  nutrition  is  critical  to  children  growth  and  development.  The  period  from  birth  is 
+especially  important  for  optimal,  physical,  mental,  cognitive  and  health  development. 
+Unfortunately,  this  period  is  often  marked  by  macro-  and  micronutrient  deficiencies  that 
+interfere with optimal growth where we see childhood illnesses come in i.e. diarrhoea, measles, 
+and acute respiratory infections. 
+ 
+Wasting 
+ 
+From the assessment report, of the districts sampled, Nyimba had the highest number in terms 
+of prevalence of wasting followed by Shang’ombo, Petauke and Chama The other districts that 
+indicated  increased  outcome  had  relatively  average  to  low  statistics  in  as  far  as  wasting  is 
+concerned which critically looks at the low weight for height balance. 
+ 
+Figure 20: Under Five Children who are Wasted. 
+
+ 
+
+ 25.00
+
+ 20.00
+
+ 15.00
+
+ 10.00
+
+ 5.00
+
+ -
+
+ 
+ 
+Underweight 
+ 
+This indicator focused on children whose body weight was considered too low to be healthy. 
+From the assessment, Sinazongwe, Sesheke, Shang’ombo, Chirundu and Chama Districts had 
+high prevalence figures in terms of underweight which largely focused on low weight for age. 
+ 
+ 
+
+ 
+
+ 
+
+27 
+
+Figure 21: Number of under –weights in under 5 children 
+
+ 30.00
+
+ 25.00
+
+ 20.00
+
+ 15.00
+
+ 10.00
+
+ 5.00
+
+ -
+
+ 
+
+ 
+ 
+Chronic Malnutrition 
+ 
+This is another form of growth failure which is also referred to as stunting. And a child that is 
+chronically malnourished often appears to be normally proportioned but actually shorter than 
+normal for his/her age. Sesheke, Mulobezi and Shang’ombo and Chama had high prevalence 
+rate. 
+ 
+Figure 22: Number of Chronically Malnourished Children 
+
+ 4.50
+ 4.00
+ 3.50
+ 3.00
+ 2.50
+ 2.00
+ 1.50
+ 1.00
+ 0.50
+ -
+
+ 
+ 
+ 
+The above noted nutritional statistics could have been attributed to the following; 
+
+ 
+
+•  Shortfall of adequately qualified nutritionists and dieticians 
+•  Non implementations of IYCF and IMCI programs which would look at the 
+
+following; 
+o  Exclusive breastfeeding of infants below 6 months. 
+o  Early initiation of breast feeding (within the first hour of birth). 
+o  Adequate feeding practises, and continued breast feeding. 
+o  Acute shortage of food. 
+
+ 
+
+28 
+
+4.13.  WATER, SANITATION AND HYGIENE (WASH) 
+ 
+Water  and  Sanitation  is  a  key  component  of  all  aspects  of  sustainable  development.  The 
+country’s  vision  for  water  as  reflected  in  the  Seventh  National  Development  Plan  (SNDP, 
+2017-2022) is to ensure that all Zambians access safe water and sanitation as well as efficient 
+and sustainable utilization for wealth creation and betterment of livelihoods by 2030. 
+ 
+Water  Resources  Development  and  Water  Supply  and  Sanitation  including  Environmental 
+issues  are  now  being  managed  by  the  new  Ministry  of  Water  Development,  Sanitation  and 
+Environmental Protection while the Water Supply and Sanitation in the urban and peri-urban 
+areas is implemented by the established commercial utilities and the Local Authorities in rural 
+areas under the Ministry of Local Government (MLG). The sector has prioritized investment 
+in  infrastructure  development  in  rural  areas  in  order  to  improve  the  livelihood  of  the  rural 
+population where the majority of the poor live. 
+ 
+Access to water and sanitation services by all segments of the population is a key component 
+of all aspects of sustainable development and this challenge becomes more important when the 
+population  growth  by  2030  is  factored  in.  All  sectors  require  access  to  adequate  water  and 
+sanitation services for their productivity to be enhanced. In 2015, only 40 percent of households 
+in Zambia had access to improved sources of sanitation. Additionally, 27 percent of people in 
+urban areas and 85 percent in rural areas had no access to improved sources of sanitation. The 
+proportion  of  households  accessing  improved  sources  of  drinking  water  increased  from  63 
+percent  in  2010  to  67.7  percent  in  2015.  Households  in  urban  areas  had  more  access  to 
+improved sources of drinking water at 89.2 percent compared to 51.6 percent of households in 
+rural areas in 2015.  
+ 
+Effective and sustainable management of clean, safe water and sanitation is key to improved 
+health for all. Poor water supply and sanitation conditions are major contributors to the burden 
+of disease and expose people to water-borne diseases and related ailments. There is need to 
+increase levels of access to clean and safe water and sanitation services for people in rural and 
+urban areas. To achieve this, strategies to facilitate water and sanitation services provision and 
+prioritise the utilisation of clean and safe water among households will be intensified.  
+ 
+Further, solid waste that is disposed of at undesignated places poses various health risks to the 
+affected communities. According to the World Health Organisation, inappropriate disposal of 
+waste poses the most significant environmental health problems that threaten human health in 
+Africa. This is because poorly managed waste is one of the major breeding grounds for flies 
+and rodents, while burning of waste produces toxic fumes. These can in turn result in health 
+conditions, such as diarrhoea, respiratory and gastrointestinal tract infections and skin diseases. 
+ 
+Strategies  will  be  undertaken  during  the  Plan  period  to  address  water  supply  and  sanitation 
+challenges with a view to improving the living conditions of citizens. Water conservation and 
+water-related disaster management coordination will also be incorporated in all strategies to 
+mitigate effects of climate change and variability.  
+ 
+Water Sources 
+ 
+The assessment revealed that household access to total safe water or improved water supply by 
+main sources was only at 36 percent of which 31 percent was boreholes and 5 percent protected 
+wells. The household access to total unsafe water sources or unimproved water supply sources 
+
+ 
+
+29 
+
+was at 64 percent of which 25 percent  was unprotected well, 18 percent river or lake and 2 
+percent for other unimproved sources. For the purpose of this report, improved water sources 
+were grouped as borehole and protected wells while unimproved water sources were grouped 
+as unprotected wells and streams/ rivers or lakes.  
+ 
+Figure 23: Access to Water Sources 
+
+Access to Water Sources
+
+Borehole
+
+31%
+
+River/Lake
+
+36%
+
+Protected Well
+
+5%
+
+River/Lake
+
+Unprotected Well
+
+Protected Well
+
+Borehole
+
+Unprotected Well
+
+28%
+
+ 
+
+ 
+Water Treatment and Treatment Options Applied by Households 
+ 
+The assessment revealed that only 5percent of the households treated their water while the rest 
+of 95percent of the households did not treat their drinking water in any way. The distribution 
+of the type of treatment revealed that 50 percent of the population use chlorine while an equally 
+number of households (50 percent) treat their water by boiling.  
+ 
+MOH, MWDSEP and MLG need to promote water quality monitoring and control; and do a 
+nation-wide community campaigns for household water treatment and safe storage. UNICEF 
+and other donors need to support nation-wide capacity building for sustained promotion.  
+ 
+Figure 24: Households treating or not Treating their water 
+
+Yes
+5%
+
+No
+95%
+
+ 
+
+ 
+
+Yes
+
+No
+
+30 
+
+ 
+
+ 
+Figure 25: Water Treatment Methods 
+
+Using Chlorine, 
+
+50.0%
+
+Boiling, 50.0%
+
+50.0%
+
+45.0%
+
+40.0%
+
+35.0%
+
+30.0%
+
+25.0%
+
+20.0%
+
+15.0%
+
+10.0%
+
+5.0%
+
+0.0%
+
+Using Chlorine
+
+Boiling
+
+ 
+
+ 
+Sanitation and Hygiene 
+ 
+Sanitation Facilities 
+ 
+The assessment revealed that the sanitation situation is dire, only 11.2 percent use improved 
+latrines with the rest using traditional latrines or having no sanitation facility at all. For this 
+assessment, improved sanitation facilities will include improved traditional latrines, Sanplats, 
+VIP and Pour-flush/ Flush toilets. Of the 11.2 percent using improved Sanitation facilities, 6.1 
+percent use the improved traditional latrines, 1 percent use Sanplats, 1 percent use VIP and 3.1 
+percent use Pour-flush/ Flush toilets. The total household population using traditional latrines 
+stood at 44.9 percent and followed by 26 percent having no sanitation facilities (and using the 
+bush, river or cat method). 
+ 
+  Figure 26: Distribution of Sanitation Facilities  
+
+Percentage
+
+No facilty (i.e Bush. River, CAT Method)
+
+Traditional Latrine
+
+Improved Traditional
+
+6.1%
+
+Samplat
+
+VIP latrine
+
+1.0%
+
+1.0%
+
+Pour-flush/ Flush toilet
+
+3.1%
+
+43.9%
+
+44.9%
+
+ 
+
+ 
+
+0.0% 5.0% 10.0%15.0%20.0%25.0%30.0%35.0%40.0%45.0%50.0%
+
+ 
+
+31 
+
+Solid Waste Management 
+ 
+The assessment revealed that the majority of the households use Refuse Pits at 76.2 percentage 
+for solid waste disposal, while the rest at 23.8 percent do not have refuse pits (Figure 22 below). 
+Of  the  23.8  percent  that  do  not  have  Refuse  Pits  for  solid  waste  disposal,  71.4  percent 
+indiscriminate disposal methods while the rest at 28.6 percent use other undisclosed methods 
+for solid ate disposal (Figure 27 below). 
+ 
+Figure 27: Distribution of Refuse Pits for Waste Disposal 
+
+76.2
+
+80.0
+
+70.0
+
+60.0
+
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+10.0
+
+0.0
+
+23.8
+
+Refuse Pit
+
+No Refuse Pit
+
+ 
+
+ 
+ 
+Figure 28: Distribution of Refuse Pits for Waste Disposal 
+
+28.6
+
+71.4
+
+Indiscriminate Disposal
+
+Other
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+32 
+
+4.14.  EDUCATION 
+ 
+The assessment on the Education component focused mainly on School Attendance of school 
+going children in the areas assessed. This was in order to determine whether the chronic food 
+security had any bearing on school attendance. 
+ 
+The  assessment  revealed  that  all  schools  servicing  these  communities  experienced  low 
+attendance during the course of the year. However, the critical months mentioned were January 
+(61  percent)  and  November  (9.8  percent)  followed  by  May  and  September  having  7.3  each 
+percent as shown in the pie Chart below. 
+ 
+ Figure 29: Percent of Communities indicating Low Attendance in Schools 
+
+2.4
+
+9.8
+
+4.9
+
+7.3
+
+4.9
+
+7.3
+
+2.4
+
+61.0
+
+January
+
+April
+
+May
+
+June
+
+September
+
+October
+
+November
+
+December
+
+ 
+
+Reasons for low school attendance 
+ 
+The  Assessment  results  in  Figure  30  below  showed  that  the  main  reason  for  low  school 
+attendance was Hunger (27.5 percent); Working outside home for food or cash (20 percent) 
+and  Collapsed  school  buildings  (20  percent);  Helping  with  household  chore  due  to  reduced 
+household food (10 percent); Damaged roads/bridges (5 percent); and Others reasons (17.5).  
+ 
+  Figure 30: Reasons for Low School Attendance 
+
+Other: specify., 
+
+17.5%
+
+Collapsed School 
+Buildings, 20.0%
+
+Work outside 
+home for food 
+or cash, 20.0%
+
+Help with 
+household 
+
+chores due to 
+reduced HHLD 
+
+food, 10.0%
+
+Damaged 
+
+Roads/Bridges, 
+
+5.0%
+
+ 
+
+Hunger, 27.5%
+
+33 
+
+ 
+
+ 
+4.15.  Infrastructure 
+ 
+Infrastructure  serves  as  a  central  delivery  mechanism  in  achieving  sustainable  economic 
+development  and  in  the  generation  of  quality  social-economic  development  in  the  country. 
+Infrastructure still remains a major challenge to growth, economic diversification and human 
+development  in  Zambia.    As  such,  Infrastructure  development,  is  one  of  the  Government’s 
+priority areas in both the Seven National Development Plan (7NDP), and the National Vision 
+2030.The aim is to achieve availability of reliable and affordable public infrastructure services 
+for  sustained  economic  development  (SNDP,  2010).  The  priority  areas  on  infrastructure 
+development will be on construction and rehabilitation of road networks, water and sanitation 
+infrastructure,  airports  among  others.  The  Plan  also  gives  prominence  to  education,  health, 
+social protection and rehabilitation of national infrastructure for development.  
+ 
+The condition of the infrastructure such as roads, bridges and culverts is generally in poor state 
+due to the oldness of the infrastructure. However, in the last four years, 2014/ 2015 and 2015/ 
+2016  rainy  season  Zambia  experienced  two  consecutive  drought  conditions  which  had  a 
+negative bearing on agriculture and food security, water and sanitation and energy which led 
+to water shortage and power rationing. Although the last rainy season, 2016/ 2017 performed 
+fairly, there are still a number of districts that indicated damaged infrastructure in the assessed 
+districts because of flooding. According to the secondary data from the districts, most of the 
+sectors that were impacted by the previous rainy season included blown- off roofs, wash-away 
+roads, wash-away culverts, wash-away bridges and health centres on isolated cases. 
+ 
+Therefore, in order to promote disaster preparedness, there is need to address the infrastructure 
+gap in all sectors of the economy to enhance preparedness and mitigate against the impacts of 
+climate  change  related  hazards.    Hence,  Government  through  the  relevant  sectors  need  to 
+remedy  the  problem  of  infrastructure  by  channelling  resources  towards  rehabilitation  and 
+reconstruction of damaged infrastructure as per the attached annex 2.  
+ 
+4.16.  Social Protection 
+
+According  the  National  Social  Protection  Policy  of  2014,  Social  protection  is  defined  as 
+policies and practices that protect and promote the livelihoods and welfare of people suffering 
+from critical levels of poverty and deprivation and/or are vulnerable to risks and shocks. 
+ 
+Poverty and vulnerability continue to persist in Zambia with the country recording a stubbornly 
+high rate of poverty.  According to the 2015 Living Conditions Monitoring Survey, poverty 
+remains predominantly a rural phenomenon with poverty levels at 76.6 percent compared to 
+23. 4 percent in urban areas. Most of the rural populations rely on subsistence agriculture (52.3 
+percent),  these  households  use  traditional  agricultural  methods  and  have  limited  access  to 
+markets and other resources that would enhance their productivity hence they generate very 
+little income to propel them out of poverty. This compromises their capacity to be resilient in 
+the wake of disasters such as droughts, floods, pest infestation, epidemic’s and/or periods of 
+price  fluctuations.  Accelerating  poverty  reduction  will  require  large-scale  and  continuous 
+investments to improve agricultural productivity, the backbone of the rural economy.  
+ 
+ 
+ 
+ 
+
+ 
+
+34 
+
+Social Assistance 
+ 
+ Programmes  under  social  assistance  include  Public  Welfare  Assistance  Scheme  (PWAS), 
+Social Cash Transfer Scheme (SCT), nutrition and supplementary feeding interventions such 
+as  the  Home-Grown  School  Feeding  Programme,  and  the  resettlement  and  rehabilitation  of 
+people with disabilities (PWDs) and Orphans and Vulnerable Children (OVCs). 
+ 
+Livelihood and Empowerment 
+ 
+Generic  forms  of  livelihood  and  empowerment  interventions  typically  include  provision  of 
+finance,  agricultural  inputs  and  entrepreneurship  skills  including  public  works  to  promote 
+community infrastructure and assets. In Zambia, specific programmes implemented include the 
+Farmer Input Support Programme, Food Security Pack, and Women Empowerment Fund. 
+ 
+Table 10: Key Programmes Being Implemented Under Social Protection 
+
+No. 
+
+Programme 
+
+Coverage as at June, 2017 
+
+Province 
+
+Districts 
+
+Social Cash Transfer programme 
+Public Welfare Assistance 
+School Feeding Programme 
+Farmer Input Support Programme 
+Fertiliser Support Programme 
+
+1 
+2 
+3 
+4 
+5 
+6  Women Empowerment Programme 
+
+All 
+All 
+TBA 
+All 
+All 
+TBA 
+
+All Districts 
+All Districts 
+TBA 
+All Districts 
+All Districts 
+TBA 
+
+ 
+The assessment findings indicated that there are seven (7) social protection programmes that 
+were found operational in the assessed areas as shown in the table below. 
+ 
+  
+Table 11: Key Social Protection Programmes Mentioned by Respondents 
+
+No. 
+
+Programme 
+
+Coverage as at June, 2017 
+
+Districts 
+
+1 
+
+Social Cash Transfer programme 
+
+Chavuma 
+
+Zambezi 
+
+Mambwe, 
+Gwembe, 
+Sinazongwe,  Sesheke,  Shang’ombo,  Mwandi, 
+Mulobezi, Sioma 
+Nyimba, Chirundu, Sinazongwe, Sesheke 
+Mambwe,  Chama,  Petauke,  Chirundu,  Chavuma 
+Zambezi  Gwembe, 
+Sinazongwe,  Mwandi, 
+Mulobezi, Sioma 
+Mambwe,  Chirundu,  Chama, 
+Shang’ombo 
+Mambwe, 
+Gwembe, 
+Sinazongwe,  Sesheke,  Shang’ombo,  Mwandi, 
+Mulobezi 
+Chirundu, Sioma 
+
+Sinazongwe, 
+
+Nyimba, 
+
+Petauke, 
+
+Diversification 
+
+Sinazongwe 
+
+35 
+
+School Feeding Programme 
+Farmer Input Support Programme 
+
+Fertiliser Support Programme 
+
+Relief Programme 
+
+Child Grant 
+
+Agriculture 
+Programme 
+
+2 
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+ 
+
+ 
+
+Although  the  assessment  showed  that  some  of  the  social  protection  programmes  mentioned 
+(SCT, FSIP, FSP) were not found in all the districts visited, these programmes are operational 
+in  all  the  districts  of  the  country.  Non-availability  of  programmes  not  mentioned  in  certain 
+districts is an indication that the programmes have not yet been rolled out to the areas visited 
+by Assessment teams. 
+ 
+Social Protection Programmes and Perception of Their Impact on Areas Assessed 
+ 
+The assessment looked at social protection programmes being implemented in areas visited, 
+their extent of spread and the impact of the programmes on the livelihood of the communities. 
+The social protection programmes mentioned at  District level were FISP, SCT, FSP, school 
+Feeding  Programmes,  Relief  Food,  and  Child  Grant.  However,  not  all  these  were  being 
+implemented in the communities visited by assessment teams as is shown by the explanations 
+below. 
+ 
+Social Cash Transfer 
+ 
+The Social Cash Transfer(SCT) has been rolled out to all districts in the country. However, 
+despite the roll out, the programme has not gone down to remote areas of the Country. Out of 
+the 16 districts visited 10 districts indicated that there was SCT programme being implemented 
+by  the  ministry  of  Community  Development  and  social  services  in  communities  that  were 
+visited.  
+ 
+The assessment revealed that SCT had a high impact in Mambwe and Petauke while Mulobezi 
+indicated  that  there  was  no  impact  on  the  livelihoods  of  the  communities  visited.  The 
+communities  interviewed  revealed  that  SCT  has  been  able  to  assist  them  with  payment  of 
+school fees and other household requisites. It has also been able to improve their standard of 
+living.  An impact  evaluation study that was done in  Monze on the use of funds from  SCT 
+revealed  that  money  was  mainly  spent  on  food,  medication  and  education  (school  fees  and 
+other school requisites), investment in small business such as Tuntemba (World Bank, 2011). 
+ 
+Farmer Input Support Programme 
+ 
+The Farmer Input Support Programme(FISP) is a national wide programme which started in 
+2002  and  has  since  then  been  rolled  out  to  all  the  districts  of  Zambia  by  the  Ministry  of 
+Agriculture. From the assessed 16 districts it was reported that, only 6 districts had FISP being 
+implemented in the communities that were visited. 
+ 
+The programme recorded a high impact in Chama followed by Gwembe and Sinazongwe while 
+there was no impact on the livelihoods of the communities in Petauke. The programme assisted 
+the communities in accessing farming inputs (fertiliser and seed). This helped many families 
+in increasing crop production and therefore enhanced household food security. 
+ 
+Food Security Pack Programme 
+ 
+The Food Security Pack(FSP) Programme is a national social transfer programme to address 
+poverty and food insecurity. It provides small packages of seed and fertiliser to vulnerable but 
+viable  families.  It  is  targeted  to  households  that  face  food  insecurity  as  a  result  of  chronic 
+poverty or insufficient rainfall and is intended to reach smallholder households. 
+ 
+
+ 
+
+36 
+
+The assessment revealed that only 5 out of 16 districts were implementing the Food Security 
+Pack  programme  through  the  Ministry  of  Community  Development  and  social  Services 
+(MCDSS) in the communities visited by the teams. The programme reported high impact in 
+Sinazongwe and Chama districts. Since this programme targeted those that are vulnerable but 
+viable, it helped them to improve household food security.  
+ 
+Food Relief Programme 
+ 
+The  Relief  Food  Programme  is  a  social  safety  net  given  only  to  those  districts  where 
+vulnerability in-depth  assessments have been done and recommendations made for relief by 
+Office the Vice President. The relief supplied helps communities to recover from the shocks 
+that they experienced. Most of these areas visited indicated that they received relief food to 
+cushion the food insecurity during the period when they are run out of food especially during 
+the lean period. 
+ 
+The Food relief programme was reported to have been implemented in 4 districts of Mambwe, 
+Sinazongwe, Sesheke and Mwandi. In terms of impact, high impact was reported in Mambwe 
+District. 
+ 
+School Feeding Programmes 
+ 
+The School Feeding Programme is a Social Protection Programme in the Ministry of General 
+Education.    This  programme  is  intended  to  serve  the  dual  purposes  of  increasing  food 
+consumption  among  the  poor  as  well  as  attracting  and  retaining  children  in  school  and 
+improving their learning outcomes. This programme enhances school attendance in these areas 
+that are chronically food insecure. 
+ 
+The assessment revealed that SFP was being implemented in (5) five districts by the Ministry 
+of General Education in collaboration with World Food Programme. The highest impact of the 
+programme was reported in Sesheke followed by Gwembe District.  
+ 
+Child Grant 
+ 
+The Child grant initiated in 2010, provides a monthly cash payment to all mothers with a child 
+under the age of 5years old in selected districts with very high poverty and child mortality rates. 
+The overall objective of the Child Grant programme is to reduce poverty and inter-generation 
+transmission of poverty. Specific objectives include improvements in food security, reduction 
+in child mortality and morbidity, reduction in stunting and wasting. Increased school enrolment 
+and attendance and increased asset ownership. 
+ 
+The  assessment  revealed  that  the  Child  Grant  programme  was  only  being  implemented  in 
+Chirundu and Sioma districts of Western Province and recorded a high impact in communities 
+it was serving.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+37 
+
+5. 
+
+CONCLUSIONS AND RECOMMENDATIONS 
+
+5.1. Risk Analysis and Early Warning 
+ 
+Conclusion 
+ 
+The  2016/  2017  Assessment  revealed  that  the  major  hazards  that  affected  the  people  in  the 
+valley areas are pest infestations, droughts, floods, animal human conflict, livestock diseases 
+and human diseases which were impacting negatively on rural livelihoods of the people. The 
+Assessment  further  showed  that  though  the  households  were  slowly  recovering  from  the 
+negative impacts of chronic hazards in the last five years they have not fully recovered from 
+the phenomenon. The assessment also showed that very poor households were highly impacted 
+compared to the better of households. The Assessment revealed a significant increase of access 
+to early warning information. 
+ 
+Recommendations 
+ 
+Short –term 
+ 
+•  Sensitization of communities on use of early warning information for preparedness 
+•  Promotion of proven technologies to communities facing Human – Animal conflict to assist 
+
+in protecting their crops. 
+
+•  The  District  Disaster  Management  Committee  in  collaboration  with  stakeholders  must 
+
+work on the timely provision of early warning information to rural households. 
+
+ 
+Medium/ Long term 
+ 
+•  There is urgent need to address the issue of animal / human conflict for households in the 
+parks by deploying more officers from the Department of National Parks and Wildlife to 
+safeguard lives and the livelihoods of the people. 
+
+•  There is need to deal with the underlining factors of chronic vulnerability by establishing 
+
+Disaster Risk Reduction Centres. 
+
+•  Government must invest in the establishment of hydro- meteorological infrastructure and 
+dissemination mechanisms to improve on the accuracy and timely dissemination of early 
+warning information. 
+
+ 
+5.2. Agriculture and Food Security 
+ 
+Conclusions 
+ 
+The country is food secure and has more than enough food to meet its domestic and export 
+requirements. However, there are still pockets of moderate food insecurity incidences in some 
+communities that can be addressed through markets and Government on-going programmes 
+such as the conventional and emergency social cash transfers and food for work. The numbers 
+of  households  that  require  support  amount  to  12,  848  in  nine  districts  namely  Chirundu, 
+Luangwa, Mambwe, Sioma, Shangombo, Sesheke, Siavonga, Gwembe and Nyimba. 
+ 
+•  Livelihood  diversity  still  remains  low  with  majority  of  the  households  in  the  assessed 
+districts dependent on agricultural based livelihoods (e.g. crop production, livestock rearing 
+and agriculture wage labour).  
+
+ 
+
+38 
+
+•  The  permanent  and  seasonal  cash  incomes  in  the  assessed  districts  are  also  largely 
+
+agricultural based mainly being sale of crops and agricultural wage labour. 
+
+•  Delivery of extension services in the assessed districts are very poor or non – existent. 
+•  Utilizing a composite index of FCS, Expenditure Share on food and coping behaviour, the 
+
+results of the survey showed that 9 districts in six provinces would require assistance.  
+
+ 
+ 
+Recommendations 
+ 
+Short – term 
+ 
+•  Provide relief to the 12, 878 households in the short term to ensure that these do not sell off 
+productive  assets.  The  amount  of  relief  required  for  nine  months  for  these  households 
+amounts to 5, 203 metric tons (see table below). 
+
+ 
+Table 12: Households requiring Relief 
+
+Province  District 
+
+No. of People in Need  
+
+No. of Households in 
+Need 
+
+Eastern  Mambwe 
+
+                          8,606  
+
+                                 1,434  
+
+Food Need (Mt) for 9 
+Months from August 2017 to 
+April 2018 
+                                              581  
+
+  
+
+Nyimba 
+
+                          9,546  
+
+                                 1,591  
+
+                                               644  
+
+Lusaka 
+
+Chirundu 
+
+                        14,657  
+
+                                 2,443  
+
+                                               989  
+
+  
+
+Luangwa 
+
+                          2,848  
+
+                                    475  
+
+                                               192  
+
+Southern  Siavonga 
+
+                        11,755  
+
+                                 1,959  
+
+                                               793  
+
+  
+
+Gwembe 
+
+                          6,982  
+
+                                 1,164  
+
+                                              471  
+
+Western 
+
+Sesheke 
+
+                        11,558  
+
+                                 1,926  
+
+                                               780  
+
+  
+
+  
+
+  
+
+Shang'ombo 
+
+                          5,568  
+
+                                    928  
+
+                                               376  
+
+Sioma 
+
+                          5,568  
+
+                                    928  
+
+                                               376  
+
+TOTAL 
+
+                        77,088  
+
+                               12,848  
+
+                                            5,203  
+
+ 
+•  Ensure that all the schools situated in Chronically food insecure areas are included in school 
+
+feeding programmes including take home parcels. 
+
+•  Open – up discussions with cooperating partners to aid some cash based relief to promote 
+
+and augment functioning of markets. 
+
+•  Promotion  of  small  ruminants  (goats)  and  poultry  as  these  have  great  potential  in  the 
+
+environment. 
+
+•  The  Food  Security  Pack  Programme  should  increase  the  coverage  areas  to  include  the 
+
+chronic food insecure areas of the country. 
+
+•  Put in place a monitoring mechanism that tracks food security parameters in all the chronic 
+
+food insecure regions. 
+
+ 
+Medium/ Long term 
+ 
+•  Need  for  the  construction  of  bulking  centres  for  these  areas  in  order  for  agri-business 
+
+industries to pick up their livestock products. 
+
+ 
+
+39 
+
+• 
+
+•  Owing  to  existence  of  many  dambos  and  rivers  there  is  need  to  promote  community 
+irrigation schemes and water harvesting so that all year production of crops and vegetables 
+can be achieved. 
+It is clear from the Assessment that the agro – climatic conditions in the assessed districts 
+are  not  suitable  for  growing  maize  and  from  this  basis,  it  is  recommended  that  farmers 
+embrace agriculture diversification and prioritise livestock farming particularly production 
+of  small  ruminants,  poultry  and  fish  farming  in  order  to  maximise  their  production  and 
+incomes. 
+
+•  Strengthen support to conservation agriculture. 
+ 
+5.3.Human Health and Nutrition 
+ 
+Conclusion 
+ 
+As the analysis in this report has demonstrated a wide range of factors among them social and 
+economic, influence health both at district and facility level. It should be noted that improving 
+and  maintaining  health  at  community  level  largely  lies  in  the  community  themselves  and 
+stakeholders / partners that operate in those areas (Public Private Partnership). Enhancement 
+of collective responsibility and marshalling resources to the right sectors or areas of concern 
+would help in improving the health of the general populous in the affected districts. As a tool 
+for evaluating the delivery of health services among communities, there is need to intensify 
+performance. 
+ 
+Recommendations 
+ 
+Short – term 
+ 
+•  Need for districts and facilities to be conducting data reviews  as scheduled and enhance 
+
+proper data storage at all levels. 
+
+•  The districts to enhance community involvement at facility level and put in place structures 
+
+that would collaborate with health staff and improve service delivery. 
+
+•  The  districts  to  undertake  robust  preventive  and  sensitization  programs  in  an  effort  to 
+reduce the prevalence rates of preventable diseases i.e. Malaria, diarrhoea and nutritional 
+deficiencies. 
+
+•  Districts to fully implement supplementary feeding programs. 
+•  Districts to lobby for adequate HIV/AIDS logistics and other supplies to meet the growing 
+
+• 
+
+demand raise awareness and intensify voluntary counselling and testing services. 
+Intensify immunisation and vaccination activities for under 5 children to further reduce the 
+prevalence rates in affected districts e.g. Measles e.t.c. 
+
+ 
+Medium/ Long Term 
+ 
+• 
+
+Implement and build capacity by offering technical support to nutritional staff/dieticians in 
+Infant and young child feeding (IYCF) and Integrated management in child illnesses.  
+
+•  The  districts  to  organise  and  arrange  for  adequate  ITN  supplies  for  distribution  to  the 
+
+communities. 
+
+•  Lobby  for  provision  of  adequate  and  safe  water  as  well  as  household  water  treatment 
+
+supplies e.g. Chlorine and encourage communities to build proper toilets for themselves. 
+
+ 
+
+ 
+
+40 
+
+5.4. Water, Sanitation and Hygiene (WASH) 
+ 
+Conclusions 
+ 
+The assessment revealed that household access to total safe water or improved water supply by 
+main sources was only at 36 percent of which 31 percent was boreholes and 5 percent protected 
+wells. The household access to total unsafe water sources or unimproved water supply sources 
+was at 64 percent of which 25 percent  was unprotected well, 18 percent river or lake and 2 
+percent  for  other  unimproved  sources.  The  worst  affected  valley  areas  for  the  unsafe  water 
+supply are in Nyimba, Petauke, Chirundu and Sesheke with 100 percent water supply provided 
+through river/ lakes. The best being Chavuma and Mulobezi being the best with 67 percent of 
+the water sources being boreholes. Further, the assessment revealed that only 5percent of the 
+households treated their water while the rest of 95percent of the households did not treat their 
+drinking water in any way. The distribution of the type of treatment revealed that 50percent of 
+the population use chlorine while an equally number of households (50percent) treat their water 
+by boiling.  
+ 
+The  assessment  also  revealed  that  the  sanitation  situation  is  dire,  only  11.2  percent  use 
+improved latrines with the rest using traditional latrines or having no sanitation facility at all 
+(practicing open defecation). The total household population using traditional latrines stood at 
+44.9 percent  and followed by 26 percent having no sanitation facilities (and using the bush, 
+river or cat method). The assessment revealed that the majority of the households use Refuse 
+Pits at 76.2 percentage for solid waste disposal, while the rest at 23.8 percent do not have refuse 
+pits. 
+ 
+The Government through 7th National Development Plan promises to enhance water supply 
+and sanitation through established local authorities, commercial utilities, the private sector and 
+communities. During the Plan period, infrastructure development will be prioritized in rural 
+areas, to improve the livelihoods of the rural population where the majority of the poor live. 
+Focus will also be on addressing water-related hazards, promotion of resilience of water and 
+sanitation, infrastructure development including construction, rehabilitation and retro-fitting. 
+Capacity development will be enhanced to incorporate disaster risk reduction into the design 
+and  construction  of  facilities.  Research  in  water  supply  and  sanitation  will  be  enhanced  to 
+mitigate  the  impact  of  climate  change  on  water  utilization  in  all  sectors  of  the  economy. 
+Further, information, education and communication on sanitation services will be stepped up 
+to  influence  behavioural  change  and  nationwide  campaigns  against  littering  and  messages 
+encouraging the population to access services will be accelerated.  
+ 
+Recommendations 
+ 
+Short - Term 
+ 
+In terms of water sources (working in liaison with MWDSEP, MLG, MOCTA, D-WASHE, 
+DDMC and Satellite Disaster Management Committees): 
+•  MOH, MWDSEP and MLG need to promote water quality monitoring and control; and do 
+a  nation-wide  community  campaigns  for  household  water  treatment  and  safe  storage. 
+Household Water treatment and safe storage should be prioritized as other interventions are 
+being planned.  
+
+•  Plan for water harvesting facilities at community and household levels for climate change 
+
+adaptation. 
+
+ 
+
+41 
+
+Medium/Long Term 
+ 
+•  Plan  for  rehabilitations,  improvements  and  operation  and  maintenance  of  existing  water 
+infrastructure; and assess and search for new water sources in needy areas based on the 7th 
+National Development Plan; 
+
+•  Drill boreholes in areas where water sources are unimproved, especially where the water 
+sources are unprotected wells and streams/ lakes. Most of the valley areas are unreachable 
+by rigs so manual drilling will be used in unreachable valley communities/ villages. 
+
+•  Promote community level modern energy adoption, water supply and sanitation technology 
+options, disaster risk reduction and resilience building including climate change adaptation 
+activities, to ensure preparedness, resilience and mitigation of disasters. 
+
+ 
+Sanitation 
+ 
+Short – term 
+ 
+•  Sensitization of communities on the benefits of construction of improved latrines. 
+•  The government at national, provincial and districts levels should encourage the formation 
+of a practical WASH Chiefdom and Community Action Plans for improving WASH access 
+generally. 
+
+•  Promoting  CLTS,  monitoring  and  maintaining  ODF  status,  maintaining  a  clean 
+environment generally, and make use of traditional leaders, local religious leaders and the 
+influence  and  opportunities  they  have  in  bringing  messages  of  personal  cleanliness  and 
+well-being  to  their  community.  Redouble  the  handwashing  campaign  with  the 
+implementation of the ODF Zambia 2030 program. 
+
+ 
+Medium/ Long Term 
+ 
+In terms of sanitation facilities and Hygiene (working with MWDSEP, MLG, MOCTA, MOH, 
+MCDSW, D-WASHE, DDMC and Satellite Disaster Management Committees): 
+•  Construct demonstration latrines at the schools, health centres, and rural community centres 
+using sanitation marketing methods (markets, faith centres, and traditional chiefs’ palaces) 
+as well as latrines for vulnerable households. Work with households and the private sector 
+through sanitation marketing to build robust and appropriate latrines versions from the start 
+(taking  the  transformation  agenda,  7th  National  Development  Plans,  Vision  2030  for 
+Zambia, Agenda 2063 for Africa and SDG 2030 for UN), even though the latrines may be 
+basic or aspirational.  
+
+•  Promote  “Smart”  subsidies  targeted  to  particularly  vulnerable  groups  (including  cash 
+transfers), or to households facing significant technical and physical challenges to latrine 
+building (mason/ artisan technical support).  
+
+•  Promote  public-private  partnerships  or  private  involvement  to  build  sanitation  shops  at 
+District/Chiefdom level through sanitation marketing to sell sanitation facilities and give 
+advice on improved sanitation facility construction, operation and maintenance. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+42 
+
+5.5. Education 
+ 
+Conclusion 
+ 
+Low attendance in schools located in areas is a function of low performance in education. The 
+assessment  revealed  that  chronically  food  insecure  areas  deserve  good  facilities  to  promote 
+education attainments. 
+ 
+Recommendations – Short Term 
+ 
+•  Ensure that all the schools situated in Chronically food insecure areas are included in school 
+
+feeding programmes being implemented in these districts. 
+
+•  There is need to ensure accessibility to the schools situated in chronically food insecure 
+areas through rehabilitation/construction of access roads and bridges since some schools 
+indicated accessibility as one of the causes of low attendance. 
+ 
+
+5.6. Infrastructure 
+ 
+Conclusions 
+ 
+The assessment on infrastructure from secondary data established that there was significant but 
+moderate  damage  on  roads,  health,  bridges,  culverts  and  school  infrastructure.  Close  to  42 
+schools,  39  Bridges-  culverts,  9  roads  and  1  clinic  were  damaged  and  will  need  to  be 
+rehabilitated (Refer to the annexes on infrastructure damage).  
+ 
+Recommendations 
+ 
+Short – Term 
+ 
+•  There  is  need  to  mobilize  funds  for  rehabilitation  and  reconstruction  of  damaged 
+
+infrastructure in the valley areas enhance access to markets, health and social facilities. 
+
+ 
+Medium/ Long Term 
+ 
+•  There is need to invest in water harvesting/ irrigation infrastructure as well as construction 
+
+of feeder roads to easy the transportation of goods and services. 
+
+ 
+5.7.Social Protection 
+ 
+Conclusions 
+ 
+The extent to which people do not have enough to eat is a very good measure of the need for 
+safety nets. These safety nets will contribute in cushioning the communities from deprivation. 
+The  assessment  revealed  that  the  chronically  food  insecure  areas  visited  will  require  a 
+combination of various social protection programmes in order to enhance household food and 
+social security. 
+ 
+There is need to ensure that all the chronic food insecure areas/communities are targeted under 
+the SCT programme being implemented in Districts where these communities are situated. The 
+
+ 
+
+43 
+
+Food Security Pack Programme should increase the coverage areas to include the chronic food 
+insecure areas of the country. 
+ 
+ 
+Recommendations 
+ 
+Short – Term  
+ 
+•  There is need to ensure that all the chronic food insecure areas/communities are targeted 
+under the SCT programme being implemented in Districts where these communities are 
+situated. 
+
+•  The  Food  Security  Pack  Programme  should  increase  the  coverage  areas  to  include  the 
+
+chronic food insecure areas of the country. 
+
+ 
+Medium/ Long Term 
+ 
+•  There is  need to  lobby for the increasing numbers of eligible households in  the districts 
+
+where the Social Protection programmes are being implemented. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ANNEXES 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Annex 1: Figure showing Food Consumption Score by District and by Wealth Group 
+ 
+
+Figure 1: Food Consumption Score
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+ 
+ 
+
+ 
+
+r
+o
+o
+P
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+e
+t
+t
+e
+B
+/
+f
+f
+
+O
+
+ 
+l
+l
+
+e
+W
+/
+h
+c
+i
+R
+
+r
+o
+o
+P
+
+r
+o
+o
+P
+y
+r
+e
+V
+
+ 
+
+i
+
+l
+
+/
+
+e
+d
+d
+M
+m
+u
+d
+e
+M
+
+i
+
+r
+o
+o
+P
+y
+r
+e
+V
+
+ 
+
+i
+
+l
+
+/
+
+e
+d
+d
+M
+m
+u
+d
+e
+M
+
+i
+
+r
+o
+o
+P
+y
+r
+e
+V
+
+ 
+
+i
+
+l
+
+/
+
+e
+d
+d
+M
+m
+u
+d
+e
+M
+
+i
+
+Chama
+
+Nyimba
+
+Petauke
+
+Chavuma
+
+Zambezi Gwembe
+
+Siavonga Sinazongwe Sesheke Shang'ombo Mwandi Mulobezi
+
+Sioma Mambwe
+
+Luangwa Chirundu
+
+ 
+
+46 
+
+ 
+
+Annex 2: Type of Damage to Infrastructure 
+ 
+
+Province  
+
+District 
+
+Petauke 
+
+Eastern 
+
+Intervention 
+Required 
+Construction of 
+a double 
+channel bridge 
+40m long x 6m 
+high  
+Extension of 
+wing 
+walls,Gravel fill 
+and stone 
+pitching 
+Construction of 
+1line x 1.2m 
+box culvert  
+Construction of 
+double channel 
+box culvert 
+1.8m x 1.8m 
+high 
+Construction 2 
+line x 900mm 
+diameter 
+Extension of 
+head 
+walls,Gravel fill 
+and stone 
+pitching 
+Construction of 
+1line x 900mm 
+diameter  
+Construction of 
+1line x 900mm 
+diameter  
+Construction of 
+double channel 
+box culvert 
+Extenstion of 
+retaining  wall, 
+gravel fill and 
+stone pitching 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking 
+Additional two 
+lines x 900mm 
+diametre, 
+construction of 
+retaining walls 
+and gravel fill 
+Extention of 
+head walls, 
+gravel fills and 
+stone pitching 
+Extension of  
+head walls, 
+gravel fill and 
+stone pitching 
+
+Location 
+
+Along Mumbi - 
+Manyane road 
+
+Name of 
+bridge/culverts/crossings 
+Mphongwe 
+
+Type of Damage 
+
+Severely damaged. 
+Collapsed Box 
+culvert.  
+
+Along Mumbi - 
+Manyane road 
+
+Kamwankhukhu 
+
+Along Mumbi - 
+Manyane road 
+
+Kalongo 
+
+Along Mumbi - 
+Manyane road 
+
+Msumbazi 
+
+Along Mumbi - 
+Manyane road 
+
+Mngongo 
+
+Along Mumbi - 
+Manyane road 
+
+Culvert 1 
+
+Along Mumbi - 
+Manyane road 
+
+Culvert 2 
+
+Along Mumbi - 
+Manyane road 
+
+Chambona 
+
+Along Mumbi - 
+Manyane road 
+
+Culvert 3 
+
+Mwanjawanthu - 
+Zumaile school 
+
+road 
+
+Mwanthungulu 
+
+  
+
+  
+
+Mkhanya 
+
+Mkhanya Dam 
+
+T4 
+
+minga,Nalukomba 
+
+road 
+T4 Mumbi 
+ 
+ 
+ 
+
+Fulu 
+
+Kazala 
+
+Badly damaged 
+Culvert. Approach 
+complete washed 
+away 4m long x 5m 
+width x 2m high 
+Complete wash away. 
+Extensive huge gully 
+
+Badly damaged 
+Culvert. Approach 
+complete washed 
+away 4m long x 5m 
+width x 2m high 
+Complete wash away. 
+Extensive huge gully 
+
+Pipes exposed, Head 
+and wingwalls gravel 
+eaten up 
+
+Complete wash away. 
+Extensive huge gully 
+
+Complete wash away. 
+Extensive huge gully 
+
+Damaged deck, water 
+passing  under the 
+pipes 
+Severe ly damaged. 
+Collapsed Box 
+culvert.  
+
+Severely damaged. 
+Wash away 
+approaches. 
+
+Severely damaged. 
+Wash away 
+approaches. 
+
+Head and wingwall 
+eaten up 
+
+Extension of head 
+walls,gravel fill and 
+stone pitching 
+
+Province  
+
+District 
+
+Intervention 
+Required 
+
+Location 
+
+ 
+
+  
+
+Name of 
+bridge/culverts/crossings 
+
+Type of Damage 
+
+Construction of 
+2lines x 900mm 
+diametre 
+Gravel and 
+extension of 
+concrete deck 
+  
+
+Full 
+rehabilitation 
+
+Full box 
+construction 
+Extension of 
+contruction 
+Extension of 
+wing of 
+retaining wall, 
+gravel fill and 
+stone pitching 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Luangwa  Extension of 
+
+Chama  
+
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Siavonga   Extension of 
+
+muchinga  
+
+Lusaka 
+
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+
+Zambezi 
+
+Northwestern  
+
+ 
+
+xlviii 
+
+D139 ukwimi 
+Road 
+
+Chilimanyama 
+
+D139 ukwimi 
+
+Road 
+
+shimiko 
+
+D139 ukwimi 
+Road 
+Chipungu 
+community 
+
+Mando to 
+chizanda 
+
+Msanzala 
+
+Msazala 
+
+Mando to Chizanda road 
+
+Nyampande 
+
+Mukonda 
+
+Along Minga 
+
+Mingongo 
+
+Minga Mngongo culvert 
+
+Along Misolo - 
+Mkonda road 
+Along ukwimi A- 
+village road 
+
+chimphondwe 
+
+Culvet pipes 
+suspended as water 
+passes under the pipes 
+and wingwall eaten 
+up 
+Complete wash 
+away.Extension huge 
+gully. 
+Washed approach 
+
+completely washed 
+away 
+Deplorable road, 
+evidenced by physical 
+defects 
+complete collapse 
+
+Party washed away 
+
+Badly damaged 
+culvert.Approach 
+complete washed 
+away 
+
+Badly damaged 
+culvert. Approach 
+complete washed 
+away 4m long x 5m 
+width x 2 m high 
+
+  
+
+  
+
+  
+
+  
+
+Lusandwa 
+Chikanta  
+
+Washed away 
+
+Kavalamanja culverts 
+
+Washed away 
+
+  
+
+  
+
+washed away 
+
+washed away 
+
+Province  
+
+District 
+
+Intervention 
+Required 
+decking and 
+opening up the 
+inlet channels 
+Mulobezi  Extension of 
+
+Western 
+
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+
+Location 
+
+Name of 
+bridge/culverts/crossings 
+
+Type of Damage 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Zowe 
+
+washed away 
+
+Lwanja 
+
+washed away 
+
+Sisibi 
+
+washed away 
+
+Kwembamalo 
+
+washed away 
+
+Mboma 
+
+washed away 
+
+Mulobezi  
+
+washed away 
+
+Sikole  
+
+washed away 
+
+Lusibi  
+
+washed away 
+
+ 
+
+xlix 
+
+Province  
+
+District 
+
+Mwandi 
+
+Location 
+
+Name of 
+bridge/culverts/crossings 
+
+Type of Damage 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Simungoma bridge 
+
+washed away 
+
+Kalundu  
+
+washed away 
+
+Mushukula/manyemwe 
+
+washed away 
+
+Lwanja  
+
+washed away 
+
+2 culverts on mangumwi 
+road 
+
+washed away 
+
+Intervention 
+Required 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+Extension of 
+retaining walls, 
+gravel fill, stone 
+pitching and 
+contrete 
+decking and 
+opening up the 
+inlet channels 
+
+ 
+
+ 
+
+l 
+
+

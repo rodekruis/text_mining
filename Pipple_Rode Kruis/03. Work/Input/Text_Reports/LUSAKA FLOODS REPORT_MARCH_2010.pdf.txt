@@ -1,0 +1,2086 @@
+ 
+
+VAC 
+
+ZAMBIA 
+
+Vulnerability 
+
+Assessment Committee 
+
+ 
+
+LUSAKA DISTRICT RAPID FLOOD ASSESSMENT REPORT 
+
+2010 
+
+ 
+
+ 
+
+BY 
+
+ 
+
+THE ZAMBIA VULNERABILITY ASSESSMENT COMMITTEE (ZVAC) 
+
+MARCH, 2010 
+
+LUSAKA
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Table of contents 
+ 
+Table of contents 
+
+ 
+
+Acknowledgement  
+
+ 
+
+1.0 Executive Summary  
+
+ 
+
+ 
+
+ 
+
+2.0 Background Introduction  
+
+3.0 Methodology  
+
+ 
+
+4.0 Summary of Finding  
+
+5.0 Detailed Findings  
+
+6.0 Recommendations 
+
+7.0 Conclusion 
+
+Annex  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+3 
+
+4 
+
+5 
+
+5 
+
+6 
+
+11 
+
+27 
+
+28 
+
+29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZVAC Rapid Assessment Report, March 2010   2 
+
+ 
+
+ 
+
+Acknowledgements 
+
+ 
+The  Zambia  Vulnerability  Assessment  Committee  (ZVAC)  wishes  to  thank  the  following 
+organizations for facilitating and participating in the Rapid Floods Assessment:  
+
+•  CARE International in Zambia 
+•  Catholic Relief Services (CRS) - Zambia Program  
+•  Central Statistical Office (CSO) 
+•  Consortium  for  Food  Security  Agriculture  Nutrition  Resilience  and  Markets 
+
+(CFAARM) 
+
+•  Department of Water Affairs 
+•  Disaster Management and Mitigation Unit (DMMU) 
+•  Zambia Meteorological Department 
+•  Ministry of Agriculture and Cooperatives (MACO) 
+•  Ward Development Committee (WDC) 
+•  Lusaka District Disaster Management Committee  
+•  Members of the affected Communities  
+
+ 
+
+The  committee  further  wishes  to  thank  all  the  partners  that  financially  and  logistically 
+supported the assessment.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   3 
+
+ 
+
+1.0  Executive Summary 
+ 
+Following reports of flooding as a result of excessive rainfall received in Lusaka district; the 
+Zambia  Vulnerability  Assessment  Committee  (ZVAC)  constituted  three  (3)  teams  to 
+undertake a rapid assessment to ascertain the  impact of the hazard, in this case floods, in 
+Lusaka  district.  The  five-day  rapid  assessment  was  undertaken  between  19th  and  23th 
+March, 2010. 
+ 
+The  overall  objective  of  the  assessment  was  to  determine  the  effects  and  extent  of  the 
+floods  on  livelihoods  of  the  residents,  habitations,  infrastructure,  health,  water  and 
+sanitation, education, and commercial activities in four constituencies (Chawama, Kabwata, 
+Kanyama and Mandevu) which were identified as being moderately to severely affected. 
+ 
+The assessment employed participatory approaches both at district and community levels. 
+At district level, a Key Informant Interview was conducted with the Lusaka District Disaster 
+Management  Committee  (DDMC).  At  community 
+level,  the  assessment  employed 
+community  Focus  Group  Interviews  with  wards  which  the  DDMC  identified  as  being 
+moderate to severe in terms of impact of floods on the vulnerable population. 
+ 
+From the assessment, it was established that a total of 70, 803 households were affected in 
+one way or another. It was established that 63% which translates to 7,784 households have 
+been  negatively  affected  by  floods  in  Kabwata  constituency,  88%  (32,586)  in  Kanyama 
+Constituency, 83% translating to 18,532 households in Chawama Constituency and 43% or 
+11,901 households in Mandevu Constituency.  It should be noted that this figure does not 
+represent  the  number  of  people  affected  in  a  particular  sector  but  the  overall  number  of 
+people  affected  in  various  aspects  (livelihood,  infrastructure  and  habitation).  The  wards 
+that  were  visited  and  verified  to  be  severely  affected  were  Kabwata,  Kamwala,  Kanyama 
+(Ward  10),  Harry  Mwaanga  (Ward  11),  Chawama  Ward  1  and  2,  Justin  Kabwe  and 
+Ngwerere.     
+ 
+The  negative  impact  of  floods,  ranges  from  loss  of  life  (11  and  6  deaths  in  Kanyama  and 
+Mandevu  constituencies  respectively),  habitation  in  terms  of  infrastructure  becoming 
+inhabitable,  limited  access  to  social  amenities  such  as  schools,  clinics  and  grocery  stores, 
+erosion  of  livelihoods  and  incomes,  outbreak  of  diseases  such  as  cholera  and  malaria, 
+increased  poverty  in  the  community  which  has  thus  led  to  an  increase  in  prostitution  as 
+well as heightening the crime rate. 
+ 
+The  assessment  established  that  953  housing  units  in  Kabwata  constituency  have  been 
+completely  surrounded  by  water,  no  houses  were  completely  damaged  but  7  were  partly 
+damaged.  In  Chawama  Constituency,  less  than  1%  of  the  houses  (at  least  203)  were 
+completely damaged, 35% (7,871 houses) were partly damaged and close to 50% (10,551 
+houses)  were  surrounded  by  water.  In  Mandevu  35%  (9,687)  of  the  houses  were 
+surrounded  by  water,  1%  (277),  were  completely  damaged,  2%  (554)  were  partly 
+damaged.  Kanyama Constituency had at least 565 houses (2%) completely damaged, 8,423 
+(22%)  partly  damaged  and  just  over  70%  (27,219)  of  houses  surrounded  by  water.  No 
+
+ZVAC Rapid Assessment Report, March 2010   4 
+
+ 
+
+reports of households having been made shelterless or seeking shelter in public buildings 
+like churches, schools and community halls. 
+ 
+The  residents  observed  that  the  flooded  areas  will  naturally  dry  out  after  three  months, 
+thus by June. 
+ 
+It is recommended that immediately there should be an exercise to empty the septic tanks 
+that are flooded. Water should be pumped out from the flooded areas. The homesteads and 
+places where there are pools of stagnant water should be disinfected to reduce the spread 
+of  waterborne  disease  and  breeding  of  mosquitoes.  These  measures  should  be 
+accompanied  by  community  sensitisation  by  the  health  personnel.  In  the  medium  term, 
+main  roads  should  be  rehabilitated.  Opening up  of  blocked  culverts  and drainages  should 
+be a priority as this will greatly help to allow for the free flow of water. In the long run, the 
+roads should be worked on and where possible tarred and construction of main drainage 
+system to receive water from the sub drainages should be constructed or cleared. 
+  
+2.0 Background Introduction 
+ 
+Following reports of floods as a result of heavy rainfall that was experienced particularly in 
+February,  the  Disaster  Management  and  Mitigation  Unit  (DMMU)  constituted  three  teams 
+to undertake a rapid assessment to ascertain the impact of floods in three constituencies in 
+Lusaka District, from 19th to 23rd March 2010. 
+ 
+2.1 Overall Objective  
+The  overall  objective  was  to  determine  the  effects  and  extent  of  the  floods  on  the 
+livelihood,  habitants  and  habitation,  infrastructure,  water  and  health  of  the  vulnerable 
+population. 
+ 
+ 
+ 
+2.2 Specific Objectives  
+
+a)  To determine the extent to which floods impacted different infrastructure (houses, 
+
+clinics, schools, bridges and roads) 
+
+b)  To determine the impact on the livelihood and income sources at household level 
+
+ 
+3.0 Methodology 
+ 
+3.1 Data Collection  
+A district discussion was conducted with the District Disaster Management Committee. Out 
+of  the  seven  constituencies  in  Lusaka  district,  the  DDMC  identified  four  (Kabwata, 
+Mandevu,  Kanyama  and  Chawama)  as  being  moderately  to  severely  affected.  The  team 
+triangulated the district responses with constituencies by conducting interviews (Focused 
+Group  Discussion)  at  ward  level  in  the  respective  constituencies.  The  FGD  constituted  of 
+members  that  included  Ward  Councilors,  Ward  Development  Committee  Chairpersons, 
+
+ZVAC Rapid Assessment Report, March 2010   5 
+
+ 
+
+ordinary residents, and other professionals like teachers. The number ranged from four to 
+twenty but the average was twelve.  
+ 
+Most of the data collected was primary and was both qualitative and quantitative in nature. 
+ 
+3.2 Limitations 
+
+1)  Though  the  community  leaders  were  cooperative,  they  lacked  total  essence  of  the 
+
+exercise because the exercise was of an emergency nature. 
+
+2)  There were logistical challenges in terms of transport of the teams during the field 
+
+visit considering the bad state of the roads 
+
+3)  The fact that it was sometimes raining, access to certain areas was restricted 
+4)  Some  communities  pointed  out  that  it  was  abrupt  for  them  to  provide  accurate 
+information  because  there  were  not  given  the  prior  interview  guide/  questions. 
+Some information needed to have been researched on before the meeting 
+
+ Livelihood  
+
+ 
+ 
+ 
+4.0 Summary of Findings 
+ 
+The general findings of the assessment are summarized as follows: 
+ 
+4.1 Kabwata Constituency  
+4.1.1 
+The  assessed  wards  in  Kabwata  have  urban-based  livelihoods.  The  common  livelihood 
+sources  for  most  of  the  communities  were  found  to  be  formal  employment,  petty  trading 
+(tuntemba), small and medium business, rentals and pension. The assessment established 
+that the flooding had a 64% impact on the livelihoods of the people. 
+ 
+4.1.2  Loss of Human Life 
+The assessment established there was no loss of human life in Kabwata constituency. 
+ 
+4.1.3 
+In  Kabwata  constituency,  up  to  80%  of  the  road  infrastructure  has  been  extensively 
+damaged  as  a  result  of  the  floods  making  it  very  difficult  to  move  from  one  point  to  the 
+other for both pedestrians and motorists. 
+ 
+The  area  reported  that  7  houses  have  been  partly  damaged  and  no  house  was  reported 
+completely  damaged  but  953  housing  units  have  been  surrounded  by  water.  Schools  and 
+health  centers  have  been  less  affected  in  terms  of  infrastructure  damage  but  the  roads 
+leading  to  these  facilities  have  been  badly  damaged  and  the  premises  are  surrounded  by 
+stagnant water. Other infrastructures such as churches and office buildings are still intact 
+but are mostly surrounded by stagnant water. 
+ 
+ 
+ 
+
+Infrastructure 
+
+ZVAC Rapid Assessment Report, March 2010   6 
+
+ 
+
+4.1.4  Education 
+The  assessment  revealed  that  there  was  reduced  accessibility  to  schools  due  to  damaged 
+and  poor  state  of  roads,  presence  of  pools  and  running water  within  the  school  premises 
+and along the roads, a situation which resulted in increased absenteeism at most schools. 
+One school (Palma) was temporally closed in late February and early March but there was 
+no disruption to the school calendar with other schools.  
+ 
+4.1.5  Health 
+Due  to  the  deteriorating  standards  in  terms  of  environmental  health,  the  constituency  is 
+anticipating a likelihood of experiencing incidences of water and non waterborne diseases 
+such as diarrhea, dysentery and cholera and malaria. At the time of assessment, no diseases 
+were officially reported. 
+
+ 
+4.1.6  Water and Sanitation 
+Most  of  the  houses  that  were  surrounded  by  water  had  a  combination  of  both  rain  and 
+sewer water because the septic tanks were flooded. This is a big health hazard as some of 
+this  contaminated  water  seeped  through  the  pipes  that  supplied  drinking  water.  Such 
+homesteads  indicated  that  their  drinking    water  was  susceptible  to  the  threat  of 
+contamination of feacal matter or other debris.  
+
+4.1.7  Human Settlement and Shelter 
+Fortunate enough there was no case were the houses were completely damaged but 7 were 
+reported to have been partly damaged and the damage was attributed to the floods which 
+weakened the housing structures. The occupants are  still occupying the same houses that 
+have  been  partly  damaged.  However,  302  families,  mostly  tenants,  have  voluntary  moved 
+out of the houses because of the flooded homesteads.  
+
+ 
+
+No  reports  of  households  having  been  made  shelterless  or  seeking  shelter  in  public 
+buildings such as churches, schools and community halls. 
+
+ 
+
+4.1.8  Coping strategies  
+Kabwata constituency residents are coping up with the situation by putting filled sandbags 
+as  a  way  of  making  walkways  and  blocking  water  from  entering  their  homesteads.  The 
+community  is  also  making  and  clearing  minor  drainages  to  allow  water  to  flow.  Most 
+mothers  and  grandmothers  are  carrying  school  going  children  on  their  backs.  Those 
+households that are completely surrounded by water are spraying and or sprinkling oil or 
+diesel  to  reduce  the  breeding  of  mosquitoes.  In  some  cases,  individual  efforts  are  being 
+made to empty septic tanks and continuously mop water out of the houses. 
+ 
+4.1.9  Community Preparedness, Response and Monitoring Plans 
+Prior  to  the onset  of  the  rains,  the  community mobilised  road  material  (gravel)  but  these 
+efforts on road works were hampered by lack of technical expertise to supervise the works 
+coupled with the rapid onset of rains whose intensity was high. However, the community 
+plans to get on-site and work on the drainages and roads immediately the rains are over. As 
+a preparedness strategy, the community embarked on clearing of drainages in partnership 
+
+ZVAC Rapid Assessment Report, March 2010   7 
+
+ 
+
+with Lusaka City Council. The weakness on the part of the community is that they were no 
+measures  that  where  put  in  place  to  monitor  all  these  efforts  that  are  being  put  in  place 
+apart  from  Libala  ward  were  the  Ward  Development  Committee  visit  the  areas  on  a 
+monthly basis. 
+ 
+ 
+ 
+4.1.10  Community Proposed Mitigation measures- Recommendations 
+In  order  to  mitigate  the  effect  of  the  floods  in  the  short  run,  the  community  is  proposing 
+that septic tanks that are flooded be emptied. Pumps should be placed to assist in pumping 
+water from the flooded areas. The homesteads and where there are pools of stagnant water 
+should  be  disinfected  to  reduce  the  spread  of  waterborne  disease  and  breeding  of 
+mosquitoes.  
+ 
+In  the  medium  term,  main  roads  should  be  rehabilitated.  Opening  up  of  blocked  culverts 
+and  drainages  should  be  a  priority  as  this  will  greatly  help  to  allow  for  the  free  flow  of 
+water. 
+ 
+In the long run, the roads should be worked on and where possible tarred and construction 
+of main drainage system to receive water from the sub drainages should be constructed or 
+cleared. The WDCs have reported to the council for action on those houses that have been 
+“wrongly” built like on drainages. 
+ 
+4.2 Chawama Constituency 
+4.2.1 Livelihood 
+The  main  livelihood  sources  in  this  constituency  are  trading,  formal  employment,  piece 
+work and quarrying. The average impact floods have caused on livelihood sources is 65%. 
+ 
+4.2.2 Loss of Human Life 
+There has not been any deaths recorded as a result of flooding.  
+ 
+4.2.3 Infrastructure 
+95%  of  all  the  roads  in  Chawama  constituency  had  significant  pools  of  water  sitting  on 
+them  especially  in  Kuku  compound  and  Koumboka  area.  Others  included  Dziko  Nibantu, 
+Nyerere,  Swazi  and  Katambalala  roads.  5  churches  have  been  surrounded  by  water.    One 
+church  (Jesus  the  King  Ministry)  and  the  Ward  Development  Committee  Office  in  ward  2 
+were both surrounded by water. 
+ 
+4.2.4 Education 
+Three schools in Chawama were surrounded by water these being Chimwemwe, Chawama 
+and  Twatasha  Basic  schools.    Although  the  schools  did  not  have  to  close  because  of  the 
+floods,  absenteeism  has  increased  as  school  children  sometimes  cannot  manage  to  wade 
+through the water especially after a heavy downpour, this has caused the general average 
+performance in schools to reduce. 
+  
+ 
+
+ZVAC Rapid Assessment Report, March 2010   8 
+
+ 
+
+4.2.5 Health 
+Floods  have  caused  outbreak  of  water  borne  diseases  like  cholera.  So  far  78  cases  of 
+cholera  have  been  recorded  at  Chawama  Health  Centre  as  of  19th  March,  2010.  Chawama 
+Health Centre is the only clinic in this area is partly surrounded by water.  
+ 
+4.2.6 Water and Sanitation 
+Most  of  the  toilets  have  been  damaged  or  flooded  hence  people  are  using  shake-shake 
+packs  to  relieve  themselves  and  then  throw  the  excreta  into  the  water.    This  is  a  serious 
+health hazard. 
+ 
+4.2.7 Human Settlement and Shelter 
+In  Chawama  Constituency,  less  than  1%  of  the  houses  (at  least  203)  were  completely 
+damaged,  35%  (7,871  houses)  were  partly  damaged  and  close  to  50%  (10,551  houses) 
+were surrounded by water. The residents observed that the flooded areas will naturally dry 
+out after three months, thus by June. No reports on shelterless families or seeking shelter in 
+public buildings like school, churches and community halls.   
+ 
+4.2.8 Coping strategies 
+Children  and  in  some  cases  whole  families  are  sleeping  on  table  tops  in  order  not  to  get 
+wet. Furniture is elevated using bricks to avoid them from getting wet. In addition they put 
+sand bags to block water from entering the homestead. Those who are able to afford have 
+bought protective clothing like gumboots. 
+ 
+4.2.9 Community Preparedness, Response and Monitoring Plans 
+Before  the  onset  of  the  rains  the  exercise  of  unblocking  drainages  as  well  as  placing  of 
+sandbags  in  areas  most  susceptible  to  floods  (though  these  were  washed  away  by  floods 
+when  the  rains  began)  was  being  done.  The  WDC  was  making  follow-ups  on  these  small 
+mostly individual efforts of interventions. 
+ 
+With the onset of the rains and the subsequent flooding, the community has involved other 
+stakeholders  such  as  the  Natsave  bank,  Spar  Supermarket  and  individuals  to  clear  the 
+drainages. The office of the District Commissioner has also provided prisoners to clean up 
+in two wards of this constituency. 
+ 
+4.2.10 Community Proposed Mitigation measures- Recommendations 
+In the short term, the communities in Chawama Constituency would like mobile toilets to 
+be  provided,  the  worst  affected  families  to  be  relocated,  chlorine  to  be  provided  for 
+drinking water as also points where people get clean water to be increased.  In the medium 
+term,  a  big  main  drainage  needs  to  be  made;  roads  need  to  be  upgraded  as  well  as  the 
+settlement needs to be upgraded.   
+ 
+4.3.0 Kanyama Constituency 
+4.3.1 Livelihood  
+Most  of  the  residents  of  Kanyama  constituency  are  traders  dealing  in  small  items  like 
+vegetables.  Vending in edible commodities like groundnuts is also a very common form of 
+trading as well as the running of stalls like payphones and what is commonly referred to as 
+
+ZVAC Rapid Assessment Report, March 2010   9 
+
+ 
+
+tuntemba  (petty  trade).  Other  income  sources  in  this  constituency  are  quarrying  or  stone 
+breaking as well as brewing and selling of beer.  On average, there floods had 60% impact 
+on the livelihoods of the residents. 
+ 
+ 
+4.3.2 Loss of Human Life 
+In  Kanyama  constituency,  at  least  11  cases  of  death  were  said  to  have  been  recorded.  
+These  deaths  were  as  a  result  of  drowning  in  manholes  that  were  flooded  hence  people 
+stepped in them without knowing their depths.   
+ 
+ 
+4.3.3 Infrastructure 
+Kanyama  Constituency  had  at  least  565  houses  (2%)  completely  damaged,  8,423  (22%) 
+partly damaged and just over 70% (27,219) of houses surrounded by water.  Two clinics in 
+this constituency were surrounded by water while 5 schools had the same experience. Most 
+of  the  roads  have  either  been  partly  or  completely  damaged  and  have  been,  at  times, 
+impassable. 
+ 
+4.3.4 Education 
+This  year,  there  were  no  schools  that  closed  due  to  the  floods.    However  there  were 
+instances  where  children  have  been  sent  away  for  the  day  when  the  school  was  flooded 
+after heavy rains. Also due to the reported death of a school girl in Ward 10, parents are a 
+bit apprehensive to send their children to school when the floodwaters are high. 
+  
+4.3.5 Health 
+The  floods  have  brought  about  a  number  of  health  problems.    This  constituency  is  very 
+vulnerable  to  cholera hence  with  floods  like  these  there  has  been  cholera  cases  that  have 
+been reported.  The stagnant water has become a breeding ground for mosquitoes leading 
+to cases of malaria being on the increase.  Also people have developed sores on their feet as 
+they have to wade in the water. 
+ 
+The rise in poverty levels has also brought in other issues; prostitution has increased.  This 
+increase in prostitution is feared to cause an increase in HIV in the community. 
+ 
+4.3.6 Water and Sanitation 
+There  is  lack  of  access  to  clean  water  as  the  shallow  wells  are  submerged  and  the  water 
+there has mixed with sewage from the flooded pit latrines.  In some places there is no piped 
+water and communities are solely reliant on shallow wells. 
+ 
+4.3.7 Coping strategies 
+In order to cope with these floods, the majority of the people of Kanyama constituency have 
+bought gumboots to protect their feet as they wade through the floodwater.  In the houses 
+that are surrounded by the floodwater, people have placed sand bags in order to block the 
+water from entering their homes.  However in most cases this has not deterred the water 
+from entering the homes and in such cases some families have had to abandon their homes 
+
+ZVAC Rapid Assessment Report, March 2010   10
+
+ 
+
+and have relocated.  Those that have not relocated have just elevated their furniture so that 
+it doesn’t get wet and placed blocks or planks to step on. 
+ 
+4.3.8 Community Preparedness, Response and Monitoring Plans 
+Prior to the rains the community was involved in a number of projects in preparation for 
+the  coming  of  the  rains.    These  included  unblocking  of  drainages,  solid  waste  removal, 
+cleaning  of  schools  and  markets  as  well  as  distribution  of  chlorine.  About  9.8  Billion 
+Kwacha was allocated to Kanyama for drainage clearance and construction in partnership 
+with CARE International in Zambia.   
+ 
+There  was  close  monitoring  of  all  the  community  projects  by  the  WDC  which  was 
+supervising  the  progress  of  these  projects.  The  council  was  in  charge  of  monitoring  the 
+progress of the drainage clearance and for 9.8 Billion Kwacha. 
+ 
+4.8.9 Community Proposed mitigation measures- Recommendations 
+The  community  would  like  in  the  short  term;  portable  toilets  to  be  provided,  the  worst 
+affected families to be relocated, the  stagnant  water to be disinfected  and pumping out of 
+the flood water.   
+ 
+Measures  for  the  medium  term  are  to  build  clinics  for  each  ward  at  least,  commence  in 
+construction of a proper drainage system, increase access to drinking water by increasing 
+the  number  of  taps  in  the  area  and  using  high  grade  gravel  on  the  roads  when  grading 
+them.   
+ 
+In  the  long  term,  the  community  would  like  schools  to  be  constructed,  giving  of  plots  be 
+done  in  a  planned  manner,  the  roads  be  raised  and  upgraded  to  tarmac  in  some  cases, 
+construction of a school for each ward. 
+ 
+5.0 Detailed Findings 
+ 
+5.1 Kabwata Constituency 
+ 5.1.1Kamwala (Ward 5) 
+Livelihood 
+Most  of  the  residents  of  Kamwala  ward  are  retirees  who  depend  on  monthly  pension 
+schemes  and  rentals  from  their  own  houses  for  their  livelihood.  Others  are  in  formal 
+employment  and  the  rest  do  some  form  of  business  or  trading.  In  terms  of  impact  on  the 
+respective  sources  of  livelihoods,  the  floods  impacted  95%  on  retirees,  80%  on  business 
+people and 70% on those that are formally employed. 
+ 
+Effect of flood on the vulnerable community  
+The  flooding  was  described  severe  affecting  close  to  90%  (4,321)  of  the  households.  The 
+flood situation has been bad in the last three consecutive years, having the current one as 
+the worst. The hazard first struck around end of November (heavy downpour) but this was 
+followed by a dry spell and by the first week of February, the situation got worse because 
+the area received continuous rains for almost a week.  
+
+ZVAC Rapid Assessment Report, March 2010   11
+
+ 
+
+ 
+The most affected are the housing units along the Chilenje-Matero commuter train railway 
+line,  those  behind  Kamwala  High  School,  ASA  farm  and  Zipas  School.  About  407  houses 
+have  been  affected  out  which  7  (less  than  1%)  are  partly  damaged,  400  (8%)  are 
+surrounded  by  water  but  no  house  was  reported  completely  damaged.  At  the  time  of  the 
+assessment,  two  schools,  Zipas  and  Nizar  were  surrounded  by  water  but  the  structures 
+were still intact. Close to 70% of the roads were damaged especially the one from St Patrick 
+to  Zipas  school  and  behind  Kamwala  High  school  near  Deeper  Life  Church.  Seven  out  of 
+eight Churches have been surrounded by water. 
+ 
+There  has  been  no  report  of  households  being  integrated,  or  being  shelterless  or  seeking 
+refuge  in  public  shelters  like  churches  and  schools.  Currently  all  the  households  are  still 
+occupying  their  homestead  apart  from  one  household  which  reported  that  part  of  the 
+family has relocated and another one has completely relocated to rent elsewhere  
+ 
+The  floods  have  negatively  affected  the  livelihood  of  this  community  in  that  business 
+earnings  (incomes)  have  been  reduced  negatively,  the  residents  are  facing  significant 
+challenges  in  terms  of  moving  (both  motorists  and  pedestrians),  septic  tanks  have  been 
+flooded  thereby  creating  a  health  hazard  environment.  There  has  been  some  social  life 
+effects  where  neighbours  have  picked  up  quarrels  as  a  result  of  blocking  and  or  opening 
+flow of water resulting in flows or backflows to the next door neighbour’s homestead. 
+ 
+Coping strategies  
+The residents in Kamwala are coping up with the situation by putting filled sandbags as a 
+way of making walkways and blocking water. The community is also making and clearing 
+minor  drainages  to  allow  water  to  flow.  Most  mothers  and  grandmothers  are  carrying 
+school going children on their backs. In those households that are completely surrounded 
+by water, the residents are spraying and or sprinkling oil or diesel to reduce the breeding 
+of mosquitoes. 
+ 
+Community Preparedness, Response and Monitoring Plans 
+Prior to the onset of the rains, the community mobilised road material (gravel) but lacked 
+technical  expertise  to  supervise  the  works.  This  resulted  in  a  poor  job  done  and  further 
+works on the roads were jeopardised by the rapid onset of rains whose intensity was high. 
+With  limited  technical  know-how,  the  community  did  not  put  in  place  any  monitoring 
+measures.  However,  the  community  plans  to  get  on  site  and  work  on  the  drainages  and 
+roads immediately the rains are over. Fortunate enough funds have been  secured to clear 
+the drainages.  
+ 
+As an external repose measure, DMMU is currently pumping water from Kabwata Site and 
+Service throwing water to Kamwala south but the capacity of the pump is not able to cope 
+with the rate of water accumulation. 
+ 
+Community Proposed Mitigation measures- Recommendations 
+The  community  is  proposing  that  the  area  should  be  immediately  sprayed/  disinfected 
+especially  the  water  logged  areas,  the  flooded  septic  tanks  to  be  emptied  to  reduce  the 
+
+ZVAC Rapid Assessment Report, March 2010   12
+
+ 
+
+overflow  of  human  excreta  and  the  blocked  drainages  and  culverts  to  be  cleared.  In  the 
+medium term, the roads and drainages should be well attended to under the supervision of 
+technical staff. Concrete drainages should be created to allow free water flow.  
+ 
+5.1.2 Kabwata (Ward 6) 
+Livelihood 
+The  main  livelihood  of  the  residents  is  business  trading,  followed  by  formal  employment 
+and the rest are retires. In terms of impact on the respective livelihoods, the floods have a 
+75%  impact  on  those  who  are  doing  business  or  trading,  a  similar  magnitude  of  75%  on 
+formally employed residents and a 70% impact on retirees. 
+ 
+Effect of flood on the vulnerable community  
+The  effect  of  the  floods  has  been  described  as  being  severe  at  the  time  of  occurrence 
+affecting close to 90% or approximately 3,290 households. The floods were first reported 
+in  mid  January.  No  reports  on  residential  houses  having  being  partly  or  completely 
+damaged  but  there  were  548  (15%)  houses  reported  to  have  been  surrounded  by  water. 
+The only clinic in the ward is intact but the road leading to the clinic is in a bad state. Two 
+schools (Kabwata basic and Palmer) have been partly damaged and surrounded by water. 
+About  70%  of  the  roads  have  been  damaged.  Two  churches  (ZAOGA  and  Deeper  life)  are 
+surrounded by water and hence, no service is being conducted. 
+ 
+No  reports  on  households  that  have  been  affected  are  being  integrated  neither  are  they 
+shelterless because no house was reported completely damaged. Therefore all the families 
+are occupying the same houses; however 600 (16%) tenants have opted to rent elsewhere. 
+No  households  have  sought  refuge  in  schools  or  churches  but  200  (6%)  have  voluntarily 
+relocated to other areas and 100 (3%) landlords have been compelled to renting elsewhere 
+within and outside the ward. 
+ 
+The residents have suffered emotional stress seeing their way of living reducing in terms of 
+sanitation,  household  goods  being  soaked  by  water  and  their  incomes  being  affected 
+negatively.  Peoples’  household  budgets  have  unexpectedly  increased  to  cover  expenses 
+such as frequent repairs to the vehicles, making private arrangement to remove water from 
+homes  or  emptying  septic  tanks.  The  floods  had  a  negative  impact  on  the  education  of 
+school  going  children  as  they  have  to  wade  in  water  before  reporting  to  school  or 
+occasionally reported absenteeism. 
+ 
+Coping strategies  
+The community have embarked on emptying septic tanks, moping water from the houses, 
+bought protective clothing like gum boots and carrying school going children on the back of 
+mothers/ grandmothers. 
+ 
+Community Preparedness, Response and Monitoring Plans 
+As a preparedness strategy, the community embarked on clearing of drainages which was 
+done  in  partnership  with  Lusaka  City  Council.  However,  there  were  no  monitoring 
+measures that were put in place. In response to the floods, the residents have reported to 
+
+ZVAC Rapid Assessment Report, March 2010   13
+
+ 
+
+relevant offices e.g. the District Commissioner, the Area Member of Parliament and Lusaka 
+City Council.  
+ 
+Community Proposed Mitigation measures- Recommendations 
+In  order  to  mitigate  the  effect  of  the  floods  in  the  short  run,  the  community  is  proposing 
+that septic tanks that are flooded should be emptied. Pumps should be placed to assist in 
+pumping of water from the flooded areas, disinfecting stagnant water to reduce the spread 
+of waterborne disease and breeding of mosquitoes. In the medium term, main roads should 
+be rehabilitated; opening up of blocked culverts and drainages will greatly help to allow for 
+the free flow of water. In the long run, the roads should be tarred and construction of main 
+drainage system to receive water from the sub drainages should be done 
+ 
+5.1.3 Libala (Ward 7) 
+Livelihood 
+The  livelihood  source  of  most  of  the  residents  in  Libala  ward  is  through  formal 
+employment, seconded by those who are doing some sort of trading (business) and the rest 
+are  retired  but  earn  a  leaving  through  pension  scheme.  The  flood’s  effect  on  the  formally 
+employed is 40% while on those conducting business has been 40% and a 30% impact on 
+retirees.   
+ 
+Effect of flood on the vulnerable community  
+Generally  the  residents  reported  that  despite  the  hazard  being  of  high  intensity  when  it 
+first  occurred  in  the  first  week  of  February,  the  impact  on  the  vulnerable  population  was 
+described  as  low  and  estimated  to  being  close  to  10%.  The  wet  situation  continued  from 
+February  when  it  was  first  observed  and  spread  through  March.  When  compared  to  the 
+past five years, the trend of high rainfall impacting on people’s livelihood has been similar 
+but this year’s has  been the worst in the five-year reference period. The current situation 
+may lead into a possibility of outbreak of cholera and malaria but at the time of reporting, 
+the situation did not show signs of such diseases occurring. 
+ 
+No  reports  of  houses  that  are  partly  or  complete  damaged  but  5  houses  (less  than  1%) 
+reported to be surrounded by water. The most affected housing units are the ones close to 
+the  commuter  train  railway  line  bordering  Libala  South  residential  area.  No  reports  on 
+clinics,  schools  or  any  other  infrastructure.  However  80%  of  the  roads  have  been  partly 
+damaged  especially  the  Nationalist  Rd  extension,  Yotam  Muleya  and  the  one  bordering 
+Libala and Chilenje. The assessment reviewed that about 10% of the roads were complete 
+damaged. The greater effect was seen on those roads that have never been tarred before 
+ 
+All  the  residents  are  occupying  the  same  houses  and  no  households  have  been  rendered 
+shelter  less  neither  are  they  staying  in  public  buildings  like  schools,  churches  and 
+community halls. 
+ 
+Community Preparedness, Response and Monitoring Plans 
+The  Ward  Development  Committee  filed  in  a  report  to  Lusaka  City  Council  about  houses 
+that  are  “wrongly”  built  on  drainages  so  that  an  action  could  be  taken.  The  Ward 
+Development  Committee  is  in  the  process  of  engaging  a  contractor  to  work  on  the  roads 
+
+ZVAC Rapid Assessment Report, March 2010   14
+
+ 
+
+and  drainages.  They  have  also  put  in  place  measure  to  monitor  the  development  works 
+once a month.   
+ 
+ 
+Community Proposed Mitigation measures- Recommendations 
+The community is proposing that the roads and drainages should be worked on e.g. tarring 
+the  roads.  There  should  be  an  ongoing  and  consistent  road  maintenance  programme. 
+Culverts should be unblocked and the drainages should be cleared.  
+ 
+ 
+5.2 Chawama constituency 
+5.2.1 Chawama (Ward 2) 
+Livelihood 
+The  livelihood  is  mainly  informal  employment  (petty  trading),  seconded  by  formal 
+employment  and  lastly  unemployed  (piece  work).  The  flood’s  effect  on  the  informal 
+employment was 60%, while the formal employment was 65% and on the unemployed was 
+60%. 
+ 
+ 
+Effect of flood on the vulnerable community  
+The overall effect of the floods on the vulnerable population was severe (70%). The flood 
+problem was noticed in mid February and it has been on through March. When compared 
+to  the  last  five  years,  the  impact  was  minimal  in  2008/9  but  was  highest  this  year.  The 
+assessment  recorded  13  (less  than  1%)  houses  were  partly  damaged,  no  house  was 
+completely damaged but the area had 600 (5%) houses surrounded by water especially in 
+Koumboka  area.  Other  effects  of  the  excessive  water  lead  to  some  pit  latrines  collapsing. 
+The  only  clinic  (Chawama  Health  Centre)  in  the  ward  is  surrounded  by  water  and  three 
+schools  are  also  surrounded  by  water  these  being  Chimwemwe,  Chawama  and  Twatasha 
+Basic schools.  
+ 
+17 roads are partly damaged while one is completely damaged.  Significant pools of water 
+were  sitting  on  the  roads  especially  in  Kuku  compound  and  Koumboka  area.  One  church 
+(Jesus  the  King  Ministry)  and  the  Ward  Development  Committee  Office  were  both 
+surrounded by water. 
+ 
+Two families were integrated while the 13 families whose houses were partly damaged are 
+still occupying the same houses and no reports of households seeking refuge in schools or 
+churches.  However  there  are  two  families  that  have  voluntarily  relocated  and  100  (less 
+than 1%) are renting elsewhere. 
+ 
+In  addition,  the  floods  have  caused  outbreak  of  water  borne  diseases  like  cholera.  The 
+respondents linked the 78 cases of cholera which were recorded at Chawama Health Centre 
+to the problem of floods. The quality of drinking water has been affected due to leakages in 
+water pipes, the road network has been damaged, toilets are flooding and others collapsing. 
+ 
+Coping strategies  
+
+ZVAC Rapid Assessment Report, March 2010   15
+
+ 
+
+As a coping strategy the residents of Chawama Ward 2 have resorted to asking assistance 
+from  neighbours  and  public  social  places  (bars)  for  toilet  usage,  some  have  resulted  in 
+using  “flying  toilets”  plastic  and  shake  shake  packs.  Affected  residents  have  opted  to  fill 
+bags with sand to block the flow of water into the homesteads.  
+ 
+Community Preparedness, Response and Monitoring Plans 
+The  community  embarked  on  clearing  drainages  using  community  contributions.  With 
+regards  to  monitoring  measure,  the  WDC  regularly  visit  the  area.  As  a  response  to  the 
+problem,  the  community  has  involved  other  stakeholders  such  as  the  Natsave  bank,  Spar 
+Supermarket and individuals to clear the drainages. The office of the District Commissioner 
+has send prisoners to clean up the ward. 
+ 
+Community Proposed Mitigation measures- Recommendations 
+The  community  proposed  that  in  the  short  term,  unblocking  the  main  drainages  and 
+opening up culverts may assist in that water from the water logged areas will start flowing 
+freely. The other suggestion was to pump away stagnant water. Since the problem of toilets 
+is  quite  big,  the  residents  are  requesting  for  mobile  toilets  to  be  provided.    Chlorine  has 
+been suggested to treat drinking water. 
+ 
+In the medium term, the ward intends to put culverts and has already taken an inventory of 
+the quantity needed totalling 42. 
+ 
+In  the  long  term,  there  should  be  proper  planning  of  housing  units  before  actual 
+construction  and  proper  supervision  during  construction.  The  roads  should  be  tarred  as 
+gravel is not a long term solution. The area has a lot of rock which block the free water flow 
+and so it was proposed that blasting of the rocks will pave way for water. 
+ 
+5.2.2 Chawama Nkoloma Ward 1 
+Livelihood 
+The major source of livelihood in Chawama Ward 1 is trading which can either be general 
+trading  or  vending.    The  second  most  common  form  livelihood  is  quarrying  or  stone 
+breaking  followed  by  those  that  are  in  formal  employment  and  then  lastly  those  that  do 
+welding.   
+ 
+In  terms  of  the  level  of  impact  of  the  floods  on  the  different  livelihoods  trading  was  70% 
+impacted as most of the places of business were flooded. Quarrying was impacted by about 
+60%  as  the  places  where  they  get  the  rocks  have  been  flooded.      The  formally  employed 
+haven’t been affected so much except in their movement to their work places as the roads 
+are flooded.  Lastly those who are welders have experienced about 60% as their places of 
+business have also been flooded. 
+ 
+Effect of flood on the vulnerable community 
+Approximately  95%  of  the  households  in  this  ward  (at  least  9,954households)  were 
+affected  by  the  floods.    These  floods  struck  in February  2010  and  were  said  to  be  severe.  
+The community’s experience in terms of the flood situation in this area in the past 5 years 
+
+ZVAC Rapid Assessment Report, March 2010   16
+
+ 
+
+is that flooding is an annual occurrence in this area however, this year it has been worse. 
+This  year’s  flooding  has  resulted  in  communities  lacking  access  to  safe  drinking  water 
+forcing  the  residents  to  move  long  distances  to  get  clean  water.    Movement  has  been 
+hampered  as  almost  all  the  roads  in  this  community  are  flooded;  as  a  result  people  have 
+developed  sores  on  their  feet  as  they  are  constantly  wading  through  the  stagnant  water. 
+The flooding of the roads in this ward has caused school children to at times be unable to 
+go to school when the flooding has been very high. The flooding has cause a loss of business 
+for the traders (trading is the most common livelihood and income source). This has in turn 
+caused the poverty levels in the community to increase.  Malaria has also now increased as 
+mosquitoes  have  increased  in  number  since  the  stagnant  water  has  become  breeding 
+ground for them. 
+ 
+In  terms  of  infrastructure  damage,  about  7,858  houses  have  been  partly  damaged,  203 
+houses completely damaged with at least 9,951 houses surrounded by water. There are no 
+clinics and bridges in this area. 95% of all the  roads are completely surrounded in water; 
+these  include  Dziko  Nibantu,  Nyerere,  Swazi  and  Katambalala  roads.  Four  churches  have 
+been surrounded by water and these are Redeemed church, Baptist church, Apostolic and 
+CCAP Pentecostal churches. 4 markets have also been surrounded by water and these are; 
+Katwishi,  Chuma  Chienda,  Katambalala  and  David  Kaunda  Markets.  There  are  150 
+households  that  have  been  integrated  in  the  community  while  200  have  been  left 
+shelterless.  825  households  are  still  occupying  the  same  damaged  houses  and  as  at  22nd 
+March,  2010  when  the  interviews  were  conducted,  about  136  households  had  been 
+relocated.  At least 1,520 households had since moved and were now renting elsewhere. 
+ 
+Coping strategies 
+In order to cope with the floods in this ward, people have been putting sand bags so as to 
+block  water  from  entering  their  yards.  More  people  have  bought  gumboots  which  they 
+wear  as  they  wade  through  the  stagnant  water.    Because  most  of  the  toilets  in  these 
+households have been flooded, people are now going to taverns to make use of the toilets 
+there,  in  some  cases  when  pressed,  people  are  now  using  Shake-Shake  packs  to  relieve 
+themselves.    These  packs  are  then  thrown  back  into  the  stagnant  water  causing  a  serious 
+health hazard.  In those houses where water has entered, people are elevating furniture so 
+as  not  to  get  wet.  Children  and  in  some  cases  whole  family  are  sleeping  on  table  tops  in 
+order not to get wet 
+ 
+Proposed mitigation and response measures  
+In  the  short  term,  communities  would  like  to  see  those  families  hardest  hit  by  the  floods 
+relocated  to  dry  land.  These  families  especially  those  with  small  children  should  also  be 
+provided  with  relief  food.  There  should  be  more  points  where  people  can  access  clean 
+water  from  the  current  four  points.    Mobile  toilets  should  be  provided  since  most  of  the 
+toilets in this community have been flooded. The pumping out of the collected water should 
+be done starting with the market places.  The stagnant water should be disinfected so that 
+breeding of mosquitoes is reduced. At the same time mosquito nets should be provided to 
+the  community.    Additionally,  communities  should  be  given  chlorine  to  put  in  drinking 
+water. 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   17
+
+ 
+
+In the medium term, commencement of construction of good roads should begin together 
+with  the  construction  of  a  proper  drainage  system  for  this  area.    The  community  should 
+also  like  to  have  more  communal  taps  put  around  the  ward  as  well  as  proper  flushing 
+toilets constructed for them. 
+Long  term  measures  include  the  upgrading  of  the  settlement  together  with  the  Ward 
+Development Offices. Construction of a school, clinic and police post is proposed as a long 
+term goal.  People quarrying this area should be stopped. 
+ 
+Community Preparedness, Response and Monitoring 
+Generally  there  was  no  official  project  that  was  going  on  before  the  onset  of  the  rains.  
+There  was,  to  a  very  small  extent  though,  the  exercise  of  unblocking  drainages  as  well  as 
+placing of sandbags in areas most susceptible to floods though these were washed away by 
+floods  when  the  rains  began.  The  WDC  was  making  follow-ups  on  these  small  mostly 
+individual efforts of interventions.  
+ 
+5.3 Kanyama Constituency 
+5.3.1 Old Kanyama Ward 10 
+Livelihood 
+Most  of  the  residents  of  Kanyama  Ward  10  are  traders  dealing  in  small  items  like 
+vegetables.  Vending in edible commodities like groundnuts also falls under this category of 
+trading as does the running of stalls like payphones and what is commonly referred to as 
+tuntemba.  The second most common livelihood source is the brewing of beer, mostly illicit 
+beer like kachasu.  The third livelihood source is quarrying and stone crushing.  An activity 
+that fell closely behind this third one was block-making. 
+ 
+In terms of the level of impact that the floods have caused these main livelihood sources in 
+this ward is; trading has been impacted by approximately 70% while beer brewing hasn’t 
+really been affected that much but only about 10% as people are still drinking despite the 
+floods.  Stone  crushing  has  had  an  almost  100%  impact  as  the  area  where  people  get  the 
+stones as well as where they sell the crushed stones are completely flooded.  Lastly block-
+making  has  been  85%  impacted  due  to  areas  of  business  being  flooded  and  the  fact  that 
+people do not want to buy wet/damp blocks as this compromise the structure being built. 
+ 
+Effect of flood on the vulnerable community  
+This  year’s  flooding was  described  as  severe  in  this  area,  affecting  close  to  90% of  all  the 
+households in this ward bringing the number of households affects to at least 15,775.  The 
+floods were reported to have struck in February of this year, and rated as the worst so far 
+in comparison to the previous five years. 
+ 
+The floods have brought about cholera in this area as well as increased cases of malaria as 
+the  flooded  water  is  breeding  ground  for  the  mosquitoes.  Poverty  levels  have  also 
+increased as the floods have disrupted livelihood and income sources for the people in this 
+ward.    This  is  because  most  places  of  business  are  surrounded  by  water.    The  rise  in 
+poverty levels has also brought in other issues; prostitution has increased.  This increase in 
+prostitution is feared to cause an increase in HIV in the community. Crime rate in this area 
+has now also increased as it is a direct effect of the rise in poverty levels. People have also 
+
+ZVAC Rapid Assessment Report, March 2010   18
+
+ 
+
+developed sores on the legs as they wade in the floodwater when moving from one point to 
+the  other.  There  are  deaths  that  have  been  reported  due  to  drowning  in  the  floodwaters. 
+This  area  has  a  number  of  manholes  and  quarry  pits.  However,  due  to  the  heavy  rains, 
+these  ditches  have  also  been  flooded  hence  people  step  in  them  without  knowing  their 
+depths  and  have  died  in  some  cases  (1  girl  is  said  to  have  drowned  in  a  manhole).    The 
+community  has  also  been  infested  with  rodents  like  rats  and  also  cockroaches  have 
+increased in the houses. 
+ 
+The most affected in terms of infrastructure damage in this area has been the houses with 
+at least 2,078 housing units partly damaged, 450 completely damaged and  approximately 
+11,800 housing units surrounded by water.  There is a small clinic in the ward called Helen 
+Devoe  Clinic,  which  was  also  surrounded  by  water.  Two  schools  were  reported  to  be 
+surrounded by water and these are  Kanyama  Basic as well as  a community school named 
+Twashuka community school.  All the 6 main roads in this ward are surrounded by water, 
+with  4  of  these  roads  partly  damaged  and  2  completely  damaged  and  impassable.  These 
+include Los Angeles and Mutanda Bantu Mbasela, there is a community hall in the area that 
+is said to have been partly damaged.  Of the 6 markets scattered around the ward, 5 were 
+said  to  be  surrounded  by  water  and  1,  Sikota  Wina  market  was  said  to  have  been 
+completely damaged. In Kanyama Ward 10, at least 70 households have been integrated, 20 
+are  shelterless  but  were  registered  for  relocation  to  the  stadium,  while  100  are  still 
+occupying  the  same  damaged  houses.  2  families  are  living  in  a  church/  community  hall, 
+while 40 have moved from their homes and are renting elsewhere. 
+ 
+Coping strategies  
+In  order  to  cope  with  these  floods,  the  majority  of  the  people  of  Kanyama  Ward  10  have 
+bought gumboots to protect their feet as they wade through the floodwater.  In the houses 
+that are surrounded by the floodwater, people have placed sand bags in order to block the 
+water from entering their homes.  However in most cases this has not deterred the water 
+from entering the homes and in such cases some families have had to abandon their homes 
+and have relocated.  Those that have not relocated have just elevated their furniture so that 
+it doesn’t get wet and placed blocks or planks to step on. 
+ 
+Proposed mitigation and response measures  
+The  community  is  proposing  that  the  area  should  be  immediately  sprayed/  disinfected 
+especially  the  water  logged  areas,  water  should  also  be  pumped  out  of  the  waterlogged 
+areas,  chlorine  should  be  provided  to  put  in  drinking  water,  mosquito  nets  should  be 
+provided, families that have been most affected should be relocated by the government and 
+that food aid should be provided.  The Ward Development Committee should be provided 
+with  protective  clothing  as  well  so  they  can  safely  go  out  in  communities  to  assess  the 
+impact and identify those families that it might be necessary to relocate. 
+ 
+Medium term measures should include sensitising the community on health and sanitation, 
+burying of manholes that have caused deaths,  better toilets should be constructed as well 
+as the commencement of construction of a proper drainage system.  Those households that 
+have been hardest hit should be provided with grants so that they can start afresh.  There 
+are 120 community members who were picked to be trained in disaster risk reduction and 
+
+ZVAC Rapid Assessment Report, March 2010   19
+
+ 
+
+disaster  management  by  DMMU.    These  should  be  trained  and  empowered  in  order  for 
+them to implement what they learn. 
+ 
+In the long term, the community would like to see the settlement upgraded, construction of 
+good roads, completion of the construction of the clinic in the ward and construction of a 
+school in the ward.  It was emphasised that the government should include the community 
+in the process of finding solutions on the flooding problems in Kanyama constituency and 
+also on the implementation of these projects. 
+ 
+Community Preparedness, Response and Monitoring 
+Prior  to  the  onset  to  the  rains,  intervention  measures  taken  were  the  unblocking  of  the 
+drainage system. This drainage clearance was done by SPURRZ (Strengthening Peri-urban 
+Risk  Reduction).    There  was  also  road  rehabilitation  under  Constituency  Development 
+Fund (CDF) in conjunction with CARE International in Zambia and Lusaka City Council. The 
+rehabilitated  roads  included  Mutanda-Bantu  Mbasela,  Los  Angeles,  Abwino-aende  roads. 
+About  9.8  Billion  Kwacha  was  allocated  to  Kanyama  for  drainage  clearance  and 
+construction  with  CARE  Zambia  put  as  the  implementing  agency.    This  however  is  being 
+done  without  the  community’s  involvement.  In  terms  of  monitoring  arrangements,  the 
+WDC used to supervise the road rehabilitation for Abwino Aende road.  The council insisted 
+on doing the monitoring for the drainage clearance. 
+ 
+ 
+5.3.2 Harry Mwaanga Ward 11 
+Livelihood 
+The  main  livelihood  source  for  the  people  in  this  ward  is  trading.    This  is  in  three  main 
+types  namely  vending,  trading  in  stalls  e.g.  payphone  and  tuntemba  and  lastly  trading  in 
+small items i.e cooking oil, vegetables etc. The second livelihood source is block making and 
+thirdly  its  beer  brewing  and  selling.  In  terms  of  the  impact  the  floods  have  had  on  the 
+income  source;  there  has  been  a  60%  impact  on  trading,  90%  on  block  making,  and  a 
+significantly less impact of 20% on brewing and selling of beer as the majority of the people 
+in the community are still drinking.  There has been a 90% impact on piece work. 
+ 
+Effect of flood on the vulnerable community  
+An estimated 85% of all the households in this area converting to at least 14,514 are said to 
+have been affected by this year’s floods.  The floods were said to have been severe having 
+struck in February 2010.  In the past five years floods have become an annual occurrence. 
+According to  the  communities  in  2005  there  were  floods  but  only  in  some  areas,  in  2008 
+the floods were bad affecting a lot more areas; however this year’s floods were said to have 
+been the worst so far and were being compared to the 1978 Kanyama disaster.   
+ 
+The  floods  have  caused  loss  of  business  as  some  places  of  business  are  surrounded  by 
+water.  There have been deaths reported due to drowning in the floodwater (10 deaths so 
+far have been recorded).  Water borne diseases like cholera have now been recorded in the 
+community,  this  is  due  to  the  lack  of  access  to  clean  water  as  the  shallow  wells  are 
+submerged  and  the  water  has  mixed  with  sewage  from  the  flooded  pit  latrines.    In  some 
+places  there  is  no  piped  water  and  communities  are  solely  reliant  on  shallow  wells.  
+
+ZVAC Rapid Assessment Report, March 2010   20
+
+ 
+
+Movement has been hindered as well in this ward as people have to wade through water.  
+This also is the reason people are developing sores on the feet. There has been an increase 
+in the crime rate in the area now as well as prostitution due to the increase in poverty due 
+to loss of business. 
+ 
+In  terms  of  infrastructure  damage;  approximately  35%  (6290)  houses  have  been  partly 
+damaged while less than 1% (115) have been completely damaged, whereas approximately 
+90% of all the houses (15,368) in the community are surrounded by water.  3 schools are 
+surrounded  by  water  and  these  are  John  Laing  Basic,  Kanyama  Basic  and  the  newly 
+constructed  Kanyama  central  Basic  school.  There  are  about  2  roads,  Ben-Bella  and  Los 
+Angeles which have been partly damaged while 6 have been completely damaged namely; 
+Millennium, Chinyama, Police road, Chipolopolo, Titanic and Mobil roads.  All these 8 roads 
+are  surrounded  by  water.    The  two  Police  posts  Los  Angeles  and  John  Laing  Police  posts 
+have  been  surrounded  by  water.    There  are  6  markets  (Sekelela,  Soweto,  Transmitter, 
+Malasha,  Pamodzi  and  Chibolya  markets)  and  15  churches  in  and  around  this  ward  and 
+these  are  all  surrounded  by  water.    85%  of  the  toilets  in  this  ward  are  surrounded  by 
+water.  Of  the  affected  households  in  Harry  Mwaanga  Ward  11,  about  40%  (6830)  have 
+integrated,  less  than  1%  (55)  are  shelterless,  at  least  7,257  (40%)  households  are 
+occupying  the  same  damaged  houses  and  about  3%  (500)  have  moved  and  are  renting 
+elsewhere. 
+ 
+Coping strategies 
+In  order  to  cope  with  the  flood  situation,  most  of  the  people  of  Harry  Mwanga  Ward  11 
+have bought gumboots that they wear. They are also digging furrows to channel the water 
+from their yards. Others are putting sandbags in order to prevent water from entering their 
+houses and also elevating furniture by putting them on blocks so they don’t get wet. 
+ 
+Proposed mitigation and response measures 
+The  community  would  like  in  the  short  term;  portable  toilets  to  be  provided,  the  worst 
+affected families to be relocated, the stagnant water to be disinfected and also pumping out 
+of  the  flood  water.    Measures  for  the  medium  term  are  to  build  a  clinic  for  John  Laing, 
+construct  a  market,  commence  the  construction  of  a  proper  drainage  system,  increased 
+access to drinking water by increasing the number of taps in the area and using high grade 
+gravel  on  the  roads  when  grading  them.    In  the  long  term,  the  community  would  like 
+schools to be constructed, giving of plots be done in a planned manner, the roads be raised, 
+construction of a school and market. 
+ 
+Community Preparedness, Response and Monitoring 
+Prior to the rains the community was involved in a number of projects in preparation for 
+the  coming  of  the  rains.    These  included  unblocking  of  drainages,  solid  waste  removal, 
+cleaning of schools and markets as well as distribution of chlorine. 
+There  was  close  monitoring  of  all  these  projects  by  the  WDC  which  was  supervising  the 
+progress  of  these  projects.  Since  the  onset  of  the  rains,  there  has  been  the  exercise  of 
+chlorinating  water  at  the  communal  taps.    There  has  also  been  the  spraying  the  stagnant 
+water, which is breeding ground for malaria. 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   21
+
+ 
+
+5.3.3 Munkolo Ward 12 
+
+Livelihood 
+The main livelihood source in this ward is trading,  followed by the second major livelihood 
+source  which  is  the  group  which  is  in  formal  employment  working  either  in  the  private 
+sector or in the civil service and thirdly is the group in informal employment. 
+In  terms  of  the  impact  the  floods  have  had  on  these  livelihood  sources;  trading  has  been 
+75% impacted due to the bad roads which people are now avoiding leading to the loss of 
+business.    Those  who  are  in  formal  employment  have  not  been  impacted  much  (20%)  as 
+they still go for work except that the bad, sometimes impassable roads have affected their 
+work.    Thirdly  is  the  group  in  informal  employment  where  the  floods  have  had  a  60% 
+impact. 
+ 
+Effect of flood on the vulnerable community 
+There  are  approximately  90%  of  the  households  in  this  ward  (4,270),  which  have  been 
+affected by the floods which were said to have been severe having struck in February. This 
+year  has  been  said  to  be  the  worst  in  terms  of  the  community  experience  on  the  flood 
+occurrence in past five years. 
+ 
+Flooding  in  this  ward  has  caused  a  problem  in  the  sewer  system.    The  sewer  system  has 
+been  flooded  hence  households  are  not  able  to  flush  their  toilets.    There  has  been  an 
+increase  of  malaria  cases  as  well  as  fever.    Movement  especially  in  the  night  has  been 
+hampered  as  the  roads  in  this  area  are  almost  impassable.  This  has  brought  about 
+depression in the homes. 
+ 
+In terms of infrastructure damage 55 houses were partly damaged while 20 houses in the 
+area were  said to be  surrounded by water. There is no record of any house that has been 
+completely damaged due to the rains. As  for clinics, there is one which is the ZNS Makeni 
+Preventive  Health  Care  Center  that  was  reportedly  surrounded  by  water.  All  the  6  roads 
+that lead into the main Kafue road have all completely been damaged and are surrounded 
+by water.  The sewer system has been affected by the floods with 55 completely flooded. 
+There  are  55  households  that  were  reported  to  be  occupying  the  same  damaged  houses 
+while  2  households  were  relocated  and  another  two  have  since  moved  and  are  renting 
+elsewhere. 
+ 
+Coping strategies 
+Some of the coping strategies that the people  of Munkolo Ward are implementing are the 
+pumping out of water in the flooded sewer system to enable them flush their toilets.  Sand 
+bags have been put in order to block water from entering the yard.  In some cases blocks or 
+big stones are being laid in order for people to step on when passing.  
+ 
+Proposed mitigation and response measures 
+Short  term  measures  include  putting  gravel  on  the  roads  to  make  them  passable  and  to 
+allow  for  movement  of  traffic.  It  was  suggested  that  there  should  be  the  continuous 
+pumping  of  water  from  the  flooded  areas  into  the  drainage  and  also  the  disinfecting  of 
+stagnant water. 
+
+ZVAC Rapid Assessment Report, March 2010   22
+
+ 
+
+Once the rains finish the community would like to see permanent good gravel roads being 
+made as well as a proper drainage system to be dug. In the long term, the gravel roads in 
+this area should be upgraded to tarmac. There should be a good big drainage system with 
+the  sewer  system  being  connected  to  the  main  one  for  Lusaka  Water  and  Sewerage 
+Company.    Another  suggestion  was  for  the  council  to  ensure  that  plots  are  first  of  all 
+serviced before being put up for sale. 
+  
+Community Preparedness, Response and Monitoring 
+There was the  exercise of making drainage from Maseta to Kakhole which was underway 
+and community members had actually even started contributing resources for this project, 
+with  a  committee  actually  put  in  place  to  make  follow-ups.  Since  the  onset  of  the  rains 
+however  there  hasn’t  been  any  intervention  measure  put  up  to  respond  to  the  flood 
+situation. 
+ 
+                                                  
+5.4 Mandevu Constituency  
+5.4.1 Justin Kabwe ward 21 
+Livelihood 
+Most  of  the  people  are  involved  in  small  retail  business  with  a  very  little  profit,  ranging 
+from  selling groceries,  groundnuts,  tomatoes  etc,  whilst others  do  piece  works  within  the 
+communities.  The  residents  complained  of  bad  roads  and  depreciation  of  kwacha  which 
+has hampered the growth of their business as compared to last year (2009) 
+ 
+Effects of floods on vulnerable community   
+About  90%  of  the  Mandevu  community  has  been  affected  by  floods,  though  the  nature  of 
+floods did  not  warrant  relocation.  One house  collapsed  near  north  east  of  Mutambe  Basic 
+School.    Ponding  is  most  prominent  and  that  is  described  as  the  most  disturbing 
+phenomenon.  School  children  temporarily  stopped  attending  classes  at  Mutambe  Basic 
+School.  The  internal  road  from  the  bus  stop  leading  to  Kasangula  road  has  been  badly 
+damaged. Some areas, some toilets were filled as a result high water table leading to feacal 
+matter mixing with excess water. This situation was forcing people to resort to using shake 
+shake packs for the call of nature. It was also reported that about 9 cases of cholera were 
+reported at the health centre.  
+ 
+Although they have been experiencing similar problems for the last five years, most of the 
+current hazards occurred this year, January to March 2010. 
+ 
+ 
+Impact (Damages Done) 
+According to the residents 90% of the houses were affected but the team’s assessment was 
+60%  houses  are  affected.  20%  partly  damaged,  35%  surrounded  by  water  and  5% 
+completely damaged. No Clinic was affected but Mutambe Basic School had the wall fence 
+collapse  and  one  class  room  is  submerged  in  water.  The  people  who  were  renting  the 
+damaged houses have since moved to new places whilst landlords have resolved staying in 
+the same house though their beds and other properties are on top of either stones or metal 
+buckets. Outside they have dug trenches to allow water to flow as a copping strategy.  
+
+ZVAC Rapid Assessment Report, March 2010   23
+
+ 
+
+In the short term, the community is working on the drainages and putting of the culverts 
+while  in  the  medium  term  they  hope  the  ward  will  be  funded  for  infrastructure 
+development and long term plans include putting up concrete drainages systems. 
+ 
+Efforts by the Community& monitoring tool 
+No  monitoring  plans  in  place.  The  WDC  made  efforts  of  acquiring  some  funds  and  other 
+materials  from  well-wishers  such  as  TAP  which  gave  them  5  culverts;  Chilanga  Cement 
+gave  them  50  bags  of  Cement  but  they  are  still  waiting  for  CDF  funds  to  carry  on  with 
+works in the community. The WDC has also done some sensitizing campaign mechanism to 
+inform people about the importance of cleanness and cabbage collections. 
+ 
+5.4.2 Ngwerere Ward 19 (Luangwa Zone 6) 
+Livelihood  
+40% are in informal employment, another 40% are doing small business and 20% are into 
+farming.  The  residents  indicated  that  the  number  of  individuals  working  has  drastically 
+reduced since last year due to some companies that were closed as a result of global crisis 
+and is still the case even this year. 
+ 
+Impact (Damages Done) 
+The main causes of the floods apart from natural rains are three main drainages off loading 
+water  into  the  area.  According  our  identification  70%  (6,878)  of  the  houses  are  affected. 
+10%  (983) houses  partly  damaged  and  9%  (844)  houses  surrounded  by  water.  No  house 
+was  completely  damaged.  However  the  floods  partly  damaged  4  bridges,  3  roads  partly 
+damaged,  3  roads  completely  damaged  and  2  Schools  (White  River  and  Malagy)  are 
+surrounded by water. The people who were renting the damaged houses have since moved 
+to new places whilst landlords have resolved staying in the same house. 
+ 
+Interventions  
+Short term include working on the drainages and putting of the culverts, mosquitoes nets 
+to be provided and spraying is needed, chlorine and mobile clinic. Medium term activities 
+include  constructing  of  drainages  to  receive  water  from  central  district  and  Manda  hill 
+shopping  complexes.  In  the  long  term  a  concrete  drainages  systems  needs  to  be 
+constructed, building a clinic and tarring the roads 
+ 
+With  regards  to  monitoring,  the  WDC  &  Zonal  Committee  goes  round  to  check.  The  WDC 
+and the residents have contributed money to repair the roads and drainage systems.  
+ 
+5.4.3 Chaisa Ward 20 
+Livelihood  
+5%  are  in  formal  employment,  60%  doing  small  business,  1%  prostitution  and  44% 
+nothing.  
+ 
+Impact (Damages Done) 
+Heavy rains have caused a lot of floods especially on the lower parts of the ward such that 
+water enters into their houses since December 2009, and the situation has been the same 
+for  the  past  five  years  with  this  year  being  the  worst  hit.  This  also  has  forced  a  lot  of 
+
+ZVAC Rapid Assessment Report, March 2010   24
+
+ 
+
+children failing to attend some classes. There was damage on infrastructure which included 
+6 houses partly damaged, 50 houses surrounded by water, 1 house completely damaged, 4 
+bridges  partly  damaged,  3  bridges  completely  damaged,  4  culverts  completely  damaged 
+with the great north road right by Mandevu market as the worst hit. 10 toilets completely 
+damaged, no school affected.  
+ 
+In the short term the community will be working on the drainages from great north road 
+through  to  the  railway  and  putting  of  the  culverts,  cleaning  the  cabbage  in  and  along  the 
+drainages.  Medium  term  includes  putting  up  concrete  drainages  to  receive  water  from 
+industrial  areas.  In  the  long  term,  it  is  proposed  that  there  should  be  up-grading  of  the 
+ward by construction better houses and roads. 
+ 
+The WDC & Zonal Committee goes round to check the infrastructure that is vandalized and 
+garbage that has been thrown anyhow. Efforts by the community included the WDC and the 
+residents  contributing  money  to  work on  the drainages  and  garbage  collection.  The  WDC 
+also have sensitized their communities on the importance of cleanliness and the dangers of 
+throwing garbage any how  
+ 
+5.4.4 Roma Ward 17 (Ng’ombe Zone) 
+Livelihood 
+There are 20% formal employed, 60%  doing small business, 5% Maids and house boys, 9%  
+vending  and  6%  nothing.  The  situation  in  terms  of  livelihood  has  not  changed  since  last 
+year (2009) 
+ 
+Impact (Damages Done) 
+Heavy rains have caused a lot of floods especially on the lower parts of the ward such that 
+water enters into their houses since December. When compared to the past five years, the 
+situation has been the same with this year being the worst hit. This also has forced a lot of 
+children failing to attend some classes.  
+ 
+The  floods  resulted  in  4  houses  partly  damaged,  1  surrounded  by  water,  3  completely 
+damaged, no Clinic partly/damaged, 3 bridges completely damaged (Kasisi, Aisha I&II, two 
+lives  were  lost  at  Aisha  II),  8  roads  were  partly  damaged,  3  toilets  completely  damaged. 
+Similar to the other wards/zones, the people who were renting the damaged houses have 
+since  moved  to  new  places  whilst  landlords  have  resolved  staying  in  the  same  house. 
+Waterborne diseases, diarrhea was report. 
+ 
+In  the  short  term  the  community  intends  to  connecting  water  to  their  ward/zone  and 
+working on  the  drainages.  Medium  term  activities  include  construction  of  the  three  main 
+bridges  and  resurfacing  the  roads  and  in  the  long  term  the  community  is  asking  for  a 
+secondary school and a mini hospital to be built. 
+ 
+The  community  worked  on  the  bridge  through  funds  from  CDF  and  also  worked  on  the 
+drainage along the main road.   
+ 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   25
+
+ 
+
+5.4.5 Roma Ward 17 (Mazyopa zone 13) 
+Livelihood 
+The  majority  of  the  people  are  engaged  in  small  business  (70%),  18%  are  literally  doing 
+nothing, 8% are Maids and house boys while 4% are in formal employment.  
+ 
+Impact (Damages Done) 
+The  situation  in  Mazyopa  is  severe.  13  houses  were  partly  damaged,  1  house  was 
+surrounded by water, 11 completely damaged, 1 bridges was completely damaged, 1 main 
+road  partly  damaged,  4  toilets  completely  damaged,  schools  and  clinics  were  intact.  The 
+people  who  were  renting  the  damaged  houses  have  since  moved  to  new  places  whilst 
+landlords have resolved staying in the same houses. There were cases of diarrhea recorded.   
+ 
+Proposed  suggestion  in  the  short  term  is  that  the  compound  should  be  legalized  and  the 
+residents work on the drainages. In the medium term, the bridge and Mazyopa road should 
+be worked on.  
+ 
+5.4.6 Garden Ward 19  
+Livelihood 
+The main occupation of the people (60%) is doing small business (such as marketing), 30% 
+are employed formally, 5% vending and 5% are doing nothing. No change in the livelihoods 
+of the people since last year. 
+ 
+Impact (Damages Done) 
+Heavy rains have caused a lot of floods especially on the lower parts of the zone such that 
+water  enters  into  their houses  since  January,  and  the  situation has  been  the  same  for  the 
+past five years with this year being the worst hit.  
+ 
+There were 4 houses which were partly damaged, 3 surrounded by water, 6 bridges partly 
+damaged,  5  completely  damaged,  6  roads  were  partly  damaged  while  4  completely 
+damaged (and impassable). There was no effect on the other infrastructure like schools and 
+clinics. Health related impacts included outbreak of diseases such as cholera and diarrhea. 
+Blocked drainages lead to mosquito breeding which resulted in increased cases of malaria. 
+ 
+The community will work on the drainages and garbage collection in the short and medium 
+term while in the long term the roads need to be tarred.  
+ 
+ 
+5.4.7 Ngwerere Ward 19, KANELE  
+ 
+Livelihood 
+In  terms  of  livelihood,  70%  are  doing  business  mostly  retail  trading  famously  known  as 
+(tuntemba).  This  comprises  various  goods  or  groceries.  20%  are  generally  involved  in 
+casual  work  vis-à-vis  gardening,  car  cleaning,  etc  in  the  near  by  conventional  areas  like 
+Olympia Extension and other areas. The rest are in formal employment, which is 10%. 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   26
+
+ 
+
+It was evident that the floods caused substantial damage to infrastructure which included 1 
+house  was  partly  damaged,  1  house  was  reported  to  have  collapsed,  4  roads;  Gabon  , 
+Pandela, Kanele and Chihande were in bad shape, 1 bridge was reported washed away by 
+heavy  rains  and  4  centre  roads  have  been  completely  damaged.  Outbreak  of  cholera  was 
+reported by the health personnel  
+ 
+The  community  wants  to  embark  on  road  and  drainage  rehabilitation  in  the  short  term. 
+There was no mention of monitoring activities because the WDC was inactive. 
+ 
+ 
+6.0 Recommendations  
+ 
+
+•  The  current  efforts  made  by  the  Government  and  its  cooperating  partners  such  as  
+relocating  the  severely  affected  families,  provision  of  pumps  for  pumping  water 
+from water logged areas, clearing the drainages and attending to roads is a  step in 
+the  right  direction  in  minimizing  the  negative  impacts  of  the  floods  on  vulnerable 
+population.  This  kind  of  initiative  needs  to  be  promoted,  supported  and  scaled  up 
+with the involvement of other stakeholders such as  the community, NGOs based in 
+the affected communities and UN Agencies.  
+ 
+
+•  The pumping out of water that is stagnant which is currently happening in Kamwala 
+
+Ward should be extended to Kabwata and Chawama Wards.  
+ 
+Since most of the drainages are blocked by garbage, the Lusaka City Council should 
+embark  on  the  programme  of  regularly  collecting  garbage  so  that  the  drainage 
+system is cleared and allow free passage of water.  
+
+•  The relocation programme that is going on in Chawama ward should be extended to 
+those  families  that  are  living  in  a  deplorable  environment  including  those  in  the 
+other  constituencies  especially  Kanyama.  Those  families  that  are  completely 
+surrounded  by  water  may  need  to  be  evacuated  to  drier  areas  and  provided  with 
+temporary  shelter  and  other  relief  supplies  till  around  June/  July  when  the  areas 
+will have naturally dried up.  
+
+ 
+
+• 
+
+ 
+
+The assessment approximated that 60 affected families may need to be evacuated in 
+Chawama, 40 in Kamwala, 20 in old Kanyama and 55 in Kabwata. 
+ 
+In  the  long  term  proper  construction  and  rehabilitation  of  infrastructure  (road 
+network  and  drainage  system)  should  be  properly  attended  to  or  planned.  The 
+roads need to be raised and tarred especially those running within the wards. 
+
+ZVAC Rapid Assessment Report, March 2010   27
+
+ 
+
+ 
+
+•  Road  Development  Agency  (RDA)  should  conduct  a  technical  assessment  of  the 
+damaged roads, bridges and culverts of economic importance, and develop an action 
+plan for the repair works to these structures. 
+
+•  There  is  need  for  disinfecting  the  affected  households  especially  that  are 
+surrounded  by  water  and  those  whose  septic  tanks  are  overflowing.  The  total 
+number  that  needs  this  type  of  assistance  is  1,553.  Chlorine  as  a  way  of  treating 
+drinking water should be distributed to the same number of households.  
+ 
+
+•  There is need for relevant authorities who allocate plots not to allocate residential 
+plots  where  there  are  drainages  or  areas  earmarked  for  road  construction.  During 
+construction, the authorities need to be on the ground to monitor the structure and 
+ensure  that  durable  housing  units  are  built.  This  action  should  be  reinforced  with 
+community  sensitization  by  the  Ward  Development  Committees  and  other 
+Community  Based  Organizations.  For  example,  Chawama  zone  14  may  consider 
+demolition of  some  “illegal” housing  structures  to pave-way  for well defined  roads 
+and drainages in the interest of the entire ward. 
+ 
+
+ 
+ 
+7.0 Conclusion  
+ 
+The assessment has revealed that out of the total of 14 wards that were identified by the 
+District  Disaster  Management  Committee  as  being  severely  and  moderately  affected,  10 
+wards  (71%)  were  verified  and  confirmed  to  be  actually  severe  and  moderate,  while  the 
+other  4  (29%)  were  found  to have  been  impacted  lowly  by  the  floods.    The  magnitude  in 
+terms  of  impact  on  households  was  63%  for  Kabwata,  88%  for  Kanyama,  83%  for 
+Chawama  and  43%  for  Mandevu  constituency.    This  translates  to  7,784  households  in 
+Kabwata, 31,203 in Kanyama, 14,601 in Chawama and 18,763 in Mandevu. 
+The  main  impact  was  on  the  infrastructure  especially  homesteads  and  roads.  There  was 
+less impact on education in terms of school attendance. The floods had a negative effect on 
+water and sanitation and resulted in 11 flood related deaths.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   28
+
+ 
+
+Annex 1: Damage to infrastructure 
+Name 
+Damage  
+1.  Zipas  road  from  the  traffic 
+
+Infrastructure 
+
+Kabwata 
+
+of 
+
+Constituency 
+
+Ward 
+Kamwala 
+Ward 5 
+
+Kanyama 
+
+Old 
+Kanyama 
+Ward 10 
+
+Katwishi,  Tambalala,  Chuma 
+Chienda  and  David  Kaunda 
+Markets 
+ 
+
+1.  Helen Devoe Clinic 
+
+ 
+
+2.  Twashuka  Community 
+
+School 
+ 
+
+3.  Mutanda 
+
+Bantu 
+
+Mbasela road 
+
+ZVAC Rapid Assessment Report, March 2010   29
+
+Kabwata 
+Ward 6 
+
+Libala 
+
+Chawama 
+ward 2 
+ 
+
+Nkoloma 
+Ward 1 
+
+Chawama 
+
+lights at St Patrick  
+
+2.  Road  behind  and  along 
+
+Kamwala High school 
+
+1.  Internal 
+
+roads  around 
+and 
+New 
+Kabwata Site and Service  
+
+Kabwata 
+
+1.  Nationalist 
+
+road 
+
+after 
+Chilimbulu  rd  traffic  light  
+into Kamwala South  
+
+2.  Yotam  Muleya  road  from 
+
+Barracks to Water Works 
+
+1.  Road separating Kuku and 
+
+ 
+
+Chawama 
+
+2.  Koumboka internal roads 
+3.  Road 
+long  Chimwemwe 
+
+Basic School 
+1.  Time road  
+2.  Nyerere 
+
+road  Swazi 
+road  Dziko  Nibantu 
+Katambalala road 
+
+3.  Redeemed 
+
+Baptist 
+Apostolic 
+CCAP 
+
+church, 
+Church, 
+Pentecostal Church 
+
+of 
+
+Description 
+Damage 
+Pools  of  water  and 
+big  potholes/  gullies 
+along the roads 
+
+ 
+
+ 
+
+-Completely 
+damaged 
+-Surrounded 
+water 
+-Surrounded 
+water 
+ 
+ 
+-Surrounded 
+water 
+
+by 
+
+by 
+
+by 
+
+by 
+
+by 
+
+-Surrounded 
+water 
+-Surrounded 
+water 
+ 
+ 
+-Partly  damaged  and 
+surrounded by water 
+
+ 
+
+ 
+ 
+
+ 
+
+4.  Sikota Wina Market 
+
+ 
+
+Harry 
+Mwanga 
+Ward 11 
+
+1.  John Laing Basic School 
+
+ 
+
+2.  Sakala,  mobil 
+
+and 
+
+Mandevu 
+
+Titanic roads 
+ 
+
+3.  Los Angeles road  
+
+ 
+
+4.  Los  Angeles  and  John 
+
+Laing Police posts 
+ 
+
+5.  Chibolya 
+sekelela, 
+pamodzi 
+transmitter markets 
+
+Market, 
+malasha, 
+and 
+
+1.  ZNS 
+
+Preventative 
+
+Health Center  
+
+1. School wall fence  
+2.  Drainage 
+church 
+
+from  Catholic 
+
+Blocked drainage  
+
+Roads  
+
+Road  
+
+Drainage 
+Road  
+
+Munkolo 
+Ward 12 
+Justin 
+Kabwe, 
+ward 21 
+
+Ngwerere 
+Ward 19 - 
+Luangwa, 
+Zone 6 
+
+Roma 
+Ward  17, 
+(Ng’ombe 
+Roma 
+Ward    17, 
+(Mazyopa) 
+Ngwerere 
+Ward  19, 
+Garden, 
+Kanele 
+
+ZVAC Rapid Assessment Report, March 2010   30
+
+ 
+ 
+-Completely 
+and 
+damaged 
+surrounded by water 
+-Surrounded 
+by 
+water 
+-completely 
+damaged 
+and 
+surrounded by water 
+ 
+-Partly  damaged  and 
+surrounded by water 
+ 
+-Surrounded 
+water 
+ 
+ 
+-Surrounded 
+water 
+
+by 
+
+by 
+
+by 
+
+-Surrounded 
+water 
+School  wall 
+fence 
+partly  collapsed  and 
+from 
+drainage 
+Catholic 
+church 
+blocked  
+The  main  problem  is 
+blocking  of  drainage 
+from  Coptic  hospital, 
+North mead, Fatmols 
+and Manda Hill 
+Zambezi  and  Zoxy 
+roads 
+affected 
+damaged  
+Mazyopa  road  has 
+been affected 
+
+Some 
+drainage 
+blocked  and  Kanele, 
+chihande and Garden 
+roads affected 
+
+ 
+
+Annex 2: Team Composition and Constituencies  Covered 
+ 
+Team   Constituency   Ward  
+1 
+
+1.  Kamwala Ward 5 
+
+Kabwata/ 
+Chawama  
+
+Team composition  
+Team leader: Douglas Mwasi 
+Team  Members: 
+Martin Mushiba, Ceasar Siakacha 
+District  Staff:  Elizabeth 
+Elijah Kampwa (Kabwata) 
+ 
+
+  Bwalya  Kalilo, 
+
+Jereshi/ 
+
+2.  Kabwata Ward 6 
+
+3.  Libala Ward 7 
+
+4.  Chawama ward 2 
+
+2 
+
+ 
+Mandevu  
+
+3 
+
+Kanyama 
+Chawama 
+
+/ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+1.  Justin  Kabwe  Ward 
+
+21 
+
+2.  Ngwerere  ward  19 
+
+(Luangwa zone 6)  
+
+Team Leader: Burton Mukomba  
+Team  Members:  Rhoda  Banda, 
+Eunice  Chishimba,  Catherine  Chali 
+and Michael Akakelwa 
+District Staff: Moses Milimo  
+
+3.  Chaisa Ward 20 
+
+4. 
+
+  ward  
+ Ngwerere 
+19, Garden (Gabon) 
+zone 19 
+
+5.  Roma  Ward  17 
+
+(Ng’ombe) 
+
+6.  Roma  Ward  17, 
+
+(Mazyopa) 
+
+1.  Chawama Ward 1 
+
+2.  Old Kanyama Ward  
+
+10 
+
+3.  Harry 
+
+Mwanga 
+
+Ward 11 
+
+4.  Munkolo Ward 12 
+
+Team  Leader:  Beauty  Shamboko 
+Mbale  
+Team  Member:  Naomi  Miti,  Mwila 
+Chimpampwe, Agrippa Banda 
+District Staff: Aaron Kachunga 
+ 
+
+ 
+ 
+ 
+ 
+
+ZVAC Rapid Assessment Report, March 2010   31
+
+ 
+
+ 
+Annex 3 Report Writing Team 
+ 
+
+ 
+
+ 
+
+1.  Burton Mukomba,   CARE Zambia  
+
+ 
+ 
+
+2.  Douglas Mwasi,  C-FAARM Programme  
+
+ 
+ 
+
+ 
+
+ 
+
+3.  Beauty Shamboko Mbale, Department of Water Affairs 
+
+ 
+
+ZVAC Rapid Assessment Report, March 2010   32
+
+

@@ -1,0 +1,5504 @@
+ 
+
+ 
+
+ 
+
+      
+
+S AD C  F A N R  
+
+V u ln e r a b ility 
+
+As s e s s m e n t C o m m itte e  
+
+ 
+
+Zambia Vulnerability Assessment Committee (VAC) 
+
+in  
+
+collaboration with the 
+
+SADC FANR Vulnerability Assessment Committee 
+
+ 
+
+ZAMBIA VAC APRIL 2003 LIVELIHOOD AND VULNERABILITY 
+
+ASSESSMENT 
+
+ 
+
+Final Report 
+June 10, 2003 
+
+Lusaka 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Acknowledgements 
+
+ 
+ 
+The  Zambia  Vulnerability  Assessment  Committee  (VAC)  wishes  to  thank  the  following 
+institutions for participating in the assessments: 
+ 
+
+•  The Disaster Management and Mitigation Unit, Office of the Vice President 
+•  The National Early Warning Unit, Ministry of Agriculture and Cooperatives 
+•  The Meteorological Department 
+•  The Central Statistical Office 
+•  The National Food and Nutrition Commission 
+•  The World Food Programme (WFP) 
+•  The Famine Early Warning Systems Network (FEWSNET) 
+•  UNICEF 
+•  Programme Against Malnutrition (PAM) 
+•  World Vision International 
+•  WHO 
+•  UNAIDS 
+•  Natural Resources Development College (NRDC) 
+•  Department of Water Affairs 
+•  Office of Coordination of Humanitarian Affairs - OCHA  
+  
+
+ 
+The National VAC wishes to express gratitude to the District officers who accompanied the teams 
+for fieldwork.  The NVAC is grateful for financial support from the Zambian Government, DFID, 
+WFP  and  USAID.  Further,  the  NVAC  would  like  to  particularly  thank  FEWSNET,  WHO  and 
+UNAIDS for providing technical support to the assessment. 
+ 
+Lastly but not the least, the VAC wishes to thank all households and communities that participated 
+in this survey. Without their cooperation, the assessment would not have been possible.  
+
+ 
+
+ii 
+
+Acronyms 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Gross Domestic Product 
+Genetically Modified Organisms 
+Government of the Republic of Zambia 
+Highly Indebted Poor Country 
+
+ 
+ 
+ 
+ 
+            Ministry of Agriculture and Cooperatives 
+ 
+ 
+ 
+
+Mid Upper Arm Circumference 
+Metric Tonnes 
+National Early Warning Unit 
+
+Agricultural Commodity Exchange 
+Crop and Food Supply Assessment Mission 
+Central Statistical Office 
+Disaster Management and Mitigation Unit 
+Democratic Republic of Congo 
+European Commission 
+Emergency Operation 
+Food and Agricultural Organisation of the United Nations 
+Famine Early Warning Systems Network (FEWSNET) 
+Food, Health, Agriculture and Nutrition Information System 
+
+ 
+ACE 
+ 
+CFSAM 
+CSO  
+ 
+DMMU 
+ 
+DRC 
+EC 
+ 
+EMOP  
+FAO 
+ 
+FEWSNET 
+FHANIS 
+FRA                            Food Reserve Agency 
+GDP 
+ 
+GMO   
+GRZ 
+ 
+HIPC   
+MACO 
+MUAC 
+MT 
+ 
+NEWU 
+NCZ                            Nitrogen Chemicals of Zambia 
+National Food and Nutrition  Commission 
+NFNC  
+Non Government Organisation 
+NGO 
+ 
+Natural Resources development College (NRDC). 
+NRDC  
+Orphans and vulnerable children 
+ 
+OVC 
+Programme Against Malnutrition 
+ 
+PAM 
+Per person per day 
+Pppd 
+ 
+Humanitarian Charter and Minimum Standards in Disaster Response 
+SPHERE 
+United Nations Children’s Fund 
+UNICEF 
+World Food Programme 
+WFP 
+ 
+World Health Organisation 
+WHO   
+World Vision International 
+WVI 
+ 
+VAC    
+Vulnerability Assessment Committee  
+VAM                          Vulnerability Assessment and Mapping 
+ZNFU                         Zambia National Farmers Union 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Highlights 
+
+iii
+
+How People Survived between March 2002 and April 2003 
+
+ 
+
+ 
+
+(cid:1)  Between March 2002 and April 2003, most people in Zambia met their kilocalorie/energy 
+requirements. For those under stress coping strategies  focused  mainly  on  changes to food 
+consumption rather than strategies that impact on household assets.   
+
+(cid:1)  Food  relief  made  some  contribution  to  livelihoods  in  the  southern  frequently  drought 
+affected maize growing areas – providing upto10-15% of annual kilocalorie requirements.  
+However, targeting still remains a problem and weakened the impact of the food relief on 
+most vulnerable households. 
+
+Current Food Security Situation and Scenario for 2004 
+
+ 
+
+(cid:1)  The  Food  Security  situation  in  Zambia  has  improved  and  only  0.06%  of  the  population 
+(60,000) will require targeted relief of 1,369 MT of cereal over a 5 month period (October 
+2003 to February 2004). Any food aid must be distributed commensurate with the existing 
+cereal gaps in each district.  
+
+(cid:1)  Six districts will require assistance while 4 will need monitoring. The districts affected are 
+Chama,  Itezi-Itezi,  Kazungula,  Luangwa,  Monze  and  Sinazongwe.  The  districts  that  will 
+require  monitoring  or  contingency  planning  are  Gwembe,  Kalabo,  Shangombo  and 
+Zambezi. 
+
+(cid:1)  Generally food availability and access across the country has improved. 
+
+ 
+
+(cid:1)  The situation is expected to remain as such in view of the increased  cereal production for 
+
+2002/3 season and a good input subsidy programme for small-scale farmers. 
+
+ 
+
+Linkages between Food Security and other Cross-Cutting Issues 
+
+ 
+
+(cid:1)  Households directly affected by HIV/AIDS where more likely to cite lack of labour as 
+reason for limiting cultivated land compared to households not affected by HIV/AIDS.  
+
+ 
+(cid:1)  There are many other factors that affect food production including economic position and 
+
+characteristics of members of household and the inability to assess these may mask the 
+specific impacts of HIV/AIDS at household level.  
+
+(cid:1)  There is also low prevalence of HIV/AIDS in the rural areas of Zambia (10%). The findings 
+failed to provide hard evidence to support the notion of “the new variant famine” operating 
+in the country. 
+
+iv
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+Acknowledgements............................................................................................................................. ii 
+Acronyms .......................................................................................................................................... iii 
+Highlights .......................................................................................................................................... iii 
+Table of Contents................................................................................................................................ v 
+Executive Summary........................................................................................................................... vi 
+INTRODUCTION................................................................................................................... 1 
+1.0 
+Background ......................................................................................................................... 1 
+1.1 
+General Objective of the Assessment ................................................................................... 2 
+1.2 
+1.3  Methodology ....................................................................................................................... 3 
+Training............................................................................................................................... 5 
+1.4 
+Analytical Framework ......................................................................................................... 5 
+1.5 
+1.6 
+Constraints to the surveys .................................................................................................... 6 
+NATIONAL LIVELIHOODS SECURITY ............................................................................. 7 
+2.1 
+Crop and Food Supply......................................................................................................... 7 
+2.2 
+Economic and Agricultural Sector Performance................................................................... 7 
+2.3 
+Nutritional Situation .......................................................................................................... 11 
+2.4   Context of HIV/AIDS in Zambia ....................................................................................... 13 
+2.5  Water Potential .................................................................................................................. 15 
+FINDINGS ON CURRENT HOUSEHOLD FOOD SECURITY IN 2002/3 .......................... 16 
+How Rural Households survived in 2002/03 ...................................................................... 16 
+Coping strategies ............................................................................................................... 21 
+Hazards and Vulnerability ................................................................................................. 21 
+Contribution of Food Relief............................................................................................... 22 
+Food Aid Targeting ........................................................................................................... 24 
+
+3.1 
+3.2 
+3.3 
+3.4 
+3.5 
+
+2.0 
+
+3.0 
+
+5.0 
+
+5.1 
+5.2 
+5.3 
+
+FINDINGS ON RELATIONSHIPS BETWEEN FOOD INSECURITY, HIV/AIDS,   
+
+4.0 
+HEALTH, EDUCATION, CHILD PROTECTION, WATER AND SANITATION.......................... 26 
+Demographic and Health Characteristics ........................................................................... 26 
+4.1 
+The Relationship between HIV/AIDS and Food Security................................................... 26 
+4.2 
+4.3 
+HIV/AIDS Field Data Analysis ......................................................................................... 27 
+4.4  Water ................................................................................................................................ 32 
+NATIONAL FOOD SECURITY: OUTLOOK FOR 2003-04 MARKETING YEAR ............ 34 
+Crop and Food Supply....................................................................................................... 34 
+Current Maize Availability and Access.............................................................................. 36 
+Agricultural Inputs ............................................................................................................ 36 
+VULNARABLE AREAS AND TARGETING...................................................................... 38 
+Analysis of Food Gap, Beneficiaries and Districts Affected ............................................... 38 
+Districts and Populations with Cereal Deficit..................................................................... 39 
+Districts and Populations Requiring Monitoring ................................................................ 40 
+RECOMMENDATIONS....................................................................................................... 42 
+7.1 
+Short Term ........................................................................................................................ 42 
+7.2  Mid/Long Term – Area Specific ........................................................................................ 43 
+Appendices .......................................................................................................................................... I 
+ 
+
+6.1 
+6.2 
+6.3 
+
+6.0 
+
+7.0 
+
+ 
+
+v 
+
+Executive Summary 
+ 
+In  June  2002,  following  two  consecutive  years  of  drought  (2000-2001  and  2001-2002  cropping 
+seasons)  that  reduced  the  national  cereal  production  particularly  in  the  southern  parts  of  the 
+country, combined with high levels of poverty, HIV/AIDS and 47% chronic malnutrition (stunting) 
+gave rise to serious concerns that unless an appropriate response was implemented there would be 
+a  serious  food  crises.    The  National  Vulnerability  Assessment  Committee,  a  consortium  of: 
+government,  NGO  and  UN  agencies  decided  to  conduct  a  series  of  food  security  assessments  in 
+August and December 2002 and in April 2003.  This was part of a regional initiative coordinated 
+by  the  Southern  Africa  Development  Community  (SADC)  Food,  Agriculture  and  Natural 
+Resources (FANR) Vulnerability  Assessment Committee.  The purpose of these assessments was 
+to  identify  needs,  inform  food  aid  distribution priorities  within  the  country  and  guide/inform  on-
+going food security monitoring.   
+ 
+The first two assessments focused on looking at the cereal deficit within the country and concluded 
+that  2.4  million  people  required  food  assistance  between  September  and  November  2002 
+increasing  to  2.9  million  between  December  and  March  2003.    The  cumulative  cereal  food  aid 
+requirement September – March was calculated to be 224,000 MT.  However, after a limited donor 
+response, linked to the GZR decision to turn down the offer of GM food assistance, just about 50% 
+of  the  food  aid  requirement  was  distributed.    The  nutrition  status  surveys  collected  post-harvest 
+2002  and  pre-harvest  2003  show  that  nutritional  status  remained  stable  throughout  2002-2003, 
+despite  the  reduced  scale  of  the  food  relief intervention.    With  this in  mind  the  VAC  decided to 
+focus the last assessment on looking at livelihoods, specifically how people lived last year and the 
+contribution of  food aid, in addition to identifying needs  for the  coming 12 months.   To achieve 
+this, the Zambia April 2003 Vulnerability Assessment used two investigative methods, namely the 
+Household/Key  Informants  Survey  and  the  Food  Economy  Approach.    Information  from  both 
+sources was triangulated together with information from other relevant secondary sources: MACO 
+crop  production  and  livestock  data,  data  on  imports,  health,  sanitation  and  population.    The 
+combination of approaches enabled a balanced story about how households survived and met their 
+food requirements in the light of last season’s cereal shortage. 
+ 
+
+Findings - How rural households survived in 2002/3 
+
+ 
+
+Macro-level information highlights the fact that maize production has been following a downward 
+trend since market liberalization was introduced in 1991.  Whilst maize production has been on the 
+decrease, there has been an increase in out-grower associations and contract farming arrangements.  
+In  addition,  “informal”  imports  of  maize  (reported  to  range  from  60-300,000MT  by  2002)  are 
+significantly impacting on the operations of the market, including cereal availability and prices.  
+ 
+In  2002/03,  in  all  the  assessed  areas,  even  households  considered  as  poor  were  able  to  access 
+sufficient  food  to  meet  their  basic  annual  calorific  requirements  of  2100kcal  per  person  per  day.  
+The  contribution  from  food  aid  over  a  12-month  period  was  less  than  5%  in  all  districts  except 
+districts  within  the  Gwembe  valley  (zone  11),  Luangwa  valley  (zone  12  a)  and  parts  of 
+Kazungula/Sesheke where up to 10-15% of kilocalories came from food relief.  
+ 
+How  people  met  their  energy  requirements  varied  slightly  between  different  areas.    However, 
+options  adopted  were  primarily  a  combination  of  crops  grown  on  their  farms  (maize,  cassava, 
+pumpkins and other vegetables), market purchase and exchange (both barter and labour) for food.  
+Income to enable purchase came from sale of milk/livestock, casual labour, cross-border trade and 
+
+ 
+
+vi
+
+other sources.  A combination of these options has been utilised by rural households throughout the 
+last decade and the use of new or unusual coping mechanisms in 2002/03 was limited. 
+ 
+Districts with low food crop production (covering 4 months consumption or less) 
+ 
+These  are  maize  growing  districts  that  are  frequently  affected  by  droughts/floods.    Specifically 
+districts  within  the  following  livelihood  zones:  Luangwa  valley  (12a),  Gwembe  valley  (11), 
+Shangombo  (9),  Kazungula/Sesheke  (7a),  and  Mambwe  (12b).    Whilst  these  zones  were  able  to 
+meet  their  basic  energy  requirements,  in  most  of  these  zones,  own  crop  production  (maize, 
+pumpkin and other vegetables) provided less than 30% of  energy  requirements.   However, other 
+options  were  available  –  particularly  casual  labour,  sale  of  livestock,  fishing  and  trade  –  all  of 
+which  provided  cash  to  buy  food.    In  the  Gwembe  valley  (11),  there  are  a  wide  range  of 
+employment opportunities including gemstone and  coal  mining;  working  for  commercial  fishing, 
+crocodile farming, sugar and vegetable companies; participating in cotton out grower schemes; and 
+working for civil servants and NGOs.  Kazungula/Sesheke (7a) has an unusually high reliance on 
+forest  foods  particularly  fruits  and  nuts  (including  the  mungongo  nut  which  is  both  oil  rich  and 
+valuable).  In this area, Namibia was both an important market in which to trade livestock, timber, 
+forest  products  and  handicrafts  for  a  variety  of  groceries  as  well  as  a  source  of  employment  on 
+commercial farms, herding, doing domestic work. 
+  
+Districts with higher food crop production (covering 5 months consumption or more) 
+ 
+These  can  be  grouped  into  three  types:  maize  producing  but  not  frequently  affected  by  drought, 
+cassava/maize producing and  cassava producing.   In these zones, own production  makes a larger 
+contribution to food intake and households were able to access 2100 kcals pppd or more.   Other 
+sources of food included fish, game meat, and vegetables.  Income sources included cotton/tobacco 
+production, sale of maize and cassava, casual labour on commercial farms and in some areas cross-
+border trade. 
+ 
+Impact of food relief 
+ 
+Food  relief  made  some  contribution  to  livelihoods  in  the  southern  frequently  drought  affected 
+maize  growing  areas  –  providing  upto10-15%  of  annual  kilocalorie  requirements.    In  other 
+districts, the contribution of food relief was lower (0-5%).   However, the late distribution of much 
+of the food relief means that its contribution to diets was slightly higher during a 3-6 month period 
+and may have enabled households to focus on weeding their own plots rather than looking for work 
+elsewhere.      Food  relief  was  generally  not  targeted  in  “worst  affected”  districts  rather  most 
+households  received  4-6  times  over  a  period  of  up  to  6-9  months.    Limited  targeting  further 
+weakened the impact of the food relief on most vulnerable households. 
+ 
+Coping strategies 
+ 
+Most zones reported strategies that focused on changes in food consumption.  This included: 
+getting food from other sources, changing from preferred foods to less expensive foods, reducing 
+the number of nshima meals per day and sometimes not eating nshima, and eating other foods and 
+vegetables or eating only vegetables.  The fact that expenditure, income and migration coping 
+strategies were adopted by a limited number of households highlights the value of the various 
+economic activities that have been developed over recent years in many parts of the country.   
+ 
+Changes expected in 2003/04 – Projections 
+
+ 
+
+vii
+
+ 
+The present harvest is reported to be a “bumper harvest”1, however late and erratic rains in some 
+areas  and  floods  in  other  areas  of  Southern  and  Western  provinces,  may  lead  to  pockets  where 
+maize  production  is  worse  than  last  year  or  destroyed  through  flooding.      Unless  imports  are 
+regulated  –  the  increase  in  production  combined  with  imports  may  have  a  negative  impact  on 
+pricing structures. 
+ 
+In areas of the south where maize production is expected to be patchy, most households will meet 
+their  requirements  through  their  usual  livelihood  strategies  –  a  combination  of  labour  exchange, 
+sale of other crops and livestock.   The most vulnerable (very poor) in zones in which last years’ 
+production  (cereal/cassava)  together  with  food  relief  exceeded  this  years  production  of 
+cereal/cassava  may  struggle.    The  most  vulnerable  households  were  households  which  had  less 
+livestock,  cultivated  less  land,  and  had  annual  incomes  in  the  range  of  ZMK100,  000  - 
+500,000/year  (1  US$  =  ZMK5,000  approximately).  Two  types  of  very  poor  households  were 
+identified:  labour  poor  households  and  households  with  labour,  households  with  labour  could 
+participate in FFW programmes. 
+ 
+The  Food  Security  situation  in  Zambia  has improved  and  only  0.06%  of  the  population  (60,000) 
+will require targeted relief of 1,369 MT of cereal which must be distributed commensurate with the 
+existing  cereal  gaps  in  each  district.  Six  districts  will  require  assistance  while  4  will  need 
+monitoring.  The  districts  affected  are  Chama,  Itezi  Itezi,  Kazungula,  Lwangwa,  Monze  and 
+Sinazongwe.  The  districts  that  will  require  monitoring  are  Gwembe,  Kalabo,  Shangombo  and 
+Zambezi. 
+   
+Conclusions 
+ 
+The  assessed  areas  particularly  in  the  frequently  drought  affected  areas  have been  moving  away 
+from a dependency on maize production over several years and have diversified both their sources 
+of  food and  income.  Economic  connections  within  and  between  food  economy  zones  are  strong. 
+Cross-border trade was important for several of the districts visited.   Looking beyond agricultural 
+production at the wider local economy shows that the majority of households are not experiencing 
+a food gap. Therefore, food aid interventions are not recommended this year except within limited 
+targeted areas and populations.  
+ 
+However,  certain  of  the  practices pursued  in different  zones  may  produce  longer-term  problems. 
+Certain  income  generating  activities  will  have  a  negative  impact  on  the  environment  unless 
+appropriate controls are put in place e.g. crop production using the slash and burn farming systems 
+(chitemene), charcoal production (Northern Province), timber logging and wild product collection 
+e.g. grass, reeds (Kazungula/Sesheke), and  fishing (Luapula Region and the  Gwembe Valley.  In 
+most  parts  of  the  country,  programmes  in  the  coming  year  should  focus  on  reducing  chronic 
+vulnerability,  through  supporting/strengthening  some  of  the  economic  activities  that  households 
+have developed in recent years (e.g. support to marketing of crops and livestock). 
+ 
+Households  who  were  directly  affected  by  HIV/AIDS2  were  more  likely  to cite  labour  shortages 
+within  the  household  as  an  important  issue  compared  to  households  not  affected  by  HIV/AIDS. 
+The same applies to a variety of coping strategies. These responses were signs of households under 
+stress.    However,  in  terms  of a  reduction  in  the  amount  of  food  produced  or  differences  in  food 
+                                                 
+1 Times of Zambia.  24 May 2003 
+2  Assuming that the presence of one or more of the proxy indicators is an indication of households affected by 
+HIV/AIDS. 
+
+ 
+
+viii
+
+production, the data of the Zambian VAC survey on the whole showed no real differences between 
+households categorized by the presence of one of the proxy variables and households not affected 
+by HIV/AIDS. Efforts should be made that will mitigate the impact of HIV/AIDS in rural areas by 
+assisting households affected by HIV/AIDS to become more food secure.  
+ 
+The  findings  of  the  Zambian  VAC  failed  to  provide  hard  evidence  to  support  the  notion  of  “the 
+new variant famine” operating in the country. It would appear if climatic conditions, food pricing 
+policies, the lack of agricultural support and extension services, environmental degradation, a lack 
+of infrastructure and poverty play a larger role in inadequate harvests than HIV/AIDS. Whether the 
+same  can be said of  countries with significantly  higher HIV prevalence rates than those  found in 
+the rural areas of Zambia (11 % of adults), remains unclear. 
+
+ 
+
+ix
+
+Background  
+
+INTRODUCTION 
+
+1.0 
+ 
+1.1 
+ 
+Zambia has an estimated population of 9.8 million3 of which 60% live in rural areas.  For additional 
+demographic, social and economic indicators see Table 1.1.   
+ 
+In  the  last  10  years,  droughts  of  varying  severity  have  occurred  in  1991-92,  1994-95, 2000-01,  and 
+2001-02and In addition, annual rainfall in the Southern parts of the country over the last 10 years has 
+been particularly varied. Nationally, as a result of the drought in Southern Africa (including Zambia), 
+increased  food  purchases  by  government  and  uncertainties  over  the  future  of  the  mining  sector 
+following  the  pull-out  of  Anglo  American  Corporation  from  the  Konkola  Copper  Mines,  the  GDP 
+growth was just 3% as compared to 5.2% in 20014.   
+ 
+Within  the  agricultural  sector,  the  real  growth  rate  has  fluctuated  significantly  in  the  last  10  years 
+mainly  due  to  an  over  dependence  on  seasonal  rainfall,  market  liberalization,  reduced  investment  in 
+maize  production  and  reduction  in  livestock  numbers  following  disease  outbreaks  (particularly 
+ECF/corridor  disease  in  the  late  90s  and  anthrax  in  2001).  Over  the  last  decade,  this  sector’s 
+contribution to the GDP has averaged 18 percent.   
+ 
+At  a  district  level,  recurrent  droughts  and  market  liberalization  initiated  in  1991/2  have  led  to:    the 
+collapse  of  the  traditional  credit  delivery  which  focused  mainly  on  maize  seed  and  fertilizer  inputs; 
+crop  diversification  and  an  increase  in  out-grower  associations  and  contract  farming  arrangements5 
+especially for cotton, tobacco, paprika and castor oil6. Cattle holdings in 2002, suggest that herd sizes 
+have returned to pre 2001 levels of approximately 2,500,0007.   
+ 
+Following  two  consecutive  years  of  drought  in  the  2000-2001  and 2001-2002  cropping seasons  that 
+reduced the national cereal production particularly in the southern and western parts of the country, the 
+National Vulnerability  Assessment Committee a  consortium of government, NGO and UN agencies) 
+decided to conduct a series of food security assessments in August and December 2002 and in April 
+2003.    This  was  part  of  a  regional  initiative  coordinated  by  the  Southern  Africa  Development 
+Community  (SADC)  Food,  Agriculture  and  Natural  Resources  (FANR)  Vulnerability  Assessment 
+Committee.    The  purpose  of  these  assessments  was  to  assess  needs,  inform  food  aid  distribution 
+priorities  within  the  country  and  guide/inform  on-going  food  security  monitoring.    The  first  two 
+assessments focused on looking at the cereal deficit within the country.     
+ 
+Following  a  review  of  the  previous  assessments  a  number  of  nutrition  surveys  which  suggested  that 
+nutritional status had remained stable during the  previous 12 months; food  relief data indicating that 
+less than 50% of the requested food relief had been distributed; and additional information on informal 
+
+                                                
+3 This is the de jure population figure as recommended by CSO for planning purposes. 
+4 Price Waterhouse Coopers.  Budget Bulletin.  The 2003 Zambian Budget in brief. 
+5 MAFF, MFED, MCDSC Targeted Food Security Pack for Vulnerable but viable farmers in Zambia 2000 -2003 
+Agricultural seasons August 2000 
+6 ZAMBIA Agricultural Sector Performance Analysis 1997-1998, MAFF December 1999 
+7 Cattle numbers decreased in 2001 to 1,596,271 from 2,620,987 in the previous year mainly due to outbreaks of disease 
+such as East Coast Fever Source: National Livestock Epidemiology and Information Centre.  March 2003. 
+
+ 
+
+1
+
+imports8 of maize and other goods ('Hidden' regional trade was estimated to be worth at least US$ 600 
+million and worth more than legal regional trade9). The national VAC decided that the last assessment 
+in the series  would  focus on livelihoods, and look at how people lived last  year and the  role of  food 
+aid.   
+ 
+1.2  General Objective of the Assessment 
+ 
+To assess vulnerability and livelihood patterns in Zambia. 
+ 
+1.2.1  Specific Assessment Objectives 
+ 
+The specific objectives of the assessments were as follows: 
+ 
+
+•  To  have  an  understanding  of  people’s  livelihoods,  how  they  have  survived  in  the  last  12 
+
+months (April 2002 – March 2003) including the role of food aid.   
+
+•  To project access to food from April 2003 to March 2004 based upon available crop production 
+
+figures for the current season  
+
+•  Develop a basic scenario for food security needs during this period (both food relief and other 
+
+interventions). 
+
+•  To take account of potential interactions between HIV/AIDS and food security.   
+
+ 
+To  achieve  these  objectives,  the  national  VAC  decided  to  utilize  2  survey  methodologies:  the 
+Household/Key  Informants  Survey  and  the  Food  Economy  Approach  and  do  a  joint  analysis  of  the 
+data collected together with information from secondary sources.  
+ 
+
+Table 1.1: Demographic, social and economic indicators, Zambia 
+
+Indicator 
+
+Total population (million) 
+Population aged 15-49 (thousand) 
+Annual population growth 
+Population density (Persons per square km.) 
+Percentage Population urbanised 
+Average annual growth rate of the urban population 
+GNP Per Capita (US $) 
+GNP Per Capita Average Annual Growth Rate 
+Per Capita expenditure on health 
+% of Government budget spent on health care 
+Total adult literacy rate 
+Adult male literacy rate 
+Adult female literacy rate 
+Male primary school enrolment rate 
+Female primary school enrolment rate 
+Male secondary school enrolment rate 
+Female secondary school enrolment rate 
+Crude birth rate (births per 1,000 pop.) 
+Crude death rate (deaths per 1,000 pop.) 
+Maternal mortality rate (per 100,000 live births) 
+Life expectancy at birth 
+Total fertility rate 
+Infant mortality rate (per 1,000 live births) 
+Under 5 mortality rate 
+
+Estimate 
+
+9, 8 
+4,740(a) 
+2.5(a) 
+12.6 
+40(a) 
+2.5(a) 
+330(b) 
+2.2(b) 
+23(b) 
+12.6(c ) 
+75(d) 
+83(d) 
+68(d) 
+91.4(d) 
+85.6(d) 
+33.6(d) 
+21.1(d) 
+44(a) 
+21(a) 
+870(c ) 
+41(a) 
+6.0(a) 
+95(e) 
+143(e) 
+
+Year 
+ 
+2003 
+2001 
+1995-2000 
+2002 
+2000 
+1995 
+1999 
+1999 
+1998 
+1998 
+1997 
+1997 
+1997 
+1995 
+1995 
+1994 
+1994 
+1995-2000 
+1995-2000 
+1995 
+1995-2000 
+1995-2000 
+1997-2001 
+1997-2001 
+
+Sources: (a) UNPOP (b) World Bank ( c) WHO (d) UNESCO (e)ZDHS 2001 
+ 
+
+                                                
+8 FEWSNET/WFP Cross Border Trade during the 2001/2 Marketing Year in Mbeya and Rukwa Regions.  March 2002, 
+and USAID SDA Unrecorded Cross Border Trade between Tanzania and her neighbours.  Sept 1998.  Technical paper #89 
+9 EIU Country Report 2001 
+
+ 
+
+2
+
+1.3  Methodology 
+ 
+1.3.1  Livelihood Based Analysis 
+ 
+Livelihood based analysis is a holistic tool for gathering information about people’s patterns of income 
+and expenditure, the types of food people eat, and how food is accessed (It may be noted that where 
+people  live  and  their  socio-economic  background  control  people’s  food  security  and  livelihoods).  
+Analytically, areas with broad livelihood similarities are grouped into livelihood zones.  Livelihoods-
+based  Vulnerability  Assessment  focuses  on  the  analysis  of  food  sources  and  incomes  by  livelihood 
+zone  and  wealth  group.  To  achieve  this,  the  Zambia  April  Vulnerability  Assessment  used  two 
+investigative  methods,  namely  the  Household/Key  Informants  Survey  and  the  Food  Economy 
+Approach.  
+ 
+The  Household/Key  Informants  Survey  is  an  important  tool  for  gathering  information  within  and 
+across households, and has been used widely in Zambia. In April’s survey, the household instrument 
+queried  people  as  to  their  household  demographic  and  health  characteristics,  asked  them  to  quantify 
+their own-production and livestock holdings between 2002 and 2003, ascertained what they thought to 
+be limiting factors of production, listed coping strategies employed over the previous year, and ranked 
+incomes  and  expenditures  over  the  past  12  months.    The  Key  Informants  survey  compared  current 
+with April 2002 sales and purchase prices for staple foods, livestock, and cash crops, ascertained water 
+sources  and  means  of  waste  disposal,  and  queried  as  to  newly  employed  coping  strategies  for  both 
+food and income. 
+ 
+The  Food  Economy  Approach  examined  livelihoods  within  zones,  and  within  and  across  wealth 
+groups.    The  approach  quantified  people’s  access  to  2100  kilocalories  of  food  per  day  through 
+production,  purchase,  exchange,  gifts/relief,  wild  food  consumption;  potential  gaps  and  income 
+sources for purchasing food is quantified. In addition, the approach identified potential hazards in each 
+food economy zone and looked at how people might respond to these. Information collected enabled 
+comparisons to be made among wealth groups and food economy/livelihood zones. 
+ 
+Both methods have been widely used in other countries. 
+ 
+1.3.2  Survey  Design,  Stratification  and  Sampling  used  in  the  Household  and Key  Informants 
+
+Survey 
+
+ 
+Administratively,  Zambia  is  divided  into  nine  provinces.  Each  province  is  in  turn  subdivided  into 
+districts. For statistical purposes each district is subdivided into Standard Enumeration Areas (SEAs). 
+Zambia has 72 districts and 16,000 SEAs.   CSO selected the SEAs using a 2-stage stratified-cluster 
+sample method.  The SEAs were first stratified by livelihood zone using the NVAC-modified FHANIS 
+livelihood map.  Subsequently, 114 SEAs were selected proportional to the population size of the zone 
+based on the 2000 census.   For the design of this survey only the rural part of the sampling frame was 
+used.    Time  constraints  later  reduced  this  selection  to  72  SEAs,  randomly  selected  from  within  the 
+original set. 
+ 
+At the second stage, 4 villages were randomly selected in each sampled SEA.  Within each village, a 
+household list was collected/compiled and between 4 to 6 households randomly chosen for interview. 
+
+ 
+
+3
+
+Random  number  tables  were  provided  to  the  enumerators.  For  Key  Informant  interviews,  4-6 
+community  leaders  were  assembled  for  a  focus  group  discussion  with  participation  of  women 
+emphasized.  Both the focus group interview and household questionnaire used open and closed ended 
+questions  to  gather  information.  The  total  number  of  households  covered  in  the  survey  was  1448, 
+whilst  69  key  informant  interviews  were  conducted.  Appendix  1  and  Appendix  2  shows  map  of 
+SEA’s, and the sampling frame. 
+ 
+1.3.3  Survey design and selection of Zones for Food Economy Approach 
+ 
+Initially,  livelihood  economy  zones  (Livelihood  Economy  Zones  (LEZs)):  areas  where  households 
+share similar methods of accessing food and income) were identified using the following criteria: 
+ 
+
+•  Zones clearly defined on both the FHANIS and NVAC livelihood maps  
+•  Zones identified as needing relief food in both the August and December assessments (4 out of 
+
+6 zones)  
+
+•  Zones in diverse parts of the country (i.e. to bring out contrasts/differences in livelihoods)  
+•  Accessibility (i.e. flooded areas were inaccessible at this time). 
+
+ 
+Within LEZs, purposive sampling was used to select key informants, sites, and focus groups.  Focus 
+group  discussions,  with  at  least  4-6  key  informants,  were  held  with  district  level  GRZ  staff,  NGOs, 
+and church organizations to facilitate the identification of 2 “representative” villages (“typical” of the 
+zone,  neither  the  worst  nor  the  best  and  taking  population  density  into  consideration).    In  addition, 
+these  interviews  contributed  to  the  development  of  wealth  group  descriptions,  decadal  timelines  of 
+production and hazards, and seasonal  calendars. In each village and at the  community level, 4  focus 
+group  discussions  were  held  with  both  men  and  women  separately  and  together.  These  were  people 
+who  represented  their  community.    These  interviews  provided  a  crosscheck  to  complete  the  wealth 
+group rankings and descriptions, built up a history of the area, and developed the seasonal calendars. 
+Information was also collected on local units of measure and prices of foodstuffs, both through market 
+and household visits.  
+ 
+These  focus  group  interviews  were  followed  by  8  interviews  with  4-6  individuals  representing  each 
+wealth  groups.  Using  a  local  (relative)  definition  of  wealth  (not  absolute  definition  of  wealth),  the 
+interviews  focused  on  the  poor  and  middle  wealth  group,  but  where  time  allowed  also  developed 
+descriptions of the very poor and/or the better off.   In these wealth group discussions, information was 
+collected on sources of food, income, and expenditures for a “typical” family within the wealth group.  
+Calculations  were  made 
+least  2100 
+kilocalories/person/day.10  (average  energy  requirements,  Sphere  standard)  The  information  collected 
+was summarized and triangulated at every stage of the process to identify both agreement within the 
+team and ensure that any differences were cross-checked/followed up in the field the following day. 
+ 
+1.3.3.1 
+ 
+In 2000, the first attempt at coming up with a Livelihoods Zone map of Zambia was made. This was 
+against  a  backdrop  of  the  need  for  a  food  security  analysis  approach  that  would  take  into  account 
+                                                
+10 Since all nutrition surveys in the past year indicate no significant deterioration in wasting among children under-5 years 
+of age, the implication is that all age groups across the country covered their requirements of  2100 kcal/person/day. 
+
+Livelihood Zone Map and Description 
+
+to  ensure 
+
+that 
+
+the 
+
+information  added  up 
+
+to  at 
+
+ 
+
+4
+
+livelihoods  across  the  country.  A  one-day  working  group  meeting  was  held  with  Zambian  experts 
+drawn from a range of institutions. The product of this one-day meeting was a livelihoods zone map of 
+Zambia  with  an  accompanying  table  of  livelihood  zone  descriptions.    This  was  later  modified  in 
+collaboration with FHANIS and the map in Figure 1.1 compiled.  Appendix 3 gives further description 
+of each zone.  
+ 
+
+Figure 1.1: Livelihood Economy Zone Map  
+
+    o 
+
+Training 
+
+ 
+1.4 
+ 
+Following one week of training and pre-testing of the instruments, the  field  component  commenced. 
+The  “households”  group  fielded  6  teams  of  4  people  for  21  days  (1st  to  21st  April),  while  the  Food 
+Economy group sent 3 teams of 4 people for the 21 days that included some days of analysis. A one-
+day meeting to share findings of both approaches was held on 30th April to look at the ways in which 
+the two approaches  would complement  each other during analysis.  The two teams  were  made up of 
+members of the NVAC as well as consultants from UCT Associates and FEWSNET. 
+ 
+1.5 
+ 
+Nutrition status data collected in Zambia between May 2002 and March 2003 show that rates of global 
+acute  malnutrition  (GAM)  have  been  stable  at  around  a  5%  prevalence  rate.  The  household 
+questionnaire quantified the contribution of the main sources of cereals and tubers to the energy intake 
+
+Analytical Framework  
+
+ 
+
+5
+
+by zone throughout the country.   The food economy detailed how people last year accessed their 2100 
+kcal/person/day  in  6  zones.    Within  each  zone,  this  information,  combined  with  the  household 
+questionnaire’s  information  on  other  food  sources,  coping  strategies,  and  incomes,  with  additional 
+information  from  secondary  sources,  provided  an  overview  of  how  people  met  their  food 
+requirements.    
+ 
+The primary data for the household survey was analyzed using Statistical Package for Social Sciences 
+SPSS 11.1 and  ArcView  Geographical Information System  (GIS).  The process  made use of  un-
+weighted  average  production  per  household,  calculated  from  the  total  average  production  and  total 
+average  household  size  for  each  LEZ;  this  was  used  instead  of  the  weighted  (individual  household 
+size) average production to smooth the influence of data outliers.   During the analysis (10-22 May), 
+the  emphasis  was  placed  on  the  triangulation  of  data  using  primary  sources  collected  during  the 
+surveys (household and key informant questionnaires, food economy focus-group interviews), MACO 
+crop  production  data,  data  on  imports,  health,  sanitation,  population,  and  other  relevant  secondary 
+sources.    The  combination  of  approaches  enabled  a  rational  story  to  be  developed  about  how 
+households survived and met their food requirements in light of last season’s cereal shortage. 
+ 
+1.6 
+ 
+Timing  was  a  major  constraint  as  the  surveys  took  place  when  some  areas  were  inaccessible  due  to 
+rain  and  damaged  infrastructure.  In  addition  some  household  members  were  away  tending  to  their 
+fields  and  often  had  to  be  waited  for.    This  reduced  the  number  of  SEAs  visited  and  households 
+interviewed, as well as limiting the food economy study to 6 out of the planned 9 zones. 
+ 
+ 
+
+Constraints to the surveys 
+
+ 
+
+6
+
+NATIONAL LIVELIHOODS SECURITY 
+
+Crop and Food Supply 
+
+Economic and Agricultural Sector Performance 
+
+2.0 
+ 
+2.1 
+ 
+Total  staple  cereal  production  (excluding  wheat)  for  the  2001-2002  farming  season  in  Zambia 
+amounted  to  667,667  MT  with  carry  over  cereal  stocks  from  the  previous  year  totaling  23,000  MT. 
+This is against human consumption requirements of 1,160,969 MT of staple cereal for the 2002-2003 
+marketing year. The total staple cereal deficit over the same period amounted to 671,766 MT.  
+The  food deficit  was reduced by  cassava and sweet potato production  where surplus production  was 
+experienced.  The  previous  VAC  reports  (August  and  December  2002)  had  estimated  a  cumulative 
+cereal food aid requirement for the period September to March 2003 as 224,000 MT to assist a total of 
+2.9 million people.   
+ 
+By December 2002, when the second  round of  food need assessments  was  carried out, the  Zambian 
+Government had  facilitated the importation of 46,854 MT of  relief  maize, of  which 19,288 MT was 
+brought  in  through  the  Food  Reserve  Agency  (FRA),  and  27,666  MT  through  private  firms.  In 
+addition, starting from August 2002 the World Food Programme (WFP) had imported a total of 79,194 
+MT of cereal under its Emergency Operations (EMOP) which was distributed as relief.  Thus a total of 
+126,048 MT (46,854 + 79,194 MT) were brought in against a demand of 224,000 MT or 56%. 
+  
+2.2 
+ 
+By the end of 2002, the economy had attained a 3.0% growth in gross domestic product compared to 
+5.2% in 2001. Growth  for 2003 is forecast at 4% or  more. Overall, the  major issues in the economy 
+were privatization, economic diversification and poverty reduction. 
+ 
+Annualized inflation for 2003 is targeted at 17.9%, down from 26.7% attained at the end of 2003. The 
+high  inflation  achieved  in  2002  has  worsened  effective  demand  for  agricultural  produce.  Weak 
+consumer demand will continue to have an adverse impact on the economy and the projected inflation 
+target may not be achieved as long as consumer demand remains weak.  Inflation will remain a serious 
+problem  as  long  as  the  monetary  and  fiscal  measures  used  by  government  are  unable  to  contain  the 
+depreciation of the Kwacha. 
+ 
+The exchange rate averaged ZMK 4,800 per 1 US$ during the year, implying marginal appreciation of 
+the  Kwacha.    Commercial  lending  rates  continued  to  average  41%  whilst  the  savings  rates  have 
+remained  static  at  5%.  The  interest  rates  remained  unfavorable  for  borrowing  and  this  will  be  the 
+situation as long as inflation remains high. 
+ 
+2.2.1.1  
+ 
+The area harvested for maize in Zambia has been slowly declining since 1989/90 (Figure 2.1 illustrates 
+this  trend).    In  Zambia,  the  area  under  cultivation  appears  to  be  a  major  factor  in  food  security  and 
+vulnerability.  In the last 14 years, the area harvested has gradually declined, pulling down with it the 
+average yield. The drought years of 2000-01, 2001-02, 1994-95 and 1991-92 resulted in corresponding 
+decline  in  area  harvested  whilst  the  observed  peaks  in  1992/93  and  1995/96  are  explained  by 
+
+Maize Production Trend 
+
+ 
+
+7
+
+deliberate Government subsidy and support expenditure policies related to election periods. The worst 
+drought in Zambia was in 1991/92 when production fell far below the recent five-year average. 
+ 
+
+Figure 2.1: Maize Area and Production 1989/90 to 2001/02
+
+)
+T
+M
+
+(
+ 
+n
+o
+i
+t
+c
+u
+d
+o
+r
+P
+&
+
+ 
+
+ 
+)
+s
+e
+r
+a
+t
+c
+e
+h
+(
+ 
+
+a
+e
+r
+A
+
+1,800,000
+
+1,600,000
+
+1,400,000
+
+1,200,000
+
+1,000,000
+
+800,000
+
+600,000
+
+400,000
+
+200,000
+
+0
+
+89_90
+
+90_91
+
+91 _92
+
+92 _93
+
+93 _94
+
+94_ 95
+
+95_9 6
+
+96 _97
+
+97 _98
+
+98 _99
+
+99 _00
+
+00 _01
+
+Season
+
+Source: FEWSNET/MAC
+
+5_yr_ A ve
+01_02
+
+3.00
+
+2.50
+
+2.00
+
+1.50
+
+1.00
+
+0.50
+
+0.00
+
+PRODUCTION (MT)
+
+AREA (Ha)
+
+Yield (MT/H)
+
+ 
+
+Food Access 
+
+The observed trend can be explained by the liberalization of agricultural markets that has resulted in 
+farmers producing maize only when it is economically viable to do so.  
+ 
+2.2.1.2  
+ 
+Ndola rural (Zone 2a), Mansa (Zone 1b) and Chipata (Zone 5b) experienced relatively high prices in 
+March 2002 while lower prices were experienced in Mongu and Kabwe rural (Zone 5a).    
+As shown in Figure 2.2, there has been a fall in maize prices in all provincial centers, making access to 
+maize  relatively favorable this year, except  in Mongu (Zone 8), where prices have risen.   The reason 
+why Mongu is experiencing higher prices compared to Kabwe this year is because: Mongu is a typical 
+deficit  area  and  Kabwe  a  surplus  area.    Figures  2.3a  and  2.3b  show  how  the  prices  have  behaved 
+during the period March 2002 and March 2003 in deficit and surplus regions. 
+ 
+ 
+
+ 
+
+8
+
+ 
+
+Figure 2.2: Real Maize Prices in March 2002 and March  2003 
+
+4,500 
+
+4,000 
+
+3,500 
+
+3,000 
+
+ZMK per 15 Kg 
+
+Mar_02 
+Mar_03 
+
+2,500 
+
+2,000 
+
+1,500 
+
+1,000 
+
+500 
+
+0 
+
+Chipata 
+
+Choma 
+
+Kabwe Rural 
+
+Kasama 
+
+Lusaka Urban  Mansa 
+
+Mongu 
+
+Ndola Rural 
+
+Solwezi 
+
+Source: FEWSNET / CSO 
+
+a)  Both surplus and deficit areas experienced relative stability in maize prices after an initial fall 
+
+ 
+
+in March 2002 with the deficit areas experiencing relatively higher prices than surplus areas. 
+
+b)  However in all locations the prices during the period under review were above the recent five-
+
+year average implying that access problems affected all areas at varying degrees.  
+
+c)  Maize prices when compared to prices of other cereals and tubers (sorghum, cassava, and rice) 
+are  lower  (see  Figures  2.3a  and  2.3b),  even  in  Mongu  a  predominately  cassava  and  rice 
+growing area.  
+
+d)  In  maize  deficit  producing  areas  access  to  staples  will  continue  to  be  a  problem  whilst 
+
+alternatives to maize exhibit higher prices.  
+
+ 
+
+9
+
+Figure 2.3a: Cereal Real Prices in a Surplus Area (Kabwe)
+
+700
+
+600
+
+500
+
+g
+k
+
+ 
+ 
+/
+ 
+
+K
+M
+Z
+
+400
+
+300
+
+200
+
+100
+
+0
+
+M ar_ 02
+
+A pr_0 2
+
+M ay_02
+
+Jun_02
+
+Jul_02
+
+A ug_02
+
+S ep_02
+
+O ct_02
+
+N ov_02
+
+D ec_0 2
+
+Jan_0 3
+
+F eb_ 03
+
+M ar_03
+
+Source: FEWSNET 
+
+ 
+ 
+ 
+
+Sorghum
+
+Rice 
+
+Cassava
+
+Maize
+
+ 
+
+The high price of sorghum could be explained by its use in brewing and therefore attracts a premium 
+price.   
+ 
+
+Figure 2.3b: Cereal Real Prices in a Deficit Area (Mongu)l 
+
+g
+k
+
+ 
+/
+ 
+
+K
+M
+Z
+
+500
+
+450
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+Sorghum
+
+Rice 
+
+Cassava
+
+Maize
+
+Mar_02 Apr_02 May_02 Jun_02
+
+Jul_02 Aug_02 Sep_02 Oct_02 Nov_02 Dec_02 Jan_03 Feb_03 Mar_03
+
+Source: FEWSNET 
+
+ 
+
+ 
+
+10
+
+The  price  of  maize  grain  continues  to  be  determined  by  land  use  capability  and  weather  as  well  as 
+including proximity to the  market. In addition, other determinants of price  will be the terms of trade 
+with other substitute cereals or tubers. This implies that price is particularly crucial to food access in 
+maize deficit areas like Mongu where cassava prices have risen almost exponentially relative to maize.  
+ 
+The present downward trend in maize grain prices is expected to continue until the end of the harvest 
+(August / September) when most household stocks will start to run out. A number of factors support 
+this  conclusion  including:  continued  import  of  maize  by  the  Government;  higher  than  expected 
+production; and, according to the Agricultural Commodity Exchange April report complaints by some 
+millers of poor quality maize caused by late rains in early April 2003. This has resulted in a reduction 
+in the price millers are willing to pay for maize.  
+ 
+In  agriculture,  the  Government  is  looking  towards  ensuring  timely  delivery  and  distribution  of 
+agricultural inputs and the rehabilitation and development of infrastructure. The Zambian Government 
+has also set aside  funds to tap the  massive potential in irrigation. Funding has also been set aside to 
+establish the Crop Marketing Authority (CMA) that will build up the food security stocks and ensure 
+that farmers have better prices at which to sell their produce. 
+ 
+2.3 
+ 
+The major nutrition problem in Zambia is chronic malnutrition. Data available on nutritional status is 
+primarily  derived  from  anthropometric  measurement  on  children  under  five  years  of  age.  Three 
+indicators  are  often  used,  height-for-age  (stunting)11,  weight-for-age  (underweight)12  and  weight  for 
+height  (wasting)13.  Children  under  5  years  old  are  considered  the  most  vulnerable,  and  therefore 
+children’s nutritional status is a good outcome indicator as it reflects both the general population and 
+household’s food security situation. Trend data for analysis of nutrition status has been derived from 
+secondary data using: 
+ 
+
+Nutritional Situation 
+
+ 2001-2 Zambia Demographic Household Survey (ZDHS)  
+
+• 
+•  NGO nutritional surveys supported by UNICEF at districts level. 
+•  Annual health statistical bulletin 2002, (Growth monitoring data from health facilities) 
+
+ 
+The  underlying  causes  of  malnutrition  are  divided  into  three  categories  and  show  links  between 
+inadequate  household  food  security,  basic  health  and  environmental  services  and  childcare  and 
+feeding.  These  underlying  causes  are  further  influenced  by  factors  such  as  income,  wealth  of 
+households,  distance  to  markets,  crops  grown  and  livestock  owned.  Likewise,  the  dependency  ratio 
+also affects the capacity of households to assure their needs.  
+ 
+
+                                                
+11 Height-for-age: which shows linear growth and is a measure of long-term nutrition.  A child whose height is below two standard 
+deviation of the Z-score is stunted or chronically malnourished.   Stunting is a result of long term deprivation due to repeated illnesses or 
+inadequate dietary  intake 
+12 . Weight-for-age  is a composite indicator of both linear growth and body proportion.  A child whose weight-for-age is below two 
+standard deviation of Z-score is considered to be underweight.  A child can be underweight either because he is stunted or wasted.  
+13 . Weight-for-height is a measure of fatness or thinness. A child whose weight in proportion to height is below two standard deviation 
+is wasted.  Weight-for-height is an indicator of current nutritional status. It is sensitive to recent past illness or acute dietary intake. 
+Wasting is a form of  acute malnutrition. 
+ 
+
+ 
+
+11
+
+Figure 2.4 represents trends in the three nutritional indicators between 1992 and 2002 using data from 
+preliminary  ZDHS  2001/2.    The  results  document  a  gradual  increase  in  both  the  proportions  of 
+children  stunted  and  underweight  and  a  stable  pattern  with  respect  to  the  level  of  wasting.  The 
+prevalence of acute  malnutrition  (wasting)  ranged between 2.5% and 7.6% and has remained stable. 
+These rates are within the global acceptable range and do not suggest a need for any emergency food. 
+ 
+
+Figure 2.4: Trend Analysis of Malnutrition at National Level 
+
+Trends in Nutrional Status of Children Under Age 5, Zambia 
+
+Demographic Health Survey 1992-2002
+
+47
+
+40
+
+42
+
+25
+
+24
+
+28
+
+5
+
+4
+
+5
+
+Percent stunted
+
+Percent wasted
+
+Percent underweight
+
+1992
+
+1996
+
+2001/2
+
+Note: Refers to children of DHS respondents under age five 
+
+ 
+
+ 
+The prevalence of wasting as captured in nutritional surveys in the respective districts (see Appendix 
+4)  is  comparable  and  consistent  with  national  level  data  (See  Figure  2.5).  The  prevalence  of  acute 
+malnutrition (wasting) ranged from between 2.4% (CARE, Kalomo, Dec 2002; CARE, Namwala, Jan 
+2003) and 7.7% (Oxfam, Siavonga, Jan 2003).   
+ 
+Stunting has increased over the last decade from. 40% in 1992, to 42% in 1996 and 47% in 2001-2002 
+(ZDHS,  1992,  1996  &  2001/2).    The  rate  of  stunting  varies  between  35.6%  (Lusaka  Province)  and 
+59.4% (Eastern Province).  Provinces that show high rates of stunting are: Eastern (59.4%), Luapula 
+(57.6%), Northern (54.8%) and Central (45.9%) Provinces. 
+ 
+Underweight as reported by the Health  Management  Information System  (HIMS, 2002) ranges  from 
+14.2% (Copperbelt Province) and 33.1% (Luapula Province). For each of the provinces, the prevalence 
+is  lower  than  in  1999.    Provinces  with  the  lowest  prevalence  are  Lusaka  (35.6%)  and  Copperbelt 
+(39.9%). 
+ 
+Limited  data  on  adult  malnutrition  has  been  collected  in  the  last  12  months.    Oxfam  in  Monze, 
+Senanga  and  Siavonga  districts  measured  adults’  nutritional  status  using  MUAC  in  one  survey  in 
+January/ February 2003. The measurements of mothers using MUAC showed that 0.4% to 2.3% of the 
+mothers  were  presenting  with  10  -  14%  with  moderate  or  severe  malnutrition  (<23cm  and  <21cm 
+respectively).   This does not indicate a large proportion of mothers having a MUAC varying greatly 
+from the average. 
+Data concerning adult malnutrition are limited and do not suggest a high prevalence of malnutrition. 
+ 
+
+ 
+
+ 
+ 
+
+12
+
+ 
+ 
+
+Figure 2.5: Wasting Prevalence 
+
+ 
+ 
+
+1
+
+Above 10% GAM, further in ---- depth information is required
+depth information is required 
+Above 10% GAM, further in
+Above 10% GAM, further in
+Above 10% GAM, further in
+depth information is required
+depth information is required
+
+5555 ---- 10% GAM = Normal in African population
+10% GAM = Normal in African population 
+10% GAM = Normal in African population
+10% GAM = Normal in African population
+
+2002 post harvest 
+2002- 03 pre - harvest 
+
+GAM 
+
+Sinazongwe Monze
+KalomoSinazongwe
+Sinazongwe
+Sinazongwe
+KazangulaNamwal
+MazabukaKazangula
+Namwal
+Namwal
+Kazangula
+Kazangula
+Namwal
+Choma Mazabuka
+Mazabuka
+Mazabuka
+SiavongaKalomo
+Kalomo
+Kalomo
+Siavonga
+Siavonga
+Siavonga
+MonzeChoma
+Choma
+MonzeMonze
+Choma
+aaaa 
+
+Senanga
+Senanga
+Senanga
+Senanga
+Shangombo 
+Shangombo
+Shangombo
+Shangombo
+
+Chipata
+Chipata
+Chipata
+Chipata
+
+Chama
+Chama
+Chama
+Chama
+
+Mumbwa Mkushi
+Mkushi
+Mkushi
+Mkushi
+Mumbwa
+Mumbwa
+Mumbwa
+
+Potentially biased sample: children brought to a central point 
+
+12 
+12 
+
+10 
+10 
+
+8 
+8 
+
+6 
+6 
+
+4 
+4 
+
+2 
+2 
+
+0 
+0 
+
+12 
+
+10 
+
+8 
+
+6 
+
+4 
+
+2 
+
+0 
+
+ 
+
+Context of HIV/AIDS in Zambia 
+
+Trend data suggests that chronic under-nutrition levels are increasing at both national and household 
+levels.  Stunting  is  indicative  of  a  cumulative  problem  of  the  past.  Wasting  measurements  show  a 
+somewhat static or insignificant movement implying that the general population is meeting their basic 
+2100 kcal daily requirements. 
+ 
+2.4  
+ 
+Zambia  is  facing  an  HIV/AIDS  epidemic  of  considerable  proportions  (see  Figure  2.6a  and  b).  The 
+recently completed Zambian Demographic and Health Survey (ZDHS) found that approximately 15% 
+of the Zambian population aged 15-49 are HIV positive  (Central Statistical Office, Central Board of 
+Health  and  ORC-Macro,  2002).  The  findings  from  this  population-based  survey  suggest  that  in  the 
+younger  age  groups,  women  have  higher  infection  rates  than  men.  In  the  age  group  25-29 
+approximately 25 % of women tested positive compared to 15 % of men. In the older age groups men 
+predominate  among  those  infected  (see  Figure  2.6a).  Prevalence  data  do  not  provide  a  grasp  of  the 
+annual  number  of  new  infections,  nor  can  it  provide  an  indication  of  how  long  ago  people  were 
+infected. Nevertheless, the data indicate that large numbers of the Zambian population will fall ill and 
+
+ 
+
+13
+
+die  within  the  next  couple  of  years  with  multiple  health,  social,  economic  as  well  as  food  security 
+consequences. 
+ 
+Recent estimates by UNAIDS and the WHO put the number of people in Zambia that died of AIDS-
+related  causes  at  120,000  in  the  year  2001.  These  organizations  estimate  that  there  are  currently 
+570,000 children under 15 years in Zambia who have lost one parent or both parents to AIDS. 
+ 
+
+Figure 2.6a: HIV Prevalence Rates in Zambia, 2001-2002 
+
+By Age group and Sex 
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+15-19
+
+20-24
+
+25-29
+
+30-34
+
+35-39
+
+40-44
+
+45-49
+
+Source:  Zambia Demographic and Health Survey, 2001-2002. 
+
+Wom en
+
+Men
+
+ 
+
+ 
+HIV prevalence rates differ markedly by province with the highest prevalence in Lusaka (25 %) and 
+the  Copperbelt  (22  %)  provinces.  The  Northern  (8,8%)  and  North-Western  Provinces  (10  %)  have 
+much lower infection rates. Differences in prevalence  rates by province  are largely a  function of the 
+level of urbanisation in each province. The 2001-2002 ZDHS found that HIV infection differ markedly 
+by place of residence. In urban areas the HIV prevalence were twice as high compared to rural areas 
+(see Figure 2.6b).  
+ 
+The Zambian VAC survey was confined to rural areas, and the lower prevalence of HIV in rural areas 
+should be reflected in the findings of the survey, in terms of the impact the epidemic is having on rural 
+households in general. 
+ 
+
+Figure 2.6b: HIV Prevalence rates by residence 
+
+ 
+
+25 
+
+20 
+
+% 
+
+15 
+
+10 
+
+5 
+
+0 
+
+ 
+
+Urban 
+
+Rural 
+
+ 
+
+14
+
+Total 
+
+ 
+
+ Water Potential 
+
+  
+2.5 
+ 
+The main watersheds in Zambia are listed in the Table 2.1 below. The 10-year mean annual flow for 
+these watersheds ranged from 330-1900 m³/s.  This is sufficient to meet Zambia’s domestic, industrial 
+and  agricultural  requirements  and  if  utilised  for  irrigation  could  enhance  food  security  within  the 
+country. 
+ 
+
+Table 2.1: Water Basins in Zambia 
+
+Basin 
+
+Chambeshi 
+Luangwa 
+Luapula 
+Kafue 
+Tanganyika 
+Zambezi 
+
+Annual  Mean 
+Flow (m3/s) 
+
+690 
+500 
+690 
+350 
+330 
+1900 
+
+Annual 
+Flows 
+
+2002 
+Mean 
+(m3/s) 
+702 
+507 
+710 
+375 
+355 
+1975 
+Source: MEWD, 2002 
+
+Remarks 
+
+Increase 
+Increase 
+Increase 
+Increase 
+Increase 
+Increase 
+
+ 
+In 2002, the annual  mean  flow  was slightly above average  (355-1975m³/s).  This combined  with the 
+government policy over the last 10 years of expanding access to water sources particularly in drought 
+prone areas means that water availability did not deteriorate sufficiently in the 2002 drought to impact 
+negatively on population health status, livestock access to water or the quantity of water available for 
+irrigation14.   
+
+                                                
+14 Water Aid data I 
+that in the following districts:  the number of boreholes/protected water points in each district had increased by between 72-150.    
+ 
+
+ 
+
+15
+
+FINDINGS ON CURRENT HOUSEHOLD FOOD SECURITY IN 2002/3 
+
+3.0 
+ 
+Data is presented by livelihood zones and covers a 12-month period from April 2002 to March 2003.  
+The zones have been grouped by staple food production and consumption.  The four categories are:  
+ 
+
+•  Dominant cassava consuming zones;  
+•  Mixed cassava/cereal;  
+•  Cereal consuming zones - frequently flood/drought affected, and  
+•  Cereal consuming but less frequently affected by drought.    
+
+ 
+3.1  How Rural Households survived in 2002/03  
+ 
+The main sources15 of cereal and tubers identified were sufficient to provide on average 70% of energy 
+requirements16  in  most  zones  except  the  Southern  zones:  11-Gwembe  valley  (53%),  12  a-Luangwa 
+(48%) and 7b-Chongwe (57%) and the Western  zone 9-Shangombo area (41%).   For  all zones, the 
+remaining  household  food  requirements  came  from  additional  sources  of  cereals/tubers  and  other 
+foods  eg  vegetables,  fish,  milk,  forest  products  (roots,  fruits,  nuts,  game),  meat,  oil.      An  important 
+additional source of cereals/tubers was exchange.  Two types of exchange are common: exchange of 
+labour for food: mealie meal, grain or cassava or barter/exchange of goods for food eg in the Gwembe 
+valley  (11)  and  Kazungula/Sesheke  (7a)  households  exchanged  livestock,  sour  milk  and  fish  for 
+cereals.     
+ 
+Income  sources  used  to  purchase  these  additional  foods  varied  between  livelihood  zones  but  came 
+from  a  combination  of:  sale  of  crops  (maize/cassava/  vegetables/cotton/tobacco),  livestock,  poultry, 
+traditional opaque beer, and forest products/game; cross-border trade/petty trade; self-employment (eg 
+production  and  sale  of  handicrafts,  grass,  timber,  charcoal);  employment  (eg  mining,  commercial 
+farms/fishing); casual labour and exchange of labour, livestock, forest products, fish for food.    These 
+sources of income have been developed over several years and were not specifically as a result of the 
+drought.  Coping strategies adopted by household were generally limited to changing food intake (eg 
+replacing nshima with other foods).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                
+15 The main sources of cereals/tubers identified by the survey included: production of maize, sorghum, millet, rice from the 
+2001/2 April harvest (after cereal sales and gifts have been deducted) including the winter maize harvest and green maize 
+consumption; other direct sources including: cereal given in payment for casual labour; cereal purchased with money 
+received as remittances; gifts of cereal; purchases of cereal and cereal/beans received as relief food; sweet potato and 
+cassava production/consumption. 
+16 2100 kilocalories is the mean population requirement for energy intake.  It is recommended that staples (cereals/tubers) 
+should provide about 70% of kilocalories (eg 400g of cereals/person/day) with the rest of kilocalories coming from protein 
+and fats (see Sphere standards).  1kg of cereal flour provides an equivalent kilocalorie intake as 2.4kg of cassava tuber or 
+1.1kg of cassava flour. 
+
+ 
+
+16
+
+ 
+
+ 
+
+Figure 3.1: Sources of Energy April 2002 to March 2003 
+
+17
+
+requirements  of  2100  kcals/person/day.    In  both  zones,  other  sources  of  food  and  income  were 
+considerably  more  important  than  own  crop  production  (cereal,  pumpkins,  vegetables),  which 
+provided  less  than  25%  of  food  intake  last  year.    Purchase/exchange/barter  and  labour  exchange 
+provided  50%  of  kilocalories  for  both  the  poor  and  middle  wealth  groups.    In  Kazungula/Sesheke 
+many  poor  households  would  exchange  their  labour  for  food.    Households  would  also  travel  to 
+neighbouring areas to exchange sour milk, fish and livestock for maize.   Forest products contributed 
+to food intake in both zones but were particularly important in Kazungula/Sesheke zone (7a) where the 
+variety of  fruits, roots and nuts18  ensured  year  round access.   Food relief over the 12 months under 
+discussion, provided between 1-5% of kilocalories in Kazungula/Sesheke (7a) and 8-15% of kcals in 
+Gwembe  valley  (11)  (see  discussions  on  food  relief  below).  The  prevalence  of  wasting  for  under  5 
+years  children in Shangombo (9) has been stable  and acceptable between  April and November 2002 
+(see figure 2.5) where as the energy requirements covered by carbohydrates are low (figure 3.1). 
+ 
+
+Figure 3.2: Sources of Food and Income in Cereal Zones Frequently Drought –affected by Wealth Group 
+
+ 
+
+t
+n
+e
+m
+e
+r
+i
+u
+q
+e
+r
+ 
+
+l
+
+ 
+
+e
+i
+r
+o
+a
+c
+E
+R
+E
+H
+P
+S
+
+ 
+f
+o
+t
+n
+e
+m
+
+l
+l
+i
+f
+l
+u
+f
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+poor: 7a
+
+mid-income: 7a
+
+poor: 11
+
+mid-income: 11
+
+In two zones usually considered to be most 
+In two zones usually considered to be most 
+In two zones usually considered to be most 
+In two zones usually considered to be most 
+vulnerable (cid:1627)(cid:1627)(cid:1627)(cid:1627) those periodically impacted by 
+vulnerable 
+those periodically impacted by 
+vulnerable 
+vulnerable 
+those periodically impacted by 
+those periodically impacted by 
+drought 
+drought (cid:1627)(cid:1627)(cid:1627)(cid:1627) strategies for acquiring food differ 
+strategies for acquiring food differ 
+drought 
+drought 
+strategies for acquiring food differ 
+strategies for acquiring food differ 
+among economic groups.  However, no 
+among economic groups.  However, no 
+among economic groups.  However, no 
+among economic groups.  However, no 
+matter what the wealth group, people were 
+matter what the wealth group, people were 
+matter what the wealth group, people were 
+matter what the wealth group, people were 
+able, in 2002, to access their basic caloric 
+able, in 2002, to access their basic caloric 
+able, in 2002, to access their basic caloric 
+able, in 2002, to access their basic caloric 
+needs, utilizing different proportions of own
+needs, utilizing different proportions of own----
+needs, utilizing different proportions of own
+needs, utilizing different proportions of own
+production and income----generating 
+production and income
+generating 
+production and income
+production and income
+generating 
+generating 
+strategies.
+strategies.
+strategies.
+strategies.
+
+forest foods
+labour exchange
+food relief
+milk/meat
+crops
+purchase/exchange
+
+100%
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+
+e
+m
+o
+c
+n
+
+ 
+
+i
+ 
+f
+o
+s
+e
+c
+r
+u
+o
+s
+
+other
+trade 
+self-employment
+employment/casual labour
+milk/meat
+sale of crops
+
+primary data
+
+poor: 7a
+
+mid-income: 7a
+
+poor: 11
+
+mid-income: 11
+
+ 
+
+ 
+
+Livestock  census data suggests that herd sizes are  recovering  from the outbreak of East Coast Fever 
+(Corridor)  in  1999  and  mortality  rates  in  livestock  have  reduced  since  then.  Employment  in  the 
+Gwembe  valley  includes:  commercial  horticultural  production  (Agriflora),  commercial  kapenta 
+fishing,  crocodile  farming  gemstone  and  coal  mining  (e.g.  Maamba  and  Mapatizya  mine,  Kalomo), 
+Nakambala  sugar  company,  NGOs  (about  10)  and  the  civil  service.    In  Kazungula/Sesheke,  some 
+                                                
+18 Mungongo oil was an important source of food and income for the poor.  The oil is so popular that 1 litre of local 
+mungongo costs ZMK 3000/litre and is only marginally cheaper than imported oil which sells for ZMK 3500/litre 
+
+ 
+
+18
+
+in 
+
+this  group 
+
+people go to Namibia to work on commercial farms, as domestic workers or animal herders.  Informal 
+cross-border trade  with Namibia includes sale/exchange of  forest products (fruits, timber, reeds)  and 
+livestock for a variety of groceries.  Self-employment in both zones includes fishing, handicrafts, and 
+selling  forest  products.    Vegetable  production  has  also  expanded  in  recent  years  particularly  in 
+Gwembe  valley.  The  produce  is  marketed  in  Choma.  An  international  company  (Dunavant  cotton) 
+supports a number of cotton out grower schemes in this zone. 
+ 
+B)  Maize Consuming – Droughts less Frequent.  
+  
+Zones 
+include  Chipata/Chadiza  area  (5b),  Southern  Province  Plateau  (5a), 
+Chama/Lundazi  (4b), Chongwe area (7b) Kafue  Flats(4a), Mkushi Farming Block(13).  These zones 
+are  found  in  the  east  and  the  centre  of  the  country.    This  is  the  centre  of  commercial  agricultural 
+production and processing (coffee, tobacco, sugar, paprika, cotton, vegetables and flowers) in Zambia 
+– where many households depend on agricultural labour.   
+ 
+C)  Mixed Cassava/Cereal Consuming Zones and Cassava Consuming Zones 
+ 
+Mixed cassava/cereal zones include: Copperbelt and Solwezi(2a), Northern Province (2b), Muchinga 
+Escarpment(3b),  Kasempa/Mufumbwe(3a).    In  these  zones,  households  grow  and  consume  both 
+cassava and maize.   Cassava consuming zones include: Zambezi/Chavuma(10), Luapula Region(1b), 
+Kalabo  area(Barotse  Plains)  (8)  and  Kaoma/Mongu(6),  Mwinilunga/Kabompo(1a).    In  these  zones, 
+households  focus  on  cassava  production  and  can  meet  most  of  their  energy  requirements  from  own 
+crop production (both cassava and maize)- see Figure 3.3. 
+ 
+Cereal  production  in  2002  in  these  areas  was  not  affected  by  drought.    Sources  of  income  in  these 
+zones include sale of cereals, sale of tubers; casual labour particularly in zones Kasempa/Mufumbwe 
+(3a)  and  Muchinga  Escarpment  (3b);  cross  border  trade  with  the  Democratic  Republic  of  Congo  in 
+zones  Mwinilunga/Kabompo(1a),  Copperbelt  and  Solwezi(2a)  and  with  Tanzania  in  Northern 
+Province (2b); with the  exception of Kalabo area(Barotse Plains) (8) where  flooding is common and 
+cattle sales important, livestock did not make a significant contribution to diets.  
+ 
+ Likewise,  food  relief  contributed  <5%  of  the  required  energy  intake.    In  the  central  areas 
+Kasempa/Mufumbwe (3a) and Muchinga Escarpment (3b) game meat provides an additional source of 
+food and income.     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+19
+
+Figure 3.3: Sources of Food and Income in Cassava / Maize Producing Zones by Wealth Group 
+
+  
+
+Sources of food
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Other
+
+Forest foods
+
+Labour exchange
+
+Relief
+
+Milk/meat
+
+Crops
+
+Purchase/exchange
+
+Zone
+
+Wealth 
+group
+
+b
+2
+ 
+r
+o
+o
+p
+
+b
+2
+ 
+d
+m
+
+i
+
+a
+1
+ 
+r
+o
+o
+p
+
+a
+1
+ 
+d
+m
+
+i
+
+b
+1
+ 
+r
+o
+o
+p
+
+b
+1
+ 
+d
+m
+
+i
+
+0
+1
+ 
+r
+o
+o
+p
+
+0
+1
+ 
+d
+m
+
+i
+
+4 zones where cassava makes an 
+4 zones where cassava makes an 
+4 zones where cassava makes an 
+4 zones where cassava makes an 
+important contribution to both diets 
+important contribution to both diets 
+important contribution to both diets 
+important contribution to both diets 
+and incomes. Strategies for 
+and incomes. Strategies for 
+and incomes. Strategies for 
+and incomes. Strategies for 
+acquiring food differ among 
+acquiring food differ among 
+acquiring food differ among 
+acquiring food differ among 
+economic groups.  People in these 
+economic groups.  People in these 
+economic groups.  People in these 
+economic groups.  People in these 
+zones were able to access more 
+zones were able to access more 
+zones were able to access more 
+zones were able to access more 
+than 2100 kilocalories utilizing 
+than 2100 kilocalories utilizing 
+than 2100 kilocalories utilizing 
+than 2100 kilocalories utilizing 
+different proportions of own
+different proportions of own----
+different proportions of own
+different proportions of own
+production and income
+production and income----generating 
+generating 
+production and income
+production and income
+generating 
+generating 
+strategies.
+strategies.
+strategies.
+strategies.
+
+Other
+
+Trade 
+
+Self-employment
+
+Employment/casual
+labour
+Milk/meat
+
+Sale of crops
+
+Sources of income
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+Zone
+
+Wealth 
+group
+
+b
+2
+ 
+r
+o
+o
+p
+
+b
+2
+ 
+d
+m
+
+i
+
+a
+1
+ 
+r
+o
+o
+p
+
+a
+1
+ 
+d
+m
+
+i
+
+b
+1
+ 
+r
+o
+o
+p
+
+b
+1
+ 
+d
+m
+
+i
+
+0
+1
+ 
+r
+o
+o
+p
+
+0
+1
+ 
+d
+m
+
+i
+
+ 
+
+Food  economy  information  found  that  in  these  zones,  households  could  generally  access  2100 
+kilocalories  or  more.    Own  crop  production  (including  cassava,  maize,  sweet  potatoes,  groundnuts, 
+pumpkins  and  beans  made  a  significant  contribution  to  food  intake  in  these  zones:  28%-80% 
+depending on zone and wealth group.  The poor in Mwinilunga/Kabompo (1a) were more dependent 
+on  purchase  (49%)  than  own  production  (35%)  as  they  had  limited  access  to  draught  power  which 
+resulted  in  smaller  areas  cultivated.    Whilst  in  Zambezi/Chavuma(10)  as  one  moved  up  the  wealth 
+groups – households switched to cultivating maize as a cash crop and purchasing cassava for their own 
+consumption – so own crop production made up a smaller proportion of intake (28%) whilst purchase 
+was  more  important  (45%).      Cassava  is  consumed  in  all  households  and  makes  a  significant 
+contribution to food intake.  For example in Northern Province (2b), poor households accessed cassava 
+through:  production  (50%),  purchase  (7%)  and  exchange  (13%).    The  middle  and  better-off 
+households  tend  to  mix  cassava  with  maize  throughout  the  year,  whilst  the  poor  wealth  groups  may 
+mix  cassava with  maize or  millet during the harvest period.  Milk/meat  made a small but significant 
+contribution to diets in Northern Province but were less important in other zones. 
+
+ 
+
+Zones bordering Tanzania and DRC benefited from cross-border trade, particularly Northern Province 
+(2b).  Other sources of income included agricultural labour: clearing and burning (chitemene), making 
+mounds for cassava or ridges for sweet potatoes, preparing land in 'permanent' fields for maize 
+production, planting, weeding and harvesting. Labourers negotiate specific terms with their employers, 
+the middle and better off households within the zone. Some may be paid in kind, while others opt for 
+
+ 
+
+20
+
+Coping strategies 
+
+cash.  Payment is usually by area completed rather than a daily rate19.  Labour exchange was important 
+for example in Luapula Region (1b), this was the main source of fish in the diet for poor households 
+who were often paid 1 dish (2kg) of fish for 1 days work.   
+ 
+3.2 
+ 
+The assessment highlighted the diverse sources of income and food (see Appendix 5) that contributed 
+to livelihoods in different zones within the country.  Some of these sources of food and income were 
+specific to one or two zones, for example forest products (fruits, nuts) were most important in zones 
+7a, 8 and 9; cross-border trade was particularly important in zones 1a, 1b, and 7a, 8.  Other sources of 
+food/income  were  found  in  most  zones  (e.g.  agricultural  labour,  sale  of  poultry).  These  diverse 
+economic  strategies  help  to  protect  people’s  livelihoods  and  reduce  the  impact  of  hazards  on  the 
+household  (e.g.  as  a  response  to  frequent  droughts,  households  in  the  southern  parts  of  the  country 
+have  diversified  into  vegetable  production,  livestock  trading.    Certain  of  these  livelihood  strategies 
+will have a long-term negative impact on the environment unless appropriate controls are put in place 
+e.g.  crop  production  using  the  slash  and  burn  farming  systems  (chitemene),  charcoal  production 
+(Northern Province 2b), timber logging (Kazungula/Sesheke 7a), forest product collection (e.g. grass, 
+reeds, game) and fishing (e.g. Luapula, 1b and Gwembe valley 11, Kasempa/Mufumbwe 3a). 
+ 
+Within the questionnaire, coping strategies were grouped into: consumption, expenditure, income and 
+migration  strategies.    Those  adopted  in  most  zones  focused  on  changes  in  consumption.    This 
+included:  getting  food  from  other  sources,  changing  from  preferred  foods  to  less  expensive  foods, 
+reducing  the  number  of  nshima  meals  per  day  and  sometimes  not  eating  nshima,  and  eating  only 
+vegetables.  The  least  common  strategies  were  borrowing  food/money  to  buy  food,  relying  on  the 
+consumption  of  wild  foods  in  zone  (9),  relying  on  own  catches  of  fish  in  zone  10  and  reducing 
+expenditure on  fertiliser  and pesticides Mkushi Farm Block  (13) a less drought  affected zone.    The 
+fact  that  expenditure,  income  and  migration  coping  strategies  were  adopted  by  a  limited  number  of 
+households  highlights  the  number  of  existing  economic  strategies  in  many  parts  of  the  country  that 
+enable  most  households  to  meet  their  basic  needs.    It  should  however  be  realised  that  some  coping 
+strategies  are  undesirable  (eg  school  dropouts20.)  Zones  that  reported  the  highest  number  of  coping 
+strategies were zone 11 and zone 7a.  In some zones (zones 11, 12a, 5a, 7a) – food aid did contribute 
+up to 15-35% of kcal requirements over a 6-9 month period.  See discussion below.   
+ 
+3.3  Hazards and Vulnerability 
+ 
+Hazards  that  different  zones  face  vary.    In  the  southern  maize  producing  areas  –  whilst  drought 
+threatens  maize  production,  these  areas  would  be  as  affected  if  not  more  affected  by  hazards  that 
+impacted  on  their  vegetable  production  during  the  dry  season,  reduced  their  access  to  labour  or 
+impacted  on  livestock.    Several  areas  in  the  south  also  face  irregular  flooding  (e.g.  Gwembe).    In 
+cassava  growing  areas  –  potential  hazards  include  cassava  disease  (e.g.  mosaic  virus)  and 
+deforestation.  In cross-border areas – trade restrictions would increase the level of vulnerability.   
+ 
+
+                                                
+19 The standard payment to clear 1lima (0.25 Ha) was K15000, regardless of the number of people working or the length of 
+time taken to complete the task. 
+20 10% of households surveyed reported children dropping out of primary school in 2002 – however figures are not 
+available at present on usual drop out rates. 
+
+ 
+
+21
+
+The  most vulnerable in  each zone to these hazards would be the very poor.  These  were households 
+who had less livestock (e.g. few chicken, no cattle), and cultivated less land (e.g. 1-2 Lima) and often 
+only had labour.  Annual incomes ranged from less than 100,000 to over 500,000/year.  Definitions of 
+very  poor  depend  upon  the  zone.    Sometimes  land  cultivation  was  limited  by  the  need  to  earn 
+money/food  to  meet  the  households  daily  requirements.      Two  types  of  very  poor  households  were 
+identified: labour poor households and households with labour21.  Labour poor households, were those 
+with  almost  no  labour:  female  headed  households  and/or  elderly  couples  both  looking  after  young 
+children/orphans  who  were  too  young  to  contribute  to  the  household  food  or  income  generation.  
+These  households  relied  more  on  the  sale  of  chickens  and  a  few  cultivated  crops  for  survival, 
+prostitution was also reported. Very poor household with labour, albeit limited, would have somebody 
+capable  of  working  for  others  either  fishing  or  doing  agricultural  labour  for  middle  or  better  off 
+households.  The  type  of  labour  available  to  very  poor  households  will  influence  the  type  of  income 
+support programmes that would be appropriate.   
+ 
+The  food  economy  assessments  highlighted  the  fact  that  maize  producing  areas  which  have  been 
+regularly  drought/flood  affected  have  diversified  in  recent  years  away  from  maize  production  into 
+other sources of food and income (e.g. labour, vegetable production and livestock sales).  This implies 
+that vulnerability assessments need to go beyond crop assessments to include a review of livestock and 
+other  sources  of  food/income.    Chronic  vulnerability  as  identified  by  nutrition  status  data  (stunting) 
+suggests that households more at risk of chronic malnutrition are in fact those in the north rather than 
+in the south of the country. 
+ 
+3.4 
+ 
+The August and December VAC assessments identified 46 districts that would require approximately 
+224,200 MT of food relief for a maximum of 2,896,000 people between September 02 and March 
+0322.  However, less than 60% of this was sourced and distributed.  Following initial delays in the 
+arrival of the food relief, further geographical targeting was conducted, with some districts in the 
+south, central and eastern zones (4a, 4b, 5a, 5b, 7a, 11, 12a) being prioritised for earlier distributions. 
+As more food relief arrived towards the end of the year, distributions were expanded to include more 
+of the original 46 districts.   
+ 
+The  increase  in  distributions  (both  in  terms  of  coverage  and  quantities)  towards  the  end  of  the  year 
+may  have  enabled  farmers  to:  concentrate  on  weeding  their  own  fields  during  the  cultivation  period 
+(November  –  February)  rather  than  looking  for  work  elsewhere;  to  conserve  their  maize  rather  than 
+harvesting  it  too  early.    In  addition,  in  some  districts  distributions  also  appear  to  have  occurred  just 
+before the planting season (eg Sinazongwe).  This may have enabled farmers to cultivate large areas.  
+ 
+The  contribution  of  food  relief  to  individual  households  varied  by  district  and  depended  on  the 
+quantities  of  food  distributed  and  the  targeting  methodology  adopted.    Primary  data  from  the 
+household questionnaire shows that the percentage of households targeted in each zone ranged from 7-
+100% and that if households received all of this food relief in a 3 – 6 month period, it would contribute 
+between 6 and 69% of energy requirements (see example in Figure 3.4).   
+ 
+
+Contribution of Food Relief 
+
+                                                
+21 See FEA report for details. 
+22 Based on households receiving 400g/person/day (approximately 1470 kcals/day) 
+
+ 
+
+22
+
+ 
+
+Figure 3.4: Food Distribution by Month in Sinazongwe  
+
+ 
+
+ 
+
+1400 
+1200 
+1000 
+800 
+M
+T 
+600 
+400 
+200 
+0 
+
+Jun July  Aug  Sept  Oct  Nov  Dec  Jan Feb 
+
+The contribution of relief was most significant in the following zones: 11, 12a, 12b, 7b where most 
+households (80-100%) assessed reported receiving food relief.  Secondary data suggests that this food 
+was in fact received over a 6 – 9 month period and would have provided between 10 and 35% of 
+kilocalories/person over 6 months23 (see Table 3.1).   
+
+ 
+
+Table 3.1: Estimated Contribution of Food Relief and Food For Work 
+
+ 
+
+% of energy requirement per day 
+% of energy requirement per day 
+If received over 3 
+If received over 3 
+
+If received over 6 
+If received over 6 
+
+droughts/flood 
+droughts/flood
+
+Livelihood 
+Livelihood 
+Economic Zone 
+Economic Zone 
+
+% of households 
+% of households 
+who received relief 
+who received relief 
+
+–
+–
+
+Maize 
+Maize 
+
+Maize 
+Maize 
+
+Cassava/maize 
+Cassava/maize 
+
+Cassava 
+Cassava
+
+11 
+11 
+12a 
+12a 
+12b 
+12b 
+7a 
+7a 
+9 
+9 
+13 
+13 
+4a 
+4a 
+4b 
+4b 
+5a 
+5a 
+5b 
+5b 
+7b 
+7b 
+2a 
+2a 
+2b 
+2b 
+3a 
+3a 
+3b 
+3b 
+10 
+10 
+1a 
+1a 
+1b 
+1b 
+6 
+6 
+8 
+8 
+
+96 
+96 
+100
+100
+
+100
+100
+84 
+84 
+51 
+51 
+38 
+38 
+83 
+83 
+85 
+85 
+59 
+59 
+47 
+47 
+100
+100
+11 
+11 
+27 
+27 
+7
+7
+71 
+71 
+72 
+72 
+39 
+39 
+4
+4
+44 
+44 
+74 
+74 
+
+months 
+months 
+69 
+69 
+55 
+55 
+21 
+21 
+45 
+45 
+12 
+12 
+19 
+19 
+37 
+37 
+26 
+26 
+53 
+53 
+23 
+23 
+26 
+26 
+16 
+16 
+13 
+13 
+61 
+61 
+23 
+23 
+21 
+21 
+13 
+13 
+7 
+7 
+10 
+10 
+11 
+11 
+
+months 
+months 
+
+34
+34
+
+27
+27
+11 
+11 
+23
+23
+6 
+6 
+9 
+9 
+19 
+19 
+13 
+13 
+27
+27
+12 
+12 
+13 
+13 
+8 
+8 
+7 
+7 
+31 
+31 
+12 
+12 
+10 
+10 
+6 
+6 
+4 
+4 
+10 
+10 
+6 
+6 
+
+This table shows 
+the percentage 
+of households 
+who received 
+food relief/FFW 
+and estimates the 
+contribution 
+that this would 
+have made to 
+energy  
+requirements – if 
+this food was 
+received over a 
+3month period or 
+a 6 month period. 
+
+ 
+
+                                                
+23 Details of food distributed by district are presently being compiled. 
+
+ 
+
+23
+
+3.5    Food Aid Targeting 
+ 
+According to the last experience, WFP/DMMU would supply implementing partners with relief; this is 
+illustrated  in  Figure  3.5.    The  implementing  partners  would  distribute  the  food  through  satellite 
+committees  with  assistance  from  the  District  Disaster  Management  Committee24.    The  communities 
+with support from the implementing partners were supposed to identify the beneficiaries. 
+
+ 
+
+Figure 3.5: Targeting Flow Chart 
+
+ 
+ 
+ 
+ 
+
+Targeting Process
+
+DMMU/WFP
+
+Implementing Partners:eg
+PAM, WVI …..
+
+Community representatives
+
+Community beneficiaries
+
+(the vulnerable)
+
+National level
+
+Source of food, provide guidelines
+
+Have MOU with implementing partners
+
+District level
+
+Link up with communities, develop 
+distribution system together with GRZ 
+
+representatives
+
+Community level/Satellite committees
+Identify beneficiaries, 
+Distribute food.  
+Amount per person/household is 
+dependant on:
+•community targeting criteria 
+•the number of beneficiaries identified by 
+the community
+•the quantities of food received from the 
+district level.
+
+ 
+
+                                                
+24 See National Disaster and Relief Programme 2001-2002, Operational Guidelines.  Office of the Vice President Disaster 
+Management and Mitigation Unit 
+
+ 
+
+24
+
+O v e r v ie w   o f  d is t r ib u t io n s   in S in a z o n g w e .
+
+F o o d   r e lie f   h a s   b e e n   d is t r ib u t e d   in   1 9 9 1 / 2 ,  1 9 9 5 ,  1 9 9 7 / 8 .    A g e n c ie s   d is t r ib u t in g  
+f o o d   in S in a z o n g w e in c lu d e :  t h e   R e d   C r o s s ,  W V I   a n d   t h e   S a lv a t io n   A r m y   (t h e ir  
+p r o g r a m m e   t a r g e t e d :  v u ln e r a b le   g r o u p s :  o r p h a n s ,  w id o w s   a n d   e ld e r ly   a n d   o t h e r s  
+a r o u n d   t h e S in a z o n g w e   b o m a b u t   is   r e p o r t e d   t o   b e   c o m in g   t o   a n   e n d ).    W V I  
+s t a r t e d   d is t r ib u t in g   t o   t h e   m o s t   v u ln e r a b le   in   O c t o b e r   2 0 0 1 .    T a r g e t in g   c r it e r ia  
+w e r e   s t r ic t ly   a p p lie d   a n d   w e r e   le s s   p o p u la r   w it h   s e c t io n s   o f   t h e c o m m u n it y   w h o  
+w e r e  n o t  r e c e iv in g  f o o d  r e lie f .  I n  J u n e  2 0 0 2 , t h e  p r e s e n t  r o u n d o f  r e lie f  s t a r t e d  
+w it h   D M M U / W F P   f o o d .    T h e   t a r g e t   p o p u la t io n   r a n g e d   f r o m   1 3 -5 0 ,0 0 0   p e o p le  
+e a c h   m o n t h . 
+r e p r e s e n t a t iv e s   w a s  
+  T h e  
+1 0 .5 k g / p e r s o n / m o n t h .  
+
+r a t io n   p r o p o s e d  
+
+t o   c o m m u n it y  
+
+r e c e iv e d  
+
+v a r ie d   b e t w e e n  
+
+O b s e r ve d   t a r g e t in g :  F o o d   w a s   d is t r ib u t e d   8   o u t   o f   9   m o n t h s .  B e n e f ic ia r ie s  
+r e c e iv e d   4 -6   t im e s   –
+t h e   d is t r ib u t io n   r o t a t e d   t h r o u g h   t h e   b e n e f ic ia r ie s .  
+Q u a n t it ie s  
+c o m m u n it y  
+r e p r e s e n t a t iv e s   h a d   d if f e r e n t   t a r g e t in g   c r it e r ia ) .    F o c u s   g r o u p s r e p o r t e d   t h e  
+f o llo w in g   q u a n t it ie s   d is t r ib u t e d :  1 0 .5 k g / h o u s e h o ld ;  5 0 k g   s a c k / h o u s e h o ld   ( la r g e  
+h o u s e h o ld s   o f   1 0 - 1 2   p e o p le   w o u ld   g e t   2   s a c k s );  1 0 .5   k g / p e r s o n ;  q u a n t it ie s  
+d e p e n d a n t   o n   t h e   n u m b e r   o f   c h ild r e n  
+  S o m e   c o m p la in e d   o f  
+d is t r ib u t io n   b ia s e s   b y   t h e   d is t r ib u t io n   c o m m it t e e s .    O t h e r s   r e p o r t e d   t h a t   t h e  
+e ld e r ly  w e r e  t o ld  “t o  g o  a n d  p r o d u c e  c h ild r e n ” t o  q u a lif y  f o r  a  r a t io n .  
+
+in   h o u s e h o ld . 
+
+v illa g e s  
+
+( i.e . 
+
+d if f e r e n t  
+
+I t   s h o u ld   b e   n o t e d   t h a t   a t   t h e   t im e   o f   t h e   s u r v e y   e f f o r t s   w e r e   b e in g   m a d e   t o  
+im p r o v e   t h is   s y s t e m   b y   m o d if y in g   t h e   d is t r ib u t io n   c o m m it t e e s   t o   r e d u c e   t h e  
+d is t r ib u t io n  b ia s .
+
+ 
+ 
+Data suggests that in some districts – food tended to be distributed to all households rather than full 
+rations being targeted to the most vulnerable.  In other zones/districts – food was targeted within the 
+district – but the absolute quantities of food received per person were low.    
+
+ 
+
+ 
+
+25
+
+4.0 
+
+FINDINGS ON RELATIONSHIPS BETWEEN FOOD INSECURITY, HIV/AIDS,   
+HEALTH, EDUCATION, CHILD PROTECTION, WATER AND SANITATION 
+
+Demographic and Health Characteristics 
+
+ 
+4.1 
+ 
+Table 4.1 shows the main demographic and health characteristics of the household population included 
+in the 2003 Zambia VAC. The youthful nature of the rural Zambian population is noteworthy (49 % of 
+the population is younger than 15 years old). The mean household size of 6.5 indicates that the rural 
+population live in relatively large households. The crude mortality rate of more than 50 per 1000 of the 
+population  aged  15-59  is  extremely  high.  Recall  problems  and  data  collection  errors  may  have 
+contributed  to  this.    The  high  mortality  may  also  reflect  persons  returning  from  urban  areas  to  their 
+rural homes after becoming ill and dying there.  
+ 
+
+Table 4.1: Selected demographic, Social and Health indicators, 
+
+ 
+
+Indicator 
+
+Zambia VAC survey, March 2003 
+
+Sex composition of the household population (%) 
+Males 
+Females 
+Age composition of the household population (%) 
+ 0-14 
+ 15-59 
+ 60+ 
+ 
+Sex of household head (%) 
+ Male 
+ Female 
+ 
+Age of household head 
+ Percentage older than 60 years 
+ 
+Marital status of household head (%) 
+ Married 
+ Widowed 
+ Divorced/separated 
+ Other 
+ 
+Mean household size 
+
+Schooling issues 
+Percentage of households with children dropping out of school 
+ 
+Crude chronic mortality rate (per 1000) 
+ 
+Crude death rate 15-59 (per 1000) 
+ 
+
+ 
+ 
+
+49 
+51 
+
+ 
+
+49 
+45 
+6 
+
+ 
+
+78 
+22 
+
+ 
+
+24 
+
+ 
+
+76 
+14 
+8 
+2 
+
+6.5 
+
+ 
+ 
+ 
+
+10 
+88 
+
+51 
+
+The Relationship between HIV/AIDS and Food Security 
+
+ 
+ 
+4.2 
+ 
+HIV/AIDS can no longer be considered solely as a health problem; and efforts are needed to address 
+its  social,  economic  and  institutional  consequences.  The  HIV/AIDS  epidemic  has  an  impact  on 
+nutrition, food security, agricultural production and rural economies in many countries. All dimensions 
+of food security - availability, stability, access and use of food - are affected where the prevalence of 
+HIV/AIDS  is  high.  IFAD  has  suggested  that  the  HIV  epidemic  is  disproportionately  affecting 
+agriculture  relative  to  other  sectors  (2001).  In  agrarian  societies,  the  HIV/AIDS  epidemic  is 
+
+ 
+
+26
+
+intensifying  existing  labour  bottlenecks,  increasing  widespread  malnutrition;  proving  a  barrier  to 
+traditional  mechanisms  of  support  during  calamities,  adding  to  the  problems  of  rural  women, 
+especially  female-headed  farm  households  arising  from  gender  division  of  labour  and  land 
+rights/resources, and deepening macroeconomic crises by reducing agricultural exports. De Waal and 
+Tumushabe  argue that this is not because  rates of HIV are higher among  workers in the agricultural 
+sector, both commercial and small-scale subsistence, than  elsewhere but because the structure of the 
+agricultural sector, especially the smallholder sub-sector, is such that it is much less able to absorb the 
+impacts of the human resource losses associated with the epidemic (2003).  
+ 
+The potential impact of HIV/AIDS on agriculture may include: 
+ 
+
+  A decrease in the area of land under cultivation at the household level (due to a lack of labour 
+
+stemming from illness and death among household members). 
+
+  A decline in crop yields, due to delays in carrying out certain agricultural interventions such as 
+
+weeding and other inter-cultivation measures as well as cropping patterns.  
+
+  Declining yields may also result from the lack of sufficient inputs, e.g. fertilizer and seeds.  
+  A reduction in the range of crops produced at the household level. 
+  A loss of agricultural knowledge and farm management skills, due to the loss of key household 
+
+members due to AIDS. 
+
+  Decline in livestock production as the need for cash and the loss of knowledge and skills may 
+
+force some families to sell their animals. 
+
+ 
+De  Waal  and  Tumushabe  have  argued  that  HIV/AIDS  is  creating  the  ‘new  variant  famine’  that  has 
+recently struck southern Africa. It operates through the epidemic in combination with drought and the 
+food crisis. This argument is currently gaining adherents in contemporary debates around HIV/AIDS 
+and  food  security.  The  ‘new  variant  famine’  hypothesis  posits  that  southern  Africa  is  facing  a  new 
+kind of acute food crisis in which there is no expectation of a return to either sustainable livelihoods or 
+a demographic equilibrium. It is important to recognise this position although questions remain about 
+various elements of the debate. 
+ 
+In  southern  Zambia,  Waller  conducted  a  small-scale  study  (32  households)  in  the  Monze  district  to 
+investigate the impact of HIV/AIDS on farming. One observation of the study was that in households 
+with sick persons, many of these individuals were coming from other districts. The study also pointed 
+to  the  change  in  household  composition  due  to  an  aging  process  within  households  as  productive 
+members  die  (the  so-called  granny  households).  One  key  observation  was  the  time  allocated  to  care 
+giving. The study showed the differential vulnerability between the wealthier and larger household and 
+the poorer and smaller ones. Also observed was the fact that the more wealthy households were taking 
+in the most orphans.  
+ 
+4.3 
+ 
+This  section  seeks  to  identify  the  possible  links  between  HIV/AIDS  and  the  multiple  elements  of  a 
+household food security strategy (agricultural production, income, non-agricultural multiple livelihood 
+strategies).  It  should  be  noted  that  a  typical  VAC  survey  was  not  designed  to  explore  HIV/AIDS 
+related issues.  Therefore, no direct HIV/AIDS related data is collected. In addition, there is a complex 
+
+HIV/AIDS Field Data Analysis  
+
+ 
+
+27
+
+inter-relationship  between  HIV/AIDS,  food  security,  poverty,  climatic  conditions,  macro-economic 
+conditions and the resultant general vulnerability of rural households.  
+ 
+To  describe  the  relationship  between  HIV/AIDS  and  food  security,  the  SADC  FANR  VAC  (2003) 
+sought to detect associations between proxy indicators of HIV/AIDS and measures of household food 
+security. In  essence, the approach  was to  compare households affected by HIV/AIDS (see the proxy 
+variables  Appendix  6)  with  those  households  not  affected  by  HIV/AIDS  in  terms  of  food  security 
+outcomes.  A  similar  approach  is  used  in  this  section.  The  proxy  indicators  used  in  this  analysis  are 
+listed in Table 4.2. 
+ 
+The analysis in this section relate to the total sample, although broad food economy zones were also 
+used  in  some  instances  to  enhance  understanding  of  a  particular  issue.  Analysis  by  province  and 
+district  was  not  feasible  due  to  the  relatively  small  sample  sizes.  The  Zambian  VAC  survey  was 
+targeted at the rural population. The rural part of Zambia has a lower HIV prevalence compared to the 
+urban  areas  (11%  compared  to  23%)  and  hence  the  data  contained  a  relatively  small  number  of 
+households falling into the proxy indicator categories.   
+ 
+
+Table 4.2:  HIV/AIDS Proxy Indicators: Zambia VAC household survey, 2003 
+
+Proxy indicators 
+
+Households with: 
+
+Percentage of households 
+
+Chronically ill adult aged 20-59 present in household 
+Household head among chronically ill 
+
+Morbidity indicators 
+
+Mortality indicators 
+
+Adult died in the last year (aged 15-59) after being chronically ill 
+Adult household head died in the last year after being chronically ill 
+
+Social indicators 
+
+Households absorbing orphans from other households 
+Demographic indicators 
+Dependency ratio (0-14 and 60 + as a ratio of 15-59) 
+ 
+
+ 
+22 
+9 
+ 
+9 
+2 
+ 
+18 
+High 
+7 
+
+Households 
+without: 
+ 
+78 
+91 
+ 
+91 
+98 
+ 
+82 
+Low 
+65 
+
+ 
+
+ 
+4.3.1  HIV/AIDS and Food Production 
+ 
+HIV/AIDS  not  only  affects  the  productivity  of  the  infected,  but  also  diverts  the  labour  of  the 
+household  and  extended  family  away  from  other  productive  and  reproductive  activities,  as  other 
+members have to take care of the sick. Savings are consumed. Assets are sold to help pay for medical 
+expenses.  The  utilisation  of  agricultural  land  declines  as  inputs  become  unaffordable,  household 
+labour supply is reduced and dissipating wealth makes hiring labour difficult.  
+ 
+One  of  the  impacts  of  HIV/AIDS  on  agriculture  is  the  loss  of  productive  labour.  It  is  assumed  that 
+households affected by HIV/AIDS would tend to leave land normally under production, uncultivated 
+as a result of the shortage of labour within the household. In the household survey, respondents were 
+asked whether they left land that was usually cultivated, uncultivated the last growing season. About 
+63  %  of  responding  households  stated  that  land  was  left  uncultivated.  These  households  were  then 
+asked what the reasons were for leaving land uncultivated. More than one reason could be given. The 
+four  most  common  reasons  given  by  these  households  for  leaving  land  uncultivated  was  “Lack  of 
+labour” (41 %), “Lack of money to hire labour” (33 %), “Unavailability of animal draught power” (33 
+%) and “Lack of fertilizer” (29 %).  
+
+ 
+
+28
+
+ 
+To test whether HIV/AIDS affected households were more likely to cite labour constraints as a reason 
+for  curtailing  the  amount  of  land  cultivated,  households  with  proxy  indicators  were  compared  to 
+households  not  falling  in  these  categories.  The  results  of  the  analysis  are  contained  in  Figure  4.1. 
+There was a significant difference between households who reported the death of a chronically ill adult 
+and who stated a lack of labour as reason for limiting cultivated land (25 %) compared to households 
+who did not lose an adult member and gave the same reason (13 %) (Chi-square=14.817, p=0.002). A 
+significant difference was also observed between households where the head died of a chronic illness 
+compared to households where this was not the case (77 % compared to 41 %). Households with no 
+adult  member  were  also  significantly  more  likely  to  report  a  lack  of  labour  as  reason  for  non-
+cultivation  than  households  with  a  low  dependency  ratio.  No  such  association  was  found  among 
+households  reporting  a  chronic  illness  or  having  taken  in  orphans.    One  possible  reason  why 
+households  with  orphans  from  other  households  did  not  mention  the  lack  of  labour  as  a  constraint 
+could  be  that  orphans  are  required  to  fulfill  a  variety  of  duties  within  those  households  to  alleviate 
+labour shortages. This possibility needs further investigation.  
+ 
+To  partially  explain  the  association  between  the  death  of  an  adult  member  and  the  lack  of  labour  one  should 
+take into account that the average planting time of this  years harvest was approximately 4- 6 months 
+before the survey, and deaths were reported for a period of 12 months before the survey. Where deaths 
+occurred in the early part of the 12 month period, this was not long before the planting season and it 
+can be assumed that the shock of a death and its implications was still felt by the household at the time 
+of the planting season. If the death occurred in the latter part of the 12-month period it can be assumed 
+that the household had to take care of a serious ill person at about the time of the planting season. In 
+fact, the death of an  adult  member (whether  chronically ill or not,)  was also significantly associated 
+with giving “lack of labour” as a reason for non-cultivation of a part of the fields.   
+
+ 
+
+A similar finding was made when analyzing answers to a question regarding the main limitation to the 
+production of cereal the last growing seasons of the main limitation. However, when these questions 
+were  analyzed  by  categorizing  the  sample  of  households  into  three  broad  wealth  rankings,  the 
+expected differences remained, but without being significant. One problem that is encountered in such 
+an analysis is the small number of cases in each cell.  
+ 
+Due  to  increased  expenses  and  reduced  incomes,  it  is  reasoned  that  rural  households  affected  by 
+HIV/AIDS will have less resources available for agricultural inputs (chemical fertilizer, seeds etc.). In 
+the  Zambian VAC household survey households  with  a  chronically ill  adult  were significantly  more 
+likely to indicate a lack of  fertilizer as a reason for leaving land usually  cultivated, uncultivated (see 
+Figure  4.1  and  Appendix  7).  When  analyzed  by  broad  wealth  ranking,  the  significance  of  this 
+association  disappeared.    No  other  major  differences  were  detected  between  the  affected  and  non-
+affected households in terms of the lack of other in-puts as a reason for non-cultivation of land 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+29
+
+ 
+
+Comparison between households with a chronically ill adult and those without a chronically ill adult 
+
+Figure 4.1: Lack of Fertilizer and land Uncultivated Land 
+
+4 0
+
+3 5
+
+3 0
+
+2 5
+
+2 0
+
+15
+
+10
+
+5
+
+0
+
+C hro nica lly ill a dult
+
+N o  c hro nic ally ill adult
+
+30
+
+ 
+
+ 
+
+Other options available to households under stress are to reduce expenditure on a variety of items. One 
+such option is to reduce expenses on education. Of those households that absorbed orphans a 
+significant proportion (31 %) reduced overall expenditure on education compared to18 % of 
+households that had no orphans (Chi-square=58. 4, p=0). The reduction in expenditure seems to be as 
+a result of removing children from school (see above).  
+ 
+
+Table 4.3: Association between Households affected by HIV/AIDS and removing Children from School 
+
+Proxy indicator 
+
+% of households removing a 
+
+child from school 
+
+Households with a chronically ill adult  
+ 
+Households without a chronically ill adult 
+
+15 
+
+ 
+
+  9 
+
+(Chi square 11.53, p=.001) 
+
+Households that absorbed orphans 
+ 
+Households without orphans from other 
+units 
+
+23 
+
+ 
+ 
+
+  7 
+
+ 
+N 
+
+ 310 
+
+ 
+
+1135 
+
+ 260 
+
+ 
+ 
+
+1188 
+
+(Chi square 56.745, p=.000) 
+
+ 
+ 
+4.3.5  Other “Coping Mechanisms” 
+ 
+Households  with  chronically  ill  adults  were  more  likely  to  sell  livestock/poultry  (30%)  than  those 
+without  chronically  ill  adults  (18%).  Another  coping  strategy  followed  by  slightly  more  households 
+with  chronically  ill  adults  compared  to  households  without  chronically  ill  adults  was  to  reduce  the 
+number of  “nshima  meals” eaten per day  (64% versus 55%, Chi-square=7.606, p=0.005). There  was 
+also a slight tendency for households with a chronically ill adult to skip entire days without eating any 
+“nshima meal” (59% compared to 45%, Chi-square =7.715, p=0.005). 
+ 
+4.3.6   Conclusion 
+ 
+As  expected,  those  households  who  were  directly  affected  by  HIV/AIDS25  were  more  likely  to  cite 
+labour shortages within the household as an important issue compared to households not affected by 
+HIV/AIDS.  The  same  applies  to  a  variety  of  coping  strategies.  These  responses  were  signs  of 
+households under stress.   
+ 
+However, in terms of a  reduction in the amount  of  food produced or differences in  food production, 
+the  data  of  the  Zambian  VAC  survey  on  the  whole  showed  no  real  differences  between  households 
+categorized by the presence of one of the proxy variables and households not affected by HIV/AIDS. 
+One  possible  reason  could  be  that  the  measures  of  food  production  collected  in  the  VAC  were 
+inappropriate for this purpose. There was also a lack of other pertinent information. For instance, crop 
+production  is  partly  dependent  on  the  area  cultivated,  (at  present  and  in  the  past),  a  measure  not 
+collected  in  the  VAC.  Other  factors  that  have  an  effect  on  food  production  include  the  economic 
+position  of  individual  households  and  the  characteristics  of  the  members  of  the  household.  For 
+instance  educational  attainment  may  be  an  important  factor  in  mitigating  the  effect  of  HIV/AIDS. 
+However, the VAC household survey did not  collect such detailed information. The same applies to 
+the productive activities of household  members. The inability to include these and other  factors  may 
+
+                                                
+25  Assuming that the presence of one or more of the proxy indicators is an indication of households affected by HIV/AIDS. 
+
+ 
+
+31
+
+mask  the  specific  impacts  of  HIV/AIDS  at  the  individual  household  level.  Another  important  factor 
+that may have masked possible differences was the favourable climatic conditions during the past year 
+in most of Zambia. This allowed a general increase in yields compared to last season. 
+ 
+This  does  not  imply  that  individual  households  affected  by  HIV/AIDS  are  food  secure  or  “coping”. 
+Targeted food aid strategies will do much to lessen the plight of such households. In addition, efforts 
+that emphasize conservation farming, including minimum tillage operations, the development of new 
+labour  saving  technologies  (see  for  instance  the  Zam-wipe  weeder26)  and  the  development  of  new 
+varieties  of  crops,  should  be  supported.  Such  efforts  will  mitigate  the  impact  of  HIV/AIDS  in  rural 
+areas by assisting households affected by HIV/AIDS to become more food secure.  
+ 
+At  the  national  level,  higher  rainfall  figures  this  season  resulted  in  better  harvests  and  led  to  an 
+improved food security situation among most rural households in Zambia. The food economy analysis 
+conducted during this VAC emphasized the wide range of strategies followed by households to satisfy 
+food requirements. The  findings of the  Zambian  VAC  failed to provide hard  evidence to support the 
+notion  of  “the  new  variant  famine”  operating  in  the  country.  It  would  appear  if  climatic  conditions, 
+food  pricing  policies,  the  lack  of  agricultural  support  and  extension  services,  environmental 
+degradation,  a  lack  of  infrastructure  and  poverty  play  a  larger  role  in  inadequate  harvests  than 
+HIV/AIDS. However, the  epidemic  may  compound  matters during an  environmentally induced  food 
+shortage, such as what happened the previous season. 
+ 
+Whether the same can be said of countries with significantly higher HIV prevalence rates than those 
+found in the rural areas of Zambia (11 % of adults), remains unclear. 
+ 
+4.3.7  Recommendation 
+ 
+This  analysis  is  a  tentative  attempt  to  investigate  the  link  between  HIV/AIDS  and  food  security  in 
+Zambia  and  should  be  followed  up  by  a  more  in-depth  analysis,  e.g.  a  multi-variant  analysis  to 
+disentangle the complex relationships between poverty, food security and HIV/AIDS.  Unfortunately, 
+the range of available data limits such an approach. 
+ 
+Given  the  primary  goal  of  a  VAC  survey,  it  is  not  feasible  to  extend  the  focus  of  a  VAC  survey  to 
+include  a  multitude  of  elements  that  may  be  used  to  investigate  the  impact  of  HIV/AIDS  at  the 
+household  level.  One  alternative  would  be  to  conduct  a  more  intensive  study  looking  at  food 
+production  and  food  security  issues  among  a  smaller  sample  of  households,  including  both  affected 
+and  non-affected  households.  Another  alternative  would  be  to  visit  the  same  households  in  repeated 
+VAC surveys. A longitudinal approach would provide an important time element, which should assist 
+in answering many intriguing questions.    
+ 
+4.4  Water 
+ 
+Improved access to  clean  water particularly in drought-affected areas is having a positive impact  on 
+water  related  diseases  such  as  cholera,  dysentery,  the  incidence  of  which  has  reduced  in  the  last  5 
+years.  Cholera officially first recorded in 197927, became endemic with the highest fatalities reported 
+
+                                                
+26 A device developed by the Conservation Farming Unit in Zambia 
+27 CBOH Annual Health statistical bulletin 
+
+ 
+
+32
+
+in  1991/2.    In  the  last  5  years,  the  incidence  of  cholera  has  decreased  from  a  recent  high  of  11,615 
+cases (337 deaths) in 1999 to 587 cases (15 deaths) in 2002.  Likewise, although prevalence’s are still 
+high in Southern province (13 per 1000 population in 2002) dysentery outbreaks have been declining 
+in all provinces since 2000 particularly in Western and Eastern Province.  Northern Province recorded 
+the  lowest  incidents  in  this  period  with  general  incident  trends  declining  over  the  last  three  years.  
+However,  non-bloody  diarrhoea  has  increased  in  the  last  3  years.    The  highest  incidences  of  non-
+bloody diarrhoea  were  reported in Lusaka  followed by the Copperbelt, but the highest  case  fatalities 
+reported in Southern Province and the Copperbelt.   
+ 
+ 
+ 
+   
+ 
+
+                                                                                                                                                                
+ 
+
+ 
+
+33
+
+Crop and Food Supply 
+
+NATIONAL FOOD SECURITY: OUTLOOK FOR 2003-04 MARKETING YEAR  
+
+5.0 
+ 
+5.1 
+ 
+Maize  production  particularly  increased  from  601,606MT  to  1,207,202  MT  (81%)  (see  Table  5.1). 
+compared  to  the  previous  season.  This  increase  is  attributed  to  the  generally  favourable  weather 
+pattern in most parts of the country except for a few pockets in the south of the country. Another factor 
+contributing  to  the  increase  is  the  input  subsidy  programme  for  small-scale  farmers  introduced  by 
+Government and the  favourable  maize prices that obtained towards the  end of last  year. Commercial 
+farmers  contributed 412,381 MT  (36%) of the total  maize production  with the balance  coming  from 
+small and medium scale farmers. Most of the traditional maize growing areas28 recorded an increase in 
+production of over 100% compared to the last season. This was accompanied by an overall increase in 
+area planted to maize of 22%. However; low increases and/or a reduction in production were recorded 
+in  eastern  province.  This  can  be  attributed  to  diversification  by  farmers  into  the  production  of  high 
+value crops such as cotton and tobacco (out- grower schemes).  
+ 
+Sorghum recorded a marginal increase of 21% attributed to the long-term effects of drought that has 
+had an adverse impact on maize production. A marked increase in local beer brewing could be another 
+factor.  Although  overall  production  of  millet  declined  by  6  percent,  significant  increases  were 
+recorded  in  Mambwe,  Chilubi,  Sesheke,    Samfya  as  well  as  most  drought  prone29  areas.  Rice 
+production  declined  by  8  percent.  However,  in  Northern  Province  rice  production  increased  100 
+percent. 
+ 
+Cassava production has increased by 15 percent country wide compared to last year. It is important to 
+note  that  this  increase  is  also  prevalent  in  areas  that  are  not  traditional  cassava  growing  areas.  For 
+instance,  production  in  Kapiri  Mposhi  and  Lundazi  increased  by  over  200%  and  180%  respectively 
+compared to the previous year. The increase in non-traditional cassava areas is attributed to the Food 
+Security  Pack  Programme  under  which  early  maturing  cassava  varieties  have  been  distributed  to 
+small-scale farmers over the last three years. 
+ 
+The above scenario indicates that the  food security situation in terms of  cereal and tuber availability 
+has improved tremendously over the previous  year. Cassava has continued to contribute significantly 
+to food availability. Sorghum, millet and rice production continue to provide marginal contribution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                
+28 Chibombo,Mkushi 
+ 
+29 Gwembe, Mambwe, Sesheke,  
+
+ 
+
+ 
+
+34
+
+Table 5.1: Zambia National Food Balance for 2003/04 marketing year, 
+
+Zambia National Food Balance for 2003/04 marketing year, 
+
+Based on the 2002/2003 MACO/CSO Crop Production Estimate (Metric Tonnes) 
+
+A. 
+
+Availability: 
+
+(i) Opening stocks (May 2003) 
+
+(ii) Rural production (2002/03) 
+
+(ii) Urban production (2002/03) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Total availability 
+
+B. 
+
+Requirements: 
+
+(i) Staple food requirements: 
+
+     Human consumption 
+
+     Food Reserve Stocks (net) 
+
+(ii) Industrial requirements: 
+
+     Stockfeed 
+
+     Breweries 
+
+     Seed 
+
+(iii) Losses 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Total requirements 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+1/ 
+
+2/ 
+
+3/ 
+
+4/ 
+
+5/ 
+
+6/ 
+
+7/ 
+
+8/ 
+
+9/ 
+
+ 
+
+ 
+
+Maize 
+
+Paddy 
+
+rice 
+
+Wheat 
+
+Sorghum/ 
+
+Potatoes 
+
+millet 
+
+Cassava 
+
+flour 
+
+ 
+
+100,156 
+
+ 
+
+0 
+
+ 
+
+2,000 
+
+1,157,861 
+
+10,744 
+
+135,968 
+
+49,341 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,000 
+
+55,632 
+
+ 
+
+ 
+
+ 
+
+0 
+
+ 
+
+ 
+
+0 
+
+132,026 
+
+958,113 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,307,358 
+
+10,744 
+
+137,968 
+
+56,632 
+
+132,026 
+
+958,113 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+981,298 
+
+16,707 
+
+131,702 
+
+52,850 
+
+125,425 
+
+516,023 
+
+55,700 
+
+ 
+
+50,000 
+
+30,000 
+
+10,000 
+
+60,360 
+
+ 
+
+0 
+
+ 
+
+0 
+
+0 
+
+0 
+
+537 
+
+ 
+
+0 
+
+ 
+
+0 
+
+0 
+
+1,500 
+
+6,798 
+
+ 
+
+0 
+
+ 
+
+0 
+
+0 
+
+1,000 
+
+2,782 
+
+ 
+
+0 
+
+ 
+
+0 
+
+0 
+
+0 
+
+1,000 
+
+ 
+
+0 
+
+0 
+
+0 
+
+6,601 
+
+19,162 
+
+ 
+
+ 
+
+1,187,358 
+
+17,244 
+
+140,000 
+
+56,632 
+
+132,026 
+
+581,922 
+
+C. 
+
+Surplus/deficit (A-B) 
+
+10/ 
+
+120,000 
+
+-6,500 
+
+-2,032 
+
+Commercial import requirements 
+
+11/ 
+
+ 
+
+6,500 
+
+2,032 
+
+Food aid import requirements 
+
+12/ 
+
+0 
+
+ 
+
+0 
+
+ 
+
+ 
+
+376,191 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D. 
+
+Notes 
+
+E. 
+
+1/ 
+
+2/ 
+
+3/ 
+
+4/ 
+
+5/ 
+
+6/ 
+
+7/ 
+
+8/ 
+
+9/ 
+
+10/ 
+
+11/ 
+
+12/ 
+
+Stocks expected to be held by commodity traders, millers, FRA and commercial farmers as at May 2003, NOT including stocks held by 
+small-scale farmers in rural areas. 
+Production estimates from MACO/CSO. Cassava production is based on the total area under cassava, using an annual yield figure 
+of 11.7 tonnes per hectare (MAFF Root and Tuber Improvement Programme, 1996). A flour extraction rate of 25% is used. Other tubers 
+are sweet potatoes and Irish potatoes. 
+Urban production of maize is estimated at 6.61% of rural smallholder production, based on 1998 Living Conditions Monitoring Survey's 
+urban respondents who cultivated one hectare of maize or less. 
+Staple foods are assumed to represent 70% (1,421 kCal/person/day) of total diet (2,030 kCal/person/day), converted to crop requirements 
+for the national 2003/04 population of 10.11 million people. The maize grain and cassava meal surplus represents an overall surplus of 
+staple foods. Cross-substitution may make this surplus partly available in the form of other crops. 
+
+Locally purchased FRA stocks expected to be carried over into the next season.(this does not indicate total FRA purchases on the local 
+market nor imports) 
+Estimated requirements by major stockfeed producers. 
+
+Estimated requirements by industrial breweries. 
+
+Estimated seed crop grown for seed companies. 
+
+Post harvest losses are estimated at 5% for grains and sweet potatoes, and 2% for cassava. 
+
+Expected surplusses or deficits that arise after meeting minimum overall staple human consumption requirements as well as industrial 
+requirements. Cassava and maize surpluses may be substitutable with other crops and may result in different exportable volumes than the 
+ones indicated here.The rice deficit is based on what is known to be imported each year, as indicated under D.The wheat deficit is based 
+on the estimated market size as indicated in B, less availability as indicated in A. 
+
+Imports required to be made by the private sector to meet the commercial market demands. 
+
+Total estimated requirement for food relief among vulnerable groups, to be imported. This could be met with maize or other grains. 
+
+ 
+
+35
+
+The 2002-03 final crop forecast estimates the seasonal cereal production for the 2003-04 consumption 
+year  to  be  1,224,236  MT  of  which  1,157,861MT  is  maize;  20,301  MT  Sorghum;  35,331  MT  Millet 
+and 10,744 MT Rice. (Wheat has not been included in the analysis for VAC purposes because it is a 
+non-staple). The Balance sheet further indicates a marginal surplus of 120,000 MT of maize and that 
+of cassava of 376,191MT. The rest of the cereal staples will be in deficit. It is important to note that 
+the  surplus  or  deficit  levels  will  be  influenced  by  competing  requirements  such  as  human 
+consumption, reserve requirements, stock feeds, breweries, seed and cross border trade (export).  
+ 
+Despite the improved cereal and cassava production situation in the country, some areas like Chama, 
+Katete,  Petauke,  Mwense,  Chinsali,  Luwingu,  Kabompo  and  Senanga  have  experienced  an  overall 
+reduction in cereal and tuber availability ranging between 20% and 40% reduction, but still produced 
+sufficient  to  meet  their  basic  energy  requirements.  However,  it  is  worth  noting  that  the  situation  in 
+Chama,  Katete  and  Petauke  can  mainly  be  attributed  to  cotton  and  tobacco  contract  farming  (high 
+value  crops) whereas that in Mwense  can be attributed to the  move  from  crop production to  fishing. 
+The  situation  in  the  remaining  districts  can  be  attributed  to  the  dry  spells  experienced  during  the 
+season. 
+ 
+The  above  factors  do  not  favor  continued  maize  imports  by  Government.  Generally  there  should  be 
+downsizing  on  importation  of  both  relief  and  commercial  maize  supplies  to  allow  the  market  to 
+function.  When  mitigating  the  factors  mentioned  above  Government  should  work  towards  avoiding 
+market failure (Loss of confidence) vis-à-vis timely imports and exports of maize.  
+ 
+5.2 
+ 
+As  of  28  May  2003,  available  information  on  cereal  stocks  indicates  that  the  Food  Reserve  Agency 
+had  41,000  MT  of  maize  as  strategic  reserves  with  an  additional  20,000  MT  held  on  behalf  of  the 
+Office  of  the  Vice  President  (DMMU).  The  DMMU  also  had  in  stock  13,700  MT  of  grain  which 
+included 7,000 MT of winter maize and 5,500 MT of food aid rice.  
+ 
+On May 16th the Government announced the  maize  floor price in rural areas at K30, 000/ 50Kg bag 
+(~US$122/MT)  in  order  to  protect  small-scale  farmers  from  traders  trying  to  pay  unfair  prices.  
+However, the floor price may impact negatively on the commercial farmers as they will not be able to 
+sell  their  maize  crop  immediately  at  competitive  prices.  Overall,  the  floor  price  will  only  yield 
+desirable  results  if  sufficient  funds  are  immediately  released  to  FRA  to  start  buying  maize  from 
+outlying  areas  and  moderate  supply  in  order  to  allow  the  market  to  function  normally.  Otherwise, 
+commercial farmers will lobby for a lifting of the export ban to enable them seek import parity prices. 
+This will have its own consequences on the local availability of grain.  
+ 
+5.3 
+
+Current Maize Availability and Access  
+
+Agricultural Inputs  
+
+In 2002, the Government initiated a Fertilizer Support Programme (FSP) meant to improve access to 
+farm inputs for small-scale farmers by providing subsidized seed and fertilizer and thereby increasing 
+household buying power. In order to qualify for receipt of inputs, cooperatives had to pay only 50% of 
+the  cost  of  inputs.  This  program  was  important  since  seed  retention  among  small-scale  farmers  had 
+become very low following two consecutive years of poor harvest.  
+
+ 
+
+36
+
+The  FSP  distributed  almost  100%  of  the  fertilizer  targeted  under  the  programme  whilst  out  of  the 
+2,400  MT  of  seed  intended  for  delivery,  only  60  percent,  or  1,439.45  MT  was  actually  supplied  to 
+farmers. With the exception of Eastern and Western provinces, provincial and district centers received 
+at least 60 percent of the intended quantities of seed.  North Western, Central and Luapula all received 
+over 80 percent of their allocated seed.  However, many farmers reported delays in the distribution of 
+inputs and reported receiving inputs rather late. 
+
+According to the findings of the survey, in general, better off households had more access to seed and 
+fertilizer  for  crop  production  compared  to  very  poor/poor  households  (see  Figure  5.1).  In  addition 
+some farmers complained about being left out of the distribution list for inputs. 
+
+Figure 5.1: Access to Inputs by Wealth Group 
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+adequate fertilizer for 
+main cereal crop
+
+adequate seeds for
+main cereal crop
+adequate seed for
+legumes
+
+very poor
+& poor     
+
+mid-
+
+better off  
+
+income    
+
+n=396
+
+n=222
+
+n=829
+
+ 
+
+ 
+Based on survey results, the major reason for land being left uncultivated by most farmers was ‘lack of 
+household labour’ followed by ‘lack of seed’. Of the very poor/poor households, 45 % of households 
+leaving land uncultivated was due to ‘lack of  household labour’ and 42% due to ‘lack of seed’, while 
+for the better off it was 36% and 29 % respectively. 
+ 
+The main reason identified in the survey for cereal seed inadequacy across wealth groups was ‘failure 
+to purchase seed’. The survey found that 65% of the very poor/poor compared to 50% of the better off 
+wealth group could not afford to purchase seed for cereal production. Most respondents also stated that 
+they did not retain enough seed from the previous season.  
+ 
+Across wealth groups the main reason cited for ‘lack of use of fertilizer’ was that it was not affordable 
+despite  districts  reporting  having  received  fertilizer  for  distribution  under  the  FSP.  The  survey  also 
+found  that  the  amount  of  fertiliser  reaching  the  household  level  was  low,  due  to  poor  road 
+infrastructure and inadequate resources to meet the required down payment.    
+
+ 
+
+37
+
+VULNARABLE AREAS AND TARGETING 
+
+Analysis of Food Gap, Beneficiaries and Districts Affected 
+
+6.0 
+ 
+6.1 
+ 
+The  analytical  basis  for  determining  the  cereal  gap  and  beneficiaries  that  is  based  on  the  underlining 
+assumption that last year people met their kilocalorie/energy requirements.  The evidence for this being 
+that most of the population did not adopt unusual detrimental coping strategies and the nutrition status 
+data shows that levels of acute malnutrition did not increase over the year. 
+ 
+Cereal Deficit 
+ 
+To assess the cereal deficit this year – the analysis looked at what aspects of household’s economies had 
+changed since last year that might impact on their ability to meet their requirements this year.  The main 
+changes identified were: 
+ 
+
+•  Crop production (cereal/cassava) had changed 
+•  Food aid may not make a contribution to diets 
+ 
+
+Source of Figures Used 
+ 
+
+•  Crop  production  data  for  2002/03  season    (cereal  and  cassava)  from  MACO  annual  crop 
+
+assessment 
+
+•  Food  relief  distribution  data  on  quantities  sent  to  each  district  by  the  time  of  the  survey  and 
+assumed to have been distributed to beneficiaries. Population data used was CSO data for 2003 
+(9.8 million) in the rural areas based on the 2000 census.  The population in the urban areas was 
+excluded from these calculations. 
+
+ 
+Identification of Vulnerable Districts 
+ 
+
+•  The urban populations were excluded. 
+•  The contribution of this year’s production to kilocalorie intake was assessed.  All districts were 
+reviewed  and  those  producing  less  than  1470  kilocalories/person/day  were  identified.    Those 
+with less than 1470 kcals were then assessed in terms of whether crop production has  increased 
+or decreased this year and the contribution of relief food to livelihoods in each district last year 
+
+•  Districts  in  which  last  year’s  production  together  with  last  year’s  relief  food  contribution 
+
+exceeded this year’s production were identified as needing assistance.   
+
+•  Districts  in  which  last  year’s  production  together  with  last  year’s  relief  food  contribution  is 
+marginally  lower  than  this  year’s  production  were  short  listed  for  future  monitoring  and 
+contingency planning.  
+
+ 
+
+Identification of Population in Need in each District 
+  
+
+•  Districts  in  which  last  year’s  production  together  with  last  year’s  relief  food  contribution 
+
+exceeded this year’s production were identified. 
+
+•  The  percentage  deficit/gap  in  kilocalories  as  a  percentage  of  1470  was  then  calculated  for  the 
+whole district and then  converted into  full  rations.  VAC survey results had  estimated that the 
+
+ 
+
+38
+
+upper  limit  in  each  district  of  vulnerable  persons  was  15%  of  rural  population.  Based  on  this 
+estimated the number of full rations gave the target population in each district.   
+
+•  The higher of the two estimates was used as the figure for people in need in each district. 
+•  A  similar  approach  was  used  for  populations  that  will  be  under  monitoring  and  contingency 
+
+plans.  
+
+•  Further,  a  worst  case  scenario  is  also  proposed  were  HIV  /  AIDS  district  prevalence  is 
+incorporated  using  1999  data.  This  analysis  was  not  pursued  any  further  since  after  1999,  the 
+district data  was aggregated into provincial data  and therefore difficult to know  with  certainty 
+the current district profiles. However, the main recognition is that with HIV / AIDS there is an 
+additional  cereal  requirement  of  350  Kilo  calories  per  day  implying  that  districts  with  high 
+preference rates will have higher cereal thresholds. 
+
+ 
+
+6.2        Districts and Populations with Cereal Deficit 
+ 
+Table 6.1and Figure 6.1 shows the districts that will experience cereal deficit between May 2003 and 
+April 2004 together with the affected population.  In addition, the required quantities and proposed time 
+frame for distribution is also shown. 
+ 
+
+Table 6.1: Districts that with Experience Cereal Deficit between May 2003 and April 2004 
+
+ 
+
+District 
+
+Estimated food relief requirements between May 2003 – April 2004 
+
+(based on a cereal/main staple requirements of 1470 kcals - 70% of basic energy requirements) 
+
+Time-frame 
+
+Target 
+population  
+10,349 
+6,323 
+9,506 
+2,655 
+20,431 
+10,675 
+59,939 
+
+Percentage 
+Cereal Gap (%) 
+47 
+8 
+4 
+21 
+5 
+17 
+ 
+
+Cereal MT 
+requirement 
+732 
+78 
+60 
+84 
+141 
+274 
+1,369* 
+
+October - February 
+October - February 
+October - February 
+October - February 
+October - February 
+October - February 
+ 
+
+Chama 
+Itezi-tezhi 
+Kazungula 
+Luangwa 
+Monze 
+Sinazongwe 
+Total 
+ 
+The total population that will need assistance between May 2003 and April 2004 is 59,939 or 0.06% of 
+the population. A total of 1,369 MT of cereal is required for the targeted population in order to feel the 
+existing cereal gaps in the target districts. Chama will require the most relief cereal food followed by 
+Sinazongwe and Monze. The least requirement will be in Kazungula. Equally, based on the cereal gap, 
+the most affected beneficiaries are in Chama, Luangwa and Sinazongwe. The least affected are Itezi 
+Itezi, Monze and Kazungula.   
+ 
+It is important to note that the proposed future rationing must be commensurate with the existing gap 
+per household.  This is because it is assumed that the households have met part of the recommended 
+400g per day ration and only require a top up from relief. For example, despite Monze having a large 
+population in need, the ration requirement per person is nevertheless marginal. The proposed period 
+for distribution is October to February 2004, a period which the survey determined as the leanest. 
+ 
+ 
+ 
+
+ 
+
+39
+
+*If  however,  it  is  decided  that  all  affected  persons  get  recommended  cereal  rations  (400  grams  of 
+cereal per day) irrespective of the cereal gap then 3,600 MT will be required for assistance. (That is, 
+400g x 60,000 people x 5months x 30 days/1000 to convert to kg/1000 to convert to MT = 3600 MT) 
+ 
+
+Figure 6.1: Districts Requiring Future Food Assistance 2002-2003 
+
+ 
+
+ 
+
+ 
+Whilst the  ration is suggesting general distribution, a provision needs to be  made  for supplementary 
+feeding programs (for those who fall below an agreed economic criteria) to target special groups like;  
+pregnant and lactating mothers, the elderly, chronically ill, and other specific nutritionally vulnerable.   
+ 
+6.3     Districts and Populations Requiring Monitoring 
+ 
+Table 6.2 shows the districts that will require monitoring between May and April 2004. Any 
+contingency planning may be based on this population as they have a higher possibility of descending 
+into food insecurity (see Figure 6.1).  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+40
+
+Table 6.2: Districts that require Monitoring between May 2003 and April 2004 
+
+Population 
+4,736 
+17,060 
+8,320 
+9,470 
+39,585 
+
+District 
+Gwembe 
+Kalabo 
+Shangombo 
+Western Zambezi 
+Total 
+ 
+For those districts requiring monitoring a contingency provision should be made to provide, at the most, 
+a cereal ration of 400g per person per day for 5 months (October – February 2004). This translates into 
+a cereal contingency of 2,375 MT. For these districts, it is recommended that rapid random assessments 
+are made just before the onset of the lean period to determine their cereal availability and access status. 
+ 
+6.4     Targeting 
+ 
+It  is  recommended  that  the  most  vulnerable  should  be  identified  (using  a  combination  of  social  and 
+economic  criteria).    Social  criteria  on  their  own  are  not  sufficient,  for  example,  it  is possible  to  have 
+relatively wealthier widows or orphans in a community.   
+ 
+Ideally targeting criteria should be developed for each district. In addition the Ministry of Community 
+Development and Social Services Department of Social Welfare needs to start using the public welfare 
+assistance  scheme  guidelines  which  were  developed  in  December  2000  to  assist  in  social  targeting. 
+There is need for a tripartite meeting (Government, NGOs and community representatives) to agree by 
+compromise on targeting guidelines for each district.  There is need to start putting emphasize on food 
+for work as self-targeting mechanisms 
+ 
+Those  responsible for  food distribution need to be actively guiding and assisting communities in the 
+management of the targeting and distribution processes.  They need to be able to intervene to correct 
+problems when they find them.  There is need for enough capacity to ensure that distribution lists are 
+prepared  and  scrutinized  to  eliminate  duplicate  allocations.  In  addition,  there  is  need  for  people  to 
+monitor distributions to make sure that distribution lists are being respected, that food rations are being 
+distributed  in  the  right  amounts,  that  beneficiaries  are  not  being  charged  distribution  fees  (either  in 
+cash  or  food),  and  that  beneficiary  selection  is  a  community  activity  not  left  to  a  few  elite  people.  
+There is need to put in place a mechanism for community members to register complaints that result in 
+action to ensure the distributions are reaching those who most need them.   
+  
+.   
+
+ 
+
+41
+
+RECOMMENDATIONS 
+
+Short Term 
+
+7.0 
+ 
+7.1 
+ 
+7.1.1  Relief 
+ 
+
+•  Phase  out  of  free  food  relief  programmes  in  most  areas  except  in  districts  highlighted  in 
+Chapter five where food should be targeted to the most vulnerable (defined by a combination 
+of social and economic criteria) for up to 5 months during the hungry season. During free food 
+relief phase-out, development interventions should be identified to target the most vulnerable; 
+these could include FFW, CFW and livestock restocking as appropriate. The aim is to mitigate 
+those  coping  strategies  that  are  detrimental  or  unsustainable,  such  as  depletion  of  livestock 
+assets. 
+
+•  FFW  should  be  linked  to  mid  term  community  development  (e.g.  the  food  for  asset 
+programme).    Interventions  should  build  on  community  financial  capital  (e.g.  supplies  of 
+credit, savings and  markets), physical  capital (e.g. roads), social  capital (e.g. social  resources 
+(access  to  wider  institutions  of  society  and  networks)  upon  which  people  draw  in  pursuit  of 
+livelihoods),  human  capital  (e.g.  good  heath,  education  and  other  important  skills/knowledge 
+base) and natural capital (e.g. environmental resources, fishing, water and biodiversity).  
+
+•  Procurement of any relief  food  must  first be done locally to  ensure that  market  confidence is 
+
+ 
+
+ 
+
+maintained. 
+
+ 
+7.1.2  Food Security and HIV/AIDS 
+ 
+
+•  Strengthen  service  delivery  systems  for  HIV/AIDS  programmes  within  both  relief  and 
+development.  These  will  need  to  be  rural  and  urban  specific  and  focus  on  information, 
+education, and communication. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+•  Strengthen cross border initiative programmes.  
+
+•  Strengthen programmes aimed at reducing stigmas and discrimination. 
+
+•  Support Home Based Care programmes.  
+
+•  Consideration  should  be  given  to  conduct  a  longitudinal  VAC|  survey,  targeting  those 
+households affected by HIV/AIDS  (according to  the proxy indicators) on the one hand and  a 
+similar group of households not affected by HIV/AIDS. This should provide the opportunity to 
+collect  data  over  time,  to  compare  the  livelihood  strategies  of  both  groups.    Alternatively  a 
+more  intensive  study  focusing  on  livelihood  strategies  of  households  affected  by  HIV/AIDS 
+and how that impact on food security in general may be more appropriate.   
+
+ 
+7.1.3  Agricultural Inputs 
+ 
+
+•  Timely delivery of quality agricultural inputs especially at sub-district level. 
+
+ 
+
+42
+
+7.1.4  Targeting/Monitoring of Food Relief 
+ 
+
+•  Joint  GRZ/UN/NGO  review  of  community  based  targeting  with  the  aim  of  producing  the 
+
+following outcomes: 
+
+•  A review of targeting guidelines; criteria for beneficiary selection and verification; guidelines 
+for  use  of  community  based  structures  for  distribution;  clear  structures  for  monitoring  a) 
+distribution  b)  post-distribution  and  c)  impact  and  guidelines  for  joint  monitoring  by 
+organizations at each level: community, district and national level (bottom up). 
+
+ 
+•  Re-orient  all  stakeholders  (Government,  NGOs,  community  leaders,  satellite  committees, 
+
+DDMC [District Disaster Management Committees] on targeting guidelines. 
+
+ 
+
+•  Evaluate the relief program and its management. 
+
+ 
+ 
+7.1.5  Actions Requiring Follow Up:  
+
+ 
+•  VAC should undertake a Livelihood Zone Mapping survey to rezone and update information. 
+
+•  VAC must undertake a baseline survey of the identified zones. 
+
+•  Future assessments should focus on looking at livelihoods (access to food and income) and not 
+
+be limited to cereal production and rainfall.  
+
+ 
+•  Development of baseline livelihood profiles across the country involving 1-2 district level staff 
+
+as well as GRZ/NGO staff at the national level. 
+
+•  Cross border trade studies of marketing (both formal and informal). 
+
+•  District level staff to collect information for monitoring purposes once baseline is established.  
+
+•  Need  to  collect/compile  secondary  data  for  the  past  5-10  years  &  technical  data  (crop 
+
+production, livestock data, formal employment, prices, fishing etc.). 
+
+•  Explore  the  links  between  food  economy,  on-going  monitoring  and  rapid  assessments 
+
+including questionnaires. 
+
+•  Look at methods that could be adopted to ensure availability of maize at fair price in marginal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+maize producing areas. 
+
+ 
+7.2  Mid/Long Term – Area Specific 
+ 
+
+The dietary should be more diversified in the majority of livelihood zones in order to prevent 
+nutritional deficiencies. 
+ 
+  Livestock restocking programmes. 
+
+ 
+
+43
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+•  Strengthen veterinary programmes.  The animal disease control program should be reviewed,   
+
+with an aim to strengthening it in the South and extending it to the North-West and West. 
+
+• 
+
+• 
+
+Improve extension services including introduction of early maturing cassava variety, millet, 
+nuts, beans, peas, soya and development of fish farms. 
+
+Improve fat availability by cultivating groundnuts, sunflower and planting of palm oil trees 
+(e.g.: palm oil tree cultivation in Luapula province, with the support of FAO).  
+
+•  Milk, which is an essential source of calcium, is deficient in all the zones: the consumption of 
+
+goat milk should also be initiated as well as small fish like Kapenta.  
+
+•  Develop co-operative initiatives including partnerships with the private sector. 
+
+•  Revival of development initiatives (e.g.. irrigation, pineapple, honey) and enterprise 
+
+development (e.g. mangongo/manketti oil).  Micro credit-small business loans and market 
+development. 
+
+• 
+
+Improve food processing (fish, cassava and wild foods). 
+
+•  Sensitisation to reasons for and implementation of the fish ban should be supported. 
+
+•  Strengthen infrastructure (support to roads). 
+
+** 
+
+44
+
+ 
+
+ 
+
+ 
+
+Appendices 
+
+Appendix 1: Standard Enumeration Areas (SEAs) Surveyed 
+
+I
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Appendix 2: Sampling Frame 
+
+Household (HHQ)/Key Informant Questionnaires:
+Household (HHQ)/Key Informant Questionnaires:
+Household (HHQ)/Key Informant Questionnaires:
+Household (HHQ)/Key Informant Questionnaires:
+(cid:1627)Stratified cluster: SEAs selected within each LZ and 
+proportional to population (2000 Census);
+(cid:1627)Random selection of villages within selected SEAs;
+(cid:1627)Random selection by household-listing cluster of 
+individual interviews;
+(cid:1627)Random selection of the one village in each SEA 
+where the Key Informant interview was conducted.
+* SEA = standard enumeration area
+(the smallest administrative unit in Zambia)
+
+Main roads
+Main roads
+
+Sampling Frame
+
+1B
+1B
+
+1A
+1A
+
+**
+
+2A
+2A
+
+3A
+3A
+
+**
+
+8
+8
+
+10
+10
+
+4A
+4A
+
+5A
+5A
+
+**
+
+13
+13
+
+7B
+7B
+
+12A
+12A
+
+Food Economy 
+Food Economy 
+Food Economy 
+Food Economy 
+Approach (FEA):
+Approach (FEA):
+Approach (FEA):
+Approach (FEA):
+(cid:1627)Selection of 6 LZs, 
+including those in 
+drought-affected 
+areas;
+(cid:1627)Key informant 
+interviews with 
+District officials to 
+ascertain 鍍ypical・
+(neither the worst nor 
+the best) villages;
+(cid:1627)Proportional piling 
+of wealth groups;
+(cid:1627)Focus group 
+surveys with each 
+wealth group, 
+gender-separate as 
+well as mixed;
+(cid:1627)Triangulation over 4 
+days of fieldwork.
+
+6
+6
+
+9
+9
+
+7A
+7A
+
+**
+
+**
+
+2B
+2B
+
+3B
+3B
+
+12B
+12B
+
+5B
+5B
+
+4B
+4B
+
+**
+**
+
+**
+
+11
+11
+
+Selected FEA LZs 
+Selected FEA LZs 
+Selected FEA LZs 
+
+Selected HHQ SEAs
+Selected HHQ SEAs
+Selected HHQ SEAs
+
+Wetlands, lakes
+Wetlands, lakes
+Wetlands, lakes
+
+II 
+
+ Appendix 3: Example Livelihood Zone Descriptions
+
+ 
+FEZ 
+NO. 
+1a 
+
+1b 
+
+2a 
+
+Zone descriptive 
+name 
+Mwinilunga/Kabo
+mpo 
+Luapula Region 
+
+MAIN CROPS 
+
+Cassava, maize, 
+beans 
+Cassava 
+
+MAIN 
+LIVESTOCK 
+Cattle, Goats 
+
+Goats 
+
+OTHER FOOD 
+SOURCES 
+Own Production, 
+honey 
+Own Production 
+
+Copperbelt and 
+Solwezi 
+
+Sweet pots, 
+cassava, sorghum, 
+maize, ground nuts, 
+beans, millet, 
+horticulture 
+
+Cattle, Dairy, 
+Poultry 
+
+Wild foods 
+(ifinkubala) 
+
+MAIN INCOME SOURCES  
+
+Cereal, casual labour, other business 
+
+Sale of cereal, tubers, other crops, 
+fish , trade, brewing, casual labour 
+Mining, livestock, sale of cereal, 
+tubers, casual employment, cross-
+border trade, sale of wild foods, 
+charcoal. 
+
+2b 
+
+Northern Province  Cassava, Maize, 
+
+Cattle, Goats 
+
+Wild foods/ 
+game. 
+(ifinkubala), fish, 
+rice 
+Game 
+
+Sale of crops (cereals, tubers) cross-
+border trade, sale of wild foods/game, 
+Charcoal, fishing, livestock, tobacco 
+
+Sale of cereals, tuber crops, other 
+cultivated crops, casual labour 
+
+Goats 
+
+Game, Rice 
+
+Sale of cereals, tuber crops, other 
+cultivated crops, casual labour 
+
+3a 
+
+3b 
+
+Kasempa/Mufumb
+we 
+
+Muchinga 
+Escarpment 
+
+4a 
+
+Kafue Flats 
+
+millet 
+
+Cassava, sweet 
+pots, ,maize, millet, 
+game meat, beans, 
+sorghum 
+Cassava, sweet 
+pots, ,maize, millet, 
+game meat, beans, 
+sorghum 
+Maize,  
+
+4b 
+
+Chama/Lundazi 
+
+Maize, sorghum 
+
+Goats 
+
+Cattle, goats 
+
+Cattle, pigs, 
+goats 
+
+5a 
+
+5b 
+
+6 
+
+Southern 
+Province Plateau 
+
+Chipata/Chadiza 
+area 
+Kaoma/Mongu 
+
+Maize, sorghum 
+
+Goats, Cattle 
+
+Maize. Ground 
+nuts, cotton 
+Cassava, rice, 
+maize 
+
+Goats, Pigs 
+
+Cattle, Goats 
+
+Pumpkins, 
+vegetables 
+Fish 
+
+ 
+
+7 a 
+
+Kazungula/Seshe
+ke 
+
+Maize, sorghum 
+
+Cattle goats 
+
+III
+
+Pumpkin, Wild 
+foods, purchase 
+
+Game, 
+mushrooms, 
+groundnuts, 
+beans 
+Mangoes, game, 
+mushrooms 
+groundnuts, 
+beans 
+Fish, Pumpkin, 
+vegetables 
+
+Cotton, crop sales, poultry, casual 
+employment, brewing 
+
+Cotton, crop sales, poultry, casual 
+employment, brewing 
+
+Sale of cereals fish, livestock, poultry, 
+charcoal, casual employment, and 
+petty trade, sunflowers 
+Sale of Cotton, other cultivated crops, 
+casual employment, sunflower 
+Sale of cereals, tubers, other 
+cultivated crops, fish, handicrafts, 
+casual employment., timber, tobacco 
+Cross border trade, labour in Namibia 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix 4 
+
+Trend analysis of nutritional status at district  level 
+
+Information from district based results of cluster nutrition surveys conducted by NGOs are described in table 
+
+ 
+Provinc
+e 
+
+West 
+
+South 
+
+ 
+District 
+
+First round 
+NGO 
+
+Period  Wasting Z-Score 
+
+and Oedema 
+
+Shangomb
+o 
+Siavonga 
+
+MSF-H 
+
+MSF-H 
+
+3.9% [2.2-5.6%] 
+
+May 
+02 
+Jun 02  3.3% [2.2-4.5%] 
+
+South 
+
+Kalomo 
+
+WVI 
+
+Jun 02  3.4% [1.7-5.1%] 
+
+Severe wasting 
+Z-Score and 
+oedema 
+1.2% [0.2-2.1%]  CRS/ 
+
+UNICEF 
+0.9% [0.3-1.4%]  OXFAM 
+/UNICEF 
+CARE 
+
+0.7% [0-1.7%] 
+
+South 
+
+South 
+
+Sinazongw
+e 
+Monze 
+
+WVI 
+/UNICEF 
+OXFAM 
+
+Jul 02 
+
+5.8% [4.4-7.6%] 
+
+Jul 02 
+
+4.3% [2.5-6.1%] 
+
+1.1% [0.2-2.0%]  WVI/ 
+
+Second round 
+NGO 
+
+Date 
+
+Wasting ZScore 
+and Oedema 
+
+4.2% [3.1-5.4%] 
+
+Nov 
+02 
+Jan 03  7.7% [5.4-10.7%] 
+
+2.4% [1.6-3.3%] 
+
+Dec 
+02 
+Feb 
+03 
+Jan 03  5.1% [3.4-7.6%] 
+
+4.6% [2.8-6.4%] 
+
+Severe wasting 
+ZScore and 
+oedema 
+0.8% [0.3-1.4%] 
+
+1.2% [0.5-2.9%] 
+
+0.7% [0.2-1.2%]  
+
+0.7% [0-1.4%] 
+
+1.1% [0.4-2.7%] 
+
+South 
+
+Choma 
+
+OXFAM 
+
+Jul 02 
+
+5.5% [4.2-7.2%] 
+
+South 
+
+Mazabuka 
+
+OXFAM 
+
+Jul 02 
+
+4.3% [3.1-5.8%] 
+
+East 
+
+Chipata 
+
+South 
+
+Kazangula 
+
+Central 
+Chibombo 
+Central  Mumbwa 
+South 
+Namwala 
+Senanga 
+West 
+
+East 
+
+Chama 
+
+Central  Mkushi  
+
+RCZ/ 
+UNICEF 
+ 
+
+Sep 
+02 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+2.8% [1.3-4.3%] 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+UNICEF 
+1.5% [1.1-2.5%]  OXFAM/ 
+UNICEF 
+ 
+
+1.9% [1.3-2.9%] 
+ 
+1.2% [0.8-2.1%] 
+ 
+1.1% [0.1-2.1%] 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.7% [1.7-3.7%] 
+
+4.5% [2.5-6.1%] 
+
+Feb 
+03 
+Dec 
+02 
+Jan 03  4.0% [2.6-5.4%] 
+Jan 03  4.3% [2.7-5.9%] 
+Jan 03  2.4% [1.4-3.3%] 
+4.5% [2.9-6.9%] 
+Feb 
+03 
+Feb 
+03 
+Mar 
+03 
+
+4.5% [2.6-6.4%] 
+
+3.9% [2.7-5.1%] 
+
+1.0% [0.2-1.8%] 
+
+0.7% [0.1-1.0%] 
+
+1.7% [ [0.8-2.5%] 
+0.8% [0.1-1.5%] 
+0.6% [0-1.1%] 
+0.3% [0-1.5%] 
+
+0.7% [0-1.4%] 
+
+0.6% [0-1.3%] 
+
+ 
+
+LWF/ 
+UNICEF 
+CARE 
+
+CARE 
+CARE 
+CARE 
+OXFAM/ 
+UNICEF 
+LWF/ 
+UNICEF 
+NFNC/ 
+UNICEF 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+IV
+
+ 
+
+ 
+
+Appendix 5: Coping Strategies 
+
+Zone 
+
+General food/cash sources 
+
+ 
+
+1a 
+
+1b 
+
+2a 
+
+2b 
+
+3a 
+
+3b 
+4a 
+4b 
+5a 
+
+5b 
+
+7a 
+7b 
+
+ 
+
+Other foods available 
+Fish, pumpkins 
+
+Fish,sugarcane 
+
+Mangoes,Guavas,catterpillar,G/n
+uts,Fish 
+Mushrooms,Sugarcane, 
+S/potatoes,Irish potaoes, 
+pumpkins,Beans 
+Mushrooms,Sugarcane, 
+S/potatoes,Irish potaoes, 
+pumpkins,Beans 
+Potatoes,Pumpkins 
+Legumes and game 
+Legumes and game 
+Fish, 
+Goats,watermelon,S/potatoes 
+Pumpkins, Forest products 
+
+6 Fish 
+
+Pumpkins, Forest foods 
+
+8 Forest foods, fish 
+9 Forest foods 
+
+10 S/potaoes,Beans,G/nuts,honey,g
+
+ame 
+meat,fish,mushrooms,catterpillar 
+
+Non-food 
+Cross border trade, Fishing and sale of Palm 
+oil 
+Cross border trade, Fishing, local beer 
+sales,casual labour 
+Cattle sales, wage employment, charcoal 
+sales 
+Sale of Charcoal and cattle 
+
+Trading 
+
+Trading 
+Poaching,Poutry, sales and casual labour 
+Poaching and local beer sales 
+Sale of cereals,livestock,fish, 
+charcoal,Poultry and casual labour 
+Casual labor and sale of cotton 
+Cattle sales 
+Cross border trade 
+ Casual labor and sale of livestock/poultry 
+cattle sales 
+Cross border trade 
+Sale of tubers,Fish,sale of livestock/Poultry  
+
+11 Okra, 
+
+Livestock sales 
+
+12a 
+12b 
+
+Pumpkins,Cowpeas,G/nuts,Fish 
+Fish 
+Fish,Pumpkins,game 
+
+13 S/potatoes, Beans,Pumpkins, 
+
+Fish 
+
+Livestock sales and poaching 
+Fishing and poaching. 
+Sale of livestock, tomatoes, tubers and 
+poultry 
+
+ 
+ 
+ 
+
+V 
+
+ 
+To identify households affected by HIV/AIDS an indirect approach was used. At the level of the household, HIV/AIDS  manifests through chronic illnesses of individuals and later death. By asking questions about morbidity and 
+mortality, it was intended to obtain a measure of the prevalence of chronic morbidity in a household (excluding accidents etc), as well as deaths resulting from chronic illness. This information can be used as an indirect (or proxy) 
+indication of the prevalence of HIV/AIDS in households. The following questions pertaining to chronic morbidity were asked in the Zambian VAC: 
+
+Appendix  6: HIV/AIDs Proxy Indicators. 
+
+ 
+a) 
+b) 
+ 
+
+Are there any adults (20-59 years) in the household who have been ill for more than 3 months during the past 12 months? 
+Is the head of the household among those who have been ill for more than 3 months in the last 12 months). 
+
+Mortality information was obtained by asking respondents the following questions: 
+ 
+
+Has any adult  (20-59 years) died in the last year?  after being ill for more than 3 months? 
+
+c) 
+d)  Was the adult that died ill for more than 3 months? 
+e)  Was the person that died after being ill for more than 3 months the head of the household?  
+ 
+
+The  presence  of  orphans  in  the  household  and  the  absorption  of  orphans  from  other  households  are  a  direct  indication  of  parental  deaths  on  the  one  hand  and  the  dissolution  of  other  households  on  the  other.  To  obtain  such 
+information, respondents in the Zambia VAC survey were asked the following question: 
+ 
+
+f) 
+
+Number of orphaned children (defined as “both parents lost” and “less than 15 years of age”) in the household who have come from other households. 
+
+ 
+In addition, the questionnaire obtained information regarding the number of persons resident in the household, by specific age and sex categories.  
+ 
+The information obtained in the VAC household survey  was used to  construct  a number  of indicators that  could serve  as  a proxy  for  “HIV/AIDS” (see Table  A1). These  proxies fall in two broad  categories namely  proxies  for 
+individuals infected  by  HIV (see the morbidity  and  mortality indicators) and  affected households (all the indicators). It should be realized that  a household exhibiting  one of these proxy indicators is  not  necessarily  affected  by 
+HIV/AIDS, but there is an increased likelihood that this may be the case.  
+ 
+Brief discussion of the indicators 
+ 
+Chronically ill adults  
+The  Zambia VAC  survey results  show  that  a  chronically ill adult  was  present in  approximately 22  %  of the  households  covered in the survey.  In 44  %  of  households  with  a  chronically  ill  person(s), it  was  reported that the 
+household head were among those persons. Given the present prevalence rates of HIV in Zambia, the morbidity rates are therefore not unexpected. However, it should be noted that Zambia has high prevalence rates of malaria and 
+TB, to name just two illnesses.  Persons suffering from these diseases were included in the results. The presence of other diseases weakens this indicator somewhat as a proxy for HIV/AIDS. 
+ 
+Mortality among adults  
+According to the results of the survey an adult died in the last 12 months in about 12 % of the households covered in the survey. About seven-and-a-half percent of households reported the death of an adult after being chronically 
+ill.  About 2 % of households lost a head due to death after a chronic illness in the last year. What should be taken into account is that according to accounts (see FEA field notes) of members of rural households who moved to 
+urban areas, return to their original households when they become ill with AIDS related infections. On the one hand this increase morbidity rates (see above) with increased care responsibilities for the rural household, and on the 
+other hand, increase mortality rates.  
+ 
+Dependency ratios  
+Changes in the age composition of households provide some evidence of the impact of HIV/AIDS. Since AIDS-related mortality is concentrated in the adult age groups, the ratio between adult and mostly younger members will 
+change (i.e. the dependency ratio) having an impact on both the economic position of the household and on the ability of the household to care for its members. It has been argued that the dependency ratio is a suitable indicator to 
+measure these impacts (De Waal  and Tumushabe,  2003). The dependency ratio is a  demographically determined indicator.  Apart  from the previously  mentioned impact  of  a  reduction in the  number  of  adults that increases the 
+dependency ratio, the dependency ratio is largely influenced by the fertility rate of a population. Under conditions of high fertility, high dependency ratios are the norm. Although Zambia has been experiencing a decline in fertility, 
+rates remain high (TFR of 4.9 children per woman). This high fertility will be reflected in high dependency ratios independent of the HIV/AIDS epidemic. Also, higher dependency ratios due to higher mortality rates among adults 
+are partially offset by a reduction in the dependency ratio due to high mortality among young children (In Zambia the IMR is 95). Another factor that impacts upon the dependency ratio at a household level is the out-migration of 
+members in the economic active ages to look for employment in the urban areas.  Results of the Zambia VAC survey show a dependency ratio skewed to the right as expected.  
+ 
+Presence of orphans  
+Results of the Zambia VAC indicate that in 18 % of households covered in the survey, there was an orphan(s) present that originated from another household. The presence of orphans may increase food insecurity and strain the 
+financial position of the receiving household. However, in rural households, orphans, depending on their age, may function as a labour source offsetting labour shortages in the household. Other factors such as the socio-economic 
+position and demographic characteristics of the host household are important. The crude proxy: “presence of orphans” cannot detect these important nuances, and this reduces its usefulness for the purpose of analysis.  
+
+ 
+
+VI
+
+Appendix 7: The Association between Households Affected By HIV/AIDS and The Lack Of Labour for Farming Activities 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+Dependent variable 
+
+Proxy indicator 
+
+Lack of labour as a reason for 
+leaving land uncultivated 
+
+Households where a chronically ill adult died in 
+the last year 
+Households not reporting the death of a 
+chronically ill adult in the last year 
+
+Households where the adult who died of a 
+chronic illness was the head 
+Households where no head died of a chronic 
+illness 
+
+Households where an adult died in the last year 
+Households not reporting the death of an adult 
+
+Low dependency ratio 
+Medium dependency ratio 
+High dependency ratio 
+No adult present in household 
+
+The lack of labour as the main 
+limitation to last growing 
+seasons’ cereal production 
+
+Households where a chronically ill adult died in 
+the last year 
+Households not reporting the death of a 
+chronically ill adult in the last year 
+
+Households where the adult who died of a 
+chronic illness was the head 
+Households where no head died of a chronic 
+illness 
+
+Low dependency ratio 
+Medium dependency ratio 
+High dependency ratio 
+No adult present in household 
+
+********* 
+
+VII 
+
+% of households 
+giving this reason  
+59 
+ 
+ 
+40 
+(Chi square 10.047, p=.001) 
+77 
+ 
+ 
+41 
+(Chi square 10.485, p=.001) 
+55 
+39 
+(Chi square 10.67, p=.001) 
+38 
+46 
+45 
+68 
+(Chi square 15.461, p=.001) 
+25 
+ 
+ 
+13 
+(Chi square 10.305, p=.001) 
+38 
+ 
+ 
+14 
+(Chi square 11.846, p=.001) 
+12 
+15 
+21 
+27 
+(Chi square 15.377, p=.002) 
+
+N 
+
+76 
+ 
+ 
+832 
+
+22 
+ 
+ 
+886 
+
+121 
+786 
+
+587 
+219 
+65 
+37 
+
+103 
+ 
+ 
+1217 
+
+29 
+ 
+ 
+1291 
+
+864 
+305 
+89 
+62 
+
+

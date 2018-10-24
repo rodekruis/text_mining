@@ -1,0 +1,4559 @@
+ 
+
+ 
+  
+
+ 
+ 
+
+ 
+
+ 
+
+Republic of Zambia 
+
+Office of the Vice President 
+
+Disaster Management and Mitigation Unit 
+
+ 
+
+ 
+
+ 
+
+REPORT ON BASELINE SURVEY ON MULTI-HAZARD EARLY WARNING SYSTEM 
+
+SERVICE DELIVERY IMPROVEMENT FUND (SDIF) 
+
+AND COMMUNITY CENTRED PROJECT 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by 
+ 
+Disaster Management and Mitigation Unit 
+Lusaka 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+January 2009 
+
+TABLE OF CONTENTS 
+
+1.0 
+
+INTRODUCTION ..................................................................................................................... 1 
+
+1.1 BACKGROUND ......................................................................................................................... 1 
+
+1.2 PROJECT PURPOSE AND IMPLEMENTATION FRAMEWORK ............................................... 1 
+
+2.0   BASELINE SURVEY RATIONALE AND APPROACH ............................................................... 2 
+
+3.0  
+
+FINDINGS ............................................................................................................................... 3 
+
+3.1 
+
+ZAMBEZI - CHAVUMA CATCHMENT AREA ....................................................................... 3 
+
+3.1.1   Hazard Situational Analysis ........................................................................................... 3 
+
+3.1.2.   Remote Power Supplies ............................................................................................... 4 
+
+3.1.3 
+
+Hydrological Stations .................................................................................................. 4 
+
+3.1.4 Meteorological Stations.................................................................................................... 5 
+
+3.1.5.  Maps of Flood Prone Areas ........................................................................................ 5 
+
+3.1.6. 
+
+Indigenous Knowledge and Public Awareness ......................................................... 6 
+
+3.1.7 
+
+Preparedness Plans .................................................................................................... 6 
+
+3.2  KAFUE ITEZH-TEZHI CATCHMENT AREA ............................................................................ 7 
+
+3.2. 1 Hazard Situational Analysis in the 2007/08 season ..................................................... 7 
+
+3.2.2 Remote Power Supplies ................................................................................................... 7 
+
+3.2.3 Hydrological Gauge Stations in the Kafue/ Itezhi-tezhi Catchment areas .................. 8 
+
+3.2.4 Meteorological Stations in the Itezhi-tezhi / Kafue catchment area. .......................... 8 
+
+3.2.5 Maps of Affected and Flood Prone Areas ....................................................................... 9 
+
+3.2.6 Indigenous Knowledge and Public Awareness .............................................................. 9 
+
+3.2.7 Preparedness Plans ........................................................................................................ 10 
+
+3.3 
+
+LUANGWA MAMBWE CATCHMENT AREA ....................................................................... 10 
+
+3.3.1 Hazard Situational Analysis in the 2007/08 season .................................................... 10 
+
+3.3.2 
+
+Remote Power Supplies ........................................................................................... 11 
+
+3.3.3  Hydrological in the Luangwa / Mambwe catchment area. ........................................ 11 
+
+3.3.4. Meteorological Stations in the Luangwa / Mambwe catchment area. ..................... 11 
+
+3.3.5  Maps of Affected and Flood Prone Areas ............................................................... 13 
+
+3.3.6 
+
+Indigenous Knowledge and Public Awareness ....................................................... 13 
+
+3.3.7 
+
+Preparedness Plans .................................................................................................. 13 
+
+4.0 OVERALL FINDINGS.................................................................................................................. 13 
+
+5.0   CONCLUSION........................................................................................................................ 15 
+
+ 
+
+i
+
+6.0 RECOMMENDATIONS ............................................................................................................... 15 
+
+6.1 Remote Power Supplies ........................................................................................................ 15 
+
+6.2 Hydrological gauge Stations ................................................................................................. 15 
+
+6.3 Meteorological Stations ......................................................................................................... 15 
+
+6.4 Mapping of affected and flood prone areas ........................................................................ 16 
+
+6.5 Preparedness Plans ............................................................................................................... 16 
+
+6.6 Use of Indigenous Knowledge ............................................................................................. 16 
+
+6.7 Public awareness and Capacity Building ............................................................................. 16 
+
+ANNEXES .......................................................................................................................................... 19 
+
+ANNEX I: SUMMARY OF HYDROLOGICAL AND METEOROLOGICAL STATIONS ........................ 19 
+
+ANNEX II: ZAMBEZI/ CHAVUMA - AFFECTED HOUSEHOLDS, CROPS AND INFRASTRUCTURE 
+
+2007/08 RAINY SEASON ................................................................................................................. 21 
+
+ANNEX III: ITEZHI – TEZHI KAFUE   - AFFECTED HOUSEHOLDS, CROPS AND 
+
+INFRASTRUCTURE 2007/08 RAINY SEASON ................................................................................ 23 
+
+ANNEX IV: LUANGWA-MAMBWE CATCHMENT AREA  - AFFECTED HOUSEHOLDS, CROPS AND 
+
+INFRASTRUCTURE 2007/08 RAINY SEASON ................................................................................ 27 
+
+ANNEX V: FIELD INSTRUMENTS (DISTRICT AND COMMUNITY QUESTIONAIRES) .......... 29 
+
+ 
+
+ii
+
+ LIST OF ACRONYMS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+District Disaster Management Committee 
+Disaster Management Consultative Forum 
+Disaster Management and Mitigation Unit 
+Disaster Management Technical Committee 
+Department of Water Affairs 
+High Frequency 
+International Civil Aviation Organisation 
+International Telecommunication Union 
+Living Conditions Monitoring Survey 
+National Disaster Management Committee 
+National Early Warning Unit 
+Non-Governmental Organization 
+Southern Africa Development Community 
+Service Delivery Improvement Fund 
+Satellite Disaster Management Committee 
+United Nations 
+Very High Frequency 
+World Meteorological Organization 
+Zambia Electricity Supply Company 
+Zambia Meteorological Department 
+Zambezi River Authority  
+
+ 
+ 
+DDMC  
+DMCF   
+DMMU  
+DMTC  
+DWA    
+HF 
+ 
+ICAO   
+ITU 
+ 
+LCMS   
+NDMC    
+NEWU  
+NGO    
+SADC   
+SDIF   
+SDMC  
+UN  
+ 
+VHF 
+ 
+WMO   
+ZESCO  
+ZMD    
+ZRA    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+iii
+
+EXECUTIVE SUMMARY 
+
+ 
+
+The Disaster Management and Mitigation Unit (DMMU) has received funding from the Service 
+
+Delivery  Improvement  Fund  (SDIF)  to  develop  and  implement  The  Multi-Hazard  Early 
+
+Warning  Project  in  selected  catchment  areas  of  Zambezi/Chavuma,  Kafue/Itezhi-tezhi  and 
+
+Luangwa/ Mambwe.  
+
+ 
+
+The project is managed by a project implementation committee (PIC) comprising the Disaster 
+
+Management  and  Mitigation  Unit  (DMMU),  Department  of  Water  Affairs  (DWA),  Zambia 
+
+Meteorological  Department  and  CherryTech  Electronics.    The  PIC  is  led  by  the  DMMU 
+
+National Coordinator as the Overall Project Coordinator. Other participants as and when need 
+
+arises  are  the  National  Early  warning  Unit  in  Ministry  of  Agriculture  and  Cooperatives, 
+
+Zambezi River Authority and ZESCO.  
+
+ 
+
+In order to have collect information on the status of Early Warning Systems mechanisms and 
+
+practices in the selected areas a baseline survey was carried out in January 2009. This was 
+
+necessitated  by  the  lack  of  information  on  existing  and  functional  Hydrological  and 
+
+Meteorological stations in the targeted catchment areas. The survey was conducted in three 
+
+catchment  areas  namely;  Chavuma/Zambezi,  Luangwa/  Mambwe  and 
+
+Itezhi 
+
+-
+
+tezhi/Namwala/Kafue.  The  information  collected  in  the  survey  is  meant  to  be  used  as  the 
+
+benchmark or database for monitoring the performance and impact of the project.  
+
+ 
+
+The  survey  employed  a  participatory  approach  focusing  on  Key  Informant  Interviews, 
+
+Community  Discussions  using  semi  –  structured  questionnaire  and  intelligent  observations. 
+
+Under  key  informant  interviews,  the  survey  targeted  members  the  District  Disaster 
+
+Management  Committees 
+
+(DDMCs)  at  district 
+
+level  particularly  Hydrologists  and 
+
+Meteorologists. Community interviews targeted selected communities in flood prone wards of 
+
+the  districts  which  were  visited.  The  selection  of  these  communities  was  purely  purposive 
+
+and  was  based  on  the  agreed  criteria  with  the  DDMCs.  Intelligent  observations  formed  an 
+
+important element of the exercise. Secondary data from other reports as referenced has also 
+
+been used. 
+
+ 
+
+ 
+
+iv
+
+The  findings  of  the  survey  brought  out  major  and  measurable  weaknesses  in  the  area  of 
+
+Meteorological and hydrological stations. The Zambezi/Chavuma catchment area has six (6) 
+
+meteorological stations and nine (9) hydrological stations. The vast Kafue flats have ten (10) 
+
+meteorological stations and eight (8) hydrological gauge stations. The situation is similar in 
+
+the Luangwa/Mambwe catchment area has nineteen (19) met stations and seven (7) water 
+
+gauge stations spread over a geographical area of seven (7) districts. All these stations are 
+
+poorly  equipped  and  in  some  cases  unmanned.  Gauge  readers  are  poorly  motivated  and 
+
+enumerated making automation of these stations where possible a sustainable alternative. 
+
+ 
+
+ In all these areas  the  flood prone areas  have not  been  mapped  and  there  are no  disaster 
+
+preparedness  plans.  Only  in  Zambezi/Chavuma  catchment  area  had  an  indication  of 
+
+communities using indigenous knowledge in the area of early warning for floods and drought. 
+
+There  are  no  deliberate  programs  to  sensitize  communities  in  these  areas  on  disaster 
+
+preparedness and response. 
+
+ 
+Taken together these findings expose major gaps in the area of Early Warning in the selected 
+
+areas  in  particular  and  in  Zambia  in  general.  The  findings  will  provide  an  insight  to  policy 
+
+makers  and  disaster  managers  on  interventions  such  as  the  improvement  of  weather 
+
+monitoring  and  forecasting  systems  and  water  level  monitoring  systems.  Production  and 
+
+review  of  disaster  preparedness  must be  given high priority.  Public awareness  programs  in 
+
+the  print  and  electronic  media  must  be  given  high  priority  while  at  the  same  time 
+
+encouraging the use of indigenous knowledge and practices in early warning. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+v
+
+ 
+1.0 
+
+ 
+
+INTRODUCTION 
+ 
+1.1 BACKGROUND 
+
+There  are  several  hazards  in  Zambia  and  when  these  interact  with  the  fragile 
+
+environment  created  by  high  levels  of  vulnerability  of  our  populations,  economic 
+
+assets and the natural environment a recipe for disaster occurrence is usually created 
+
+(LCMS 2005). The main hazards in Zambia are droughts, floods, epidemics, pests, 
+
+environmental degradation, refugees, internally displaced persons, fires and 
+
+accidents.  These  hazards  are  likely  to  increase  in  frequency  and  intensity  due  to 
+
+effects of climate change. 
+
+ 
+
+These disasters  have  had  a  negative impact  on  the  economy,  having  caused loss  of 
+
+life, damage to property and degradation of the environment. Tremendous setbacks in 
+
+economic growth and development have also been the main result, as scarce national 
+
+resources  have  had  to  be  redirected  from  productive  investments  to  relief  and 
+
+emergency operations. 
+
+ 
+
+With  the  paradigm  shift  to  disaster  risk  reduction,  the  Disaster  Management  and 
+
+Mitigation  Unit  (DMMU)  is  promoting  a  proactive,  community-based,  developmental 
+
+and  multi-sectoral  approach  to  disaster  management.  It  is  against  this  background 
+
+that DMMU solicited and received funding from the Cabinet Office through the Service 
+
+Delivery Improvement Fund (SDIF) project for the establishment of the Multi-Hazard 
+
+Early Warning Project. 
+
+ 
+
+1.2 PROJECT PURPOSE AND IMPLEMENTATION FRAMEWORK 
+
+ 
+
+The  main  purpose  of  the  project  is  to  empower  individuals  and  vulnerable 
+
+communities threatened by floods and other hazards to act in sufficient time and in an 
+
+appropriate  manner  to  reduce  the  possibility  of  personal  injury,  loss  of  life  and 
+
+damage to property and the environment.  
+
+ 
+
+ 
+
+1
+
+The project is managed by a project implementation committee (PIC) comprising the 
+
+Disaster  Management  and  Mitigation  Unit  (DMMU),  Department  of  Water  Affairs 
+
+(DWA),  Zambia  Meteorological  Department  and  CherryTech  Electronics.    The  PIC  is 
+
+led  by  the  DMMU  National  Coordinator  as  the  Overall  Project  Coordinator.  Other 
+
+participants as and when need arises are the National Early warning Unit in Ministry of 
+
+Agriculture and Cooperatives, Zambezi River Authority and ZESCO.  
+
+ 
+
+2.0   BASELINE SURVEY RATIONALE AND APPROACH 
+
+ 
+
+At the inception of the project, it became imperative that a Baseline Survey is carried 
+
+out in order to collect information on the status of Early Warning Systems mechanisms 
+
+and  practices.  This  was  necessitated  by  the  lack  of  information  on  existing  and 
+
+functional  Hydrological  and  Meteorological  stations  in  the  targeted  catchment  areas. 
+
+The  survey  was  conducted  in  three  catchment  areas  namely;  Chavuma/Zambezi, 
+
+Luangwa/ Mambwe and Itezhi -tezhi/Namwala/Kafue. The information collected in the 
+
+survey  will  be  the  benchmark  for  monitoring  the  performance  and  impact  of  the 
+
+project.  
+
+The  assessment  employed  a  participatory  approach  focusing  on  Key  Informant 
+
+Interviews  and  Community  Discussions  using  semi  –  structured  questionnaire  and 
+
+intelligent observations. Under key informant interviews, the survey targeted members 
+
+the  District  Disaster  Management  Committees  (DDMCs)  at  district  level.  Community 
+
+interviews  targeted  selected communities in flood  prone  wards of  the districts  which 
+
+were  visited.  The  selection of these  communities  was  purely  purposive as  they  were 
+
+identified to be most floods prone by DDMCs.  
+
+ 
+
+Intelligent  observations  formed  an  important  element  of  the  assessment  as 
+
+enumerators  applied  their  expertise  and  experience  to  assess  the  situation  on  the 
+
+ground (See Annex V for the District and Community questionnaires).Secondary data 
+
+from other reports as referenced has also been used. 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+3.0   FINDINGS  
+ 
+3.1  ZAMBEZI - CHAVUMA CATCHMENT AREA 
+
+ 
+
+3.1.1   Hazard Situational Analysis  
+ 
+The occurrence of floods in Zambezi and Chavuma is almost on a yearly basis and these two 
+
+districts  usually  find  themselves  in  a  state  of  unpreparedness.  The  sources  of  flooding  are 
+
+high rainfall and rising groundwater. These natural phenomena have affected infrastructure, 
+
+crops, livestock and therefore the people’s capacity to feed themselves. (See Annex II). 
+
+ 
+
+The West bank is most prone to floods and drought. It is characterised by low lying terrain 
+
+with trees and grasslands. The road network in the district is generally poor and during the 
+
+rainy season the west bank is generally inaccessible by road and therefore is cut off from the 
+
+rest of the district.  
+
+ 
+
+Most  communities  living  in  this  area  are  vulnerable  to  natural  hazards  and  the  levels  of 
+
+poverty are rather high. During the 2007/08 rainy season, 4,380 households in Zambezi and 
+
+1,656 households in Chavuma were affected by floods. Of these 300 households in Chavuma 
+
+and 100 households in Zambezi were destroyed. Crop loss in this catchment area was up to 
+
+70 percent in some cases.  Livestock losses affected mostly cattle and chickens. 
+
+ 
+The table below shows the most flood prone areas in Zambezi and Chavuma Districts: 
+ 
+Table 1: Flood Prone Areas and their proximity from the Central Administration 
+
+Communities in Zambezi 
+
+Muyembe/  Linyovu  on  the  Kashishi 
+River 
+Mwange/Chinyama  Litapi  on  Litapi 
+river 
+Mapachi /Chinyingi 
+Makondo Community 
+Mpidi Comunnity 
+Nyakulenga 
+Communities in Chavuma 
+
+Nyantanda Ward/Nyambimbingilu 
+Nguvu Ward 
+Kambuya Mukela Ng’ombe 
+Linyundu-Kainda 
+Kalombo-Kamisamba Ward 
+
+from  Zambezi 
+
+Distance 
+(Km) 
+35 (West Bank) 
+
+96 (West Bank) 
+
+2-10 (West Bank) 
+105 (West Bank) 
+95 (East Bank) 
+70 (East Bank) 
+Distance  from  Chavuma 
+(Km) 
+68 (West Bank) 
+113 (West Bank) 
+20 (West Bank) 
+20 (West ?Bank) 
+20 (East Bank) 
+
+ 
+
+3
+
+ 
+3.1.2.   Remote Power Supplies 
+
+ 
+
+There  was  no  evidence  of  existence  of  remote  power  supplies  to  support  early  warning 
+
+communication in both East and West banks.  
+
+3.1.3  Hydrological Stations  
+
+    
+
+The  catchment  area  has  two  (2)  Automatic  hydrological  platforms  that  monitor  various 
+
+hydrological  parameters  on  the  Kabompo  –  Watopa  River  and  on  the  Zambezi  River  at 
+
+Chavuma  Boma.  These  Automatic  hydrological  platforms  belong  to  Southern  Africa 
+
+Development  Community  (SADC)  Hydrological  Observation  System  Project.  The  Automatic 
+
+platforms are operated under auspices of a regional project and do not form part of the early 
+
+warning system that may be availed to DMMU. This is so because the data has to first get to 
+
+South Africa before it is available locally. 
+
+There are nine (9) manual gauge stations in Zambezi and Chavuma districts. All these gauge 
+
+stations  are  functional  and  are  located  on  the  East  bank  while  the  west  bank  has  none. 
+
+However  reporting  from  these  stations  is  irregular  due  to  lack  of  communications  systems. 
+
+(Refer to the table below).  
+
+Table 2: Hydrological Stations in the Zambezi – Chavuma Catchment Area 
+
+Station name 
+
+Freq  of 
+
+Status 
+
+Parameters  Mode 
+
+of 
+
+Reportin
+
+g 
+
+Zambezi District 
+
+Communication 
+
+Lunyiwu 
+
+Stream 
+
+Monthly 
+
+Functional 
+
+Water Level 
+
+HUMAN 
+
+(gauge plate) 
+
+MESSAGES 
+
+Chibatu  at  Makondo 
+
+Monthly 
+
+Functional 
+
+Water Level 
+
+HUMAN 
+
+River (gauge plate) 
+
+MESSAGES 
+
+Dipalata  Mission  at 
+
+Monthly 
+
+Functional 
+
+Water Level 
+
+HUMAN 
+
+Makondo  River  (gauge 
+
+plate) 
+
+MESSAGES 
+
+Nyakulenga 
+
+at 
+
+Monthly 
+
+Functional 
+
+ Water Level 
+
+HUMAN 
+
+Makondo  River  (gauge 
+
+plate) 
+
+MESSAGES 
+
+ 
+
+4
+
+Pump 
+
+House 
+
+at 
+
+Monthly 
+
+Functional 
+
+Water Level 
+
+HUMAN 
+
+Zambezi  River  (gauge 
+
+plate) 
+
+observation 
+
+Katowa 
+Well 
+Kalambo  Observation 
+
+Well 
+
+Chavuma District 
+
+Irregular  
+
+Functional 
+
+Water Level 
+
+Irregular  
+
+Functional 
+
+Water Level 
+
+MESSAGES 
+
+HUMAN 
+MESSAGES 
+HUMAN 
+
+MESSAGES 
+
+Chinyingi Border 
+
+Irregular  
+
+Functional 
+
+Water Level 
+
+CELL PHONE 
+
+Chavuma  boma (ZRA) 
+
+Irregular  
+
+Functional 
+
+Water Level 
+
+CELL PHONE 
+
+ 
+There were no ground water observations boreholes in both Zambezi and Chavuma.  
+
+Hydrological Data from field stations is transmitted monthly and then forwarded to provincial 
+
+offices by Post. At the province, all district data is arranged in a batch and posted to Lusaka 
+
+Headquarters  creating a non real time circuit. 
+
+3.1.4 Meteorological Stations 
+
+There are  six (6)  meteorological  stations  in the  Zambezi –  Chavuma catchment area  which 
+
+are all functional.  
+
+Table 3: Meteorological Stations in the Zambezi – Chavuma Catchment Area  
+Station Name 
+of 
+
+Parameters 
+
+Status 
+
+Mode 
+Communication 
+
+Frequency    of 
+Reporting 
+
+Zambezi District 
+Zambezi Air Strip 
+
+Irregular 
+
+Functional 
+
+Cell Phone 
+
+Temperature; 
+Cloud 
+Humidity; 
+
+Rain; 
+Sunshine; 
+Coverage; 
+Wind 
+Rain 
+Rain 
+
+Rain 
+Rain 
+
+Irregular 
+irregular 
+
+Functional 
+Functional 
+
+Dipalata Sch. 
+Chitokoloki 
+Mission 
+Chavuma District 
+Chavuma Met 
+Chavuma 
+Mission (Private) 
+Lukolwe Mission 
+Field Data is transmitted to the provincial office by Monthly Document returns. 
+
+Cell Phone 
+Cell Phone 
+
+Cell Phone 
+ 
+
+Functional 
+Functional 
+
+Irregular 
+Irregular 
+
+ 
+
+Functional 
+
+rain 
+
+Cell Phone 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.1.5. Maps of Flood Prone Areas 
+
+ 
+
+ 
+
+5
+
+No official maps are available to show the flood prone areas. Only maps of wards affected by 
+
+the  floods  were  available  in  various  VAC  reports  for  the  district.  However,  mapping  of 
+
+communities and infrastructure in  relation  to  flood  marks  and types  of responses  to  invoke 
+
+has not been conducted. 
+
+3.1.6. Indigenous Knowledge and Public Awareness 
+
+ 
+
+In spite of the traditional methods to warn people about impending floods, the Communities 
+
+in the two districts still found themselves caught up each time. This was found to be a result 
+
+of general poor infrastructure of roads and bridges which are currently inadequate to support 
+
+effective  communications.  These  Communities  view  their  livelihood  as  tied  to  the  same 
+
+disaster prone areas leaving them with little choice to relocate early. Some of the traditional 
+
+methods to warn them about impending floods were highlighted as follows: 
+
+a.  More rain meant higher floods were very likely 
+
+b.  Previous levels of flooding unable to recede sufficiently meant subsequent year would 
+
+have higher floods 
+
+c.  Cob-webs flying across the sky in December indicated likelihood of higher  floods 
+
+d.  A lot of Red Ants indicated high water tables 
+
+ 
+
+Some of the traditional methods to detect drought were highlighted as follows: 
+
+a.  Delay in rains starting  
+
+b.  Too much caterpillars on the trees  
+
+c.  Streams drying up , 
+
+ 
+
+With  regard  to  public  awareness  and  education  to  recognize  simple  signals  for  immediate 
+
+response, the Communities indicated that the current response to floods is to uproot cassava 
+
+tubers to avoid  their  rotting.  Communication  with  the  District officials  was  through  the  Red 
+
+Cross and the Chiefs. However, that form of communication was ineffective, due to response 
+
+delays from the District Administration.  One community in Chavuma had developed a simple 
+
+dug well to observe the ground water rising levels. 
+
+ 
+
+ 
+3.1.7  Preparedness Plans 
+
+ 
+
+ 
+
+6
+
+Flood preparedness strategy and plans were mainly involved with the identification of points 
+
+at which to pre-position food in readiness for floods. This was because the areas concerned 
+
+were usually cut off from food supply areas and inhabitants were required to wade in water 
+
+over vast distances. However it is worth noting that the two districts were among those that 
+
+were trained in the development of the preparedness plans. 
+
+Some of the Institutions that play their roles in disaster management were as follows: 
+
+1.  Local  Schools  played  a  pivotal  role  in    relaying  early  warning  information  to  the district 
+
+through messengers; 
+
+2.  Ministry of Agriculture and cooperatives played a role in extension service on winter crops 
+
+but lacked the capacity to cover all affected communities;  
+
+3.  Ministry of Health ,  Ministry of Community Development and local Churches took part in 
+
+community sensitization to develop appropriate coping mechanisms to mitigate disasters 
+
+and improve food security;  
+
+4.  Ministry of Defence played an important role in relief operations 
+
+ 
+
+The documentation of hazards in the two districts was not found to be elaborate. However, 
+
+information  on  hazards  may  be  obtainable  through  DDMCs  and  the  Zambia  Vulnerability 
+
+Assessment Committee (ZVAC)  
+
+ 
+3.2  KAFUE ITEZH-TEZHI CATCHMENT AREA 
+
+ 
+
+3.2. 1 Hazard Situational Analysis in the 2007/08 season 
+
+ 
+
+In Itezhi-tezhi the following wards were identified as being  prone to  floods: Mbila,Luchena, 
+
+ItezhiTezhi, Itumbi, Kaazwa, Bana Mwaze and Lubanda. 
+
+ 
+
+In Kafue the following areas were identified as flood prone in the district; 
+
+Chanyanya  Fishing  Camp,  St.  Joseph  Island,  Chiawa,  Mwembeshi  Settlement  Village, 
+
+Lukolongo ward, Solobone and Zambia Compounds. 
+
+ 
+
+ 
+
+ 
+
+3.2.2 Remote Power Supplies 
+
+ 
+
+ 
+
+ 
+
+7
+
+ 
+The catchment area has no remote power supplies to be used for early warning equipment 
+
+such as radios and telemetry sensors and transmitters. 
+
+ 
+
+ 
+
+3.2.3 Hydrological Gauge Stations in the Kafue/ Itezhi-tezhi Catchment areas 
+
+ 
+
+In  the Kafue  /  Itezhi-tezhi  catchment area  there are  seven  (7)  gauge stations  as  shown  in 
+
+the  table  below.  The  reporting  from  these  stations  is  irregular  due  to  non  existence  of 
+
+communications systems. The gauge readers are poorly enumerated as they rarely get their 
+
+dues.  This  affects  readings  and  hence  reporting.  Water  level  readings  are  supposed  to  be 
+
+transmitted in real time as opposed to posting. 
+
+ 
+Table 4: Hydrological Stations in Kafue-Itezhi-tezhi catchment area. 
+STATION  
+
+PARAMETERS  MODE 
+
+STATUS 
+
+OF 
+
+FREQ  OF 
+REPORTI
+NG 
+Irregular 
+
+COMMUNICATION  
+
+Functional   Water Level 
+
+Radio and Cell Phone 
+
+irregular 
+
+Functional   Water Level 
+
+Radio and Cell Phone 
+
+irregular 
+
+Functional   Water Level 
+
+Post  
+
+irregular 
+
+Functional   Water Level 
+
+Post 
+
+irregular 
+
+Functional   Water Level 
+
+Post 
+
+irregular 
+
+Functional   Water Level 
+
+Radio and Cell Phone 
+
+irregular 
+
+Functional   Water Level 
+
+Radio and Cell Phone 
+
+on 
+
+on 
+
+Chiawa 
+Pontoon 
+Kafue river 
+Kasaka 
+Kafue river 
+Lusaka/ 
+Mumbwa RB on 
+Mwembeshi 
+river 
+Shibuyunji  on 
+Mwembeshi 
+river 
+Namwala 
+Pontoon Kafue 
+Itezhi-tezhi 
+upper on Kafue 
+river 
+Itezhi-tezhi 
+Lower on Kafue 
+river 
+
+ 
+
+ 
+ 
+ 
+3.2.4 Meteorological Stations in the Itezhi-tezhi / Kafue catchment area. 
+
+ 
+
+8
+
+ 
+The  survey  established  the  existence  of  10  Meteorological  stations  scattered  in  the  Kafue 
+
+flats catchment area. Most of these are in areas serviced by cell phones though reporting is 
+
+irregular. 
+
+ 
+Table 5: Meteorological Station in Kafue-Itezhi-tezhi catchment area. 
+  
+STATION  
+
+STATUS 
+
+OF 
+
+FREQ 
+REPORTING 
+
+OF 
+
+ 
+
+MODE 
+COMMUNICATIO
+N 
+Radio 
+Phone 
+
+and 
+
+Cell 
+
+PARAMETE
+RS 
+
+Rain  
+
+Rain  
+
+Regular 
+
+Irregular 
+
+Irregular 
+
+Irregular 
+
+Irregular 
+
+Irregular 
+
+Functional 
+
+Rain  
+
+Functional 
+
+Rain  
+
+Functional 
+
+Rain  
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+Functional 
+
+Functional  
+
+Radio 
+Phone 
+
+Radio 
+Phone 
+Radio 
+Phone 
+Radio 
+Phone 
+Radio 
+Phone 
+
+Macha 
+Mission 
+(Choma) 
+Kaleya 
+Farms 
+(Mazabuka) 
+Mbiya  Basic 
+(Mazabuka) 
+Lochnvar 
+(Monze) 
+Mutama  G.S 
+(Monze) 
+Mungu 
+School 
+(Kafue) 
+Mwachisomp
+ola 
+(Mumbwa) 
+Blue  Lagoon 
+(Chitongo) 
+Chanyanya 
+(Kafue) 
+Mamba 
+Colliery 
+(Maamba) 
+ 
+3.2.5 Maps of Affected and Flood Prone Areas 
+ 
+No formal maps were available to show the flood prone areas. Only maps of wards affected 
+
+Radio 
+Phone 
+Radio 
+Phone 
+Radio 
+Phone 
+
+Radio 
+Phone 
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+and 
+
+Cell 
+
+Functional 
+
+Rain  
+
+Functional 
+
+Rain  
+
+Functional 
+
+Rain  
+
+Functional 
+
+Rain  
+
+Functional 
+
+Rain  
+
+Irregular 
+
+Irregular 
+
+Irregular 
+
+Irregular 
+
+were available in the VAC reports for the district.  
+
+However, mapping of communities and infrastructure in relation to flood marks and types of 
+
+responses to invoke has not been conducted. 
+
+3.2.6 Indigenous Knowledge and Public Awareness 
+
+ 
+
+9
+
+ 
+
+There is no indication on the use of indigenous early warning systems in this catchment area. 
+
+Messages  travel  informally  as  rumours.  Councillors  and  community  leaders  report  flood 
+
+occurrences to the particular DDMCs. There are no public awareness programmes though the 
+
+area has a number of community radio stations with substantial coverage. 
+
+ 
+
+3.2.7 Preparedness Plans 
+
+ 
+
+Community  preparedness  to  impending  disasters  is  limited.  The  communities  in  the 
+
+catchment area rely mostly on existing institutions such as ZESCO and Zambia Meteorological 
+
+Department for warnings for hazards especially floods and droughts. 
+
+ 
+
+Communities’  interaction  with  the  district  officials  is  mainly  through  meetings  at  Area 
+
+Development  Committees,  Zones  and 
+
+through  councillors,  extension  workers  and 
+
+messengers. Cell phones are also used for communications. The area was also found to be 
+
+serviced  by  a  number  of  community  radio  stations  covering  almost  the  whole  catchment 
+
+area. 
+
+ 
+
+3.3 
+
+LUANGWA MAMBWE CATCHMENT AREA 
+
+ 
+
+3.3.1 Hazard Situational Analysis in the 2007/08 season 
+
+ 
+
+This catchment’s area stretches from Chama through Mambwe to Luangwa district where the 
+
+Luangwa meets the Zambezi and flows into Mozamboque. In the Lundazi / Chama area the 
+
+flood  prone  areas  are  Chifunda,  Kambombo,  Tembwe,  Mwanya  Chikwa  and  Lumimba.  In 
+
+Mambwe  the  areas  are  Msoro,  Kakumbi,  Malama,  Nsefu  Chikowa  and  Masumba.  In  the 
+
+Petauke  /Nyimba  area  the  floods  prone  areas  Unyanya,  Mwape  and  Luwembe  along  the 
+
+Luangwa river up to Luangwa district. 
+
+ 
+
+In the 2007/08 season the Luangwa Mambwe catchment area was affected by floods mainly 
+
+in the districts of Luangwa, Nyimba and Mambwe with damage to infrastructure, crops and 
+
+livestock. Mambwe had about 100 houses, 1 health center and 5 lodges in the National Park 
+
+ 
+
+10
+
+submerged.  Also  roads and  bridges and  roads  were  destroyed.  Nyimba floods  in the  valley 
+
+areas  and  Luangwa  district  is  most  affected  at  confluence  with  the  Zambezi  and  along  the 
+
+banks. (Annex IV) 
+
+ 
+
+ 
+
+ 
+
+3.3.2  Remote Power Supplies 
+
+ 
+
+There  are  no  functional  remote  power  supplies  in  the  catchment  area.  The  solar  power 
+
+supplies at Mfuwe, Ndevu camp and Luangwa Bridge belonging to DWA are non-functional. 
+
+ 
+
+3.3.3  Hydrological in the Luangwa / Mambwe catchment area. 
+
+ 
+
+The catchment area has seven (7) hydrological stations stretching from Chama to Luangwa 
+
+district.  Though  the  stations  are  functional  in  terms  of  measuring  the  water  levels, 
+
+transmission of data is a great challenge. Ndevu camp in Nyimba, for example transmits data 
+
+to the boma on a monthly basis. The gauge readers are poorly and  
+
+irregularly paid their dues. 
+
+ 
+ 
+STATION  
+
+at 
+
+Luangwa 
+Mulopwe 
+Lundazi  at  Lundazi 
+Dam 
+Luangwa at Mfuwe 
+
+at 
+
+at 
+
+Msipazi 
+Madzimoyo Quarry 
+Luangwa  at  Ndevu 
+Camp 
+Lumamba 
+Lumamba dam 
+Luangwa 
+(G.E.R) 
+ 
+ 
+ 
+
+Bridge 
+
+FREQ  OF 
+REPORTIN
+G 
+Irregular  
+
+Irregular  
+
+Irregular  
+
+Irregular  
+
+Irregular  
+
+Irregular 
+
+Irregular 
+
+STATUS 
+
+PARAMET
+ERS 
+
+MODE 
+COMMUNICATIONS 
+
+OF 
+
+Functional  Water 
+Levels 
+Functional  Water 
+Levels 
+Functional 
+Water 
+ 
+Levels 
+Functional   Water 
+Levels 
+Functional   Water 
+Levels 
+Functional   Water 
+Levels 
+Functional  Water 
+Levels 
+
+HF Radio 
+
+HF radio 
+
+Cell , HF Radio 
+
+Cell 
+
+HF Radio 
+ 
+HF Radio 
+
+Cell, HF Radio 
+
+3.3.4. Meteorological Stations in the Luangwa / Mambwe catchment area.  
+
+ 
+
+11
+
+ 
+
+The  survey  the  existence  of  20  critical  Meteorological  stations  in  the  Luangwa  /  Mambwe 
+
+catchment area. The main meteorological station in catchment area is at Mfuwe International 
+
+Airport.  Some  of  the  equipment  at  the  station  include:  wind  vane,  rain  gauge,  sunshine 
+
+recorder,  thermometers  and  humidity  measuring  equipment.  The  rest  of  the  stations 
+
+measure basically rainfall. 
+
+ 
+
+Real  time  transmission  of  data  from  these  stations  is  a  challenge  due  to  lack  of 
+
+communications equipment. 
+
+ 
+STATION  
+
+LUANGWA BRIDGE 
+
+FREQ  OF 
+REPORTIN
+G 
+No reports 
+
+Irregular 
+Irregular 
+
+Irregular 
+Regular  
+Irregular  
+
+CHITOPE AGRIC 
+KATONDWE 
+MISSION 
+RUFUNSA MET 
+MFUWE MAIN 
+MAMBWE DACOS 
+OFFICE 
+CHIKOWA MISSION 
+Irregular  
+KAKUMBI RESEARCH  Irregular  
+MASUMBA 
+Irregular  
+RESEARCH 
+MSORO 
+MWANYA SUB 
+KAMBOMBO AGRIC 
+CHIFUNDA AGRIC 
+TEMBWE AGRIC 
+LUMIMBA  
+CHIKWA AGRIC 
+CHASERA PRI SCH 
+MWAPE AGRIC 
+UNYANYA LUNGWA 
+BRIDGE 
+NDEVU CAMP 
+
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+Irregular  
+
+Non-
+functional  
+
+ 
+ 
+
+ 
+
+STATUS 
+
+PARAMETE
+RS 
+
+MEANS 
+COMMUNICATION 
+
+OF 
+
+Rain 
+
+Station 
+unmanned 
+Functional  Rain 
+Functional  Rain 
+
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+Functional  Rain 
+
+Radio and Cell Phone 
+
+non 
+non 
+
+non 
+Radio and Cell Phone 
+Radio and Cell Phone 
+
+Radio  
+Radio  
+Radio  
+
+Radio and Cell Phone 
+Radio  
+non 
+non 
+non 
+non 
+non 
+non 
+non 
+non 
+
+Functional  Rain 
+
+non 
+
+12
+
+The pictures below show 1. A non functional HF radio at the Luangwa bridge gauge station 
+2. An overgrown and unmanned Weather station at Luangwa and 3. A box to house an 
+automated station at Ndevu camp on Luangwa River 40 Km west of Nyimba. 
+
+ 
+
+ 
+ 
+
+ 
+
+3.3.5  Maps of Affected and Flood Prone Areas 
+
+ 
+
+There are no formal maps for flood prone areas. There is need to come up with this 
+
+during the project life. 
+
+ 
+
+3.3.6  Indigenous Knowledge and Public Awareness 
+
+ 
+
+Public  and  Community  meetings  showed  that  there  is  very  little  or  no  use  of 
+
+indigenous knowledge in as far as Early Warning is concerned. 
+
+There are no public awareness programmes both at district and community level. 
+
+ 
+
+3.3.7  Preparedness Plans 
+
+ 
+
+There are no preparedness plans in place in all the districts in the catchment area. 
+
+However Mambwe was one of the districts trained for preparedness under the VAC 
+
+capacity building project. 
+
+ 
+4.0 OVERALL FINDINGS 
+ 
+The  findings  of  the  survey  brought  out  major  and  measurable  weaknesses  in  the  area  of 
+
+Meteorological and hydrological stations. The Zambezi/Chavuma catchment area has six (6) 
+
+meteorological stations and nine (9) hydrological stations. The vast Kafue flats have ten (10) 
+
+meteorological stations and eight (8) hydrological gauge stations. The situation is similar in 
+
+the Luangwa/Mambwe catchment area has nineteen (19) met stations and seven (7) water 
+
+ 
+
+13
+
+gauge stations spread over a geographical area of seven (7) districts. All these stations are 
+
+poorly  equipped  and  in  some  cases  unmanned.  Gauge  readers  are  poorly  motivated  and 
+
+enumerated making automation of these stations where possible a sustainable alternative. 
+
+ 
+
+ 
+
+d
+n
+a
+
+ 
+t
+e
+M
+
+ 
+f
+o
+
+ 
+r
+e
+b
+m
+u
+N
+
+s
+n
+o
+i
+t
+a
+t
+S
+o
+r
+d
+y
+H
+
+ 
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Figure 1: Met and Hydro Stations in the Catchment 
+
+Areas
+
+Met Stations
+
+Hydro Stations
+
+Zambezi -
+Chavuma
+
+Kafue flats
+
+Luangwa -
+Mambwe
+
+Catchment Area
+
+ 
+ 
+ In all these areas  the  flood prone areas  have not  been  mapped  and  there  are no  disaster 
+
+preparedness  plans.  Only  in  Zambezi/Chavuma  catchment  area  had  an  indication  of 
+
+communities using indigenous knowledge in the area of early warning for floods and drought. 
+
+There  are  no  deliberate  programs  to  sensitize  communities  in  these  areas  on  disaster 
+
+ 
+
+preparedness and response. 
+
+ 
+
+Taken together these findings expose major gaps in the area of Early Warning in the selected 
+
+areas  in  particular  and  in  Zambia  in  general.  The  findings  will  provide  an  insight  to  policy 
+
+makers  and  disaster  managers  on  interventions  such  as  the  improvement  of  weather 
+
+monitoring  and  forecasting  systems  and  water  level  monitoring  systems.  Production  and 
+
+review  of  disaster  preparedness  must be  given high priority.  Public awareness  programs  in 
+
+the  print  and  electronic  media  must  be  given  high  priority  while  at  the  same  time 
+
+encouraging the use of indigenous knowledge and practices in early warning. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+5.0   CONCLUSION  
+
+ 
+
+The  baseline  survey  brought  out  glaring  weaknesses  in  the  transmission  and  collection  of 
+
+early  warning parameters.  Most of  the  stations  use  post or  messengers  to take data  which 
+
+takes  even  three  months  to  reach  the  district.  The  readers  are  not  motivated  and  do  the 
+
+work  on  voluntary  basis.  Automation  is  the  only  solution  to  have  this  data  in  real  time  as 
+
+disaster  response  and  saving  lives  is  time  critical.  The  recommendations  in  this  baseline 
+
+report must be implemented if Early Warning is to improve, 
+
+ 
+
+6.0 RECOMMENDATIONS 
+
+ 
+
+6.1 Remote Power Supplies 
+
+ 
+
+Need to put in place solar power supplies in the stations to be used to supply Met and Gauge 
+
+stations. 
+
+ 
+
+6.2 Hydrological gauge Stations 
+
+ 
+
+i.  Increase the number of water level gauge stations in these catchments. 
+
+ii.  The  existing  hydrological  stations  need  to  be  improved  in  order  to  have  data 
+
+transmitted in real time i.e. use of telemetry and installation of HF radios. 
+
+iii.  Since  most  of  these  stations  are  situated  in  remote  sites  there  is  need  to  provide 
+
+appropriate transport (boats, motor bikes) to enable officers reach them in time. 
+
+ 
+
+6.3 Meteorological Stations 
+
+ 
+
+i.  To improve the remote sensing at Zambia Meteorological Department and increase the 
+
+number of Met personnel, so that weather information can be transmitted on real-time 
+
+to a central database for analysis and dissemination. 
+
+ 
+
+15
+
+ii.  Automate  Weather  stations  by  using  telemetry  or  satellite  link  to  transmit  data  real 
+
+time. 
+
+iii.  Meteorological stations be automated and be placed every 25 sq. Kilometres.  
+
+iv.  Come  up  with  capacity  building  programs  for  Meteorological  officers,  Voluntary 
+
+Rainfall Reporting stations personnel  
+
+ 
+
+6.4 Mapping of affected and flood prone areas 
+
+ 
+
+i.  Get  the  coordinates  of  established  Voluntary  Rainfall  Reporting  stations  and  Mission 
+
+Schools for them to appear on the rainfall map. 
+
+ii.  Map and profile all flood prone areas 
+
+iii.  Engage the communities and the district officials in flood mapping of settlements and 
+
+infrastructure. 
+
+ 
+
+6.5 Preparedness Plans 
+
+ 
+
+The  project  should  help  each  district  in  the  catchment  areas  to  come  up  with  Disaster 
+
+Preparedness plans incorporating early warning as a critical component. 
+
+ 
+
+6.6 Use of Indigenous Knowledge 
+
+Need to encourage and document indigenous knowledge in terms of early warning. 
+
+ 
+
+6.7 Public awareness and Capacity Building 
+
+ 
+
+i.  Need for public awareness programmes in these flood prone areas. 
+
+ii.  Need for Workshops / Training for Volunteers on how to read rainfall and transmission 
+
+period 
+
+iii.  Sensitization of communities on disaster management should be a continuous process 
+
+and not only when there is a disaster. 
+
+iv.  The speed of flow of information from the community to the district officials must be 
+
+improved  by  empowering  the  communities  with  cell  phones  and  communication 
+
+radios. 
+
+ 
+
+16
+
+v.  Seasonal  rainfall  forecasts  must  be  interpreted  in  local  languages  and  disseminated 
+
+through community radios. 
+
+vi.  Enhance public awareness and use of indigenous knowledge  
+
+vii.  Public awareness and use of indigenous knowledge need to be enhanced. 
+
+viii.  The  project  should  define  in  consultations  with  the  communities  and  district 
+
+administration  what  would  constitute  an  early  warning  in  their  local  situations,  and 
+
+what measures to take. This is what will form the basis for the proposed early warning 
+
+service to the communities. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+17
+
+ANNEXES  
+ 
+ANNEX I: SUMMARY OF HYDROLOGICAL AND METEOROLOGICAL STATIONS 
+ 
+
+Catchment 
+
+District 
+
+Met 
+Station
+
+s 
+
+Area 
+
+Zambezi - 
+Chavuma 
+
+Chavuma 
+
+3 
+
+Zambezi 
+
+3 
+
+CATCHMENT 
+TOTAL 
+Kafue Flats 
+
+ 
+
+Kafue 
+
+6 
+
+2 
+
+Namwala 
+
+1 
+
+Mazabuka  2 
+
+Monze 
+
+2 
+
+Mumbwa 
+
+1 
+
+Maamba 
+
+Choma 
+
+Itezhi-
+tezhi 
+ 
+
+1 
+
+1 
+
+0 
+
+10 
+
+CATCHMENT 
+TOTAL 
+
+ 
+
+Gauge 
+Station
+s 
+2 
+
+7 
+
+9 
+
+3 
+
+1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+3 
+
+7 
+
+Maps of 
+
+Use of 
+
+Preparedness 
+
+Public Awareness 
+
+Flood Prone 
+
+Areas 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+indigenous 
+knowledge 
+Yes 
+
+Yes 
+
+  
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+ 
+
+Plans 
+
+Yes, DDMC 
+trained  under 
+VAC 
+Yes, DDMC 
+trained  under 
+VAC 
+ 
+
+No plans 
+
+No plans 
+
+No plans 
+
+No plans 
+
+No plans 
+
+No plans 
+
+No plans 
+
+No plans 
+
+Yes, DDMC 
+trained  under 
+VAC 
+
+No deliberate or formal public awareness 
+programmes 
+
+No deliberate or formal public awareness 
+programmes 
+
+ 
+
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+ 
+
+19
+
+Catchment 
+
+District 
+
+Area 
+
+Met 
+Station
+
+s 
+
+Luangwa 
+Mambwe 
+
+Chama 
+
+Lundazi 
+
+6 
+
+1 
+
+Mambwe 
+
+5 
+
+Chipata 
+
+Petauke 
+
+Nyimba 
+
+Luangwa 
+
+CATCHMENT 
+TOTAL 
+
+ 
+
+1 
+
+0 
+
+4 
+
+3 
+
+20 
+
+Gauge 
+Station
+s 
+1 
+
+1 
+
+1 
+
+2 
+
+0 
+
+1 
+
+1 
+
+7 
+
+Maps of 
+
+Use of 
+
+Preparedness 
+
+Public Awareness 
+
+Flood Prone 
+
+Areas 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+indigenous 
+knowledge 
+No  
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+No 
+
+ 
+
+Plans 
+
+No plans 
+
+No plans 
+
+Yes, DDMC 
+trained  under 
+VAC 
+No plans 
+
+No plans 
+
+No plans 
+
+No plans 
+
+ 
+
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+No deliberate or formal public awareness 
+programmes 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+20
+
+ANNEX II: ZAMBEZI/ CHAVUMA - AFFECTED HOUSEHOLDS, CROPS AND 
+INFRASTRUCTURE 2007/08 RAINY SEASON 
+
+ 
+Public and Private Buildings Damaged 
+ 
+
+ 
+
+ 
+
+ 
+HEALTH 
+CENTRES 
+ 
+
+DISTRICT 
+ 
+
+Chavuma 
+
+Zambezi  
+
+- 
+
+- 
+
+SCHOOLS 
+ 
+
+Sanjolo Basic 
+
+- 
+
+PUBLIC  /  PRIVATE 
+BUILDINGS 
+ 
+
+- 
+
+- 
+
+HABITATIONS 
+ 
+300 houses and 
+habitations 
+100 houses and 
+habitations 
+ 
+
+ 
+Damaged Roads 
+ 
+
+DISTRICT 
+  
+
+NAME OF ROAD/BRIDGE/CULVERT 
+  
+
+Main road to Nyatanda 
+
+Chavuma 
+
+Main road to Nguvu main road 
+
+Main road to Nyambingila  
+
+Muyembe 
+
+Main road to Kakoto 
+Mpidi 
+Main road to Nyawanda  
+Gwembe – Muyumbwe culvert 
+Muyumbwe – Nakakwele culvert 
+Malobe Bridge  
+Nasenga bridge culvert 
+Ngwezi Bridge  
+Mweemba road 
+Loanja Bridge  
+ 
+
+Zambezi  
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+cut-off 
+
+-Kashiji 
+
+bridge 
+
+culverts  washed 
+
+culverts  washed 
+
+culverts  washed 
+
+DESCRIPTION OF DAMAGE 
+  
+Submerged, 
+away 
+Submerged, 
+away 
+Submerged, 
+away 
+Area 
+damaged 
+Submerged, 
+away 
+Culverts on Lwitadi river broken 
+Submerged, area inaccessible 
+Partially collapsed 
+Partially collapsed 
+Partially collapsed 
+Culvert has been washed away 
+Bridge eroded, road impassable 
+Road eroded exposing bridge 
+Bridge submerged, water overflow 
+ 
+
+culverts  washed 
+
+21
+
+Crop Losses 
+ 
+
+DISTRICT 
+
+CROP TYPE 
+
+ESTIMATED 
+HA  PLANTED 
+
+ESTIMATED % CROP LOSS 
+
+Chavuma 
+
+Zambezi 
+
+460 
+650 
+320 
+4,350 
+8,700 
+
+Maize 
+Cassava 
+Rice 
+Maize 
+Cassava 
+Sweet Potatoes  650 
+Millet 
+Cotton 
+
+60% 
+60% 
+70% 
+30% 
+35% 
+30% 
+19% 
+34% 
+
+19% 
+
+20% 
+
+3,753 
+409 
+               
+7,123  
+               
+9,266  
+
+Sorghum 
+
+G/Nuts 
+
+ 
+Livestock Losses 
+
+DISTRICT 
+ 
+Chavuma 
+  
+Zambezi 
+
+TYPE 
+LIVESTOCK 
+Poultry 
+Cattle 
+Chickens 
+Poultry 
+
+OF 
+
+LIVESTOCK 
+POPULATION 
+63,000 
+9,160 
+10,991 
+22,610 
+
+%  OF  ESTIMATED  LIVESTOCK 
+DEATHS 
+1% 
+30% 
+95% 
+0% 
+
+ 
+Affected Populations 
+
+ DISTRICT 
+
+Chavuma 
+  
+
+  
+Chavuma-Total 
+Zambezi  
+  
+  
+  
+Zambezi-Totals 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+WARDS 
+Nyatanda 
+Nyambingila 
+Nguvu 
+Kalombo 
+kamusamba 
+  
+Muyembe 
+Kakoto 
+Mpidi 
+Nyawanda 
+  
+
+PROJECTED 
+WARD 
+POPULATION 
+
+AFFECTED 
+POPULATION 
+
+WARD 
+
+2,475 
+1,162 
+
+4,238 
+7,875 
+4,800 
+1,280 
+19,761 
+1,000 
+26,841 
+
+756 
+288 
+
+612 
+1,656 
+1,200 
+1,020 
+1,158 
+1,002 
+4,380 
+
+22
+
+ANNEX III: ITEZHI – TEZHI KAFUE   - AFFECTED HOUSEHOLDS, CROPS AND 
+INFRASTRUCTURE 2007/08 RAINY SEASON 
+
+ 
+Public and Private Buildings Damaged 
+
+HEALTH 
+CENTRES  SCHOOLS 
+ 
+
+/ 
+
+PUBLIC 
+PRIVATE 
+BUILDINGS  HABITATIONS 
+ 
+
+  
+
+- 
+
+- 
+
+- 
+- 
+- 
+- 
+- 
+  
+  
+
+  
+  
+ 
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+ 
+120 houses and 
+habitations 
+  
+  
+habitations 
+habitations 
+  
+117 houses and 
+ habitations 
+  
+  
+
+77 houses and 
+habitations 
+  
+  
+  
+  
+1,100 houses  
+
+  
+  
+  
+  
+ 
+
+23
+
+ 
+Munkolo Basic 
+St Josephs Basic 
+Chikupi Basic 
+Malabanyika Basic 
+Mundia Basic 
+Fumbu Basic 
+Kota-Kota Comm. 
+Kalubongwe Basic  
+Nyambo Basic Sch. 
+Kasaka Basic Sch. 
+Kakubwe Basic  
+
+Mazbuka Central 
+Itebe Sch. 
+Munenga Basic 
+Mwanachingwala 
+ 
+Kanundwa Basic 
+Nakamboma 
+Moobola, Maala 
+Ngambo, Muchila 
+
+Namwala Central,  
+Bambwe, Chitongo 
+Kabulamwanda 
+Chitongo, Ndema 
+Katengwa, Itapa 
+
+ 
+
+- 
+- 
+- 
+- 
+
+- 
+Itebe 
+Health 
+Cent. 
+  
+  
+  
+  
+ 
+
+- 
+
+DISTRICT 
+ 
+
+Kafue  
+
+Itehzi-
+Tehzi 
+
+Mazabuka 
+
+Namwala 
+
+  
+  
+  
+  
+  
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Damaged Roads 
+DISTRICT 
+  
+
+NAME OF ROAD/BRIDGE/CULVERT 
+  
+
+DESCRIPTION OF DAMAGE 
+  
+
+Gota-Gota bridge 
+
+Kabwadu bridge on Munsanja stream 
+
+Mongu stream 
+
+Mwembeshi-Mpamba culvert 
+
+Partially collapsed 
+
+Partially collapsed 
+
+Partially collapsed 
+
+Partially collapsed 
+
+Mano-Mpamba Road and culvert 
+
+Road and culvert flooded 
+
+Chinyanja - Makombwe Rd and culvet 
+
+Road and culvert washed away 
+
+Munyew-Kabwimba Rd and culvert 
+
+Partially collapsed 
+
+Chinsali to Safiwa Pontoon (D56) 
+
+Potholes and Gullies have formed  
+
+Chinsali to Kasama to Isoka (D18) 
+
+Potholes and Gullies have formed  
+
+Chunga Loop 
+
+Malumbo Chama 
+
+Chachacha Road 
+
+Kafue  
+
+Potholes and Gullies 
+
+Potholes and Gullies 
+
+Potholes and Gullies 
+
+Shiwangandu Kasama(D53) 
+
+Potholes and Gullies have formed  
+
+Lubu Bridge 
+
+Kasanta Bridge 
+
+Mulanga Culverts 
+
+Kaonga Culverts 
+
+Has been Damaged 
+
+Completely Washed Away 
+
+Completely Washed Away 
+
+Completely Washed Away 
+
+Culverts between the Hspital and Mill 
+
+Partially damaged 
+
+Mulolo Bridge 
+
+Fonkofonko Bridge 
+
+Sampule Bridge 
+
+Kasanta Bridge 
+
+Chongo Bridge  
+
+Itehzi-Tehzi main road 
+
+Nasenga Bridge to Namwala 
+
+Banga Bridge in Banga 
+
+Shanangoma embarkment 
+
+Itebe road 
+
+Malabo-Haampiko road 
+
+Ching’angauka-Chikani road 
+
+Nasenga bridge culvert 
+
+Ngwezi Bridge  
+
+Mweemba road 
+
+Choma-Namwala Road  
+
+Monze-Namwala Road  
+
+Itezhi-Tezhi 
+
+Mazabuka 
+
+Completely Washed Away 
+
+Completely Washed Away 
+
+Completely Washed Away 
+
+Completely Washed Away 
+
+Partially collapsed 
+
+Potholes and Gullies have formed  
+
+Bridge has been submerged 
+
+Bridge has been submerged 
+
+Embankment has collapsed 
+
+Road submerged 
+
+Potholes and Gullies have formed  
+
+Road flooded 
+
+Culvert has been washed away 
+
+Bridge eroded, road impassible 
+
+Road eroded exposing bridge 
+
+Road is flooded in many places 
+
+Road is flooded in many places 
+
+Namwala-Itehzi Tehzi Road  
+
+Completely submerged 
+
+Katengwa Road  
+
+Namwala-Kalundu Road  
+
+Chombwe Bridge in Mbanga 
+
+Namwala 
+
+Yonde Bridge in Kawaya 
+
+Chiwaya Bridge in Kashushu 
+
+Lutumo Bridge  in Mitete 
+
+Shikundulo Bridge in Dongwe 
+
+Mwito Bridge in Mwitio 
+
+Road is flooded in many places 
+
+Submerged at the embankment 
+
+Bridge is submerged 
+
+Bridge is submerged 
+
+Bridge is submerged 
+
+Bridge is submerged 
+
+Bridge is submerged 
+
+Bridge is submerged 
+
+Sesheke Boma Rd via Lusu, Malumo 
+
+Some parts completely submerged  
+
+Loanja Bridge  
+
+Bridge submerged, water overflow 
+
+ 
+
+24
+
+Crop Losses 
+ 
+
+DISTRICT 
+
+CROP TYPE 
+
+HA  
+
+ESTIMATED % CROP LOSS 
+
+ESTIMATED 
+
+PLANTED 
+
+  
+
+13,600 
+1,300 
+100 
+7,204 
+925 
+550 
+20,000 
+
+  
+Maize 
+Soya Beans 
+Sweet Potatoes 
+Maize 
+Cassava 
+Cotton 
+Maize 
+Cotton 
+G/Nuts 
+
+  
+
+  
+  
+
+G/Nuts 
+
+Sweet Potatoes 
+Maize 
+Cotton 
+G/Nuts 
+
+Sorghum 
+
+G/Nuts 
+
+              
+
+1,467  
+
+              
+
+1,016  
+16,000 
+3,000 
+3,000 
+
+               
+7,123  
+               
+9,266  
+
+ 
+
+Kafue 
+
+Itehzi-Tehzi 
+
+Mazabuka 
+
+Namwala 
+
+ 
+ 
+Livestock Losses 
+ 
+
+% OF ESTIMATED 
+
+LIVESTOCK DEATHS 
+
+DISTRICT 
+Kafue 
+  
+  
+Itehzi-Tehzi 
+  
+  
+
+TYPE OF 
+
+LIVESTOCK 
+
+Cattle 
+Poultry 
+Goats 
+Cattle 
+Poultry 
+Goats 
+
+Mazabuka 
+
+Cattle 
+
+Namwala 
+  
+  
+
+Cattle 
+Goats 
+Chickens 
+Poultry 
+
+LIVESTOCK 
+
+POPULATION 
+11,000 
+6,292 
+26,343 
+50,000 
+5,100 
+35,250 
+
+142,708 
+
+114,000 
+7,491 
+31,311 
+22,610 
+
+ 
+ 
+ 
+
+ 
+
+35% 
+35% 
+35% 
+50% 
+55% 
+65% 
+40% 
+15% 
+20% 
+
+30% 
+
+15% 
+45% 
+25% 
+30% 
+
+19% 
+
+20% 
+
+0% 
+0% 
+0% 
+0% 
+0% 
+0% 
+
+2% 
+
+2% 
+3% 
+3% 
+0% 
+
+25
+
+Affected Populations  
+
+ DISTRICT 
+Kafue  
+  
+  
+  
+  
+  
+  
+  
+Kafue - Totals 
+  
+Itehzi-tehzi 
+  
+  
+  
+  
+  
+  
+Itehzi-Tehzi - Totals 
+  
+Mazabuka 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Mazabuka - Totals 
+  
+  
+Namwala  
+  
+  
+  
+  
+  
+Namwala - Totals 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+PROJECTED 
+
+WARD 
+
+AFFECTED WARD 
+
+WARDS 
+
+Chikupi 
+Chiawa 
+Kambale 
+Chinyanja 
+Lukolongo 
+Namalombwe 
+Matanda 
+Shabusalo 
+  
+  
+Kabulungwe 
+Nyambo 
+Makunka 
+Lubanda 
+Luubwe 
+Basanga 
+Masemu 
+  
+  
+Itebe 
+Kalama 
+Mwanachingwala 
+Mazabuka 
+Ngwezi 
+Nakambala 
+Lubombo 
+Nega-Nega 
+Chitete 
+Nansenga 
+  
+  
+  
+Namwala Central 
+Baambwe 
+Maala 
+Kantengwa 
+Chitongo 
+Mbeza 
+  
+
+POPULATION 
+7,527 
+3,275 
+5,276 
+8,674 
+3,662 
+14,665 
+9,005 
+7,390 
+59,474 
+
+  
+
+  
+
+ 
+  
+
+  
+
+  
+
+  
+
+1,777 
+2,886 
+1,595 
+5,937 
+1,797 
+4,967 
+13,629 
+32,588 
+
+10,316 
+9,760 
+10,757 
+14,130 
+31,184 
+21,060 
+8,617 
+13,592 
+8,826 
+7,955 
+136,197 
+
+6,154 
+1,937 
+4,681 
+5,789 
+4,130 
+2,866 
+25,557 
+
+POPULATION 
+
+2,634 
+1,146 
+1,847 
+3,036 
+1,282 
+5,133 
+3,152 
+2,587 
+20,816 
+
+1,013 
+1,645 
+909 
+3,384 
+1,024 
+2,831 
+7,768 
+18,575 
+
+2,579 
+2,440 
+2,689 
+3,533 
+7,796 
+5,265 
+2,154 
+3,398 
+2,207 
+1,989 
+34,049 
+
+  
+2,031 
+639 
+1,545 
+1,910 
+1,363 
+946 
+8,434 
+
+26
+
+ANNEX IV: LUANGWA-MAMBWE CATCHMENT AREA  - AFFECTED HOUSEHOLDS, 
+CROPS AND INFRASTRUCTURE 2007/08 RAINY SEASON 
+
+  
+Public and Private Buildings Damaged 
+ 
+ 
+
+DISTRICT 
+
+HEALTH 
+CENTRES 
+
+SCHOOLS 
+
+BUILDINGS 
+
+HABITATIONS 
+
+PUBLIC / PRIVATE 
+
+Kamoto Hos.  Mambwe High Sch  Flat Dogs Lodge 
+  
+  
+  
+  
+
+Marula Lodge 
+Mushroom Lodge 
+Nkhwali Safaris 
+Trackland Trails 
+
+Kakumbi Basic 
+  
+  
+  
+
+Mukoma Basic 
+  
+
+Chief Ndake Court 
+  
+
+  
+
+  
+  
+  
+  
+8 houses 
+  
+ 
+65 houses and  
+
+Mambwe 
+
+Nyimba 
+
+Luangwa  
+
+- 
+
+- 
+
+- 
+
+- 
+
+habitations 
+
+ 
+Damaged Roads 
+
+DISTRICT 
+  
+
+NAME OF 
+ROAD/BRIDGE/CULVERT 
+  
+
+DESCRIPTION OF DAMAGE 
+  
+
+Mambwe 
+
+Culvert on the Chipata-Mambwe Rd 
+
+Partially washed away 
+
+Nyimba 
+
+Great East road (Nyimba & 
+Kacholola) 
+Msima 
+Chipembe-Matonje 
+Kapakasa 
+Matipa 
+Mombe 
+Hofmeyer road 
+Luangwa roasd 
+Chikwasha bridge 
+Mbishinga bridge 
+Chisimbwe road 
+Luembe- Chinambi road 
+Nyalugwe - Chamilala road 
+
+Potholes have formed on road 
+Road and culvert washed away 
+Road and culvert washed away 
+Road and culvert washed away 
+Culvert damaged 
+Road and bridges washed away 
+Road and bridges washed away 
+Road submerged 
+Culverts damaged 
+Culverts damaged 
+Road water logged 
+Road and culvert washed away 
+Road and bridges washed away 
+
+Luangwa  
+
+Kavalamanja road 
+
+Bridges on the road have collapsed 
+
+ 
+ 
+ 
+ 
+
+ 
+
+27
+
+Crop Losses 
+
+DISTRICT 
+
+CROP TYPE 
+
+ESTIMATED 
+HA  PLANTED 
+
+ESTIMATED % CROP LOSS 
+
+Maize 
+Cotton 
+Rice 
+Maize 
+cotton 
+
+Groundnuts 
+
+Mambwe 
+
+Nyimba 
+
+ 
+Livestock Losses 
+
+2,860 
+355 
+1,050 
+12,000 
+4,000 
+
+1,200 
+
+30% 
+0% 
+0% 
+30% 
+10% 
+
+8% 
+
+DISTRICT 
+
+TYPE OF 
+
+LIVESTOCK 
+
+LIVESTOCK 
+POPULATION 
+
+% OF ESTIMATED LIVESTOCK 
+
+DEATHS 
+
+84,000 
+31,000 
+51,000 
+52,394 
+22,035 
+
+3,878 
+
+121 
+1,053 
+3,324 
+10,500 
+22,610 
+
+0% 
+0% 
+0% 
+0% 
+0% 
+
+0% 
+
+0% 
+0% 
+1% 
+0% 
+0% 
+
+WARDS 
+
+PROJECTED 
+
+WARD 
+
+POPULATION 
+
+AFFECTED WARD 
+
+POPULATION 
+
+Nyimba 
+  
+  
+
+Mambwe 
+
+Luangwa 
+  
+  
+
+Poultry 
+Cattle 
+Goats 
+Cattle 
+Pigs 
+
+Poultry 
+
+Cattle 
+Goats 
+Chickens  
+Goats 
+Poultry 
+
+ 
+Affected Populations 
+
+ DISTRICT 
+
+  
+Mambwe 
+  
+  
+
+  
+
+Mambwe - Totals 
+
+  
+
+Nyimba 
+
+  
+
+  
+
+  
+
+Nyimba - Totals 
+  
+
+  
+
+  
+Luangwa  
+  
+  
+  
+
+  
+
+Luangwa - Totals 
+
+  
+
+  
+Ndima 
+Mnkhanya 
+Malama 
+
+Kasamanda 
+
+  
+
+  
+
+Chamilala 
+
+Chinsinbwe 
+
+Chinambi 
+
+Luangwa 
+
+  
+  
+Mikula 
+ 
+Mkaliva 
+Mphuka 
+Chiriwe 
+Katondwe 
+
+Mankhokwe 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+7,161 
+13,833 
+1,198 
+
+5,151 
+
+27,343 
+
+4,273 
+
+4,527 
+
+12,504 
+
+4,568 
+
+25,872 
+  
+6,615 
+
+776 
+1,439 
+1,198 
+2,212 
+
+1,278 
+
+6,903 
+
+72 
+138 
+12 
+
+52 
+
+273 
+
+2,350 
+
+2,489 
+
+5,001 
+
+2,512 
+
+12,352 
+  
+1,058 
+
+93 
+173 
+144 
+265 
+
+153 
+
+828 
+
+ 
+
+28
+
+ANNEX V: FIELD INSTRUMENTS (DISTRICT AND COMMUNITY QUESTIONAIRES) 
+ 
+
+ 
+
+Province Name: 
+District Name: 
+
+ 
+Republic of Zambia 
+
+SDIF Early Warning Project   
+
+ 
+
+ Check List  
+
+Province Code  |__| 
+
+District Code |__|__|__| 
+Constituency Code |__|__|__| 
+Ward Code |__|__| 
+Lat…………….. Long………….. 
+
+Constituency Name: 
+Ward Name: 
+Community Name: 
+Enumerator Name:                                              Altitude: 
+Date of Interview: 
+ 
+ 
+1.0 
+ 
+1.1 
+
+State the key hazards in your Community 
+
+HAZARD IDENTIFICATION 
+
+Flood 
+Drought 
+Fire 
+Pest Infestation 
+Epidemic 
+Other, specify:……………………………………. 
+
+i. 
+ii. 
+iii. 
+iv. 
+v. 
+vi. 
+ 
+
+1.2 
+
+From 2007 to date how often has Community experienced the identified hazard/s? 
+
+i. 
+ii. 
+iii. 
+
+Once 
+Twice 
+Three times 
+
+ 
+ 
+2.0  MONITORING AND WARNING SERVICE 
+ 
+2.1 
+ 
+
+Are there any operational Early Warning and monitoring systems for flood and drought? 
+
+ 
+
+ 
+
+Flood    Yes  
+ 
+Drought Yes  
+ 
+ 
+
+ 
+
+ 
+
+No   
+
+No   
+
+If yes what type of systems are they? 
+a) Indigenous knowledge 
+b) Modern technology 
+ 
+ 
+Name the traditional methods used for early warning for the two man hazards: 
+
+2.2 
+
+2.4 
+ 
+
+ 
+
+29
+
+Floods:………………………………………………………………………………………………………… 
+……………………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………
+………………………………………………….. 
+ 
+Drought:………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………
+………………….. 
+
+If yes how effective are the current early warning and monitoring mechanisms? 
+
+ 
+High  
+Moderate 
+Poor 
+Very Poor 
+
+How many households were affected by the previous hazards? ………………….. 
+
+ 
+
+ 
+2.3 
+
+     
+2.3 
+
+ 
+3.0 PUBLIC AWARENESS AND EDUCATION ENHANCED 
+ 
+3.1 Have your community(s) been educated to recognize simple signals for immediate response such as rise of 
+water levels or fall of water levels? 
+ 
+
+Yes 
+
+ 
+
+        No 
+
+ 
+
+If yes which signals have you been taught? 
+……………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………..…………
+……………………………………………………………………………………………………………………………………………………
+…………………. 
+What has been your response to these awareness messages? 
+……………………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………
+………………………………………………….. 
+
+How do you communicate with the district officials? (List) 
+……………………………………………………………………………………………………………………………………………………
+……………………………………………………………………………………………………………………………………………………
+………………………………………………..... 
+
+How effective is the communication system? Tick where appropriate 
+
+i. 
+ii. 
+iii. 
+
+Very Effective 
+Effective 
+Ineffective 
+
+Republic of Zambia 
+
+ 
+
+30
+
+3.2 
+
+3.3 
+
+ 
+3.4 
+
+ 
+3.5 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+SDIF Early Warning Project   
+
+ 
+
+ Check List  
+
+Province Name: 
+District Name: 
+
+Province Code  |__| 
+
+District Code |__|__|__| 
+
+Enumerator Name:                                              Altitude: 
+Date of Interview: 
+ 
+ 
+3.0  HAZARD IDENTIFICATION 
+ 
+3.1 
+
+State the key hazards in your district 
+
+Flood 
+Drought 
+Fire 
+Pest Infestation 
+Epidemic 
+
+vii. 
+viii. 
+ix. 
+x. 
+xi. 
+xii.  Other, specify:……………………………………. 
+
+ 
+
+3.2 
+
+From 2007 to date how often has district experienced the identified hazard/s? 
+
+iv.  Once 
+Twice 
+v. 
+vi. 
+Three times 
+
+ 
+
+Yes 
+
+ 
+
+Does the district have the database for hazards?  
+ 
+
+ 
+1.3 
+ 
+ 
+ 
+4.0  MONITORING AND WARNING SERVICE 
+ 
+4.1 
+
+No  
+
+ 
+
+Are there any operational Early Warning and monitoring systems for flood and drought  
+
+ 
+
+ 
+
+ 
+
+No   
+
+No   
+
+ 
+
+Flood    Yes  
+ 
+Drought Yes    
+ 
+ 
+ 
+
+2.2 
+
+If yes how effective are the current early warning and monitoring mechanisms? 
+
+ 
+High  
+Moderate 
+Poor 
+Very Poor 
+
+     
+2.3 
+
+How many households were affected by the previous hazards? ………………….. 
+
+ 
+
+ 
+3.0  METEOROLOGICAL AND HYDROLOGICAL STATIONS  
+ 
+3.1 
+
+ How many meteorological and hydrological station are there in your district? 
+
+ 
+
+31
+
+ How many of these are still functional? 
+
+ 
+Item 
+Gauge Station 
+Weather Station 
+ 
+ 
+3.2 
+ 
+Item 
+Gauge Station 
+Weather Station 
+ 
+ 
+3.3 
+
+How  many  meteorological  and  hydrological  station  are  equipped  with 
+communication facilities? 
+
+functional 
+
+Item 
+Gauge Station 
+Weather Station 
+
+ 
+
+ 
+3.4 Geographic location of Stations 
+
+Number 
+ 
+ 
+
+Station 
+Name 
+
+Type 
+
+Status 
+
+Parameters 
+Measured 
+
+Location 
+
+Latitude 
+
+Longitude  Altitude 
+
+Number 
+ 
+ 
+
+Number 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.5 How is data transmitted from field stations to the District Office? Tick where applicable 
+Mode of Transmission 
+Phone/Fax 
+Internet 
+Cell Phone 
+Postal 
+Radio 
+Other 
+
+Meteorological  Hydrological 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+3.6 How is data transmitted from the District to the Provincial Office? Tick where applicable 
+ 
+Mode of Transmission 
+Phone/Fax 
+Internet 
+Cell Phone 
+
+Meteorological  Hydrological 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+32
+
+Postal 
+Radio 
+Other 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+3.7 How is the flow of data from Province to the Headquarters? Tick where applicable 
+ 
+Mode of Transmission 
+Phone/Fax 
+Internet 
+Cell Phone 
+Postal 
+Radio 
+Other 
+ 
+4.0 PUBLIC AWARENESS AND EDUCATION ENHANCED 
+ 
+4.1 Have communities been educated to recognize simple signals for immediate response such as rise 
+of water levels or fall of water levels? 
+ 
+
+Meteorological  Hydrological 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Yes 
+
+ 
+
+        No 
+
+ 
+
+If yes which signals have you been taught? 
+………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………
+……………..………………………………………………………………………………………………………………………
+…………………………………………………………. 
+
+How is signal information disseminated or communicated to communities? 
+ 
+
+4.2 
+
+ 
+ 
+4.3 
+
+Mode of Transmission 
+Drums 
+Community Radio 
+Messengers 
+Other 
+ 
+4.4 
+
+Tick where applicable 
+ 
+ 
+ 
+ 
+
+How effective have these modes of communication been? Tick where appropriate 
+
+iv. 
+v. 
+vi. 
+
+Very Effective 
+Effective 
+Ineffective 
+
+ 
+4.5 
+
+4.6 
+ 
+4.7 
+
+ 
+
+Have  communities  been  engaged  in  positive  local  practices  and  indigenous  knowledge  in 
+disaster management? 
+                       
+                          Yes  
+ 
+ 
+If yes, how many communities have been sensitized (Indicate the number) ……………… 
+
+No 
+
+ 
+
+List some of the positive local practices used by the communities. 
+………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………
+
+33
+
+……………..………………………………………………………………………………………………………………………
+…………………………………………………………. 
+
+34
+
+ 
+ 
+ 
+
+ 
+
+

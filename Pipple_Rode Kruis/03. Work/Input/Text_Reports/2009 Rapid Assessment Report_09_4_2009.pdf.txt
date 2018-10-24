@@ -1,0 +1,4343 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+VAC 
+
+ZAMBIA 
+
+Vulnerability 
+
+Assessment Committee 
+
+2009 RAPID FLOOD IMPACT ASSESSMENT REPORT 
+
+ 
+
+BY 
+
+ 
+
+THE ZAMBIA VULNERABILITY ASSESSMENT COMMITTEE (ZVAC) 
+
+MARCH, 2009 
+
+LUSAKA
+
+ 
+
+Table of contents 
+
+ 
+
+Acknowledgements .........................................................................................................ii 
+Acronyms.......................................................................................................................iii 
+Executive Summary............................................................................................iv 
+1.0 
+INTRODUCTION ...............................................................................................1 
+1.0. 
+1.1.  Overall Objective .............................................................................................1 
+
+1.2. 
+
+Specific Objectives ..........................................................................................1 
+
+1.3. 
+
+2008/09 Rainfall Performance..........................................................................1 
+
+1.4. 
+
+Limitation to the Assessment ...........................................................................1 
+
+2.0.  METHODOLOGY ..............................................................................................2 
+3.0. 
+FINDINGS ..........................................................................................................3 
+3.1. Livelihoods...............................................................................................................3 
+3.2. Agriculture and Commercial Activities .....................................................................4 
+3.3. Loss of Human life ...................................................................................................5 
+3.4. Infrastructure ............................................................................................................6 
+3.4.1.  Roads/Bridges/Culverts....................................................................................6 
+
+3.4.2.  Schools, Clinics, Community and Government Buildings ................................6 
+
+3.5. Education .................................................................................................................7 
+3.6. Health.......................................................................................................................7 
+3.7. Water and Sanitation.................................................................................................8 
+3.8. Human Settlement and Shelter ..................................................................................9 
+4.0. CONCLUSION ......................................................................................................10 
+5.0. RECOMMENDATIONS........................................................................................12 
+6.0. ANNEXES .............................................................................................................15 
+Annex 1a: District Questionnaire ...............................................................................15 
+
+Annex 1b: Community Questionnaire........................................................................22 
+
+Annex 2: Food Needs Table ......................................................................................28 
+
+Annex 3:   Map Showing Districts Covered ...............................................................29 
+
+Annex 4a: List of Damaged Roads, Bridges and Culverts ..........................................30 
+
+Annex 4b: List of Damaged Schools..........................................................................31 
+
+Annex 4c: List of Damaged Health Centers ...............................................................32 
+
+Annex 4d: List of Other Damaged Buildings / Infrastructure .....................................32 
+
+Annex 5: Table Showing Health Affected Population ................................................33 
+
+Annex 6: Table Showing Water and Sanitation Affected Population..........................34 
+
+Annex 7: Team Composition and Districts Covered...................................................36 
+
+Annex 8: Report Writing and Editorial team..............................................................39 
+
+ 
+
+i 
+
+ 
+
+Acknowledgements 
+
+ 
+The Zambia Vulnerability Assessment Committee (ZVAC) wishes to thank the following 
+organizations for facilitating and participating in the Rapid Floods Assessment:  
+
+•  CARE 
+•  Catholic Relief Services (CRS) - Zambia Program  
+•  Central Statistical Office (CSO) 
+•  Department of Water Affairs 
+•  Disaster Management and Mitigation Unit (DMMU) 
+•  Food and Agriculture Organization (FAO) 
+•  Zambia Meteorological Department 
+•  Ministry of Agriculture and Cooperatives (MACO) 
+•  Ministry of Health 
+•  NAPS 
+•  National Food  and Nutritional Commission(NFNC) 
+•  Programme Against Malnutrition (PAM)  
+•  World Food Programme (WFP) 
+•  Zambia Air Force (ZAF) 
+•  Zambia Red Cross Society 
+•  Zambia Relief and Development Foundation(ZRDF) 
+ 
+
+The  committee  further  wishes  to  thank  all  the  partners  that  financially  and  logistically 
+supported the assessment, DDMCs and the affected communities where the assessments 
+were conducted.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ii 
+
+Contagious Bovine Pleuro Pneumonia 
+Catholic Relief Services 
+Central Statistic Office 
+District Disaster Management Committee 
+Disaster Management and Mitigation Unit 
+Department of Water Affairs 
+Food and Agriculture Organization 
+Food Security Pack 
+Integrated Management of Common Childhood Illnesses 
+Insecticide Treated Net 
+Lusaka District Health Management Team 
+Lutheran World Federation 
+Ministry of Agriculture and Cooperatives 
+Meteorological Department 
+Ministry of Education 
+Metric Tons 
+National AIDS Council 
+National Association for the Prevention of Starvation 
+National Food and Nutrition Commission 
+Natural Resources Development College 
+Program Against Malnutrition 
+Sanitation Platform 
+United Nations International Children’s Emergency Fund 
+United States Agency for International Development 
+Water and Sanitation 
+World Food Program  
+Zambia Wildlife Authority 
+Zambia Demographic and Health Survey 
+Zambia Relief Development Foundation 
+Zambia Vulnerability Assessment Committee 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Acronyms 
+ 
+CBPP   
+CRS 
+ 
+CSO 
+ 
+DDMC 
+DMMU 
+DWA   
+ 
+FAO 
+ 
+FSP 
+IMCI 
+ 
+ITN 
+ 
+LDHMT 
+LWF 
+ 
+MACO 
+ 
+MET 
+ 
+MOE 
+MT 
+ 
+NAC 
+ 
+NAPS   
+NFNC  
+NRDC  
+PAM 
+ 
+SanPlat 
+UNICEF 
+USAID 
+WATSAN 
+WFP 
+ 
+ZAWA 
+ZDHS   
+ZRDF   
+ZVAC  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+iii 
+
+ 
+
+1.0  Executive Summary 
+ 
+Following  reports  of  flooding  as  a  result  of  excessive  rainfall  received  in  a  number  of 
+districts;  the  Zambia  Vulnerability  Assessment  Committee  (ZVAC)  constituted  twelve 
+(12)  teams  to  undertake  rapid  assessments  to  ascertain  The  impact  of  the  floods  in 
+eighteen (18) districts of five (5) provinces. The assessment was undertaken between 25th 
+and 30th March, 2009.  
+ 
+The  overall  objective  of  the  assessment  was  to  determine  the  effects  and  extent  of  the 
+floods on livelihoods, habitations,  infrastructure, health, water and sanitation, education, 
+agriculture and commercial activities in eighteen (18) districts.  
+ 
+The assessment employed participatory approaches both at district and community levels. 
+At  district  level  the  assessment  employed  Key  Informant  Interviews  with  DDMC.  At 
+community  level,  the  assessment  employed  community  Focus  Group  Interview  within 
+target affected wards. 
+ 
+The  assessment  established  that  a  total  of  614,  814  people  (102,  469  households)  have 
+been  affected  by  floods  in  the  18  districts  visited.  Kindly  note that this  figure  does  not 
+represent  the  number  of  people  affected  in  a  particular  sector  but represents  the  overall  
+number  of  people  affected  in  various  sectors.  The  negative  impact  of  floods  on  the 
+population  in  question  ranges  from  loss  of  life,  crops  and  livestock,  habitation,  limited 
+access to social amenities such as  schools and  hospitals  to threats of outbreak of water 
+borne  diseases.  In  the  area  of  food  security,  the  assessment  established  that  the  floods 
+have  exposed  203,  483  people  (33,914  households)  to  food  insecurity  and  will  require 
+relief  food  in  nine  (9)  districts  for  a  period of  two  months  (April  –  May,  2009);  in   the 
+health  sector  306,992  people  (51,165  households)  in  the  health  sector  will  require 
+assistance in terms of medical supplies and 104, 339 people (17, 390 households) in the 
+water and sanitation sector will require assistance.  
+ 
+2.0 
+ 
+
+Below is the summary of the main findings; 
+
+Livelihoods  
+
+ 
+The assessed districts in the provinces of Western, Northern, Central, Eastern and North-
+Western  have  all  largely  rural  based  livelihoods.  The  common  livelihood  sources  for 
+most  of  the  assessed  communities  were  found  to  be  crop  production,  livestock  rearing, 
+fishing,  timber  “processing”  and  selling,  bee  keeping  and  carpentry.  The  assessment 
+established that 80% of the assessed populations depend on small  scale agriculture crop 
+production, dependency on fishing was at 15% across in the assessed districts.  
+ 
+2.1 
+ 
+Floods were found to have caused damage to food crops (such as maize, rice, cassava and 
+sorghum). The damage on these crops was  largely due to severe water  logging that had 
+resulted into nutrient leaching. The impact on cash crops such as groundnuts, tobacco and 
+
+Agriculture and Commercial Activities 
+
+ 
+
+iv 
+
+ 
+
+Loss of Human Life 
+
+cotton was not much due to the fact that  most of these crops were planted  in non flood 
+prone areas. 
+ 
+The  assessment  established  that  affected  households  would  run  out  of  own  food  stock 
+earlier than in a normal year.  
+ 
+ 
+2.2 
+ 
+The  assessment  established  further  that  a  total  of  31  lives  were  lost  in  seven  (7)  of  the 
+eighteen (18) districts assessed. The causes of these deaths were directly linked to flood 
+conditions in the districts. 
+ 
+ 
+2.3 
+ 
+The  floods  have  caused  extensive  damage  to  infrastructure  such  as  schools  and  health 
+centers bridges and roads. A total of 14 roads in 8 districts were partially damaged by the 
+flood.  In  three  (3)  districts,  the  problem  of  inaccessibility  was  further  compounded  by 
+five washed away bridges and four culverts. The assessment revealed that most affected 
+parts  of  the  country  in  the  area  of  infrastructure  damage  was  the  western  half  of  the 
+country  (Shang’ombo,  Mwinilunga,  Senanga,  Mongu  and  some  parts  of  Northern 
+Province (Mungwi and Mporokoso).  
+ 
+2.4 
+ 
+The assessment revealed that there was reduced accessibility to schools due to damaged 
+infrastructure (i.e. school buildings and roads) which subsequently reduced attendance at 
+most schools. 
+ 
+2.5  Health 
+ 
+There  were  generally  low  occurrences  of  incidences  of  water  borne  diseases  such  as 
+diarrhea,  dysentery  and  cholera.  Only  two  (2)  districts  were  found  to  have  experienced 
+increase in water borne diseases.  
+
+Infrastructure 
+
+Education 
+
+ Water and Sanitation 
+
+2.6 
+ 
+Most  of  the  unprotected  water  sources  were  damaged  thereby  forcing  most  people  to 
+drink  water  from  the  flooded  rivers  and  streams.  Over  50  percent of  the  target  districts 
+indicated that their water sources were susceptible to the threat of contamination of feacal 
+matters or other debris.  
+
+2.7  Human Settlement and Shelter 
+ 
+The  majority  of  habitations  structures  that  were  damaged  were  in  Western  Province 
+(1,043 houses) followed by North Western Province (421 houses).  It should however be 
+
+ 
+
+v 
+
+ 
+
+Recommendations 
+
+Livelihoods 
+
+Education 
+
+made  clear  that  the  damaged  houses  were  mostly  made  out  of  poor  materials  such  as 
+unburnt bricks, pole and mud. In addition, most of the affected habitation structures were 
+identified  to  be  in  areas  prone  to  flooding  such  as  the  flood  plains  and  riverbanks.  The 
+assessment  established  that  an  estimated  78  households  had  been  displaced  and  their 
+livelihoods disrupted. 
+ 
+The assessment concluded that the major impact of heavy rainfall that resulted into wide 
+spread flooding and water logging was mainly on infrastructure (roads, bridges, culverts, 
+public and private buildings).  This has resulted in difficulties of affected communities in 
+accessing some areas.   
+ 
+3.0 
+ 
+The following are the sector specific recommendations: 
+ 
+3.1 
+Considering that crop production is the main livelihood of rural based communities, it is 
+recommended that winter cropping for Western and North Western Provinces be 
+supported by early distribution of inputs. This intervention is targeting 12, 000 
+households in Western and North Western provinces. 
+ 
+There will also be need to promote diversification of livelihood options in the affected 
+districts.  
+ 
+3.2 
+ 
+Immediate  food  supplies  be  provided  to  203,  483  persons  (33,  914  households)  in 
+Kalabo, Kapiri Mposhi, Shamg’ombo, Mufumbwe, Mwinilunga, Kabompo, Chavuma, 
+Lukulu  and  Zambezi.  A 
+(4.165 
+Kg/person/month)  be  provided  for  a  duration  of  two  (2)  months  from  April  to  May 
+2009  to  33,  914  households  requiring  1,  695  MT  (refer  to  Annex  2  for  details  on 
+targeted districts). 
+ 
+3.3 
+ 
+The Ministry of Education needs to embark on infrastructure assessment on the damaged 
+schools to facilitate immediate repair works as reflected in Annex 4b. There is also need 
+to provide temporary shelter for schools whose infrastructure was completely damaged in 
+districts such as Shang’ombo. 
+ 
+Ministry of Education  must come up with  immediate plans to make up for the lost time 
+due to the disruption in the learning in some of the flood affected areas. 
+ 
+ 
+ 
+ 
+
+Agriculture and Commercial Activities 
+
+ration  of  cereal 
+
+recommended 
+
+reduced 
+
+ 
+
+vi 
+
+ 
+
+Infrastructure 
+
+3.4 
+ 
+Government  through  Road  Development  Agency  (RDA)  should  update  the  current   
+technical  assessment  of  the  damaged  roads,  bridges  and  culverts  and  transform  the 
+report into an action plan for the rehabilitation works on these structures. 
+ 
+RDA  should  carry  out  emergency  works  on  bridges,  culverts  and  roads  that  have  been 
+adversely  affected  by  floods  especially  where  populations  have  been  cut  off  as  an 
+immediate response. Some notable districts to be targeted are Shang’ombo, Mwinilunga, 
+Kaoma,  Senanga,  Mongu,  Mungwi  and  Mporokoso  where  more  infrastructure  damage 
+has been reported. 
+ 
+ 
+3.6  Health 
+ 
+There is need  for sufficient medical supplies, ITNs and chlorine to be stocked in Health 
+centers in the assessed districts in view of the fact that there is a likelihood of disease out-
+breaks as the water recedes. The intervention  is targeting a total population of 306, 992 
+people (51, 165 households). 
+ 
+Ministry of Health should embark on the repair of health infrastructure. 
+ 
+3.7  Water and Sanitation 
+ 
+Ministry of Health and other partners should provide water treatment chemicals such as 
+chlorine  to  affected  communities  in  order to  prevent outbreaks  of  water  borne  diseases. 
+The population to be targeted for these supplies is 104, 339 people (17, 390 households). 
+
+ 
+
+In order to avert long term problems of people accessing unsafe drinking water such as 
+open wells, streams, there is need for the Department of Water Affairs to scale up sinking 
+of  boreholes.  The  areas  to  be  targeted  are  those  with  limited  number  of  safe  drinking 
+water sources. This should be done within the framework of the rural water and sanitation 
+supply programme.  
+ 
+The DDMCs and Ministry of Health need to undertake public awareness and sensitization 
+programmes  on  the  construction  of  durable  pit  latrines  at  schools,  health  centers  and 
+communities. 
+ 
+3.8  Human Settlement and Shelter 
+ 
+Temporal  shelter  (tents)  be  provided  to  78  completely  displaced  households  currently 
+staying in schools, churches and/or other community buildings.  
+
+ 
+
+Displaced  households  should  be  permanently  integrated  within  communities  in  the 
+uplands. These efforts must be led by the Government and complemented by traditional 
+leaders so that alternative land in the highlands is found for the displaced households. 
+
+ 
+
+vii 
+
+ 
+
+ 
+Government through the Department of Resettlement in the Office of the Vice President, 
+traditional  leadership,  local  leadership  (MPs  inclusive)  and  flood  prone  communities 
+themselves  should  engage  in  serious  dialogue  which  should  eventually  lead  to 
+agreements on the relocation and modalities for the implementation of relocation plans as 
+a long-term intervention as was the case in Kazungula district. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+viii 
+
+ 
+
+1.0. INTRODUCTION 
+ 
+Following  reports  of  flooding  as  a  result  of  widespread  heavy  rainfall  received;  the 
+Zambia  Vulnerability  Assessment  Committee  (ZVAC)  constituted twelve  (12)  teams  to 
+undertake  assessments  to  ascertain  the  impact  of  the  floods  in  eighteen  (18)  districts  in 
+five (5) provinces. The assessment was undertaken between 25th and 30th March, 2009.  
+ 
+1.1.  Overall Objective 
+ 
+The  overall  objective  of  the  assessment  was  to  determine  the  effects  and  extent  of  the 
+floods on livelihoods, habitations,  infrastructure, health, water and sanitation, education, 
+agriculture and commercial activities in eighteen (18) districts.  
+ 
+1.2. 
+       
+The following were the specific objectives:  
+ 
+
+Specific Objectives 
+
+•  To determine the extent to which floods impacted different sectors (such as  
+
+ Human life, Infrastructure, Education, Health, Water and Sanitation and  Human 
+Settlement and Shelter) 
+
+•  To determine the extent to which floods impacted livelihoods and income sources 
+•  To  ascertain  the  need  for  emergency  shelter,  food,  water  treatment  and  medical 
+
+supplies if any 
+
+•  To  establish  the  need  for  restoration  of  critical  infrastructure,  facilities,  basic 
+
+utilities and services where necessary. 
+
+2008/09 Rainfall Performance 
+
+ 
+1.3. 
+ 
+The 2008/09 rainfall season had been characterised with wide spread heavy rains in most 
+parts  of  the  country.  The  floods  arising  from  this  scenario  impacted  negatively  on  key 
+economic  sectors.  The  degree  of  the  degree  of  the  impact  varied  from  sector  to  sector 
+beginning  of  the  season  was  described  by  Meteorological  Department  as  normal  as  the 
+rains started early in most parts of the country apart from the extreme eastern parts of the 
+country (Lundazi, Chama and Isoka) where the rains started slightly  late. Cumulatively, 
+most  parts of  the  country  received  above  normal  rainfall  with  an  exception  of  Lundazi,  
+Chama and some parts of Isoka as of March 2009 dekad 3 (11th -20th  March 2009). It is 
+also  worth  noting  that  most  parts  of  the  country  experienced  excessive  rainfall 
+performance which was characterised by wide spread flash flooding mostly in low lying 
+areas of the country (i.e. valleys)  that resulted into adverse impacts on different sectors. 
+ 
+1.4.  Limitation to the Assessment 
+The assessment had several limitations as described below: 
+
+•  Limited time of data collection arising from the emergency nature of the 
+
+assessment 
+
+•  Some of the infrastructure was still submerged as a result, it was difficult to 
+
+determine the full extent of the damage caused. 
+
+ 
+
+1 
+
+ 
+
+ 
+
+• 
+•  The impact and extent of crop damage due to flooding could not fully be 
+
+established  as most crop fields were still under water making physical 
+estimations of land size affected difficult.  
+
+•  Limited accessibility to a number of wards which had been cut off. This resulted 
+
+in resorting to air transport which made the exercise more costly. 
+
+ 
+2.0.METHODOLOGY 
+ 
+The assessment employed participatory approaches both at district and community levels. 
+At district level the assessment employed Key Informant Interviews with DDMC, while 
+the  assessment  employed  community  Focus  Group  Interview  within  identified  affected 
+wards at community level (see Annex 2). 
+ 
+Should  there  be  need  for  relief  food  the  selection  criteria  for  the  districts  to  benefit  
+comprised of the following: 
+
+•  Percent of crop loss experienced by a district 
+• 
+
+Impact of the floods on the livelihoods in the district. 
+
+ 
+Calculation of Food Needs 
+ 
+ 
+The assessment used the following formula to determine the amount of cereal required by 
+those affected: 
+
+ 
+
+Maize
+
+  
+
+Requiremen
+
+(Standard
+Ration
+ 
+
+2
+
+ t
+1
+
+=
+
+ X )
+
+(Number 
+
+ of
+
+Months
+
+1000
+
+ X )
+
+(Number 
+
+ of
+
+affected
+
+3
+
+ 
+people)
+
+ 
+
+Where, 
+
+1 
+
+2 
+3 
+
+Total maize requirements in Metric Tonnes (MT) refers to total quantity of maize 
+required in the affected district 
+Standard ration = 4.165 kg/person/month (half ration) 
+Number of months = duration of the food assistance 
+
+ 
+The  assessment  established  that  a  total  of  614,  814  people  (102,  469  households)  have 
+been  affected  by  floods  in  the  18  districts  visited.  Kindly  note that this  figure  does  not 
+represent  the  number  of  people  affected  in  a  particular  sector  but represents  the  overall 
+number  of  people  affected  in  various  sectors.  The  negative  impact  of  floods  on  the 
+population  in  question  ranges  from  loss  of  life,  crops  and  livestock,  habitation,  limited 
+access to social amenities such as  schools and  hospitals  to threats of outbreak of water 
+borne diseases. Below are the findings for each sector: 
+ 
+ 
+ 
+
+ 
+
+2 
+
+ 
+
+3.0.FINDINGS 
+ 
+The assessment established that a total of 614, 814 people (102, 469 households) have 
+been affected by floods in the 18 districts visited. Kindly note that this figure does not 
+represent the number of people affected in a particular sector but represents the overall  
+number of people affected in various sectors. The negative impact of floods on the 
+population in question ranges from loss of life, crops and livestock, habitation, limited 
+access to social amenities such as schools and hospitals  to threats of outbreak of water 
+borne diseases. Below are the findings for each of the sectors: 
+ 
+3.1. Livelihoods  
+ 
+All the assessed provinces (Western, Northern, Central, Eastern and North-Western) have 
+rural  based  livelihoods  and  economies.  The  common  livelihood  sources  for  most of  the 
+assessed communities were found to be crop production, livestock rearing, fishing, timber 
+felling  and  selling,  bee  keeping  and  carpentry.  The  assessment  established  that  80%  of 
+the assessed population depend on small scale agriculture crop production, fishing (15%) 
+across the  assessed  districts.  Both  crop  production  and  fishing  as  sources of  livelihoods 
+were  negatively  affected.  The  assessment  further  confirmed  wide  spread  partial  or 
+complete  submerging  of  crop  fields.  The  more  affected  ones  were  those  located  in  the 
+low laying (valleys) areas along the river basins.  
+ 
+Figure 1: Livelihoods Sources in Assessed Districts  
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+
+Livestock
+Crop Production
+
+Fishing
+
+Trading
+Gardening
+
+Others
+
+Bee Keeping
+Charcoal
+Tim ber Production
+Casual labour
+
+by 
+
+the 
+
+The  assessment 
+revealed 
+that  35.9%  of  the  affected 
+population  reported  fishing 
+as 
+second  most 
+important  livelihood  source 
+followed 
+livestock 
+production  at  15.4%.  This 
+clearly 
+the 
+affected  population’s  main 
+livelihoods 
+sources  have 
+been  negatively  affected  by 
+the  floods  (see  figure  1).  
+Fish  catches  reduced  due  to 
+high water levels and strong 
+currents 
+hindered 
+people from spending the  
+
+indicates 
+
+that 
+
+that 
+
+ 
+needed  time  on  water.  This  resulted  in  people’s  catch  not  being  enough  to  sustain 
+livelihoods.  Low  fish  catches  were  reported  in  fishing  districts  of  Zambezi,  Chavuma, 
+Mongu, Senanga and Sesheke. 
+ 
+The assessment further established that trading was identified as the third most important 
+livelihood  source  for  the  assessed  populations.  About  15.4%  of  the  population 
+interviewed  indicated  that  they  depended  on  petty  trading  as  a  livelihood  source  when 
+
+ 
+
+3 
+
+ 
+
+and where crop production and fishing had failed. The major trading commodity though 
+for  most  districts  along  the  major  rivers  like  the  Zambezi  is  fish.  This  was  negatively 
+affected  due  to  flooding.  In  the  assessed  districts  such  as  Kapirimposhi,  Serenje, 
+Mwinilunga and Mungwi, selling of assorted items such as groceries and hardware items 
+sold at makeshift stalls (tuntembas) form an important source of livelihoods.  
+ 
+3.2. Agriculture and Commercial Activities  
+ 
+The floods had varied impact on agricultural production across the assessed districts. The 
+assessment  established  widespread  submerging  of  crop  fields  in  most  of  the  districts. 
+Affected staple crops include maize, cassava, millet and sorghum (see figure 2 below).  
+  
+Figure 2: Impact on Staple Food 
+
+Impact on Staple crop
+
+Percent
+
+40
+35
+
+30
+25
+20
+
+15
+10
+5
+
+0
+
+Maize
+
+Cassava
+
+Millet
+
+Soghum
+
+ 
+
+ 
+Maize was the most affected staple crop (37%) followed by cassava (32%), millet (17%) 
+and  sorghum  (14%).    The  reported  crop  loss  was  mainly  due  to  rotting  of  submerged 
+grain/cobs and water logged tubers as well as the reduced potential yields due to stunted 
+plant  growth  that  resulted  from  leaching  of  soil  nutrients  because  of  excessive  water 
+logging.  This  was  especially  severe  in  late-planted  fields.  Yellowing  of  crops  due  to 
+nutrient  deficiency  was  evident  in  most  crops.  Most  cassava  fields  were  flooded  in 
+Zambezi  (West  bank),  Kalabo,  Senanga,  Shang’ombo,  Mungwi  and  Mporokoso  (see 
+pictures below)         
+ 
+Rotten Cassava tubers from flooded field 
+
+It should be noted that the actual impact of 
+the  current  flooding  on  potential  crop 
+yields  and  consequently  household  food 
+security 
+immediately 
+determined during the assessment time due 
+to  many  factors.  Specific  to  Western  and 
+North-Western  provinces,  the  assessment 
+established  that  families  that  have  access 
+to  dambo/  valley  areas  maintain  two 
+agricultural  lands.  They  have  fields  in  the 
+dambo/  valley  and  the  upper  lands.    The 
+dambo/  valley  areas  though  with  risky  of  flooding,  are  used  due  to  their  high  fertility 
+
+could  not  be 
+
+ 
+
+4 
+
+ 
+
+levels/  characteristics.  The  families  equally  have  crop  fields  on  the  upper  lands  where 
+flooding  is  not  a  common  occurrence  though  these  are  usually  of  low  fertility  and 
+consequently  low  yielding potential. It should therefore be  noted that, since the damage 
+happened  on  the  dambo/  valley  crop  fields,  the  affected  families  still  have  upper  land 
+fields  that  will  provide  some  harvest.  The  other  factor that  will  influence  the  impact of 
+flooding on the potential yields is the fact that, most affected populations reported that at 
+the time of peak flooding, some crops were matured and ready for harvest. The impact of 
+flooding on household food security is likely to be high for these districts as they depend 
+more on the yields  from the  lower than the upper lands. However, the exact  impact can 
+only  be  determined  when  the  flood  waters  have  receded  and  a  detailed  assessment  is 
+undertaken.  
+ 
+The population explained that the flooding phenomenon is a common occurrence in most 
+affected  districts  but  indicated  that  the  intensity  of  the  flooding  this  season  has  been 
+beyond  the  expected  levels  hence  the  damage  and  displacements  experienced.  The 
+affected  populations  recalled  a  10-year  repetitive  cycle  of  flooding  since  1958  with  the 
+2008/9 being the highest.   
+ 
+The floods impact on cash crops such as groundnuts, tobacco and cotton was not much as 
+these are usually grown on higher lands. Rice crop planted in the low lands did very well 
+in certain districts like Zambezi.  
+ 
+The floods impact on livestock was low in most of the districts. However suspected cases 
+of  Foot  and  Mouth  Disease  (FMD)  were  reported  in  Zambezi.  As  most  grazing  land  is 
+submerged,  it  is  highly  anticipated that the  situation  will  exacerbate the  transmission  of 
+Contagious Bovine Pleura Pneumonia (CBPP) which is endemic to Zambezi district. 
+ 
+3.3. Loss of Human life  
+A total of 31 lives were lost in seven (7) of the eighteen (18) assessed districts (refer to 
+table 1 below). Of those who died, 21 were male adults while 3 were female adults. The 
+number  of  reported  cases  of  children  who  died  due to  floods  stood  at  seven  (7).  Of  the 
+children who died, six were male while one was female. The deaths were mainly due to 
+drowning, capsizing of boats and collapsing of houses.   
+ 
+Table 1: Number of Lives Lost by District 
+Males 
+No.  Name of District 
+0 
+1 
+2 
+0 
+0 
+3 
+0 
+4 
+1 
+5 
+6 
+0 
+3 
+7 
+0 
+8 
+0 
+9 
+10  Mporokoso 
+0 
+0 
+11  Mufumbwe 
+12  Mungwi 
+9 
+
+Chavuma 
+Kabompo 
+Kalabo 
+Kaoma 
+Kapiri Mposhi 
+Kasempa 
+Lukulu 
+Mambwe 
+Mongu 
+
+Females 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+1 
+
+Children 
+0 
+0 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+
+Total 
+0 
+0 
+2 
+0 
+1 
+0 
+4 
+0 
+0 
+0 
+0 
+11 
+
+ 
+
+5 
+
+ 
+
+2 
+6 
+0 
+0 
+0 
+0 
+21 
+
+1 
+0 
+0 
+0 
+0 
+0 
+3 
+
+1 
+0 
+0 
+0 
+3 
+0 
+7 
+
+4 
+6 
+00 
+0 
+3 
+0 
+31 
+
+Senanga 
+Serenje 
+Sesheke 
+Shang’ombo 
+Zambezi 
+TOTAL 
+
+13  Mwinilunga 
+14 
+15 
+16 
+17 
+18 
+ 
+3.4. Infrastructure 
+ 
+3.4.1.  Roads/Bridges/Culverts 
+ 
+Most  of  the  visited  districts  are  still  accessible  by  road,  though  with  difficulty  in  some 
+areas  such  as  Lukulu,  Shang’ombo,  Senanga,  Kalabo,  Chavuma  and  Zambezi  where 
+potholes  and  gullies  have  formed  on  the  roads. Some  portions  of  the  Shang’ombo  road 
+were completely washed away.   
+ 
+Most feeder roads from the district centers to the affected wards are flooded and are only 
+partially  accessible.    A  total  of  14  roads  in  8  districts  were  partially  damaged  by  the 
+floods (refer to Annex 4a). The inaccessibility of the flood areas was further exacerbated 
+by washed away and damaged bridges in these areas. A total of 5 bridges in 3 districts on 
+the  feeder  roads  within  the  affected  wards  have  either  collapsed  or  are  submerged 
+rendering them unusable. This  has  left the communities  in these places cut off  from the 
+rest  of  the  districts  and  reduced  the  supplies  of  goods  and  services  to  these  areas.  The 
+areas  that  have  been  cut off  include;  the  west  banks  of  Chavuma,  Zambezi  and  Lukulu 
+which are currently  not accessible.  This  is due to suspension pontoon services on these 
+routes  as  a  result  of  high  water  levels.  Other  areas  that  have  become  inaccessible  are 
+Shang’ombo, Senanga and Kalabo. The embankment to Mize has been severely damaged 
+by the floods and requires emergency works as an interim measure. 
+ 
+The assessment revealed that the most affected parts of the country that experienced high 
+infrastructure  damage  was  the  western  half  of  the  country  (Shang’ombo,  Mwinilunga, 
+Senanga, Mongu and some parts of Northern Province (Mungwi and Mporokoso).  
+ 
+3.4.2.  Schools, Clinics, Community and Government Buildings  
+ 
+A total of 37 schools, of which  forty (32) are basic schools and  five (5) are community 
+schools  had  some  of  their  school  infrastructure  damaged  and/or  collapsed  due  to  heavy 
+rains and subsequent flooding (refer to Annex 4b for details). Further, eight (8) schools 
+were  flooded  making  learning  in  these  schools  difficult.  Sanitation  facilities  at  these 
+schools  have  also  collapsed  and/or  flooded,  rendering  the  schools  unconducive  for 
+learning.  
+ 
+Health centres in four (4) districts were either partially or completely damaged. Detailed 
+information  on the  damage  caused  to these  infrastructure  is  provided  in  Annex  4c.  The 
+other  damage  caused  to  infrastructure  included  the  Zambia  Revenue  Authority  building 
+in  Mwinilunga,  the  Mbesuma  pontoon  in  Mungwi  and  the  Saninga  and  Fondoka  dams 
+whose walls collapsed (refer to Annex 4d). 
+
+ 
+
+6 
+
+ 
+
+3.5. Education 
+ 
+The impact in terms of intensity and extent of floods on education varied across districts. 
+In  addition  to  infrastructural  damage  caused  by  the  floods  leading  to  collapse  of 
+classrooms  and  teachers’  houses  at  various  schools,  access  to  the  learning  centers  was 
+equally  affected  in  some  districts.  It  was  reported  that  the  major  direct  impact  of  the 
+floods on learning was reduced accessibility and consequently this reduced attendance 
+at  most  schools  in  the  affected  areas  as  most  pupils  could  not  access  the  school  due  to 
+damaged and/or flooded roads.  
+ 
+In  Shang’ombo  district  specifically  Sipuma  Ward,  Lupuka  Primary  School  has  been 
+completely closed due to damage to classrooms and teacher’s houses. It was also reported 
+that in Mailo Ward of Serenje district, 138 pupils were reported as having difficulties in 
+reaching the school due to damaged roads. In addition, Sishamba Community School  in 
+Mukunashi Ward in Kasempa district was completely closed due to damaged roads 
+ 
+It  was  also  reported  that  there  was  limited  access  to  Lubala  Basic  School  in  Mongu 
+district  due  to  damaged  roads.  Further  in  Chavuma  district,  two  schools,  Kayenge 
+Scheme  School  and  Chavuma  Basic  School  had  damaged  infrastructure  and  were 
+completely closed.  
+ 
+ 
+3.6. Health 
+ 
+The  assessment  established  that  most of  the  health  centers  in  the  affected  districts  were 
+still  operational  and  the  district  health  management  teams  continued  providing  health 
+services  and  supplies  to the  people  in  the  affected  wards  through their  network of  well 
+established  community  based  structures. The  areas  that  were  not  accessible  by  vehicles 
+due to damage of the roads and/or bridges were being accessed using motor boats and ox 
+carts. Furthermore most of the health catchment area that are prone to floods and usually 
+get  cut  off  during  floods  had  pre-positioned  medical  supplies  as  an  emergency 
+preparedness  measure.  The  catchment  areas  located  on  islands  such  as  the  Lukanga 
+swamps  and  the  Kafue  River  in  Kapiri  Mposhi  district,  and  those  areas  separated  from 
+the  mainland  such  as  Zambezi  and  Chavuma  west  banks,  were  being  accessed  using 
+water  transport.  However  the  assessment  noted  that  most  clinics  on  the  Zambezi  and 
+Chavuma west banks were generally not manned and lacked essential medicines. 
+ 
+There  were  generally  low  occurrences  of  incidences  of  water  borne  diseases  such  as 
+diarrhea,  dysentery  and  cholera.  Only  two  (2)  districts  were  found  to  have  experienced 
+increase  in  water  borne  diseases  –  Mwinilunga  experienced  an  increase  in  cases  of 
+diarrhea  while  Mambwe  district  recorded  outbreaks  of  bilharzia  especially  amongst 
+children.  However,  with  the  flood  waters  subsiding,  it  is  anticipated that  a total  of  306, 
+992  people  (51,  165  households)  will  require  medical  attention  relating  to  diarrheal 
+diseases and malaria (refer to Annex 5). 
+ 
+
+ 
+
+7 
+
+ 
+
+In  most  cases,  the  flood  waters  were  rapidly  flowing  hence  did  not  create  breeding 
+ground  for  mosquitoes.  However  there  is  a  high  risk  of  an  increase  in  incidences  of 
+malaria as the flood waters start receding.   
+ 
+In  terms  of  health  infrastructure  damage,  it  was  established  that  damage  to  health 
+infrastructure was minimal  in all the assessed districts. Only  Kayenge clinic  in Zambezi 
+was  completely  damaged  by  the  floods  (see  Annex  4c.). The  water  points  at the  clinics 
+were also intact as most of these are protected water points (boreholes). 
+
+ 
+3.7. Water and Sanitation 
+ 
+With regard to water and sanitation the effect of the floods was more pronounced on the 
+unprotected  water  sources  than  on  the  protected  sources.  The  majority  of  people  in  the 
+affected districts get their water from both unprotected sources (shallow wells and open 
+wells) and protected sources (protected wells and boreholes). Others get their water from 
+the rivers, springs and streams.  
+ 
+Most of the protected water sources were not functional thereby  forcing  most people to 
+drink water from the flooded rivers and streams. It is anticipated that owing to this, a total 
+of 104, 339 people (17, 390 households) will require water treatment chemicals (refer to 
+Annex  6).  The few open wells that were not damaged were susceptible to the threat of 
+contamination  by  feacal  matter  or  other  debris  due  to  the  mixing  of  water  from  these 
+wells with feacal matter and debris from collapsed sanitation facilities and running flood 
+waters. Figure 3 below shows the extent of water contamination with feacal matter in the 
+assessed districts.  
+ 
+Figure 3: Proportion of Districts at Risk of Water Contamination by Feacal Matter 
+
+k
+s
+
+i
+
+R
+
+ 
+t
+a
+
+ 
+
+s
+t
+c
+
+i
+r
+t
+s
+
+i
+
+D
+
+ 
+f
+o
+
+ 
+
+n
+o
+
+i
+t
+r
+o
+p
+o
+r
+P
+
+50%
+
+45%
+
+40%
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+
+ 
+
+ 
+
+High
+
+Medium
+
+Low
+
+None
+
+Level of Risk of Contamination
+
+8 
+
+ 
+The  graph  shows  that  about 
+50%  of  the  assessed  districts 
+risk  of  water 
+had  a  high 
+contamination  due 
+to  feacal 
+matter  while  30%  had  a  low 
+risk  and  19%  a  medium  risk. 
+1%  were  not  at  risk  at  all.  The 
+districts  with  a  high  risk  of 
+water  contamination  are  those 
+with a low number of boreholes 
+and other protected water points 
+were  people  rely  on  shallow 
+wells,  open  wells  and  water 
+from  the  rivers  and  streams  for 
+drinking.   
+ 
+
+ 
+
+The assessment established that the sanitation situation had deteriorated as a result of the 
+floods.  This  is  because  the  most  commonly  used  sanitation  facilities  in  most  of  the 
+assessed districts were pit latrines and the floods had caused the collapse of over 60% of 
+these  pit  latrines,  while  30%  were  flooded  and  could  not  be  used.  Only  10%  of  the  pit 
+latrines were  not damaged and still usable.  The  collapse  and  flooding  of  the  pit  latrines 
+forced  people  to  be  relieving  themselves  in  the  bushes,  further  increasing  the  risk  of 
+water contamination with fecal matter, and outbreaks of waterborne diseases.  
+ 
+The  flooding  and  collapse  of  pit  latrines  not  only  occurred  at  household  level  but  also 
+occurred  at  some  of  the  schools  in  the  affected  areas.  The  schools  with  flooded  and 
+collapsed  latrines  included;  Kaula  school  in  Kabompo  district,  Shamabanse,  Muchinga 
+East  and  Shaputa  schools  in  Kapiri  Mposhi  district,  Kayenge  Scheme  Community  and 
+Chinguvu  basic  schools  in  Zambezi  district,  Lipinda,  Luzu  and  Kakoma  schools  in 
+Chavuma district, Lubala school  in Mungwi district and Kalunga and Ntenge schools  in 
+Serenje district. 
+
+ 
+3.8. Human Settlement and Shelter 
+ 
+The  floods  experienced  in  the  Central,  Eastern,  Northern,  North-Western  and  Western 
+provinces caused houses to collapse and develop cracks. The majority of habitations that 
+were  damaged  were  found  in  Western  Province  (1,043  houses)  followed  by  North 
+Western  Province  (421  houses).  The  houses  were  made  out  of  poor  materials  mainly 
+unburnt bricks, mud and pole. In addition, most of the affected habitations were localized 
+in areas prone to flooding such as the flood plains and riverbanks. 
+
+ 
+
+Figure 4: Number of Collapsed Houses per Province 
+
+ 
+
+9 
+
+ 
+
+health and community centres, kitchens and schools (Refer to table 2 below). A total of 
+78 households in eleven (11) districts were completely displaced. 
+ 
+Table 2: Table showing the Number of Displaced Communities/. 
+
+No.  Name of District 
+
+Name of Ward 
+
+Kapiri Mposhi 
+Lukulu 
+Lukulu 
+
+1 
+2 
+3 
+4  Mufumbwe 
+
+Luanchele 
+Lipui 
+Kawaya 
+Miliyi 
+
+5 
+
+Kabompo 
+
+Chikumba 
+
+6 
+Kalabo 
+7  Mongu 
+Senanga 
+8 
+9 
+Senanga 
+10  Senanga 
+11  Shang’ombo 
+ 
+
+TOTAL 
+
+Maala 
+Kama 
+Naluywa 
+Imatada 
+Mukukutu 
+Mulanga 
+ 
+
+Number  of  Displaced 
+Households 
+10 
+7 
+6 
+3 
+
+7 
+
+8 
+13 
+3 
+1 
+2 
+18 
+78 
+
+Location 
+
+Shamputa School 
+New Apostolic 
+New Apostolic 
+Shimpandanga 
+Basic 
+Community/Church 
+Building 
+Church building 
+Church building 
+Community Hall 
+Church building 
+Church building 
+Church Building 
+ 
+
+ 
+ 
+ 
+4.0. CONCLUSION 
+ 
+4.1. Livelihoods  
+ 
+The assessed provinces of  Western, Northern, Central, Eastern and North-Western have 
+all  largely  rural  based  livelihoods.  The  common  livelihood  sources  for  most  of  the 
+assessed communities were found to be crop production, livestock rearing, fishing, timber 
+felling  and  selling,  bee  keeping  and  carpentry.  The  assessment  established  that  80%  of 
+the assessed populations depend on small scale agriculture crop production,  fishing was 
+at 15% (on average) in the assessed districts. Both crop production and fishing as sources 
+of  livelihoods  were  negatively  impacted  upon.  The  assessment  further  established  that 
+there was widespread inundation of crop fields especially those located in low lying areas 
+and along the river basins.  
+ 
+4.2. Agriculture and Commercial Activities 
+ 
+Floods were found to have caused damage to food crops (maize, cassava and sorghum). 
+The  major  factor the damage on these crops was severe water logging that had resulted 
+into nutrient leaching. The situation was exacerbated by lack of adequate sunshine hours 
+due  to  overcast  skies.  Washing  away  of  crops  due  to  flash  floods  was  another  factor 
+responsible for the excessive damage to crops.  
+
+ 
+
+10 
+
+ 
+
+The  impact  on  cash  crops  such  as  groundnuts,  tobacco  and  cotton  was  not  much.  This 
+was  because  most of  these  crops  are  planted  mainly  in  the  upland  areas  except  for  rice 
+which did very well in most instances especially in Zambezi. 
+ 
+Affected households will run out of own food stock earlier than in a normal year. For the 
+farmers that will harvest something this year, their maize is likely to run out by August in 
+most of the affected districts.  
+ 
+4.3. Loss of Human Life 
+ 
+The assessment established that a total of 31 lives were lost in seven (7) of the eighteen 
+(18)  assessed  districts.  The  causes  of  these  deaths  were  directly  linked  to  the  flood 
+situation in the districts. 
+ 
+4.4. Infrastructure 
+ 
+The floods have caused extensive damage to infrastructure such as schools, health centers 
+bridges and roads. A total of 14 roads in 8 districts were partially damaged by the floods. 
+In  three  (3)  districts,  the  problem  of  inaccessibility  was  further  compounded  by  five 
+washed away bridges and four culverts. The assessment revealed that most affected parts 
+of  the  country  that  experienced  high  infrastructure  damage  was  the  western  half  of  the 
+country  (Shang’ombo,  Mwinilunga,  Senanga,  Mongu  and  some  parts  of  Northern 
+Province (Mungwi and Mporokoso).  
+ 
+4.5. Education 
+ 
+The  assessment  revealed  that  schools  in  the  assessed  districts  suffered  infrastructural 
+damage.  The  damage  included  collapse  of  classrooms  and  teachers’  houses  at  various 
+schools  making access to the learning centers difficult  in these districts. It was reported 
+that  the  major  direct  impact  of  the  floods  on  learning  was  reduced  accessibility  and 
+consequently this reduced attendance at most schools as most pupils could not access the 
+school due to damaged roads. 
+ 
+4.6. Health 
+ 
+There  were  generally  low  occurrences  of  incidences  of  water  borne  diseases  such  as 
+diarrhea,  dysentery  and  cholera.  Only  two  (2)  districts  were  found  to  have  experienced 
+increase  in  water  borne  diseases  –  Mwinilunga  experienced  an  increase  in  cases  of 
+diarrhea  while  Mambwe  district  recorded  outbreaks  of  bilharzia  especially  amongst 
+children.  
+
+4.7. Water and Sanitation 
+ 
+Most of the protected water sources were not functional thereby  forcing  most people to 
+drink water from the flooded rivers and streams. Over 50 percent of the assessed district 
+indicated  their  water  sources  were  susceptible  to  the  threat  of  contamination  to  feacal 
+matters or other debris. The collapse and  flooding of the pit latrines  forced people to be 
+
+ 
+
+11 
+
+ 
+
+relieving themselves  in the  bush  further  increasing the risk of water contamination with 
+fecal  matter  and  outbreaks  of  waterborne  diseases.  The  risk  of  water  supply  and 
+sanitation related infection threat was being exacerbated by generally the lack of adequate 
+related facilities in the affected districts.  
+
+ 
+4.8. Human Settlement and Shelter 
+ 
+The  majority  of  habitations  that  were  damaged  were  found  in  Western  Province  (1,043 
+houses) followed by North Western Province (421 houses). The houses were made out of 
+poor  materials  mainly  unburnt  bricks,  mud  and  pole.  In  addition,  most  of  the  affected 
+habitations  were  localized  in  areas  prone  to  flooding  such  as  the  flood  plains  and 
+riverbanks. 
+ 
+In summary, it can be concluded that the major impact of heavy rainfall that resulted into 
+wide spread flooding and water logging was found to be on infrastructure (roads, bridges, 
+culverts, public and private buildings).  This has resulted in difficulty in accessing some 
+areas.  It was established that an estimated 78 households have been displaced and their 
+livelihoods  disrupted. There  is  high  risk  of  water  contamination  from  feacal  matter  and 
+malaria  in  the  affected  areas.  The  affected  areas  also  recorded  high  crop  damage  and 
+possibly  leading  to  significant  reduction  in  yields.  There  is  high  risk  of  increased 
+livestock disease outbreak such as Foot and Mouth Disease (FMD).  
+ 
+ 
+5.0. RECOMMENDATIONS  
+ 
+The following are the sector specific recommendations: 
+ 
+5.1. Livelihoods 
+ 
+
+•  Considering that crop production is the main livelihood, it is recommended that 
+winter cropping for Western and North Western Provinces be supported by early 
+distribution of inputs. A total of 12,000 households should be targeted for this 
+intervention. 
+
+ 
+
+•  There will also be need to promote diversification of livelihoods in the assessed 
+
+districts.  
+
+ 
+5.2. Agriculture and Commercial Activities 
+ 
+
+• 
+
+Immediate food supplies be provided to 203, 483 persons (33, 914 households) in 
+Kalabo,  Kapiri  Mposhi,  Shang’ombo,  Mufumbwe,  Mwinilunga,  Kabompo, 
+Chavuma,  Lukulu  and  Zambezi.  These  are  the  districts  whose  livelihoods  have 
+been adversely affected by floods (40% of livelihood loss) and higher percentage 
+of crop field inundated by flood waters (40%). A recommended reduced ration of 
+cereal  (4.165  Kg/person/month)  be  provided  for  a  duration  of  two  (2)  months 
+
+ 
+
+12 
+
+ 
+
+ 
+
+from  April  to  May  2009  to  33,  914  households  requiring  1,  695  MT  (refer  to 
+Annex 2 for details on targeted districts). 
+
+•  80% of the relief food distribution be labour based. The remaining relief food will 
+be for free food distribution to the chronically vulnerable households such as the 
+aged, child-headed households, completely disabled persons. 
+ 
+
+•  The  Ministry  of  Agriculture  and  Cooperatives  needs  to  vaccinate  livestock  in 
+
+order to mitigate the possible outbreak and/or increase of CBPP and FMB.  
+
+ 
+5.3. Infrastructure 
+ 
+
+•  Road Development Agency (RDA) should conduct a technical assessment of the 
+damaged  roads,  bridges  and  culverts  of  economic  importance,  and  develop  an 
+action plan for the repair works to these structures. 
+
+ 
+
+•  RDA  undertakes  immediate  repair  of  bridges,  culverts  and  roads  that  have  been 
+adversely affected by  floods to enhance accessibility  in the affected areas. Some 
+notable  districts  to  be  targeted  are  Shang’ombo,  Mwinilunga,  Senanga,  Mongu, 
+Mungwi and Mporokoso where more infrastructure damage has been reported. 
+
+ 
+5.4. Education 
+ 
+
+•  The  Ministry  of  Education  needs  to  embark  on  infrastructure  assessment  on  the 
+
+damaged schools to facilitate immediate repair works as reflected in Annex 4b. 
+
+•  There  is  also  need  to  provide  temporary  shelter  for  schools  whose  infrastructure 
+
+was completely damaged in districts such as Shang’ombo. 
+
+•  Ministry of Education must come up with immediate plans to make up for the lost 
+
+time due to the disruption in the learning in some of the flood affected areas. 
+
+ 
+5.5. Health 
+ 
+
+•  There is need for sufficient medical supplies, ITNs and chlorine to be stocked in 
+Health centers in the assessed districts in view of the fact that there is a likelihood 
+of  disease  out-breaks  as  the  water  recedes.  A  total  of  306,  992  people  (51,165 
+households) will need to be targeted for this intervention.  
+
+•  Ministry of Health should embark on the repair of health infrastructure. 
+
+ 
+5.6. Water and Sanitation 
+ 
+
+•  Ministry  of  Health  and  other  partners  should  provide  water  treatment  chemicals 
+such  as  chlorine  to  104,  339  affected  people  (17,390  households)  in  order  to 
+prevent outbreaks of water borne diseases.   
+
+ 
+
+ 
+
+13 
+
+ 
+
+ 
+
+• 
+
+In  order  to  avert  long  term  problems  of  people  accessing  unsafe  drinking  water 
+such as open wells, streams, there is need for the Department of Water Affairs to 
+scale  up  sinking  of  boreholes.  The  areas  to  be  targeted  are  those  with  limited 
+number of safe drinking water sources. This should be done within the framework 
+of the rural water and sanitation supply programme.  
+
+•  The  DDMCs  and  Ministry  of  Health  need  to  undertake  public  awareness  and 
+sensitization  programmes  on  the  construction  of  durable  pit  latrines  at  schools, 
+health centers and communities. 
+
+ 
+5.7. Human Settlement and Shelter 
+ 
+
+•  Temporal  shelter  (tents)  be  provided  to  78  completely  displaced  households 
+
+currently staying in schools, churches and/or other community buildings.  
+
+ 
+•  Sensitizations  on  the  need  for  the  communities  to  build  permanent  houses  with 
+durable materials should continue to be undertaken by the Government and its co-
+operating partners through the local and/or traditional leadership. 
+
+•  Displaced  households  be  integrated  within  communities  in  the  uplands.  These 
+efforts  must  be  led  by  the  Government  and  complemented  by  traditional  leaders 
+so that alternative land in the highlands is found for the displaced households. 
+
+•  Government  through  the  Department  of  Resettlement  in  the  Office  of  the  Vice 
+President, traditional leadership, local leadership (MPs inclusive) and flood prone 
+communities  themselves  should  engage  in  serious  dialogue  which  should 
+eventually  lead  to  agreements  on  the  relocation  and  modalities  for  the 
+implementation of relocation plans as a long-term intervention as was the case in 
+Kazungula district. 
+
+ 
+It  is  important  at this  stage  to  state that the  efforts  made  by  the  Government  of  the 
+Republic  of  Zambia  and  its  cooperating  partners  in  pre-positioning  of  emergency 
+items such as medical supplies, tents, and relief food as well as awareness campaigns 
+really paid off.  
+ 
+The  actions  pro-actively  undertaken  by  Government  and  its  cooperating  partners 
+greatly  helped  in  minimizing  the  negative  impacts  of  the  floods  on  vulnerable 
+population. This kind of initiatives needs to be promoted, supported and scaled up.  
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.0. ANNEXES 
+ 
+Annex 1a: District Questionnaire 
+ 
+
+ 
+
+District Name: 
+
+Place of Interview: 
+
+Enumerator Name: 
+
+Rapid Assessment Questionnaire – March 2009. 
+
+District Key Informant Interview2005/06  
+
+ 
+
+Date of Interview:  |__|__|__|__|__|__| (DD-MM-YY) 
+
+ 
+
+ 
+
+What are the three (3) major livelihood sources in the district? Rank in order of importance 
+
+Major Livelihood 
+
+ 
+ 
+ 
+
+DDMC Members In Meeting(attach attendance list): 
+ 
+ 
+1. Livelihoods and Income Sources: 
+ 
+1. 
+ 
+Rank Order 
+1. 
+2. 
+3. 
+ 
+2. 
+2a. 
+……………………………………………………………………………………………………………………………………………………………………………... 
+ 
+2b. 
+…........................................ ……………………………………………………………………………………………………………………………………………. 
+
+Hazard Identification 
+What type of hazard affected your district?     
+
+What was the intensity of the identified hazard when it struck?   
+
+ 
+
+15 
+
+ 
+
+2c. 
+ 
+ 
+2d. 
+
+ 
+2e. 
+
+Indicate when the event actually occurred (Indicate the date when the event occurred)    
+Start date: 
+End date: 
+What was the duration of the identified hazard– Flash floods? (Indicate number of days/hours)  
+...............................................................................................................................................................................................................................
+................................................................................................................................................................................................................................ 
+
+Indicate the wards affected by the   hazard in the district?   
+............................................................................................................................................................................................................................... 
+
+                
+
+............................................................................................................................................................................................................................... 
+
+ 
+2f. 
+ 
+
+ 
+3. 
+ 
+3a 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+What has been the district experience of the occurrence of the identified hazard in the past three (3) years? 
+
+Season 
+ 
+ 
+ 
+
+Impact of the Hazard  
+
+Indicate the number of lives lost 
+
+ Deaths 
+ 
+Adults 
+Children 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Experience 
+
+Male 
+
+Female 
+
+ 
+ 
+
+16 
+
+ 
+
+3b 
+ 
+
+ 
+3c 
+
+ 
+3d. 
+
+ 
+
+Impacts on Agriculture & Commercial Activities 
+
+Percentage losses 
+Staple crop fields                                         Maize 
+cassava 
+millet 
+sorghum 
+
+Cash crops( Three major cash crops) 
+Livestock: Cattle 
+Livestock: Goat/sheep(shots) 
+Livestock: Pig 
+Poultry(chickens, ducks, rabbits etc 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Impact on infrastructure 
+
+75-100% 
+
+50-75% 
+
+25-50% 
+
+0-25% 
+
+Comment 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Item 
+
+Number partially damaged 
+
+Number completely 
+
+Comment 
+
+damaged 
+
+House/s 
+Health Centre/s 
+School/s 
+Government Building/s 
+Bridge/s 
+Road/s 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Which other sector(s) have been affected by the hazard? 
+(3di)  Education (please indicate names and location (wards) of the damaged schools/ infrastructure) 
+…………………………………………………………………………………………………………………………………………………………………… 
+ 
+…………………………………………………………………………………………………………………………………………………………………… 
+ 
+…………………………………………………………………………………………………………………………………………………………………… 
+
+17 
+
+ 
+
+(3dii)  Health ((please indicate names and location (wards) of the damaged infrastructure)                                                                                                
+…………………………………………………………………………………………………………………………………………………………………… 
+ 
+…………………………………………………………………………………………………………………………………………………………………… 
+ 
+3(diii) Water and Sanitation 
+  
+Water: (Specify the type and location (wards), where the damaged water points are)                                 
+…………………………………………………………………………………………………………………………………………………………………… 
+                                                                                   
+…………………………………………………………………………………………………………..…………………………………………………….… 
+ 
+Sanitation: (Specify the type and location (wards) of the damaged sanitation facility are)  
+ ………………………………………………………………………………………………………………………………………………………………..…     
+
+                             
+
+Risk of water contamination 
+ 
+
+Risk of Water Contamination e.g. feacal(specify) 
+ 
+ 
+ 
+ 
+
+Low 
+ 
+ 
+ 
+ 
+
+Medium 
+ 
+ 
+ 
+ 
+
+High 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+18 
+
+ 
+
+ 
+3e 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3f 
+ 
+
+Which communities were completely displaced?  
+
+Ward 
+
+Community/Village Affected 
+
+Number of Households 
+
+Where are the affected households 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Affected 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Where are the affected households staying now? 
+
+Type 
+
+Number 
+
+Households integrated 
+Shelterless 
+Households occupying the same damaged houses 
+Church Building/Community Hall 
+School 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+19 
+
+ 
+
+Interventions 
+
+4. 
+ 
+4.1. 
+ 
+4.1.a.  What were the measures taken by the District Disaster Management Committee to mitigate the impact of the hazard? 
+
+Preparedness 
+
+………………………………………………………………………………………………………………………………………………………….……… 
+ 
+……………………………………………………………………………………………………………………………………………………….………… 
+
+………………………………………………………………………………………………………………………………………………………………… 
+
+………………………………………………………………………………………………………………………………………………………………… 
+
+ 
+4.1.b.  What monitoring arrangements were put in place to follow up these measures? 
+ 
+ 
+ 
+ 
+ 
+4.2. 
+ 
+4.2.a.  What were the measures taken by the District Disaster Management Committee to mitigate/manage the impact of the hazard? 
+ 
+ 
+
+Response 
+
+……………………………………………………………………………………………………………………………………………..……………… 
+ 
+
+……………………………………………………………………………………………………………………………………….…………………… 
+ 
+
+ 
+4.2.b.  Has the district undertaken any assessment on the ground? 
+ 
+ 
+ 
+          ……………………………………………………………………………………………………………………………………………………….……… 
+ 
+4.2c. 
+ 
+
+ Indicate the methodology used to assess the situation on the ground 
+
+……………………………………………………………………………………………………………………………………………..……………… 
+
+ 
+
+20 
+
+ 
+
+ 
+
+4.2d.   Are there any on- going developmental/relief programmes in the district (tick) 
+
+  Yes  
+ 
+   No 
+
+ 
+
+ 
+
+ 
+
+If yes please indicate the type of programme(s), organisation implementing and geographical coverage (wards), start and end date 
+ 
+
+Type of programme 
+
+Relief food 
+Distribution: 
+Home Based Care 
+(HBC) 
+ART 
+FFW/FFA 
+General Food 
+Distribution 
+Input support  (e.g. FSP) 
+other (specify): 
+
+Organisation 
+Implementing 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Ward(s) where it is 
+
+When Started mm/yy 
+
+Expected end  
+
+implemented 
+
+mm/yy 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+21 
+
+ 
+
+Annex 1b: Community Questionnaire 
+ 
+
+ 
+ 
+
+District Name: 
+
+Constituency Name: 
+
+Ward Name: 
+
+Place of Interview: 
+
+Enumerator Name: 
+
+DDMC Accompanying Team: 
+ 
+ 
+
+Rapid Assessment Questionnaire – March 2009. 
+
+Community Focus Group Discussion2005/06  
+
+ 
+
+Date of Interview:  |__|__|__|__|__|__| (DD-MM-YY) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+What are the three (3) major livelihood sources in this community? Rank in order of importance 
+
+Major Livelihood 
+
+ 
+1. Livelihoods and Income Sources: 
+ 
+1. 
+ 
+Rank Order 
+1. 
+2. 
+3. 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+22 
+
+ 
+
+2. 
+ 
+2a. 
+
+ 
+2b. 
+
+ 
+2c. 
+ 
+ 
+2d. 
+
+  
+2e. 
+ 
+
+ 
+
+3. 
+ 
+3.a. 
+ 
+
+ 
+
+Hazard Identification 
+
+What type of hazard affected your ward/community?     
+…………………………………………………………………………………………………………………………………………………..……………….. 
+
+What was the intensity of the identified hazard when it struck?  
+…........................................ ………………………………………………………………………………………………………………………………..... 
+
+Indicate when the event actually occurred (Indicate the date when the event occurred)    
+Start date: 
+End date: 
+What was the duration of the identified hazard– Flash floods? (Indicate number of days/hours) 
+…............................................................................................................................................................................................................................
+............................................................................................................................................................................................................................... 
+
+What has been the ward/community experience of the occurrence of the identified hazard in the past three (3) years? 
+
+Season 
+ 
+ 
+ 
+
+ 
+Impact of the Hazard  
+
+Indicate the number of lives lost 
+
+ Deaths 
+ 
+Adults 
+Children 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Experience 
+
+Male 
+
+Female 
+
+ 
+ 
+
+23 
+
+ 
+
+ 
+3b 
+ 
+
+ 
+3c 
+ 
+
+Impacts on Agriculture & Commercial Activities 
+
+Percentage losses 
+Staple crop fields                                            Maize 
+cassava 
+millet 
+sorghum 
+
+Cash crops( Three major cash crops) 
+Livestock: Cattle 
+Livestock: Goat/sheep(shots) 
+Livestock: Pig 
+Poultry(chickens, ducks, rabbits etc 
+
+Impact on infrastructure 
+
+50-75% 
+
+75-100% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+25-50% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+0-25% 
+
+Comment 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Type 
+
+Number completely damaged 
+
+Number partially damaged 
+
+House/s 
+Clinic/s 
+School/s 
+Government Building/s 
+Bridge/s 
+Road/s 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3.d.  Which other sector(s) have been affected by the hazard? 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+(3di)  Education (please indicate names and location (ward) of the damaged schools/ infrastructure) 
+…………………………………………………………………………………………………………………………………………………………..  
+ 
+…………………………………………………………………………………………………………………………………………………………. 
+
+ 
+
+ 
+
+24 
+
+ 
+
+(3dii)  Health ((please indicate names and location (ward) of the damaged infrastructure)                                                                                                
+…………………………………………………………………………………………………………………………………………………………… 
+ 
+…………………………………………………………………………………………………………………………………………………………… 
+ 
+3(diii) Water and Sanitation  
+Water: (Specify the type and location (ward), where the damaged water points are)                                 
+………………………………………………………………………………………………………………………………………………………… 
+                                                                                   
+…………………………………………………………………………………………………….…………………………………………………… 
+Sanitation: (Specify the type and location (ward) of the damaged sanitation facility) are 
+ ………………………………………………………………………………………………………………………………………………………… 
+                                                                                   Risk of water contamination 
+ 
+
+Risk of Water Contamination e.g. feacal(specify) 
+ 
+ 
+ 
+ 
+
+Low 
+ 
+ 
+ 
+ 
+
+Medium 
+ 
+ 
+ 
+ 
+
+High 
+ 
+ 
+ 
+ 
+
+ 
+Which communities were affected by the hazard (completely displaced)?  
+
+Ward 
+
+Community/Village 
+
+Number of 
+
+Where are the affected households 
+
+Affected 
+
+Households Affected 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+25 
+
+3e. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+3.f. 
+ 
+
+Where are the affected households staying now? 
+
+Type 
+
+Number 
+
+Households integrated 
+Shelterless 
+Households occupying the same damaged houses 
+Church Building/Community Hall 
+School 
+
+ 
+ 
+ 
+ 
+ 
+
+Interventions 
+
+Preparedness 
+
+ 
+4. 
+ 
+4.3. 
+ 
+4.1.a.  What preparedness measures were put in place by the community to manage/mitigate the hazard? 
+ 
+               ……………………………………………………………………………………………………………………………………………………..…………… 
+                                       
+4.1.b.  What monitoring arrangements were put in place to follow up these measures? 
+ 
+ 
+
+…………………………………………………………………………………………………………………………………………………………………… 
+
+ 
+
+26 
+
+ 
+
+Response 
+
+ 
+4.4. 
+ 
+4.2.a.  What were the measures taken by the community to mitigate/manage the impact of the hazard? 
+ 
+ 
+ 
+4.2d.   Are there any on- going developmental/relief programmes in the community (Yes or No) 
+ 
+
+…………………………………………………………………………………………………………………………………………………………………… 
+            
+
+If yes please indicate the type of programme(s), organisation implementing and geographical coverage (ward), start and end date 
+ 
+
+Type of programme 
+
+Relief food 
+Distribution: 
+Home Based Care 
+(HBC) 
+ART 
+FFW/FFA 
+General Food 
+Distribution 
+Input support  (e.g. FSP) 
+other (specify): 
+
+ 
+
+ 
+
+Organisation 
+Implementing 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Ward where it is 
+
+When Started 
+
+Expected end  mm/yy 
+
+implemented 
+
+mm/yy 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+27 
+
+ 
+
+ Annex 2: Food Needs Table 
+ 
+
+District Name 
+
+Kalabo 
+
+Kapiri Mposhi 
+
+Shang'ombo 
+
+Mufumbwe 
+
+Mwinilunga 
+
+Kabompo 
+
+Chavuma 
+
+Lukulu 
+
+Zambezi 
+
+  
+ 
+ 
+
+ 
+
+2008 Projection 
+
+Population 
+
+No. of Affected People 
+
+138,509 
+
+247,903 
+
+86,369 
+
+58,904 
+
+154,752 
+
+94,974 
+
+38,015 
+
+86,599 
+
+83,127 
+
+27,702 
+
+24,790 
+
+25,911 
+
+17,671 
+
+30,950 
+
+18,995 
+
+15,206 
+
+17,320 
+
+24,938 
+
+989,152 
+
+203,483 
+
+No. of Affected 
+HHLDS 
+                                      
+4,617  
+                                      
+4,132  
+                                      
+4,318  
+                                      
+2,945  
+                                      
+5,158  
+                                      
+3,166  
+                                      
+2,534  
+                                      
+2,887  
+                                      
+4,156  
+                                    
+33,914  
+
+Food Needs (April - May) 
+
+                                     231  
+
+                                     207  
+
+                                     216  
+
+                                     147  
+
+                                     258  
+
+                                     158  
+
+                                     127  
+
+                                     144  
+
+                                     208  
+
+                                  1,695  
+
+28 
+
+ 
+
+Annex 3:   Map Showing Districts Covered 
+
+M a p  S h o w in g  th e A s s es s ed  D istricts  
+
+M wi nilu ng a
+
+Sol w ez i
+
+C hav u m a
+
+Kab om p o
+
+Za m be zi
+
+M uf um b w e
+
+Kas e m pa
+
+C hie ngi
+
+Kap ut a
+
+N ch ele ng e
+
+M pul ung u
+
+M bal a
+
+Kaw a m bw a
+
+M por ok os o
+
+N akon de
+
+M we ns e
+
+Luw in gu
+
+Kasa m a
+
+M ung w i
+
+Iso k a
+
+M ans a
+
+M ilen ge
+
+C hilu bi
+
+C hin sa li
+
+C ham a
+
+Sam fy a
+
+M pika
+
+C hili lab om bw e
+
+C hin gol a
+
+M uf uli ra
+
+Kal ulu shi
+
+Luf w an y am a
+
+M pon gw e
+
+Kitw e
+
+N dol a
+
+Lua ns hy a
+
+M as ait i
+
+Lun dazi
+
+Ser enj e
+
+M am bw e
+
+C hip ata
+
+Kap iri M p os hi
+
+Kab w e
+
+N yim ba
+
+M ku s hi
+
+P et a uk e
+
+Kate te
+
+C had iz a
+
+Luk u lu
+
+Kao m a
+
+Kal abo
+
+M ong u
+
+Sen an ga
+
+Sha ng 'o m bo
+
+S es h ek e
+
+M um bw a
+
+C hib om bo
+
+Lusa k a
+
+C hon gw e
+
+Lua ngw a
+
+Kafu e
+
+It ez h i-tezhi
+
+N am w al a
+
+M az abu k a
+
+M onz e
+
+Sia v ong a
+
+Gw em be
+
+C hom a
+
+Kaz u ngu la
+
+Kal om o
+
+Sin az ong w e
+
+Liv in gst on e
+
+Le g e n d
+
+As s es s e d  D is tric t s
+
+D is t ri c t n ot  Vi s it ed
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+29 
+
+ 
+
+Annex 4a: List of Damaged Roads, Bridges and Culverts 
+ 
+
+ 
+Mambolomoka 
+ 
+  
+
+Ward 
+District 
+Naluywa 
+Senanga 
+ 
+  
+  
+Imatanda 
+Shangombo  Nanjucha 
+  
+  
+  
+  
+Mporokoso  Mutotoshi 
+  
+Chavuma 
+  
+  
+  
+  
+Kasempa 
+  
+Mwinilunga 
+  
+  
+Mongu 
+
+  
+Lukolwe  
+Nguvu 
+ 
+ 
+ 
+Kalombe 
+ 
+Jimbe 
+ 
+ 
+Nakanya 
+
+ 
+ 
+Shikombwe 
+ 
+  
+Mfishe 
+Chambesi 
+Kalungu 
+Lubala 
+  
+Sikoongo 
+ 
+Masaninga 
+ 
+ 
+ 
+ 
+Mpunde 
+Chipepo 
+ 
+ 
+Mushimbili 
+Bunde 
+  
+
+ 
+ 
+Kaoma 
+  
+  
+Mungwi 
+  
+  
+  
+  
+Kalabo 
+ 
+Serenje 
+ 
+Mufumbwe 
+  
+  
+Kapiri 
+  
+  
+  
+  
+  
+  
+
+ 
+
+ 
+
+Description of Damage 
+Name of Road/Bridge/Culvert 
+Complete structural damage 
+Kakenge / Luanso 
+Partial structural damage 
+Senanga East Feeder Road 
+Submerged 
+Senanga - Kalongola Road 
+Complete structural damage 
+Sipumo Bridge 
+Partial structural damage 
+Siyanda / Likuma Road 
+Submerged 
+Shangombo Road 
+Submerged 
+Senanga-Sesheke Road 
+Complete structural damage 
+Malebele Bridge 
+Bridge washed away 
+Nyimbe Bridge 
+Bridge washed away 
+Luangwa Bridge 
+Partial structural damage 
+Lukolwe Bridge 
+Partial structural damage 
+Kayongo Bridge 
+Partial structural damage 
+Kapevu Bridge 
+Partial structural damage 
+Chipeba Bridge 
+Chimbali Bridge 
+Partial structural damage 
+Kamilonga / Lwanadamba bridge  Partial structural damage 
+Kampobe road 
+Partial structural damage 
+Damaged 
+Kululuwa culvert 
+Damaged 
+Mbulungu culvert 
+Partial structural damage 
+Mwinilunga Jimbe road 
+Luandui, Nalikwanda, Sasenda 
+Structural damage 
+Litawa, Lyamde and Matepo 
+bridges 
+ 
+Namaloba / Namimbe road 
+Kalopa / Namimbwe road 
+  
+Main road to district centre 
+Main road to district Isoka 
+Isoka / Mungwi road 
+Kasongwa Bridge 
+Kalunga Bridge 
+Kalabo Sikoonga Bridge 
+Kalabo Sikoonga Road 
+Serenje / Chibale road 
+ 
+Kamwa Mishima Bridge 
+Chitwa Bridge 
+Mutoma Bridge 
+Muteteshi Bridge 
+Mufukushi River Bridge 
+Kabwale road 
+Kabwe / Ngubwe 
+Mushimibili Bridge 
+Button road 
+  
+
+ 
+ 
+Partial structural damage 
+Partial structural damage 
+  
+Submerged 
+Submerged 
+Partial structural damage 
+Washed away 
+Washed away 
+Partial structural damage 
+Completely damaged 
+Submerged 
+ 
+Partial structural damage 
+Partial structural damage 
+Partial structural damage 
+Partial structural damage 
+Partial structural damage 
+Potholes with water have formed 
+Gullies have formed on the road 
+Partial structural damage 
+Gullies have formed on the road 
+  
+
+30 
+
+ 
+
+Annex 4b: List of Damaged Schools 
+ 
+
+Ward 
+ 
+
+Name of School 
+ 
+Lupuka Basic 
+ 
+Mwembela Basic 
+Fisaka Community School 
+Mipa Community School 
+
+District 
+ 
+Shangombo  Sipuma 
+ 
+ 
+Mukanya 
+Mambwe 
+Lumangwe 
+Mporokoso 
+Kapumo 
+  
+Mwandi Central  Mabungu Basic School 
+Sesheke 
+  
+  
+Kayenge 
+Zambezi 
+  
+Matondo 
+Mwinilunga  Ntambu 
+  
+ 
+Kalabo 
+Lwambi 
+ 
+Kama 
+ 
+ 
+ 
+ 
+ 
+Maala 
+Kaoma 
+Kalale 
+  
+ 
+Lukulu 
+Kangoti 
+  
+Lupuyi 
+  
+Kawaya 
+  
+Kashitu 
+Mungwi 
+Lubalo 
+  
+Lubala 
+Serenje 
+Musangashi 
+  
+ 
+  
+Kabansa 
+  
+Lulimala 
+Mufumbwe  Shukwe 
+  
+  
+  
+  
+Kabompo 
+  
+  
+Kapiri 
+Mposhi 
+  
+  
+  
+  
+  
+  
+
+Description of Damage 
+ 
+Completely damaged 
+ 
+Flooded 
+Partially damaged 
+Roofs blown off VIP toilets 
+Flooded 
+Flooded 
+Namangu School 
+Completely damaged 
+Kayenge Community School 
+Completely damaged 
+Chikuvu Basic School 
+1 teacher's house collapsed 
+Mpulumba School 
+3 houses damaged,1x2 blocks damaged 
+Ntambu High School 
+Flooded 
+Likuyu School 
+Flooded 
+Leauli 
+Flooded 
+Malabo 
+Flooded 
+Ngombala 
+Flooded 
+Malonda School 
+Partially damaged 
+Kalale Wangogi Basic 
+Partially damaged 
+Nalumino Mundia Basic 
+Roofs blown off on one of class block 
+Lishuwa Basic 
+One class (pole and mud) collapsed 
+Kakunji Basic 
+Completely submerged 
+Kawaya Community School 
+Completely collapsed. 
+Lyande Middle Basic School 
+One staff house collapsed at school 
+Lubalo Basic School 
+One staff house collapsed at school 
+Lubala Basic School 
+Partially damaged 
+Mitenge School 
+Completely damaged 
+Ntenge Basic  
+Partially damaged 
+Kalunga School 
+Two toilets at school collapsed 
+Katonga School 
+Partially damaged 
+Bulobe Community School 
+  
+ 
+Shimpandanza Basic 
+Partially damaged 
+Kaminzekenzeke High School  Partially damaged 
+  
+Chongwe School 
+Kayinkunda School 
+  
+Imansa Basic 
+ 
+St. Joseph Basic 
+ 
+Kantupu Basic 
+Mwangule Basic 
+Chimwala School 
+  
+
+  
+Three teachers' houses collapsed 
+Six toilets have collapsed 
+  
+Roof of 2 x 2 classroom block blown off 
+  
+Partially damaged 
+  
+Nursery block (pole and mud) collapsed 
+Partially damaged 
+Partially damaged 
+  
+
+ 
+Miluyi 
+ 
+  
+Kaula 
+Chikumba 
+  
+Mpunde 
+ 
+Kabumi 
+ 
+Chipepo 
+ 
+ 
+  
+
+ 
+
+ 
+
+31 
+
+ 
+
+Annex 4c: List of Damaged Health Centers 
+ 
+
+Ward 
+  
+Naluywa 
+  
+Imatanda 
+  
+  
+Muoyo 
+  
+  
+
+District 
+  
+Senanga 
+  
+  
+  
+  
+  
+  
+  
+Shangombo  Mambolomoka  Risisi Village Clinic 
+  
+
+Name of Health Centre 
+  
+Namwala Health Centre 
+  
+Nambwa Health Post 
+Namatoya Rural Health Post 
+  
+Lunga Health Post 
+Lyokwe Health Post 
+  
+
+  
+
+Description of Damage 
+  
+Completely damaged 
+  
+Submerged 
+Submerged 
+  
+Partially damaged 
+Partially damaged 
+  
+Completely damaged 
+  
+
+  
+  
+  
+  
+Chavuma 
+  
+  
+  
+Zambezi 
+  
+  
+
+Simu 
+  
+Sipuma 
+  
+Kambaya 
+  
+Likoma 
+  
+Kayenge 
+  
+  
+
+Damaged 
+  
+
+  
+Katukule Primary Health 
+Centre 
+  
+Lupuka Primary Health Centre  Damaged 
+  
+Kambaya Health Centre 
+  
+Likoma Health Centre 
+  
+Kayenge Clinic 
+  
+  
+
+  
+Damaged 
+  
+Damaged 
+  
+Completely damaged 
+  
+  
+
+ 
+ 
+Annex 4d: List of Other Damaged Buildings / Infrastructure 
+ 
+
+Ward 
+  
+
+District 
+  
+Mwinilunga  Jimbe 
+  
+  
+Mungwi 
+  
+Serenje 
+  
+  
+
+  
+  
+Kalungu 
+  
+Masaninga 
+  
+Kabamba  
+
+Name of Building 
+  
+Zambia Revenue Authority 
+building at Jimbe Border 
+  
+Mbesuma pontoon  
+  
+Saninga Dam 
+  
+Fondoka Dam 
+
+Description of Damage 
+  
+Toilet collapsed 
+  
+  
+Partial structural damage 
+  
+Dam walls burst 
+  
+Dam walls burst 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+32 
+
+ 
+
+Annex 5: Table Showing Health Affected Population 
+ 
+
+District Name 
+
+No. of Affected People 
+
+No. of Affected HHLDS 
+
+13,851 
+24,790 
+17,274 
+11,781 
+30,950 
+9,497 
+6,278 
+8,660 
+14,134 
+16,364 
+13,197 
+17,559 
+29,077 
+18,915 
+38,991 
+12,179 
+6,869 
+16,625 
+306,992 
+
+2,308 
+4,132 
+2,879 
+1,963 
+5,158 
+1,583 
+1,046 
+1,443 
+2,356 
+2,727 
+2,199 
+2,926 
+4,846 
+3,153 
+6,499 
+2,030 
+1,145 
+2,771 
+51,165 
+
+Kalabo 
+Kapiri Mposhi 
+Shang'ombo 
+Mufumbwe 
+Mwinilunga 
+Kabompo 
+Chavuma 
+Lukulu 
+Sesheke 
+Kaoma 
+Senanga 
+Serenje 
+Mungwi 
+Mporokoso 
+Mongu 
+Mambwe 
+Kasempa 
+Zambezi 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+33 
+
+ 
+
+Annex 6: Table Showing Water and Sanitation Affected Population 
+A. High Risk 
+
+ 
+
+ 
+
+District 
+
+Ward 
+
+Population Affected 
+
+1. Mambwe 
+  
+  
+Sub-total 
+2. Mwinilunga 
+Sub-total 
+3. Zambezi 
+  
+  
+  
+  
+  
+Sub-total 
+4. Chavuma 
+  
+  
+  
+Sub-total 
+
+Chikowa 
+Kakumbi 
+Mukhanya 
+  
+Ntambu 
+  
+Kayenge 
+Matondo 
+Mpidi 
+Muyembe 
+Mwange Nyawanda 
+Nyacikayi 
+  
+Kambuya 
+Lingundu 
+Nyantanda 
+Nguvu 
+  
+
+                          281  
+                        1,091  
+                        1,985  
+                        3,357  
+                        3,376  
+  
+                        2,110  
+                        7,480  
+                        4,820  
+                        5,118  
+                        1,940  
+                        1,310  
+                      22,778  
+                        1,100  
+                          813  
+                        2,041  
+                          920  
+                        4,874  
+
+District 
+
+Ward 
+
+Population Affected 
+
+5. Kabompo 
+ 
+Sub-total 
+6. Kalabo 
+Sub-total 
+7. Mongu 
+Sub-total 
+8. Shang'obo 
+  
+Sub-total 
+9. Senanga 
+  
+  
+Sub-total 
+10. Mungwi 
+  
+  
+  
+  
+Sub-total 
+11. Kapiri 
+  
+  
+Sub-total 
+12. Kaoma 
+13. Sesheke 
+
+Loloma 
+Kaula 
+  
+Lueti 
+  
+Kama 
+  
+Sinjembela 
+Sipuma 
+  
+Imatongo 
+Nalolo 
+  
+  
+Mfinshe 
+Lubala 
+Kalungu 
+Iyaya 
+Chambeshi 
+  
+Mushimbili 
+Chipepo 
+Bunde 
+  
+Chipimbi 
+Mwandi 
+
+ 
+
+34 
+
+                        1,920  
+                        2,130  
+                        4,050  
+                        1,128  
+  
+                        3,470  
+  
+                        9,658  
+                          972  
+                      10,630  
+                        1,582  
+                        8,500  
+                      10,082  
+  
+                          900  
+                        1,870  
+                        1,723  
+                        1,426  
+                        1,432  
+                        7,351  
+                        2,856  
+                        3,120  
+                        2,039  
+                        8,015  
+                        1,120  
+                          931  
+
+  
+ 
+
+Ward 
+Mukanda Nkunda 
+Kalombo Kamusamba 
+Lulimala 
+Kakwacha 
+Kashizhi  
+Kalambu 
+Matushi 
+Njenga 
+  
+  
+ 
+ 
+
+                   91,244  
+ 
+
+Population Affected 
+
+840 
+849 
+729 
+286 
+981 
+1,012 
+1,042 
+814 
+6,542 
+
+                      13,095  
+ 
+
+104, 339 
+
+ 
+
+TOTAL 
+B. Medium Risk 
+
+District 
+
+1. Zambezi  
+2. Chavuma 
+3. Serenje 
+4. Lukulu 
+  
+5. Mufumbwe 
+  
+6. Kasempa 
+Senanga 
+TOTAL 
+ 
+TOTAL POPULATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+35 
+
+ 
+
+Annex 7: Team Composition and Districts Covered 
+ 
+TEAM  PROVINCE 
+
+NO. OF DISTRICTS 
+
+1 
+
+Eastern 
+
+2 
+
+ 
+North-Western 
+
+Mambwe   
+ 
+ 
+ 
+ 
+Mwinilunga and Kasempa 
+ 
+ 
+
+3 
+
+North-Western 
+
+Zambezi and Chavuma 
+ 
+ 
+
+North-Western 
+
+Mufumbwe and Kabompo 
+ 
+ 
+
+ 
+ 
+Western 
+
+ 
+ 
+ Lukulu and Kaoma 
+ 
+ 
+
+ 
+4 
+ 
+
+ 
+5 
+
+ 
+
+NO. OF 
+DAYS 
+
+TEAM COMPOSITION 
+
+Team leader: Mr Brian Saka 
+Team Member: Mr Lyson Mbewe 
+ District Staff: Mr Njekwa Msozi 
+ Prov. Staff:     Mr Titus Ngandu 
+Team Leader: Mr Oscar Silembo 
+Team Member: Mr. Martin Chifuna  
+                         Mr H. Mweetwa 
+District Staff: Mr D. Fulayi(Kasempa) 
+                       Mr P. Chiwaya(Mwinilunga) 
+Prov. Staff: Mr S.Lutangu 
+Team Leader: Mr Lenganji Sikaona  
+Team Member: Mr Vincent Mungalu 
+District Staff: Mr. Fulayi Frobisher 
+                       Mr Brian Musamvu 
+Prov. Staff:   Mr. George Njobvu                
+Team Leader: Mr Meetwell Cheelo 
+Team Member: Ms Ireen  Ngulube 
+ District Staff: Mr Lawrence Kazadi (Mufumbwe) 
+                       Mrs Glorius Kapwepwe(Kabompo) 
+ Prov. Staff: Mr Robert Ngoma 
+Team Leader: Ms Esnart Makwakwa  
+Team Members:  Mr Teddy Kabunda 
+District Staff:Ms Lois Chiswamo(Kaoma) 
+                      Mr Morgan Kambeu(Lukulu) 
+  
+
+ 
+3 
+ 
+
+ 
+4 
+ 
+
+ 
+5 
+
+ 
+4 
+
+ 
+ 
+4 
+
+36 
+
+ 
+
+TEAM  PROVINCE 
+
+NO. OF DISTRICTS 
+
+NO. OF 
+DAYS 
+
+TEAM COMPOSITION 
+
+6 
+
+ 
+ 
+7. 
+
+ 
+ 
+8. 
+
+ 
+ 
+9. 
+
+ 
+ 
+Western 
+
+ 
+ 
+Western 
+
+ 
+Northern 
+
+ 
+ 
+Northern 
+
+ 
+ 
+10. 
+
+ 
+ 
+Central 
+
+  
+ 
+ Kalabo and Mongu 
+
+ 
+ 
+Shang’ombo and 
+Senanga 
+ 
+ 
+ 
+Mporokoso 
+
+ 
+Mungwi 
+ 
+ 
+
+ 
+ 
+Serenje 
+
+11 
+
+Central 
+
+Kapiri Mposhi 
+
+ 
+
+ 
+ 
+4 
+
+ 
+ 
+4 
+ 
+
+4 
+ 
+
+ 
+ 
+4 
+
+ 
+ 
+3 
+
+3 
+
+ Team Leader: Mr Dingiswayo Banda 
+ Team Member: Mr Andrea Habweza 
+
+District Staff:Mr Simasiku 
+Prov. Staff:Mr P.Mishengo 
+
+Team Leader: Mr Bupe Bwalya 
+Team Member: Mr Victor Bupe  
+District Staff:Mr H.Sitali 
+Prov. Staff:Mr D.Kalebaila 
+
+Team Leader: Mr Moses Chansa 
+Team Member: Ms. Emmy Mc Millan  
+District Staff:Mr Andrew Ngoma 
+
+Team Leader: Mr Chris Chansa 
+Team Member: Mr Ryan Mwape 
+District Staff: Mr Geoge Mutono 
+Prov. Staff: Dr Steven Tembo 
+
+Team Leader:  Mr Fanwell Hamusonde 
+Team Member: Mr Chiiya Nchimunya 
+ District Staff: Mr Kembo Chisebe 
+Prov. Staff: Ms Elizabeth Chuma 
+Team Leader:  Sibajene Munkombwe 
+Team Member: Diana Hambote 
+District Staff: Mr A. Mazuba 
+Prov. Staff: Ms Jessy Mulenga 
+
+ 
+
+37 
+
+ 
+
+TEAM  PROVINCE 
+
+NO. OF DISTRICTS 
+
+12 
+
+Western 
+
+Sesheke 
+
+NO. OF 
+DAYS 
+
+3 
+
+TEAM COMPOSITION 
+
+Team Leader:  Bwendo Kabanda 
+Team Member: Linda Nyasulu 
+ District Staff: Mr Sikufele 
+Prov. Staff: Mr Mate Munalula 
+
+ 
+ 
+
+ 
+
+38 
+
+ 
+
+Annex 8: Report Writing and Editorial team 
+ 
+
+ 
+1.  Yande Mwape  
+           DMMU 
+ 
+ 
+2.  Evan Kapekele 
+            DMMU 
+ 
+ 
+3.  Allan Mulando  
+            WFP 
+
+ 
+
+ 
+
+ 
+
+ 
+4.  Sikaona Lenganji 
+              DMMU 
+ 
+ 
+5.  Sibajene Munkombwe 
+              ZDA 
+ 
+ 
+6.  Bwendo Kabanda 
+              CRS 
+                                                                                     
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+39 
+
+
