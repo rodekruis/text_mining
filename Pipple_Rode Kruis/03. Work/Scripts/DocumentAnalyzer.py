@@ -216,9 +216,9 @@ def write_to_excel_with_invalid_char_catch(df, path):
 ########################################################################################################################
 #Import text file and convert it to proper nltk environment
 
-#f = open('C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Input/Text_Reports/2009 In-depth Action Plan.pdf.txt', 'r')
+#f = open('../Input/Text_Reports/2009 In-depth Action Plan.pdf.txt', 'r')
 # Loop over not just 1 txt file, but folder containing txt files
-txt_files = 'C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Input/Text_Reports' #map containing txt files
+txt_files = '../Input/Text_Reports' #map containing txt files
 read_files = glob.glob(os.path.join(os.getcwd(), txt_files, "*.txt")) #list with all the txt files
 data_files = [] #empty list
 
@@ -262,19 +262,22 @@ for i in range(len(data_files)):
 
 
     ########################################################################################################################
-    ### Step 2: import lists of potential locations, disasters, victims
+    ### Step 2: import lists of potential locations, disasters, victims ...
     ########################################################################################################################
     # Import excel file with provinces and districts of Zambia as a DataFrame
-    Zambia_provinces = pd.read_excel('C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Input/Zambia Provincies en Districten.xlsx')
-    Zambia_distr = pd.read_excel('C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Input/Zambia Provincies en Districten.xlsx', 'All districts')
+    Zambia_provinces = pd.read_excel('../Input/Zambia Provincies en Districten.xlsx')
+    Zambia_distr = pd.read_excel('../Input/Zambia Provincies en Districten.xlsx', 'All districts')
 
     # From this DataFrame, create list of districts in Zambia
     locations = Zambia_distr['Districts'].tolist()
 
-    disaster_words = pd.read_csv('C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Input/Disaster.txt', header=None)[0].tolist()
+    disaster_words = pd.read_csv('../Input/Disaster.txt', header=None)[0].tolist()
 
-    victims_words = pd.read_csv('C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Input/Victims.txt', header=None)[0].tolist()
-
+    victims_words = pd.read_csv('../Input/Victims.txt', header=None)[0].tolist()
+    
+    infrastructure_words = pd.read_csv('../Input/Infrastructures.txt', header=None)[0].tolist()
+    
+    trigger_words = pd.read_csv('../Input/TriggerWords.txt', header=None)[0].tolist()
 
     ########################################################################################################################
     # Step 2: determine the paragraphs of the document
@@ -319,13 +322,12 @@ for i in range(len(data_files)):
 
 
     ########################################################################################################################
-    # Step 4: for each paragraph, find the locations, disasters, dates and victims.
+    # Step 4: for each paragraph, find the locations, disasters, dates, victims ...
     ########################################################################################################################
     # Now, for each paragraph, we search for the locations, disasters and dates that occur in the paragraph text.
     # We add the results as a new column to the 'paragraphs' DataFrame.
 
     for idx, row in paragraphs.iterrows():
-
 
         start = time.time()
         # Find all location occurrences
@@ -344,24 +346,35 @@ for i in range(len(data_files)):
         # Find all victims
         victims_paragraph = find_occurrences_of_list_elements_in_string(search_list=victims_words, s=row['Paragraph text'])
         paragraphs.loc[idx, 'Victims'] = ', '.join(victims_paragraph)
+        
+        # Find all infrastructures
+        infrastructures_paragraph = find_occurrences_of_list_elements_in_string(search_list=infrastructure_words, s=row['Paragraph text'])
+        paragraphs.loc[idx, 'Infrastructures'] = ', '.join(infrastructures_paragraph)
+        
+        # Find all triggers
+        trigger_paragraph = find_occurrences_of_list_elements_in_string(search_list=trigger_words, s=row['Paragraph text'])
+        paragraphs.loc[idx, 'Triggers'] = ', '.join(trigger_paragraph)
 
-    #write_to_excel_with_invalid_char_catch(paragraphs, 'C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Output/paragraphs_all.xlsx')
-    paragraphs.to_excel('C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Output/All paragraphs/paragraphs_all_of_{}.xlsx'.format(names[i]))
+    #write_to_excel_with_invalid_char_catch(paragraphs, '../Output/paragraphs_all.xlsx')
+    paragraphs.to_excel('../Output/All paragraphs/paragraphs_all_of_{}.xlsx'.format(names[i]))
 
-    #################################################################################################################################
-    # Step 5: filter the paragraphs in which at least 3 of the 4 elements (location, disaster, date, victims) occur and store results
-    #################################################################################################################################
+    ########################################################################################################################
+    # Step 5: filter the paragraphs in which at least 3 of the elements (location, disaster, date, victims ...) occur 
+    # and store results
+    ########################################################################################################################
     for idx, row in paragraphs.iterrows():
 
         bool1 = len(row['Locations']) > 0
         bool2 = len(row['Disasters']) > 0
         bool3 = len(row['Dates']) > 0
         bool4 = len(row['Victims']) > 0
+        bool5 = len(row['Infrastructures']) > 0
+        bool6 = len(row['Triggers']) > 0
 
-        if bool1 + bool2 + bool3 + bool4 < 3:
+        if bool1 + bool2 + bool3 + bool4 + bool5 + bool6 < 3:
             paragraphs.drop(idx, inplace=True)
 
     print(paragraphs.head(25))
     paragraphs.to_excel(
-        'C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Output/Paragraph selection/paragraphs_selection_of_{}.xlsx'.format(names[i]))
-    #write_to_excel_with_invalid_char_catch(paragraphs, 'C:/Users/s110768/Documents/Pipple/KlantenPipple - Rode Kruis/201806 Data Challenge #1/03. Work/Output/paragraphs_selection.xlsx')
+        '../Output/Paragraph selection/paragraphs_selection_of_{}.xlsx'.format(names[i]))
+    #write_to_excel_with_invalid_char_catch(paragraphs, '../Output/paragraphs_selection.xlsx')
