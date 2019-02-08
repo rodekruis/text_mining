@@ -4,12 +4,8 @@ Created on Fri Feb 8 14:53:54 2019
 
 @author: Jacopo.Margutti
 """
-# coding: utf8
-from __future__ import unicode_literals, print_function
 
-import os
 from selenium import webdriver
-from selenium.webdriver import Firefox
 import pandas as pd
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
@@ -17,21 +13,23 @@ import time
 
 """
 Script to download a set of documents from a webpage
-using selenium webdriver.
+using selenium and chromedriver.
+get selenium with:
+    pip install selenium
+get chromedriver:
+    download https://chromedriver.storage.googleapis.com/index.html?path=73.0.3683.20/
+    move it somewhere stable (see chromedriver_location below)
+    
 working example on the VULNERABILITY CAPACITY ASSESSMENT (VCA) of IFRC
 <http://vcarepository.info/find>
-
 """
+
+chromedriver_location = '/usr/local/bin/chromedriver'
+
 # initialize webdriver
-firefoxProfile = webdriver.FirefoxProfile()
-firefoxProfile.set_preference("browser.download.folderList", 2)
-firefoxProfile.set_preference("browser.download.manager.showWhenStarting", False)
-firefoxProfile.set_preference("browser.download.dir", os.getcwd())
-firefoxProfile.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf")
-firefoxProfile.set_preference("pdfjs.disabled", True)
-firefoxProfile.set_preference("plugin.scan.Acrobat", "99.0")
-firefoxProfile.set_preference("plugin.scan.plid.all", False)
-browser = Firefox(firefox_profile=firefoxProfile)
+ChromeOptions = webdriver.ChromeOptions()
+ChromeOptions.add_argument('--disable-browser-side-navigation')
+browser = webdriver.Chrome(chromedriver_location, chrome_options=ChromeOptions)
 
 # get webpage
 browser.get('http://vcarepository.info/find')
