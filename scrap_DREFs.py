@@ -5,13 +5,8 @@ Created on Fri Feb 8 14:56:54 2019
 @author: Jacopo.Margutti
 """
 
-import os
 from selenium import webdriver
-from selenium.webdriver import Firefox
 from selenium.common.exceptions import NoSuchElementException
-import pandas as pd
-pd.set_option('display.max_columns', 4)
-pd.set_option('max_colwidth', 20)
 import time
 import re
 import plac

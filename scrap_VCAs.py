@@ -6,9 +6,6 @@ Created on Fri Feb 8 14:53:54 2019
 """
 
 from selenium import webdriver
-import pandas as pd
-pd.set_option('display.max_columns', 4)
-pd.set_option('max_colwidth', 20)
 import time
 
 """
