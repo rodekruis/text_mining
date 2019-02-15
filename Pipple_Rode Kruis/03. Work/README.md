@@ -32,5 +32,13 @@ The final output of the pipeline is a table (in csv and/or h5) containg impact d
 </table>
 
 ### requirements
-modules required to run the scripts, all on PyPi:
+modules required to run the scripts (all on PyPI):
 1) [tika](https://pypi.org/project/tika/)
+2) [nltk](https://pypi.org/project/nltk/)
+3) [pandas](https://pypi.org/project/pandas/)
+4) [spacy](https://pypi.org/project/spacy/)
+5) [word2number](https://pypi.org/project/word2number/)
+
+### TO DO
+1) adapt output format to [DesInventar](https://www.desinventar.net/)
+2) ...
