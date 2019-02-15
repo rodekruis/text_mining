@@ -43,4 +43,5 @@ Modules required to run the scripts (all on PyPI):
 
 ### TO DO
 1) Adapt output format to [DesInventar](https://www.desinventar.net/)
-2) ...
+2) Identify disasters
+3) ...
