@@ -6,7 +6,6 @@ The extraction of impact data proceed in 3 consecutive steps:
 1) Transform .pdf into .txt files
 2) Divide each document into paragraph and identify interesting ones (dates, locations, victims...)
 3) Analyze each paragraph and extract structured impact data
-For each step there's a script, see [Scripts](https://github.com/rodekruis/text_mining/new/master/Pipple_Rode%20Kruis/03.%20Work)
 
 ### input
 The inputs that the various scripts needs are:
@@ -17,6 +16,7 @@ The inputs that the various scripts needs are:
 ### output
 The final output of the pipeline is a table (in csv and/or h5) containg impact data
 
+<table>
 <tr>
   <td>Package Status</td>
   <td>
@@ -32,6 +32,7 @@ The final output of the pipeline is a table (in csv and/or h5) containg impact d
     </a>
 </td>
 </tr>
+</table>
 
 ### requirements
 modules required to run the scripts:
