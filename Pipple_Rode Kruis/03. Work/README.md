@@ -1,5 +1,6 @@
 # impact data from doc
-Extract impact data from red cross documents. Working example based on reports of the Vulnerability Assessment Committee (VAC) of Zambia.
+Extract impact data from red cross documents.
+Working example based on reports of the Vulnerability Assessment Committee (VAC) of Zambia.
 
 ### workflow
 The extraction of impact data proceed in 3 consecutive steps:
