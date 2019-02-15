@@ -16,13 +16,6 @@ The inputs that the various scripts needs are:
 ### output
 The final output of the pipeline is a table (in csv and/or h5) containg impact data, in the form 
 
-'location', 'date', 'damage_livelihood',
-                                      'damage_general', 'people_affected',
-                                      'people_dead', 'houses_affected',
-                                      'livelihood_affected',
-                                      'infrastructures_affected',
-                                      'infrastructures_mentioned'
-
 <table>
 <tr>
   <td>location</td>
@@ -39,5 +32,5 @@ The final output of the pipeline is a table (in csv and/or h5) containg impact d
 </table>
 
 ### requirements
-modules required to run the scripts:
-1) spacy
+modules required to run the scripts, all on PyPi:
+1) [tika](https://pypi.org/project/tika/)
