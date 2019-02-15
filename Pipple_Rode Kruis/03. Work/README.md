@@ -6,7 +6,7 @@ Working example based on reports of the Vulnerability Assessment Committee (VAC)
 ### workflow
 The extraction of impact data proceed in 3 consecutive steps:
 1) Transform .pdf into .txt files
-2) Divide each document into paragraph and identify interesting ones (dates, locations, victims...)
+2) Divide each document into paragraphs and identify interesting paragraphs, i.e. containing dates, locations, victims, etc.
 3) Analyze each paragraph and extract structured impact data
 
 ### input
@@ -34,7 +34,7 @@ The final output of the pipeline is a table (in csv and/or h5) containg impact d
 </table>
 
 ### requirements
-modules required to run the scripts (all on PyPI):
+Modules required to run the scripts (all on PyPI):
 1) [tika](https://pypi.org/project/tika/)
 2) [nltk](https://pypi.org/project/nltk/)
 3) [pandas](https://pypi.org/project/pandas/)
@@ -42,5 +42,5 @@ modules required to run the scripts (all on PyPI):
 5) [word2number](https://pypi.org/project/word2number/)
 
 ### TO DO
-1) adapt output format to [DesInventar](https://www.desinventar.net/)
+1) Adapt output format to [DesInventar](https://www.desinventar.net/)
 2) ...
