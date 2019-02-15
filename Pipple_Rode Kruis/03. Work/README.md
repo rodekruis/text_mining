@@ -14,23 +14,27 @@ The inputs that the various scripts needs are:
 3) One or more lists of words relevant for impact data (victims, infrastructures, etc.)
 
 ### output
-The final output of the pipeline is a table (in csv and/or h5) containg impact data
+The final output of the pipeline is a table (in csv and/or h5) containg impact data, in the form 
+
+'location', 'date', 'damage_livelihood',
+                                      'damage_general', 'people_affected',
+                                      'people_dead', 'houses_affected',
+                                      'livelihood_affected',
+                                      'infrastructures_affected',
+                                      'infrastructures_mentioned'
 
 <table>
 <tr>
-  <td>Package Status</td>
-  <td>
-		<a href="https://pypi.org/project/pandas/">
-		<img src="https://img.shields.io/pypi/status/pandas.svg" alt="status" /></td>
-		</a>
-</tr>
-<tr>
-  <td>License</td>
-  <td>
-    <a href="https://github.com/pandas-dev/pandas/blob/master/LICENSE">
-    <img src="https://img.shields.io/pypi/l/pandas.svg" alt="license" />
-    </a>
-</td>
+  <td>location</td>
+  <td>date</td>
+<td>damage_livelihood</td>
+<td>damage_general</td>
+<td>people_affected</td>
+<td>people_dead</td>
+<td>houses_affected</td>
+<td>livelihood_affected</td>
+<td>infrastructures_affected</td>
+<td>infrastructures_mentioned</td>
 </tr>
 </table>
 
