@@ -4,7 +4,7 @@ Extract impact data from red cross documents.
 Working example based on reports of the Vulnerability Assessment Committee (VAC) of Zambia.
 
 ### workflow
-The extraction of impact data proceed in 3 consecutive steps:
+The extraction of impact data proceeds in 3 consecutive steps:
 1) Transform .pdf into .txt files
 2) Divide each document into paragraphs and identify interesting paragraphs, i.e. containing dates, locations, etc.
 3) Analyze each paragraph and extract structured impact data
