@@ -8,7 +8,7 @@ The extraction of impact data proceed in 3 consecutive steps:
 3) Analyze each paragraph and extract structured impact data
 
 ### input
-The inputs that the various scripts needs are:
+The inputs that the various scripts need are:
 1) A set of documents, in pdf format
 2) A list of geographical locations (typically country-based)
 3) One or more lists of words relevant for impact data (victims, infrastructures, etc.)
