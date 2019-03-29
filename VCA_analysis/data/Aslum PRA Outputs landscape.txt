@@ -1,0 +1,1120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Barangay Aslum, Alang-alang, Leyte
+In partnership with
+
+Output #1
+HISTORICAL TIMELINE
+
+
+	Types of Disaster
+	YOLANDA
+	EL NIÑO
+	TORNADO
+	LIGHTNING
+
+	Date of Major Occurrence
+	November 08, 2013
+	March – October 1982
+	August 13, 2014
+	February 2013
+
+	Impact and Strength
+	Supertyphoon
+	Drought
+	High Impact (Hail)
+	Medium Impact
+
+	Loss of Life/ Injured
+	1 dead
+10 injured
+	None
+	None
+	2 injured
+
+	Property
+	16 houses partially damaged
+139 houses totally damaged
+	None
+	20 houses partially damaged
+	1 house partially damaged
+Most of the appliances were damaged
+
+	Infrastructures
+	Partially damaged – Barangay Hall, Learning Center, Daycare Center, Elementary School, Waiting Shed
+Totally damaged – Stage, Streetlights, Chapel
+	3 jetmatic pumps dried up
+	None
+	Electric transformers were damaged
+
+	Agriculture
+	50 hectares rice fields destroyed
+40 hectares coconut/banana plantation destroyed
+	50 hectares rice fields totally damaged
+25 hectares banana plantation totally damaged
+	Rice fields and plants were damaged
+	None
+
+	Environment
+	30 hectares forest wiped out
+	Bodies of water dried up
+	40 hectares rice fields destroyed
+	None
+
+	Estimated Amount of Damage
+	P 20,000,000.00
+	P 2,500,000.00
+	P 200,000.00
+	P 200,000.00
+
+
+Output #1a
+HISTORICAL TIMELINE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+Output #2
+HAZARD MAP
+
+
+
+
+	Output #3
+RISK/VULNERABILITY ASSESSMENT
+
+
+
+	TYPES OF HAZARD
+	RISK
+	REASON
+
+	
+	LOW
+	MEDIUM
+	HIGH
+	
+
+	
+
+Typhoon
+(Yolanda)
+	
+	
+	
+
+X
+	· Houses have weak foundations because they are made up of light materials
+· Infrastructures also have weak foundations
+· People went hungry
+· People looted for goods for survival
+· People were traumatized
+
+	
+El Niño
+	
+	
+	
+X
+	· Most residents experienced hunger
+· Residents are fond of burning plastic
+· Long months went without rain
+· Plants and animals died
+
+	
+Tornado
+	
+	
+	
+X
+	
+· Most residents experienced trauma
+· Most houses were damaged
+
+	
+Lightning
+	
+	
+X
+	
+	
+· Only the appliances were damaged
+
+
+
+
+
+Output #5a
+VULNERABILITY and CAPACITY ANALYSIS
+
+	Hazard Aspect
+(El Niño)
+	Vulnerability
+	Capacities
+	Possible Action
+
+	Physical / Materials
+	•Deep wells and water pumps easily dried up
+•Plants and trees dried up; farm animals were also affected
+
+	•Residents had one source of water/”burabod”
+	•Construct a water pump or a deep well that is situated near the center of the barangay
+
+	Social / Organizational
+	•No organization could help the barangay find a solution to the loss of water during extreme droughts
+	•Willingness of the barangay to create and organize an organization that could help request for water pumps
+	•Construct additional water pumps that can be utilized by the whole barangay
+
+	Motivational / Attitudinal
+	•Residents are not working together to find an alternative source of water
+	•Some residents have already requested for water pumps
+	•Arrange for an awareness campaign which would seek to encourage the hunt for more possible sources of water
+
+
+
+
+
+
+Output #5b
+VULNERABILITY and CAPACITY ANALYSIS
+
+	Hazard Aspect
+(LIGHTNING)
+	Vulnerability
+	Capacities
+	Possible Action
+
+	Physical / Materials
+	•Most households have electrical appliances
+•The barangay is situated at an elevated/high area
+	•Each appliance is plugged to only one electric socket which prevents the flow of electric current
+	•During such times, residents should unplug their appliances and turn of the main switch
+
+
+	Social / Organizational
+	•People lack knowledge on what to do during lightning/when lightning strikes
+	•The people are very cooperative and willing to learn
+	•Plan and listen to weather forecasts/news advisory
+•Be ready and alert
+
+
+
+	Motivational / Attitudinal
+	•People don’t usually unplug their electrical devices during lightning
+•People tend to “overuse” their gadgets up to the point where they don’t mind even if lightning strikes
+	•People are aware that when lightning strikes, they should cover the things that could possibly attract it
+	•To be safe, all electrical appliances should be unplugged; people should also stay in safe places
+
+
+
+
+
+
+
+Output #5c
+VULNERABILITY and CAPACITY ANALYSIS
+
+
+	Hazard Aspect
+(TYPHOON)
+	Vulnerability
+	Capacities
+	Possible Action
+
+	Physical / Materials
+	•Most houses are made up of light materials
+•Not all houses are concrete
+•Most of the houses don’t have sturdy posts
+	•Some concrete houses have strong foundation
+
+	•In the future, residents should construct sturdier posts and build  a better housing foundation
+
+	Social / Organizational
+	•The barangay did not immediately gain access to relief items from different government and nongovernment organizations
+	•The barangay easily comes together in terms of asking for help from other organizations
+	•Identify organizations that could possibly help the barangay in times of disasters
+
+	Motivational / Attitudinal
+	•Most of the residents disregard notices from authorities to evacuate to safer places
+•Other residents practice ignorance: even if they already know that a life threatening event is bound to happen, they don’t plan and prepare for it
+	•Some residents heed the call of the authorities to evacuate
+	•People should be made aware or be warned of upcoming typhoons
+
+
+
+
+	
+	
+Livelihood
+
+	
+Water System
+	
+Sanitation
+	
+Evacuation Center
+	
+Agriculture
+	
+Health center w/ facilities
+	
+School
+	
+Shelter
+	
+Rehabilitation of drainage
+	
+C. R.
+	
+Total
+	
+Rank
+
+	Livelihood
+
+	
+	5
+	5
+	5
+	4
+	4
+	4
+	3
+	5
+	4
+	39
+	2nd
+
+	Water System
+
+	1
+	
+	3
+	1
+	1
+	1
+	3
+	1
+	1
+	2
+	14
+	9th
+
+	Sanitation
+
+	1
+	2
+	
+	1
+	1
+	1
+	1
+	1
+	1
+	1
+	10
+	10th
+
+	Evacuation Center
+
+	1
+	5
+	5
+	
+	1
+	1
+	4
+	1
+	1
+	1
+	20
+	6th
+
+	Agriculture
+
+	1
+	5
+	5
+	5
+	
+	4
+	5
+	1
+	1
+	3
+	30
+	3rd
+
+	Health center w/ facilities
+
+	1
+	4
+	4
+	4
+	1
+	
+	4
+	1
+	1
+	1
+	21
+	5th
+
+	School
+
+	1
+	4
+	4
+	4
+	1
+	1
+	
+	1
+	3
+	3
+	22
+	4th
+
+	Shelter
+
+	3
+	5
+	5
+	5
+	3
+	5
+	5
+	
+	5
+	5
+	41
+	1st
+
+	Rehabilitation of drainage
+
+	1
+	3
+	3
+	2
+	1
+	3
+	3
+	1
+	
+	3
+	20
+	7th
+
+	C. R.
+
+	1
+	3
+	3
+	1
+	1
+	2
+	1
+	1
+	2
+	
+	16
+	8th 
+
+
+Output #8
+PRIORITY MATRIX
+
+
+Output #9
+RESOURCE MATRIX
+
+	ACTIVITIES/ RESOURCES
+	HUMAN
+	FINANCE
+	SOCIAL
+	PHYSICAL
+	NATURAL
+
+	 SHELTER
+	
+	
+	
+	
+	
+
+	LIVELIHOOD
+	
+	
+	
+	
+	
+
+	AGRICULTURE
+	
+	
+	
+	
+	
+
+	SCHOOL
+	
+	
+	
+	
+	
+
+	HEALTH CENTER W/ FACILITIES
+	
+	
+	
+	
+	
+
+	EVACUATION CENTER
+	
+	
+	
+	
+	
+
+	REHABILITATION OF DRAINAGE
+	
+	
+	
+	
+	
+
+	CR
+	
+	
+	
+	
+	
+
+	WATER SYSTEM
+	
+	
+	
+	
+	
+
+	SANITATION
+	
+	
+	
+	
+	
+
+
+
+	
+COMMITTEE
+
+
+	LIVELIHOOD
+	SHELTER
+	WATER and SANITATION
+
+	Chairman: Antonio Teraza
+	Chairman: Hon. Thadeo Versoza
+	Chairman: Hon. Leah Vero
+(09493796006)
+
+	Lorna Madrigal
+(09095064531/09355121827)
+	Arnel Lazon
+(09105305773)
+	Analyn Falguera
+(09983766074)
+
+	Paz Cabelin
+(09466644037)
+	Junely Justiza
+	Analisa Dolor
+(09085781923/09355121350)
+
+	Marianita Catada
+(09468567930)
+	Gemmalyn Madrigal
+(09101429162)
+	Leah Lantajo
+(09998371371)
+
+	Mary Ann Mahamis
+(09481530602)
+	Efren Josol
+	Nelida Sales
+(09051383301)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Output #7
+Poverty experienced by residents of Barangay Aslum
+PROBLEM TREE
+
+	Difficult living conditions
+Prevalence of different diseases
+Not enough livelihoods 
+
+
+
+
+
+
+Lack of employment opportunities
+
+Most of the houses are still damaged
+No evacuation center people can run to during calamities
+Low farm yield
+Only 60% of the households have comfort rooms
+Lack of supply for potable water
+Flooding
+Improper waste disposal
+Lack of medicines; no emergency vehicle available in cases of emergency 
+
+Health center is far from the barangay
+Destroyed drainage 
+Insufficient number of water pumps
+
+People were not able to finish their schooling
+
+No fertilizers used in rice fields
+
+
+
+	Agriculture
+Absence of an evacuation center
+Shelter
+Education
+Livelihood
+Health center with facilities
+Water and Sanitation
+The school is far from the barangay
+Financial problems
+
+
+	SEASONSOutput #6
+SEASONAL CALENDAR
+
+	January
+	February
+	March
+	April
+	May
+	June
+	July
+	August
+	September
+	October
+	November
+	December
+
+	New Year’s Day
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Women’s Day
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Women’s Ass. Meeting
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Farmer’s Association
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Valentines Day
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Planting season
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Harvest season
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Brgy. Assembly
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Fiesta
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Mass
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Immunization
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Semana Santa
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Graduation
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Pintakasi
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Brigada eskwela
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Mass treatment Schisto
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Mother class
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	FDS (4P’s)
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Fiesta minatay
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Foundation day
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Christmas
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Rainy season
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Dry season
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	Children’s Month
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+Output #6a
+SEASONAL CALENDAR LEGENDS
+
+New Year’s Day
+Women’s Day
+Women’s Ass. Meeting
+Farmer’s Association
+Valentines Day
+Planting season
+Harvest season
+Brgy. Assembly
+Fiesta
+Mass
+Immunization
+Semana Santa
+Graduation
+Pintakasi
+Brigada eskwela
+Mass treatment Schisto
+Mother class
+FDS (4P’s)
+Fiesta minatay
+Foundation day
+Christmas
+Rainy season
+Dry season
+Children’s Month
+
+ACF
+RHU
+RED CROSS
+PCA
+DA
+KALAHI CIDSS
+MERCY CORPS
+BLGU
+4-Ps
+Output #4
+VENN DIAGRAM
+
+
+	
+4Ps
+ACF
+BLGU
+DA
+KALAHI-CIDSS
+Mercy Corps
+PCA
+Red Cross
+RHU
+UNICEF
+UNICEF
+
+
+
+
+
+
+
+Save the Children
+
+
+
+
+	
+Output #5d
+VULNERABILITY and CAPACITY ANALYSIS
+
+
+	Hazard Aspect
+(TORNADO/WHIRLWIND)
+	Vulnerability
+	Capacities
+	Possible Action
+
+	Physical / Materials
+	•Most of the houses are made up of light materials
+	•Presence of residents who are skilled workers
+•Availability of sources of materials that can be used to build more durable houses 
+	•Plan to have a training to build sturdier houses
+
+
+	Social / Organizational
+	•Unavailability of devices that could detect upcoming tornadoes/whirlwind
+	•Residents are more than willing to help the barangay ask for assistance from responsible organizations
+	•Organize an awareness campaign and seminar on climate change
+
+	Motivational / Attitudinal
+	•Most of the residents lack knowledge in building sturdy houses
+
+	•Residents are willing to organize a seminar on how to mitigate the effects of such hazardous event
+	•Residents should have a first-hand experience or training on disaster risk  reduction
+
+
+
+

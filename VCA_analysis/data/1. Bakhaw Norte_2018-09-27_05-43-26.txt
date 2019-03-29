@@ -1,0 +1,1958 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+	
+
+
+
+Philippine Red Cross – Aklan Chapter
+Vulnerability 
+Capacity
+Assessment Study
+Barangay BakhawNorte, Kalibo, Aklan
+
+
+
+
+
+
+
+
+
+	
+
+
+
+                 In Partnership with
+
+                   A Project Supported by	
+
+	
+
+
+                       European Union
+
+
+
+
+
+
+
+
+
+
+The information contained in this document was produced by the community members of Barangay Rosario, Malinao, Aklan, Philippines and validated by its Barangay Council as a result of the collected data from VCA facilitated by European Union Funded Project of the Philippine Red Cross Aklan Chapter for the benefit of this community to create a better Barangay Development Plans and may not be reproduced or used by any means without the written permission of the Philippine Red Cross.
+
+
+
+
+
+ CONTENTS
+
+
+Acronyms and Abbreviations							3
+Acknowledgements 								4
+Introduction									4
+PROCESS
+Objectives								6
+Approach 								6
+Methodologies								7
+Tools 									9
+  	Team Composition							11
+BARANGAY PROFILE
+A. Geography and Topography -----------------------
+B. Demography -------------------------------------------
+C. History --------------------------------------------------
+D. Vision and Mission -----------------------------------
+E. Organizational Structure ---------------------------
+F. Socio-Economic ---------------------------------------
+G. Livelihood ----------------------------------------------
+H. Education ----------------------------------------------
+I. Health --------------------------------------------------
+J. Religion ------------------------------------------------
+K. Infrastructure ------------------------------------------
+L. Source of Electricity and Water -------------------
+M. Transportation and Communications ----------
+N. General Climate Condition ------------------------
+
+
+
+
+
+
+
+
+ ACRONYMS 
+AND ABBREVIATIONS
+
+
+
+AKELCO	Aklan Electric Cooperative
+BDAT		Barangay Disaster Action Team
+BHW		Barangay Health Worker
+BLGU		Barangay Local Government Unit	
+BNES		Bakhaw Norte Elementary School
+CBDRR	Community Based Disaster Risk Reduction
+DepEd         	Department of Education
+DOH             	Department of Health		
+DRR		Disaster Risk Reduction
+DSWD	           	Department of Social Work and Development
+DPWH	         	Department of Public Works and Highways
+FRC		Finnish Red Cross
+LGU            	Local Government Unit
+OSCA          	Office of the Senior Citizens Affairs
+PRC		Philippine Red Cross 
+PWD		Persons with Disability
+RHU		Rural Health Unit
+VAWC		Violence against Women and Children
+VCA		Vulnerability Capacity Assessment
+
+
+
+
+
+
+
+
+
+
+
+
+ ACKNOWLEDGEMENTs
+
+
+“Gratitude can transform common days into thanksgivings,
+turn routine jobs into joy and change opportunities into blessings.”
+William Arthur Ward, American writer
+
+This document has been completed through the support of the Philippine Red Cross in partnership with the European Union and the Finnish Red Cross. It is with this project that we come together and combined our efforts to empower our local government units and further capacitate our communities on building disaster resiliency through participatory process and good governance. 
+
+We thank our national project staff who continually and persuasively conveyed insights and expertise that greatly assisted the study and our FRC program delegate for the unequivocal assistance. Their supervision and constant help have provided us strength. 
+
+We also wish to express our sincere thanks to our chapter administrator for the valuable guidance and encouragement. Her pearls of wisdom continues to steer motivation in the chapter project staff.
+
+We are also grateful to the chapter volunteers and facilitators for the high-spirited dedication and commitment in doing the whole VCA process and updating. Indeed, it is you who keeps the engine working.
+
+Likewise, this would not have become successful without the participation of our community members and volunteers. We are extremely thankful for your taking part in the conduct and completion of this process. Your warm acceptance and active participation sustained us this far.
+
+Lastly, we place on record, our sense of gratitude to one and all, who directly or indirectly have lent their hands in this venture. All of you have been with us in our journey towards our objective. For as long as our hands, minds and hearts work together, we will ultimately realize the achievement of our goal – to build disaster resilient communities in the Philippines.
+
+
+
+ INTRODUCTION
+
+
+Dealing with disasters is a key part of the work of the International Federation of Red Cross and Red Crescent Societies (the International Federation). Its global emergency response and humanitarian work is well-known, and has unfortunately become more prominent because of recent devastating events. Less well known are the many hundreds of community-based activities being carried out around the world that are designed to reduce people’s vulnerability to hazards.[footnoteRef:1] [1: International Red Cross and Red Crescent Societies, What is VCA? An introduction to vulnerability and capacity assessment. Geneva Switzerland, 2006.1,2] 
+
+
+This is where the process of “Vulnerability and Capacity Assessment” (VCA) comes into play. In a nutshell, VCA is concerned with collecting, analyzing and systematizing information on a given community’s vulnerability to hazards in a structured and meaningful way. This information is then used to diagnose the key risks and existing capacities of the community, ultimately leading to activities aimed at reducing people’s vulnerability to potential disasters and increasing their capacity to survive them and resume their lives.[footnoteRef:2] [2: ] 
+
+
+VCAs are widely used and understood within the Red Cross Red Crescent. It can provide a starting point for advocacy, awareness raising and knowledge-sharing efforts, and can link community voices and concerns to decision-making and resources at the local or national level. 
+
+You can use the results to persuade stakeholders of the need for DRR interventions and bring local partners and other organizations together to build persuasive advocacy messages. You can conduct VCAs jointly with other agencies, building relationships and sharing skills to improve effectiveness.
+
+In the implementation of the existing Philippine Red Cross project in Aklan province funded by the European Union in consortium with partner national societies Finish Red Cross, Spanish Red Cross, German Red Cross and Netherlands Red Cross, one of its major activities is the activity 1.1.2. Conduct or update a comprehensive vulnerability and capacity assessment. This activity includes trainings of staff, facilitators and disseminators with materials inclusive of conceptual understanding on gender, child protection, persons with disabilities and climate change adaptation.
+  Place & time of vca
+
+
+
+
+
+
+
+
+
+BARANGAY BAKHAW NORTE
+Municipality of Kalibo
+Province of Aklan
+
+
+
+
+
+
+
+
+
+
+
+
+18 - 20 August 2015
+VCA Training of Facilitators
+
+26 August 2015
+VCA Updating of Data
+
+3 November 2015
+VCA Validation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Profile
+
+
+History
+
+
+In 1970, a place name Bakhaw Norte was found in the Northwestern part of Kalibo. Folk belief is that Bakhaw derived its name from sturdy trees called Bakhaw which grow abundantly along seashore.
+
+Since Bakhaw is bounded by the 
+Aklan River, which flows with its many branches, divided the barangay into several islets, 
+making it difficult for one Teniente del Barrio to manage and govern the barangay economically and politically.
+
+The barangay split into two, known to say as Bakhaw Norte and Bakhaw Sur, which separate and distinct political officials. The separate Bakhaw Norte has a total land area of 424 hectares. Numerous numbers of floods changed the size and shape of the barangay and divided it into small islets which cover up the Sitios Karumahan, Liboton, and Proper.
+
+Geography 
+
+
+Bakhaw Norte is the only island barangay in Kalibo, about 1.5 kilometers away from the town proper. It is surrounded with water and the sitios were bounded by the rivers and creeks. The people need to cross the river and creeks through boat and bamboo bridge just to reach the town proper.
+This barangay could be reached by crossing the river via bamboo raft and riding a tricycle for approximately fifteen (15) minutes from the Poblacion.
+
+
+
+
+demography
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Source:  2013 Barangay Survey
+
+According to the 2013 barangay survey, there is a total population of 2,228 in the community while households summed up to 462 in total. Most number of the residents are located in Sitio Proper followed by Sitio Liboton and Sitio Karumahan, respectively. However, when in terms of household data, most number are situated in Sitio Proper with 275 while Sitio Karumahan followed with 99 and Sitio Liboton with 88. There are also recorded numbers of Senior Citizen and PWDs living in the area. Most of them are found in Sitio Proper, followed by Sitios Liboton and Karumahan respectively.
+
+Governance
+
+
+Barangays are the smallest of the independently elected Local Government Units. Barangays can be further divided into sitios and puroks but those divisions do not have leaders elected in formal elections supervised by the national government.
+
+A barangay's executive is the Punong Barangay or barangay captain and its legislature is the Sangguniang Barangay, composed of barangay captain and the Barangay Kagawads (barangay councilors). The center of governance is the barangay hall.
+
+
+Below is the barangay’s organizational chart:
+	
+	
+	Hon. MARIBETH V. CUAL                  Punong Barangay
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	EDGAR MARTE                  Secretary
+	 
+	 
+	 
+	 
+	DELIA ALBERTO                Treasurer
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	SANGGUNIANG BARANGAY
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. DUVIL DURAN            
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. FREDDIE ANDRADE            
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. LILIBETH RANIGO              
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. HELEN CASTILLO
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. NELLY ROLDAN
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. RICKY BOLOS
+	
+	
+
+	
+	
+	 
+	
+	
+	
+
+	
+	
+	Hon. REYSY DELA CRUZ
+	
+	
+
+
+
+Religion
+
+
+Predominantly, almost 90% of the inhabitants in the barangay are Roman Catholic in which masses are weekly celebrated in all four churches located in every sitio. About 10 families are members of Christian Baptist and another around 10 families are affiliated with Assemblies of God. The rest belonged to the Iglesia ni Cristo.
+
+                                                                    General climate condition
+
+
+Generally, rainy seasons start from July until mid-March. However in the barangay, there has been unpredictable raining days even during summer times. The end of the second until third quarter of the year is often the peak of good agricultural harvest while fishing can be done every three to four months and ahead strong typhoon seasons. 
+June is as well the official start period of Typhoon passing through the barangay until March and in which flooding may be anticipated. 
+Compared to climate experienced at least thirty years ago, the extent of summer days presently has shortened and irregular weather changes happen. More and stronger typhoons occur within a five-year span eventually leads to more flooding incidences. 
+
+
+                                                                    Socio economic
+
+
+Among any other barangays in Kalibo, Bakhaw Norte is one of those with high number of families categorized within average and low socio-economic status. One presumable cause is their isolation by the Aklan River. The difficulty to access the outside civilization has caused deprivation to meet the people needs and delay the improvement and recovery into their society.
+
+Since about 60% of residents are inclined into farming, fishing, traditional labors, and transient employment, most could not be able to send their children for scheming courses or even get into tertiary schooling, thus they eventually get to work ahead of time. This is also the predetermining attribution for the high record of early marriage and pregnancy in the barangay.
+
+Bakhaw Norte is also a typical ground for major disasters.  Its high level of predisposition to flooding has caused severe land erosion and damage among agriculture and housing structures and further exhausting business persons and certain small workers. 
+
+
+                                                                    livelihood
+
+
+Approximately 65% of the reproductive age group (20-40 years old) is working outside the community – about 70% of them are into trades and businesses while the rest are skilled laborers.
+
+The barangay is as well largely graced with coconut, bananas and crops (turnips, sweet potato, and corn) in which business individuals are investing into large scale production of it on seasonal basis. Several fish ponds along coasts of Sitio Ilawod and Karumahan can also be found. These are owned by families of business persons that hire laborers residing around the place during harvest. The rest portions are used for backyard and vegetable gardening and poultry for small trades and for family consumption by farmers inhabiting the area. 
+
+Among those residing near the sea, especially in Sitio Libuton and Karumahan, majority sources out fishing for livelihood. Approximately 20 families own boats for this living.
+
+Also, periodic lumber production, most from coconuts, mahogany and gemelina, and “pag-uuling” (firewood making) are being done by small traders in the island. Upon reaching Kalibo, these are directed to contractors who will then manage to sell the products. 
+
+There have been at least thirty (30) “tiangge” or mini store in the Barangay providing snacks, some instant foods and beverages. This isn’t a much high-profit business for most owners depend on this for household consumption as well.  Majority of them do not stay open late in the evening.
+
+education
+
+
+
+The Bakhaw Norte Elementary School (BNES) is the only education facility in the barangay which has existed for more than 85 years. Previously, it had only catered students for primary education until in 1980s in which intermediate level was started. The usual number of enrollees in every school year ranges from 240-300 students. Apart from this, two classes for daycare pupils are being hold every day – one is done at the daycare building situated next to the old barangay hall in Sitio Proper while the other one is at the boundary of Sitio Ilaya. 
+
+BNES has a total of 17 rooms - 13 of which are actively in use for instructional purposes and 3 for non-instructional uses. All in all, the school has at least one canteen, general academic classroom, home economics, industrial/workshop, kindergarten classroom, library, and office. Of the instructional rooms, all of them are standard rooms, meaning they meet the DepEd's guidelines for safety and usability.
+
+With 240-300 students per year and 13 rooms actively used for teaching, BNES has an average class size of 20. It has a faculty of eleven (11) teachers with Mr. Elnor T. Luna as the Head Teacher I. 
+
+Health 
+
+
+There is no operational medical facility that could provide 24/7 assistance for emergencies in the barangay. The midwife and public health nurse, both based in the Kalibo RHU, only visits the center for two to four times a month for immunization and other health care activities like prenatal and health monitoring. However, there are barangay health workers and barangay nutrition scholars who are all based in the barangay for all health care concerns. There are as well, 143 volunteers in the community who were trained in the first aid and basic life support that can provide first aid management and promote health programs. 
+
+Infrastructure, basic services and utilities
+
+
+The oldest existing buildings in the barangay were the ones located in the school. It has hosted different gatherings, aside from the usual school programs, such as assemblies, elections, and masses. It has as well improved more thru their modeling projects of the Department of Education – establishment of formal water facilities and vegetable and floral nurseries which have notably enhanced the learning atmosphere of the students. Indeed, it is a child-friendly zone. 
+
+The main chapel, one of the four in the barangay, is located at Sitio Proper. Its grounds have been developed on year 2000s thru donations of different private people and individuals abroad. Just like the school, it has also served many purposes – drills and evacuation points and as for lecture and campaign venues. Other Christian religions also hold masses here on occasional basis. All these chapels have interchanging schedules for Sabbath events. 
+
+The former barangay hall of the council (shown on the right, first picture) has been unoccupied since February 2013 as the new multipurpose pavement became feasible for holding office works. Aside from the gymnasium provided that could handle mass gathering in the barangay, it has been fitted out for possible evacuation and could accommodate as much as 200 persons as a preemptive collection point.  Compared to the first building, this office could assure the security of both the assets and lives of vulnerable people during times of flooding since it has already been one meter elevated.
+
+There is no garbage collection and disposal system ruled by the barangay. However, residences took the initiative of practicing backyard disposal of decomposable items, reusing of plastics and cans, and trading of used bottles.
+Barangay Tanod, now composed of 12, maintain peace and order to their constituents for a whole week.
+
+
+
+
+
+
+Condition of roads and bridges
+
+
+The major road in the barangay extends from the waiting shed, upon crossing to the island, reaching until the Sitio Ilawod - at about 2.5 kilometers is concreted 30 meters after passing thru the barangay marker.
+
+A new hanging bridge connecting Sitio Karumahan and Sitio Ilaya has also been completed on January 2013 – timely as when the previous bamboo bridge, standing beside it and which was provisioned with the support of PRC CBDRR Project, was totally wrecked by flooding brought by Typhoon Quinta on December 26, 2012. Other repaired bamboo bridges are located in Sitio Centro and Sitio Libuton.
+
+Source of electricity and water
+
+
+Presently, nearly 100 percent of the household population subscribes to Aklan Electric Cooperative (AKELCO) for their power supply. As of 2011, approximately 75% of the population of the barangay has already accessed to Kalibo Water District.  At least 5 percent consumes purified water being sold out in Poblacion Kalibo and by some private individuals within Bakhaw Norte, while the rest still depends on deep wells for their drinking water. Water-Sealed type is the toilet facility utilized by approximately 420 houses. 
+
+Transportation and communication
+
+
+Aside from the typical tricycles, “habae-habae” or motorcycles (most are unregistered) is also a major transportation mean within the island. Not more than 20 units of them share passenger trips daily. Most people during working days prefer commuting these for aside from being able to penetrate smaller passages they don’t need to get filled before driving out of the posts.
+
+Other boats (non-motorized) are utilized for transportation to cross the Aklan River on both sides of the island barangay for usual days– two of these are paid by the Kalibo LGU. The rest are private-owned and are being commuted by the residents during flood or when they have bicycles or motorcycles to cross.
+objectives
+
+
+General Objective:
+Its purpose is to increase community members’ understanding and awareness of risk and help them to plan activities for reducing vulnerability and increasing capacity before a disaster or to cope with or recover from disaster.
+
+Specific Objectives:
+1. to evaluate the risks threatening the community as well as the capabilities the community has for coping with the threats 
+2. to bring all parties to the same table and thereby promote cooperation between inhabitants, authorities and other actors
+3. to prepare an implementation plan 
+4. to improve disaster preparedness specify actions that reduce or, at best, even prevent damage caused by natural phenomena. 
+
+
+
+ process
+
+
+APPROACH
+
+
+After a series of trainings from the regional level down to the chapter and municipal levels, the conduct and update of the VCA were planned by the chapter project staff with the guidance and approval of the national project staff and the Finish Red Cross program delegate. Six (6) out of the fifteen (15) partner barangays were identified for VCA updating while the rest have to undergo the whole process. Mainly because those six (6) barangays were also partners of the existing Community Based Disaster Risk Reduction project in partnership as well with the FRC, and where VCA process has been conducted in those areas way back 2013. 
+
+In the updating, the formerly completed VCA report was presented to the community members and comments were elicited regarding updates on the different aspects of the community’s current situation. Several tools were also revisited and updated since there were occurrence of disasters for the past two (2) years and capacities have been put up and/or upgraded.
+Updated and new documents from the barangay and school has also been gathered as secondary data to aid the revision of the VCA report. Data from the municipal LGUs and other local government offices were also secured as references.
+
+Methodology
+
+
+1. Inter- active Lecture
+Any activity in which participant work individually, in pairs, or as teams to answer questions or infer information about the subject could be implemented in an interactive lecture. An example for this in VCA 
+
+Process is when the facilitator instructed the 
+participant to make the VCA tools (Resource and
+Hazard Map, Seasonal Calendar, Historical Timeline and Venn Diagram) Participant can share and deliberate information with co participant to be able to have a broader output.
+
+2. Direct Observation
+Direct observation is a useful research tool as it helps the VCA team to understand the context in which the information is being gathered. All members of the VCA team should be constantly taking notes on what they are observing. It is essential to provide as much detail as possible and to describe the circumstances and the context that lead to certain observations. This will allow others to assess the reliability of the information. When carrying out direct observation, you need to confirm that you have properly understood what you observe as it is easy to misinterpret what you are seeing.
+
+3. Internal Facilitation
+Using people who are part of the organization or activity, very often middle or upper level staff members who have skills in leading group discussions, and decision-making processes. Internal facilitators may or may not have knowledge or expertise in the technical/content issues that are being discussed. 
+
+4. Semi-structured Interview 
+A form of guided interview in which only a few questions are decided upon ahead of time. The questions are open-ended, with the aim of stimulating an informal discussion on a given topic. 
+This interviewing technique can be used both to give information (such as raising awareness of tuberculosis) and to receive information (such as finding out what people know about tuberculosis).
+5. Work group Discussion
+A group of people working together temporarily until a common goal is achieved. Here in this VCA Process the Facilitator divided the participant into 3(three) to 4 (four) groups and has different tools to work with and discussion will be made during the duration of the application of the VCA tools.
+
+6. Focused Group Discussion 
+A focused group discussion is an organized dialogue between a selected group of knowledgeable individuals in a community to obtain their views on and experiences of a given topic. It is particularly suited to obtaining several
+perspectives on the same topic. Focus groups also provide insight into people’s shared understanding of everyday life and the ways in which individuals are influenced by others in a group situation. However, problems can surface when attempting to separate the individual view from the group view. It is very important that the facilitator has good group leadership and interpersonal skills in order to moderate such a group successfully.
+
+7. Review of Secondary Data
+A review of secondary sources means collecting information that already exists, usually in the form of written reports or documents.
+
+
+
+Vca tools
+
+
+1. Historical Timeline
+With a historical profile, a community can build up a picture of past events, track changes in the environment and behaviors and understand causal links. Awareness of these patterns can influence the decisions that community members take when planning projects. With historical visualization, the community creates a chart showing how key aspects of their lives have changed over time. It can show up changes in housing, trees, river levels, livestock and hazards and helps people to think about how their susceptibility to certain risks may continue to change in the future. It is a good starting point for a discussion on what projects would be relevant for the future. Indicators in this tool are events, effect, response and lesson learned.
+
+2. Seasonal Calendar
+For a seasonal calendar, a chart is created with the months of the year along the horizontal axis and the events and activities significant to the community listed in the vertical axis. Completion of the chart by the community helps the VCA team to see the hazards and risks in terms of when they occur. The analysis can help a community to rethink its living habits according to its vulnerability to hazards. 20 years of comparative analysis is prepared by the community.
+
+3. Risk and Resource Mapping
+Maps can be made by a community to indicate the position of risks and hazards. They can also be used to understand what a community has in the way of resources and where they are located. Maps are also useful for stimulating discussion among community members about important aspects of the community. They can help a community to analyze potential problems and solutions.
+
+4. Transect Walk
+This tool gather first-hand information on the characteristics of different land types and provide opportunity for further inspection of area. It also create awareness of the community on the presence of PRC and break the ice between VCA 
+group. To identify problems and opportunities 
+which may include areas.
+
+5. Venn Diagram
+Venn diagrams are designed to collect social data by using circles to show the links or relationships between different parts of a community or institution. Because they reveal similarities and differences between institutions, partners, people and issues within a community, they can be useful in identifying problems and possible solutions. Venn diagrams are especially relevant for institutional analysis as they can help to identify specific organizations that could be involved in implementing a community action plan or specific risk reduction projects.
+
+6. Hazard, Risk, Vulnerability Capacity Matrix
+Summarizes in a matrix form all information collected during gathering. This will initiate and facilitate the pre-analysis of data gathered by the VCA team prior to the actual analysis with the community. It will also enable the VCA team to crosscheck the data gathered regarding the information collected for secondary data review.
+
+7. Pair-Wise Ranking
+It creates an overview of the scope and impact of issues (hazard, health problems or social 
+issues) through comparison. Furthermore, issues that the community may want to address due to its high exposure will be prioritized. 
+
+8. Preferential Ranking
+This tool aims to identify the risks posed by prioritized hazard and ranked its impact that will be addressed by the community.
+
+9. Problem Tree Analysis
+This will display the underlying causes of risks and its impact. Community’s exposure and vulnerability will be analyzed and the community will be able to address the priority risk.
+
+10. Objective Tree Analysis
+Strategies for solutions in response to the problem tree analysis and the specific activities that will contribute to the lessening of vulnerabilities of the community will be identified. Additionally, it will provide motivation by showing the pathway to a resilient community.
+
+Team composition
+
+
+Project Staff
+· Chapter Project Officer – functions include planning and budgeting processes in coordination with the community development organizer and finance officer; monitoring of the works being done in the field; reporting updates and accomplishments to the higher staff; and works under the supervision of the chapter administrator and national project staff. 
+· Community Development Organizer – directly working at the grass root levels, doing prompt communications and coordination with the community members, working under the guidance of the chapter project officer.
+· Finance Officer – working on budget planning in coordination with other project staff, performing liquidations of daily expenses incurred, accomplishment of financial report.
+
+Trained Facilitators
+Working directly with the community members with the help of trained disseminators in facilitating the VCA process, under the supervision of the project staff.
+
+Trained Disseminators
+They were trained in the VCA process; assisting the trained facilitators in guiding the community members in doing the whole process
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Vulnerability conditions
+
+
+Natural and environmental
+
+
+
+Barangay Bakhaw Norte has high level of predisposition to flooding due to its very low topographic placement and serving as one of the catchment basins of the Aklan River. The entire surrounding coast, which has already eroded four to ten meters, is now part of the watercourse causing extensive gradual decay of trees and farmstead damage. Since 2005, two to three incidence of flooding is experienced by the barangay every year. At least two in every five years are highly destructive. 
+
+The absence of bridge to between the barangay and Poblacion Kalibo has always been a problem and threat as well among residents, especially to those who cross at night or when the river water rises. During this condition, delay access during emergency situation is anticipated.
+
+Below is the history of the major disasters in the community: 
+· Circa 1980s - Typhoon Claring. This resulted to flooding and tolerable damage among agriculture. No record of assistance received is known. 
+
+· Circa 1984 – Typhoon Undang. Apart from the houses and crop fields that were affected, approximately 20% of the community had acquired upper respiratory tracts infections.  This has been attributed to the cold environmental condition intensified by recurring raining days after the hit of the disaster
+
+· June 21, 2008 - Typhoon Frank. This has brought severe psycho-emotional trauma among many residents of the island community - first time in their disaster history that the flood water has covered the entire land of Bakhaw Norte. Not less than 50 percent of the crops were useless, 100% of banana plantation was down, about 65% of livestock animals died and no fishpond harvest was made. Within a month, skin problems and upper respiratory tract infections have been recorded along with some minimal water-borne diseases acquired. Major assisting organizations are the local and National LGU, PRC, World Vision, Tzu Chi Foundation, ABS-CBDN, Phil. Army, DSWD, PMA and the rural health unit of the municipality. From then on, many houses were been improved and constructed with second floor.
+
+· December 26, 2012 - Typhoon Quinta. Another high flood water level has also been noted washing out the bamboo bridge, a PRC-FRC project, connecting SitioIlaya to Sitio Karumahan. Access, particularly of students, was compromised to reach the Centro of the barangay. Minimal damage to crops and livestock has also been recorded.There was no known injury and casualty during this event due to the advance evacuation activity headed by the RC 143 team among vulnerable groups and individuals in the barangay. The local government of Kalibo and province of Aklan were amongst the responders for food assistance. 
+
+· November 8, 2013 – Typhoon Yolanda. In terms of wind strength, this typhoon is the strongest. Despite of the tolerable level of flooding among lower areas, the entire barangay has acquired severe damage among trees, particularly banana and coconut. Power lines were also out of purpose for more than 6 six weeks. The barangay, municipal, national LGUs, PRC, German Humanitarian Society are assisting organizations in the community.
+
+· December 7, 2014 – Typhoon Ruby. The said typhoon came which damaged some of their agricultural products. It was during Typhoon Ruby that Caritas Italiana came to give them a housing project.
+
+Health
+
+
+Despite of the limited health care facilities in the community, apparently, there is a low prevalence of any diseases for the last five years. Most recorded are typical upper respiratory tract infections yet these are highly manageable at the household level. One water-borne disease- incidence on August 2012 has been rampant causing hospitalization of not more than ten individuals.
+
+Records of infant (one, still birth), and maternal (one, due to the delay seek for health care intervention) death, have also been noted for 2013. 
+Below is the 2010 top leading causes of mortality and morbidity in the barangay.
+
+	Five Leading Causes of Mortality (2010)
+	Five Leading Causes of Morbidity (2010)
+
+	Causes
+	Number
+	Causes
+	Number
+
+	Asthma
+	3
+	Parasitism
+	25
+
+	Cardio Vascular Arrest
+	2
+	Gastro-Enteritis
+	21
+
+	CRA- COPD
+	2
+	Acute Respiratory Infection
+	12
+
+	Acute Myocardial Infarction
+	2
+	Fever
+	10
+
+	Multiple Masses (wrist & ankle joint)
+	1
+	Skin Problems
+	7
+
+
+
+Socio economic
+
+
+There had been a high risk of impediment for agricultural and fishing activity, especially among the lower areas in the barangay, due to the subsequently occurring disasters. However, people were still been able resume on farming among areas which were not affected by flooding. Particular to banana production which has been down since the last quarter of year 2013, crops growth may be distressed due to the erratic raining patterns. Fish ponds have also been losing harvests for many incidences of water rise.
+
+Meanwhile, majority could still sustain for the basic needs of their families depending on members working outside the barangay. Livestock, which isn’t much affected, is also a big help for trades and their food sources.
+
+Barangay Bakhaw Norte has now almost recovered from the hit of November 2013 typhoon in terms of public facilities and activities. Most of the 44 destroyed houses have been rebuilt while others have been staying temporarily among their relatives until this time.
+
+
+
+
+
+ capacities
+
+
+Natural and environmental
+
+
+Known to many people, the barangay has been a producing large scale and good class of banana, coconut, vegetables and root crops for the last years. The soil condition favors the quality - growth of most land yields which are in demand for business in Kalibo.
+
+Aside from fish harvests, the coastal areas of the Barangay alsoproduces crabs, shells, shrimps and prawns, which offer good incomes among small individuals engaged into this work on different seasons. The nipa and bakhawan (mangroves)portion from SitioIlawod until part of Bakhaw Sur has been a nursery of different aquatic products and help in controlling erosion and flood current along the site. Until now, BakhawNorte and Bakhaw Sur Agri-Fishing Association (BAFA) has been providing seedling among farmers and fishermen in the community. 
+
+Good timbers were produced by some individuals from fallen trees left by the typhoon and are being sold out in Kalibo.
+
+health
+
+
+The barangay has a highly dependable and active RC 143 group composing of 48 members. Aside from their usual function as embedded in the council and health cluster, they are as well trained and mobilized during cleanup drives, blood donation, health promotion campaigns, school activities and response during disaster emergencies. 
+
+The health team group is dynamic in doing house to house survey, immunization and reporting in all their designated zones. They are as well equipped with first aid materials and kits for manageable conditions.  
+Socio economic & governance
+
+
+Despite of the extensive damage brought by the recent typhoon, the community has sets of reliable individuals and offices for the recovery of the people - most are regular donors and assisting offices. The Lind’s Dry Good Store has been generous in supplying clothing and financial assistance. Lending organization, likewise, are highly dependable for long years – USWAG, Big 8, Dungganon, HAMPCO, and Life Bank.Different schools and other private organizations have brought food and non-food items among residences. 
+
+The Department of Social and Welfare Development thru its 4Ps programs is consistent with its financial, educational, livelihood assistance and different community programs among the most deprived and vulnerable groups.
+
+The construction of new multipurpose pavement and hanging bridge is an indication of a good progress of the barangay economy and leadership along with the increase of their Internal Revenue Allotment (IRA) for 2014. Access and partnership to higher offices, and different NGOs - Philippine Red Cross for instance, has helped to develop plans and putting up preparation strategies for disasters. 
+
+The plan for improving barangay programs, health and educational facilities will as well open more opportunities among many individuals for employment, knowledge and skills development and enhancement and strengthen their own identified capacities. Community members are now more motivated in participating assemblies and programs. 
+
+
+
+
+
+
+
+ General recommendations
+
+
+Activities to reduce the risk and increase the resilience 
+Coastal Tree Planting. Time after time, larger parts of the barangay land are getting softer and this opens for further threats in the long run.  Despite of the ongoing tree planting activities, the barangay still needs more effective and comprehensive strategies in implementing it. For not more than a decade, wide fractions of coastland have been displaced and there has never been effective large scale intervention executed to mitigate this phenomenon. Mangroves and wild bamboos are among of the good recommendations.
+River Dredging. The previous diggings made in Sitio Libuton have not caused much improvement with the course of flood and seawaters and prevent land erosion. The disturbed natural behavior of the flowing river has yielded into collateral and wider spread of it. Better dredging approach is thought to be needed.
+Provision of flood controlling barriers. Apart from dredging, the island barangay needs as well a flood controlling barrier that would abate the impact of raging water along its coasts and avoid its further shrinking. Gabion bricks or river walls can be an option.
+Regular flood and evacuation drills. Having series of drills conducted among other parts of the barangay could get other community members oriented with the proper evacuation process during flooding events and be made taught about sourcing out strategic locations and appoint leaders to be in-charged with.
+Challenges & lessons learnt
+
+
+· Delayed conduct of VCA due to finance aspect of the project.
+Best practices
+
+
+· It has been very useful that a training for facilitators has been done first before the conduct of training for disseminators in the community.
+· Presence of trained facilitators in the municipal offices like Mr. Nino Carmelo Carmen of MDRRMO Malinao, Ms. Ma. Cecillia Paguntalan of MPDC Tangalan and Mr. Terrence June Toriano of MDRRMO Kalibo. Their presence helps the coordination within the municipal mayors office and partner barangays.
+· Since 6 out 15 partner barangays had already conducted VCA 2 years ago, the community members from those barangays were knowledgeable on the VCA process and tools. Thus, VCA updating have been more easy and time efficient.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ attachments
+
+
+Historical timeline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Circa 1980s, Typhoon Claring affected the barangay. Community members has no known memory as to its impacts.
+
+There was also distribution of medicine and milk. Sometime in the year 1984, Typhoon Undang hit the barangay leaving damages and/or losses to their livelihood and properties. Flu and fever were also noted as after effects of the said calamity. The members of the community have no relevant information as to the entities who have possibly helped them coped and survived during the typhoon.
+
+An earthquake was remembered sometime in July 1990, however there were no data as to its impacts to the community recalled. In the year 1996, something has happened that contributed a lot in the development of the barangay – the start of expanded program in immunization which is part of the government’s strategic thrust to end maternal and child mortality. This has been implemented by the Kalibo Rural Health Unit.
+
+In June 21, 2008, Typhoon Frank hit the province which left destructible effect to the barangay because of its flash flood coming from the upland areas. As a result, almost 80% of the households were affected, may it be with their properties or livelihood. After the typhoon, there were many public and private entities who came for help in the forms of relief goods, medical mission, hygiene and sanitation.
+
+On October of 2012, there was an outbreak of diarrhea in the barangay, records show that almost 23 persons were hospitalized. The Philippine Red Cross and the Rural Health Unit of Kalibo came for aid in the form of health education sessions. On December 26 of the same year, Typhoon Quinta came and hit the barangay. The typhoon destroyed some of their agricultural crops like bananas, sweet potato and vegetables. PRC along with the local government has made its efforts in giving emergency assistance such as relief goods.
+
+A year after, in November 8, the typhoon that was considered as the greatest in the history hit the province, Typhoon Yolanda. On December 7 of 2014, another 
+
+Seasonal Calendar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LEGEND
+  -Sunny month /Rainy month						-Increase in monthly income
+ -Sunny month								-Decrease in monthly income
+ Farming coconut, bananas and crops 
+            (singkamas, kamote, and mais) and 
+            Fishing
+-Graduation						
+-Holy Week
+-Fiesta
+   - All Souls day    
+   -Immunization
+-Deworming and Vit. A
+
+
+
+
+
+
+
+Transect Walk
+
+
+TRANSECT WALK
+	TOPOGRAPHIC
+ILLUSTRATION
+	
+	
+	
+	
+
+	SITIOS
+	· SANDY LOAM
+	· SANDY-LOAM-GRAVEL
+	· SANDY-LOAM
+	· SANDY-LOAM
+
+	TYPE OF GROUND
+	· AGRICULTURAL
+· RESIDENTIAL
+	· AGRICULTURAL
+· RESIDENTIAL
+	· AGRICULTURAL
+· RESIDENTIAL
+	· AGRICULTURAL
+· RESIDENTIAL
+
+	LAND USE
+	· WEAVING/FIBER KNOTTING
+· FISHING
+	· WEAVING
+· FISHING VENDING 
+· FARMING
+	· WEAVING
+· FARMING
+· FISHING
+	· WEAVING
+· FARMING
+· FISHING
+
+	RISK/HAZARD
+	· EROSION
+· SURGE
+· FLOOD
+	· EROSION
+· FLOOD
+	· EROSION
+· SURGE
+· FLOOD
+	· EROSION
+· FLOOD
+
+	FACTORS THAT INCREASE THE EXPOSURE OF RISK AND HAZARDS
+	· SAND QUARRYING
+· PAG UULING
+· NO E.W.S.
+	· SAND QUARRYING
+· PAG UULING
+· POOR HYGINE AMONG CHILDREN
+· NO E.W.S.
+	· SAND QUARRYING
+· PAG-UULING
+· NO E.W.S.
+	· SAND QUARRYING
+· PAG UULING
+· POOR HYGINE AMONG CHILDREN
+· NO E.W.S.
+
+	TRADITION/NORMS
+	· BAWAL MAG PAUTANG NG PERA AT BIGAS KUNG GABI
+· KUNG MAY NAMATAY BAWAL MAGLINIS OR MAGWALIS
+	· BAWAL MAG HARVEST NG SAGING PAG MAY PATAY
+· BAWAL MAGPAGUPIT AT MAGPUTOL NG KUKO PAG MAY PATAY
+	· BAWAL MGA SUKOB NG KASAL
+	· BAWAL MAG PAUTANG NG BIGAS PAG GABI
+
+	CAPACITIES
+	· BHW
+· FIRST AID KIT
+	· WELL TRAINED PRC
+· VOLUNTEERS
+· FIRST AID KIT
+	· WELL TRAINED PRC
+· VOLUNTEERS
+· RESPONSE KIT
+
+	· WELL TRAINED PRC
+· VOLUNTEERS
+· RESPONSE KIT
+
+
+	NATURAL ENVIRONMENT
+	· RIVER
+· KANIPAAN
+· SEA
+	· RIVER
+	· RIVER
+· SAPA
+· KATANGKIHAN
+	· RIVER
+· SAPA
+· KATANGKIHAN
+
+	COMMUNITY FACILITIES
+	· CATHOLIC CHAPEL
+· BASKETBALL COURT
+· ELECTRICITY
+	· CATHOLIC CHAPEL
+· NAWASA
+· ELECTRICITY
+· BASKETBALL COURT
+· FIRST AID KIT
+· TRAINED VOLUNTEERS 143
+	· BRGY. MULTI-PURPOSE HALL
+· HEALTH CENTER
+· BNES
+· CATHOLIC CHAPEL
+· APOSTOLIC CHAPEL
+· NAWASA
+· ELECTRICITY
+· BASKETBALL COURT
+· FIRST AID KIT
+· RESPONSE KIT
+· TRAINED VOLUNTEERS
+	· CATHOLIC CHAPEL
+· ASSEMBLY OF GOD CHAPEL
+· NAWASA
+· BASKETBALL COURT
+
+
+
+Venn Diagram
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Risk and Resource Mapping
+
+
+BASE MAP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hazard, Risk, Vulnerability and Capacity Matrix
+
+
+
+
+	HAZARD/ HEALTH PROBLEM
+	RISK
+	ELEMENTS AT RISK
+	COMPONENT
+	VULNERABILITY
+	CAPACITY
+
+	Flood
+	Loss of lives
+	Population
+	Well-being
+	Geographical location
+	Trained 143 Volunteers            DRRM plan in placed                Presence of EWS       Evacuation Centers
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	Water-borne Diseases
+	Health
+	Well-being       Self-protection
+	Geographical location
+	First Aid Kits       Trained Community Health Volunteers           DRRM plan in placed                      Evacuation Centers
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	Loss of Liveselihood
+	Livelihood
+	Well-being          Social proctection        
+	Geographical location               No alternative livelihood             
+	 
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	Damage to Properties
+	Shelter
+	Social-protection
+	Geographical location
+	 
+
+	Sea Swell /        Storm Surge
+	Loss of Livelihood
+	Livelihood
+	Well-being          Social proctection        
+	Geographical location               No alternative livelihood             
+	 
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	Damage to Properties
+	Shelter
+	Social-protection
+	Geographical location
+	 
+
+	
+	Loss of lives
+	Population
+	Well-being
+	Geographical location
+	Trained 143 Volunteers            DRRM plan in placed                Presence of EWS       Evacuation Centers
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	Soil Erosion
+	Loss of Livelihood
+	Livelihood
+	Well-being          Social protection        
+	Geographical location               No alternative livelihood             
+	 
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+	Damage to Properties
+	Shelter
+	Social-protection
+	Geographical location
+	 
+
+
+Pair Wise Ranking
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preference Ranking
+
+
+
+	
+	 
+	RISKS
+
+	
+	PRIORITIZED HAZARD: TYPHOON
+	LOSS OF PROPERTY
+	LOSS OF LIVELIHOOD
+	LOSS OF LIVES
+	DAMAGE TO INFRASTRUCTURE
+
+	Parameter
+	Capacity to survive
+	3
+	4
+	1
+	2
+
+	
+	Short term recovery
+	4
+	3
+	1
+	2
+
+	
+	Long term recovery
+	2
+	4
+	1
+	3
+
+	
+	Pschological effect
+	3
+	2
+	4
+	1
+
+	
+	Economic effect
+	3
+	4
+	1
+	2
+
+	
+	TOTAL
+	15
+	17
+	8
+	10
+
+
+
+
+
+
+
+
+
+
+Problem Tree Analysis
+
+
+
+	SECONDARY EFFECT
+	
+	
+	
+
+
+
+	
+	
+	Death
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	PRIMARY EFFECT
+	
+	
+	Increased Crime Rate
+
+
+
+	
+	
+	Malnutrition
+
+
+
+	
+	Illness
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	Low income
+
+
+
+	
+	Starvation
+
+	
+	
+	
+	
+	
+	
+	
+
+	MAIN PROBLEM
+	
+	LOSS OF LIVELIHOOD DUE TO TYPHOON
+
+	
+	
+	
+
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	
+
+	VULNERABILITY
+	
+	Low-lying Area
+	
+	
+	No alternative livelihood
+
+	
+	
+	
+	
+	
+	
+	
+
+	ROOT CAUSE
+	
+	Geographical Location
+	
+	
+	Lack of livelihood trainings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objective Tree Analysis
+
+
+
+
+	SECONDARY EFFECT
+	
+	
+	
+
+
+
+	
+	Healthy community
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	PRIMARY EFFECT
+	
+	
+	Decrease Crime Rate
+
+
+
+	
+	
+	Proper nutrition
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	Stable income
+
+
+
+	
+	Adequate food supply
+
+	
+	
+	
+	
+	
+	
+	
+
+	OBJECTIVE
+	
+	TO LESSEN THE LOSS OF LIVELIHOOD DUE TO TYPHOON
+
+	
+	
+	
+
+	
+	
+	
+	
+
+
+
+	
+	
+	
+	
+
+	CAPACITY
+	
+	High location of agricultural area
+	
+	Alternative source of income
+
+	
+	
+	
+	
+	
+	
+	
+
+	SPECIFIC ACTIVITY
+	
+	Relocation Site
+	
+	
+	Conduct livelihood trainings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barangay Action Plan
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ REFERENCES
+
+
+1. International Red Cross and Red Crescent Societies, What is VCA? An introduction to vulnerability and capacity assessment. Geneva Switzerland, 2006.
+2. PRC-FRC CBDRR Project, Vulnerability and Capacity Assessment Report. Kalibo, Aklan, October 2013.
+3. Introduction to VCA, ppt
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+Demography
+
+Population	
+Sitio Proper	Sitio Libuton	Sitio Karumahan	1017	803	408	Household	
+Sitio Proper	Sitio Libuton	Sitio Karumahan	275	88	99	Senior Citizen	
+Sitio Proper	Sitio Libuton	Sitio Karumahan	42	19	13	PWD	
+Sitio Proper	Sitio Libuton	Sitio Karumahan	12	2	4	
+
+
+
+20 | VULNERABILITY AND CAPACITY ASSESSMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+frc_col
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+frc_col
+

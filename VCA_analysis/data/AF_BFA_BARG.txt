@@ -1,0 +1,1312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EVC Karma Page 1
+
+CONSEIL DE DIRECTION
+01 B.P. : 4404 OUAGADOUGOU 01
+
+TEL. : 50 36-13-40  Fax : 50 36 31 26
+
+croixrouge.bf@fasonet.bf
+
+RAPPORT DE L’EVALUATION DE
+VULNERABILITES ET DES CAPACITES :
+
+Village de Karma dans la Commune Rurale de Barga
+dans la province du Yatenga
+
+
+
+EVC Karma Page 2
+
+Sommaire
+
+Liste des tableaux .................................................................................................................................... 3
+
+Liste des photos ....................................................................................................................................... 4
+
+Bibliographie ........................................................................................................................................... 6
+
+Contexte ou introduction ......................................................................................................................... 7
+
+I- Résumé exécutif .............................................................................................................................. 7
+
+II- Données de base sur le village..................................................................................................... 9
+
+2.1- Données physiques....................................................................................................................... 9
+
+2.2- Données climatologiques ........................................................................................................... 10
+
+2.3- Organisation administrative ....................................................................................................... 11
+
+2.4- Démographie.............................................................................................................................. 11
+
+2.5- Piliers de l’économie.................................................................................................................. 11
+
+III- Participants ................................................................................................................................ 11
+
+3.1- Equipe terrain............................................................................................................................. 11
+
+3.2- Personnes ressources.................................................................................................................. 12
+
+IV- Outils utilisés............................................................................................................................. 12
+
+V- Résultats de l’étude (Les vulnérabilités, risques et dangers les plus importants) ...................... 13
+
+5.1- Caractéristiques principales du village....................................................................................... 13
+
+5.2- Les vulnérabilités, risques et dangers les plus importants ......................................................... 14
+
+5.3- Les principales capacités et ressources ...................................................................................... 15
+
+VI- Actions pour la transformation/ mesures destinées à transformer les faiblesses en capacités .. 16
+
+6.1- Mesures destinées à transformer les faiblesses en capacités...................................................... 16
+
+6.2-Classification des mesures .......................................................................................................... 17
+
+6.3-Comment elles seront financées ? ............................................................................................... 19
+
+VII- Contraintes ................................................................................................................................ 21
+
+VIII- Leçons apprises ..................................................................................................................... 21
+
+IX- Recommandations ..................................................................................................................... 21
+
+
+
+EVC Karma Page 3
+
+Liste des tableaux
+
+Tableau 1 : tableau synthèse des caractéristiques VC du village de Karma............................................ 8
+
+Tableau 2 : synthèse des risques, dangers et vulnérabilité du village de Karma ................................... 14
+
+Tableau 3 : les principales capacités du village de Karma .................................................................... 15
+
+Tableau 4 : Mesures de transformations................................................................................................ 16
+
+Tableau 5 : Classification des mesures.................................................................................................. 17
+
+Tableau 6 : financement ........................................................................................................................ 19
+
+
+
+EVC Karma Page 4
+
+Liste des photos
+
+
+
+EVC Karma Page 5
+
+Liste des abréviations
+
+1 AEPS
+
+2 AGR Activité Génératrice de revenue
+
+3 ASC Agent de Santé Communautaire
+
+4 CD/CR Comité Départemental Croix-Rouge
+
+5 CICR Comité International de Croix-Rouge
+
+6 CP/CR Comité Provincial Croix-Rouge
+
+7 CPAF Centre de Promotion de l'Alphabétisation Fonctionnelle
+
+8 CRBF Croix-Rouge Burkinabé
+
+9 CSPS Centre de Santé et de Promotion Sociale
+
+10 CVD Conseil Villageois de Développement
+
+11 DPASA Direction Provinciale de L’Agriculture et de la Sécurité Alimentaire
+
+12 DPRA Direction Provinciale des Ressources Animales
+
+13 EVC Evaluation de Vulnérabilités et des Capacités
+
+14 IEC Information, Education, Communication
+
+15 PCD Plan Communal de Développement
+
+16 RGPH Recensement Général de la population et d'Habitat
+
+17 SN Société Nationale
+
+18 SNP Société Nationale Partenaire
+
+19 TDR Terme de Référence
+
+
+
+EVC Karma Page 6
+
+Bibliographie
+
+1- Boite à image de l’EVC
+
+2- Guide pratique de l’Evaluation de Vulnérabilité et de Capacité
+
+3- Plan communal de Développement de la Commune de Barga
+
+4- RGPH 2006, Thème 5 : Caractéristiques économiques de la population
+
+5- RGPH 2006, Thème 10 : Ménages et Habitations
+
+6- RGPH  2006, Thème 11 : Situation socio-économiques des enfants et des jeunes
+
+7- RGPH  2006, Thème 15 : Mesures et cartographie de la pauvreté
+
+8- RGPH  2006, Thème 16 : Projections démographiques
+
+
+
+EVC Karma Page 7
+
+Contexte ou introduction
+
+La Croix-Rouge Burkinabè, dans le souci de soulager les souffrances des populations
+lorsqu’elle son confrontée à des catastrophes et soucieux d’apporter une aide adéquate à ces
+dernières, cherche des voies et moyens pour atteindre ses objectifs. C’est pourquoi la
+Coordination Nationale de Préparation et de Réponse aux Catastrophes avec l’appui financier
+et technique de la Fédération International des Sociétés de Croix-Rouge et de Croissant
+Rouge a initiée dans trois provinces du Burkina le BAM, le YATENGA et celle de
+l’OUDALAN une Evaluation des Vulnérabilités et des Capacités de leur communautés. Dans
+la province du Yatenga cette EVC a concernée particulièrement les villages de Pella, de Kebla
+et Karma tous de la commune rurale de Barga.
+
+Cette EVC à pour objectif de recueillir des informations pour mesurer les risques et
+vulnérabilités que courent ces communautés et de quelles capacités elles disposent pour faire
+face à ces menaces.
+
+C’est ainsi qu’une équipe de volontaire a séjournée du 18 au 22 juin 2013 dans le village de
+Karma pour une EVC.
+
+I- Résumé exécutif
+
+Situé à 17 km de Ouahigouya chef lieu de la Région du Nord dans la commune Rurale de
+Barga le village de Karma est limité au Nord Youba et Aorema au Sud par Dinguiri et à l’Est
+Lemnoogo et Tougou et enfin à l’Ouest par Ronga.
+
+Au cours de  six (06) jours de travail les volontaires, les chefs d’équipes et le superviseur ont
+pu identifier les vulnérabilités et les capacités de cette communauté de façon participative. Au
+nombre de ces vulnérabilités on peut citer :
+
+- La localisation du village dans un bas-fond le mettant ainsi dans une situation de
+vulnérabilités en cas d’inondation.
+
+- Les problèmes d’hygiène et d’assainissement principalement l’insuffisance de forages,
+l’utilisation des sources d’eau non protégées pour la consommation, l’insalubrité dans
+les concessions, la présence des flaques d’eau occasionnant  la prolifération des
+moustiques etc.
+
+- L’insécurité alimentaire due à la dégradation continue des sols, l’utilisation de matériel
+obsolète, la non utilisation des semences améliorées. A cela il faut ajouter un sérieux
+problème politique entre ces communautés qui peut être un frein à leur
+développement.
+
+Tous ces problèmes contribuent à mettre ce village dans une situation de vulnérabilité accrue.
+Mais il faut noter la présence d’un certain nombre de capacités sur lesquelles le village peut
+s’appuyer lorsqu’il ya une situation de crise. Ainsi nous avons :
+
+- 01 école primaire publique de 03 classes
+- 01 mosquée
+- 02 écoles coraniques
+- 01 moulin ; 01 forage non utilisée.
+- La présence d’un site maraicher etc.
+
+
+
+EVC Karma Page 8
+
+Ensemble avec ces communautés, des propositions de solutions ont été faites dans le but
+d’apporter des réponses adaptées aux problèmes que vit ce village. Le tableau qui suit résume
+l’ensemble des problèmes, des faiblesses ainsi que les capacités que dispose cette
+communauté.
+
+Tableau 1 : tableau synthèse des caractéristiques VC du village de Karma
+
+PROBLEMES/QUESTIONS/DANGERS
+
+Hygiène et assainissement
+Insécurité alimentaire
+Difficultés d’accès aux structures de santé
+Inondations
+RISQUES ET EFFETS POTENTIELS
+
+Survenue de maladie hydriques et ou d’épidémie, Risques d’épidémie
+Famine et malnutrition
+Fuite des bras valides vers les sites aurifères, la Côte d’Ivoire
+Décès
+Problème de santé (accouchement des femmes en cours de route…)
+Destruction des habitats, des cultures, des récoltes ou du cheptel
+Destruction des moyens de subsistances
+FAIIBLESSES
+
+Implantation du parc à bétail au centre du village
+Mauvaise gestion des  ordures ménagères
+Mauvaise gestion des eaux usées
+Absence de latrines dans les concessions
+Utilisation d’eau de sources non protégées,
+Insuffisance de forages
+Mauvaises pratiques d’hygiènes
+Prolifération des moustiques
+Absence de banques céréalières
+Exode rural
+Insuffisance de moyens de production des revenus pour les femmes et les jeunes en saison
+sèche (maraîchage, petit commerce, élevage)
+Migration des bras valides vers les sites aurifères
+Utilisation de matériel de production obsolète
+Utilisation de semences non adaptées
+Mauvais état des voies pour accéder au CSPS le plus proche (environ 4 km, inaccessibilité)
+Absence d’ambulance pour évacuer les malades vers le CSPS le plus proche
+Mauvais emplacement du village (A moins d’un Km du lit du cours d’eau)
+Construction non adaptée des maisons (en banco non amélioré et absence de  fondation)
+CAPACITE DE LA COMMUNAUTE
+
+Présence de plusieurs groupements : groupement Naam, groupement Relwendé
+Association l’Appel Drame France
+
+
+
+EVC Karma Page 9
+
+Existence d’un comité villageois de la Croix Rouge
+Présence de bras valides (jeunes et femme) dans le village
+Présence d’un site maraîcher dans le village
+Présence d’ASC (Agent de Santé Communautaire)
+Présence d’une école primaire publique à trois classes
+Existence de deux écoles coraniques
+Existence d’un forage
+Existence d’un moulin
+Présence d’une mosquée
+
+II- Données de base sur le village
+
+2.1- Données physiques
+
+Le village de KARMA se situe dans la commune Rurale de BARGA à 17 km du chef-lieu de
+Région (Ouahigouya) et à environ 17 km du chef-lieu de commune (BARGA). Située au nord
+de Barga, la commune rurale avec une superficie de 438 km, ses villages limitrophes sont au
+Nord, Youba et Aorema, au Sud, Dingri et Kerga, à l’Est, Lemnoogo et Tougou et à l’Ouest
+Ronga.
+
+Le territoire de la commune rurale de Barga est occupé par des sols ferrugineux tropicaux, des
+sols peu évolués d’érosion sur matériaux gravillonnaire, des sols allomorphes à structure
+dégradée, des sols nus.
+ Les sols ferrugineux tropicaux :
+
+Ces sols occupent la majorité du territoire de Barga. Ils se développent sur des matériaux
+riches en argile Kaolinite et se caractérisent par une richesse en oxydes et hydroxydes de fer
+et de manganèse qui leur donne une couleur rouge ou ocre. L’épaisseur moyenne du profil est
+de deux mètres.
+ Les sols évolués d’érosion.
+
+Du fait de leur caractère ancien, des matériaux qui les composent, ces sols sont pauvres avec
+des teneurs basses en calcium, phosphore et potassium. Les méthodes de cultures traditionnels
+sont trop superficielles et ne tiennent pas compte de la dégradation des propriétés physiques
+de surface : mauvaise structure, compacité, érosion forte, etc.
+La capacité de rétention en eau est de moyenne à bonne car ces sols sont profonds. Des
+techniques appropriées permettront de mettre ces terres en valeur.
+ Les sols évolués d’érosion sur matériaux gravillonnaire
+
+Ces sols ont un horizon de surface épais et sol issue généralement du démentiellement des
+cuirasses ferrugineuse. Profondeur insuffisante des sols, réserves en eau faible, pauvreté des
+matériaux originels en élément nutritif principaux, en font des sols en grande partie inapte à la
+mise en culture. Mais ils sont exploités à BARGA compte tenu de la pression humaine. Ce
+sont aussi des terrains de parcours des animaux.
+ Les sols halomorphe a structure dégradé.
+
+Ils présentent un horizon de surface généralement poudreux et un horizon de colonnette à
+sommet arrondit. La présence de sodium, de potassium ou de sols solubles en quantité
+
+
+
+EVC Karma Page 10
+
+variable est fréquente. Les propriétés physique, structure, cohésion excessive, imperméable
+qui sont défavorables. Ces propriétés physique et chimique interdisent toute culture.
+ Les sols nus.
+
+Il s’agit des sols fortement dégradés. Ils sont causés par la surexploitation, l’érosion éolienne
+et hydrique. Ces sols sont actuellement abandonnés par le paysannat de Barga.
+
+La végétation de la commune rural de Barga dont fait partie le village de Karma est de types
+sahélien caractérisé par une strate herbacé discontinue, une strate arborée, et arbustive
+clairsemée.
+En se basant sur les positions géographiques, différents type de formation se rencontrent :
+ La strate arbustive est dominée par les épineux (acacia raddiana, acacia nilotica,
+
+dichrostachys cinerea, Balanites aegyptiaca), les espèces sans épines comprennent
+grewia tenax, grewia bicolore, combretum micranthum, combretum aculeatum.
+
+ Les principales espèces arborées sont : adansonia digitata, Anogeissus leiocarpus,
+pteroscarpus lucens, sclrocarya birrea, Tamarindus india… Ces espèces se raréfient à
+cause de la péjoration climatique.
+
+ Quant aux graminées essentiellement annuelles, elles ne forment généralement pas un
+tapis continu. Le tapis herbacé dans la commune rurale de Barga dont fait partie le
+village de Karma comporte d’autres graminées appartenant aux genres Aristida,
+Cenchrus, et des papilionacées herbacées telles Alysicarpus ovalifolius ou Zonia
+glochidiata.
+
+ Dans les espaces sablonneux, on trouve une végétation arbustive très clairsemée
+(Combretum glutinosum, Guiera senegalensis, Balanites aegyptiaca, Boscia
+senegalensis).
+
+On note une évolution régressive de la végétation selon le témoignage des agents des services
+techniques. La dynamique de la végétation est tributaire des facteurs climatiques et
+anthropiques. En effet, l’érosion hydrique et éolienne participe à la dégradation du couvert
+végétal.
+
+2.2- Données climatologiques
+
+Le village de Karma comme la commune rurale de Barga et tout l’ensemble de la province du
+Yatenga a l’un des climats les plus secs du pays et les précipitations  descendent souvent en
+dessous de 150 mm avec une longue saison sèche (7 à 9 mois) et une courte saison pluvieuse
+(deux à trois mois) dont les hauteurs de pluies sont  inférieure à 600 mm.
+Les températures journalières sont supérieures à 38°C et les écarts de température diurnes et
+nocturnes peuvent atteindre 27°C.
+
+Le réseau hydrographique de la commune rurale de Barga est très faible. Pendant l’hivernage
+en effet, on n’y compte que deux cours d’eau intermittents. Au Nord, coule une rivière qui
+traverse le village de Karma et au Nord Est coule une autre qui traverse Tebbla. En saison
+sèche, les ressources en eau de surface sont presque inexistantes et se limitent à deux retenues
+d’eau et quelques boulies qui durent moins de Trois mois. Cette situation constitue une
+contrainte majeur pour les populations qui doivent non seulement abreuver le bétail, mais
+aussi mener des activités de contre saison.
+
+
+
+EVC Karma Page 11
+
+La commune de Barga dont fait partie le village de Karma a une faune qui n’est pas assez
+fournie. Par manque d’habitats appropriés elle est souvent constituée d’espèces aviaires
+(pintades, tourterelles, francolins). La faune aquatique est absente par suite du manque de
+cours d’eau.
+Selon les services de l’environnement, la tendance actuelle est à la réduction, voire à la
+disparition des espèces. Des mesures doivent être prises pour améliorer ce potentiel au profit
+des besoins des populations.
+Source PCD (plan communal de développement)
+
+2.3- Organisation administrative
+
+Sur le plan administratif, le village de Karma comme dans tous les 21 autres villages de la
+commune a deux conseillers municipaux et un bureau du Comité Villageois de
+Développement (CVD) composé de douze membres. Parallèlement à cette organisation, la
+chefferie traditionnelle a une place importante dans la gestion de la cité en collaboration avec
+les conseillers et le CVD.
+
+2.4- Démographie
+
+En 2006, la population de Karma comptait 895 habitants soit 154 ménages répartis entre 394
+hommes et 501 femmes. Cette population pourrait atteindre 1001 habitants en 2015. (Source :
+PCD de Karma)
+
+2.5- Piliers de l’économie
+
+L’économie du village de Karma est basée essentiellement sur les secteurs de production,
+l’agriculture et l’élevage. Cette économie est si faible que certains s’adonnent à l’orpaillage
+ou migrent vers la Cote d’Ivoire à la recherche de meilleurs conditions de vie.
+
+III- Participants
+
+La présente EVC a été réalisée par les volontaires de la CRBF avec la mobilisation et la
+collaboration de la communauté. Ce qui a permis à l’équipe de bien mener travaux et
+d’atteindre les objectifs fixés.
+
+3.1- Equipe terrain
+
+Pour la réalisation de cette évaluation dans le village de Karma, la CRBF a mandatée une
+équipe composée de six (06) volontaires, trois (03) chefs d’équipes, et un (01) superviseur.
+Les volontaires communautaires et les chefs d’équipes sont tous issus de la province du Bam.
+Le superviseur a été déployé et est formé dans la conduite des Evaluations d’urgences et des
+Evaluations de Vulnérabilité et de Capacité.
+
+
+
+EVC Karma Page 12
+
+3.2- Personnes ressources
+
+Au niveau des participants du village, il ya 4 informateurs clés  qui ont été interviewé, il s’agit
+du chef de village, du responsable CVD, d’un conseiller municipal du village et du directeur
+de l’école primaire publics. En plus de cela, trois focus groupe d’une douzaine de personnes
+par focus ont été rencontré. Enfin il ya eu une assemblée générale à la fin des activités terrains
+qui a permis aux maximum des habitants du village d’y assister.
+
+IV- Outils utilisés
+
+ Les focus group
+Le focus group est un entretien avec un groupe  composé de 8 à 12 personnes il s’appui sur un
+guide et permet de collecter les avis de la communauté sur des sujets ou des questions
+données. Le choix du public cible dépend des objectifs recherchés. Pour le cas de l’EVC de
+Karma trois focus ont été réalisés :
+
+- Un focus d’homme d’âge mure
+- Un focus femme
+- Un focus mixte jeune
+
+ Les enquêtes ménage
+Pour les enquêtes ménage, l’outil de collecte d’information a été un questionnaire afin de
+collecter des informations sur leur ménage, sur leurs biens, leurs moyens de subsistance etc.
+Cela a permis de recueillir des informations auprès de soixante ménages autour de dix
+questions. Au terme des visites à domicile, 60 ménages ont été enquêtés.
+ Les interviews aux informateurs-clés
+
+C’est un entretien avec les informateurs clé de la communauté  avec un guide sur un sujet ou
+des questions données. Au cours de l’EVC nous avons put rencontrer les informateurs clé
+suivants
+
+- Le conseiller
+- Le responsable CVD (Conseil Villageois de Développement)
+- Le chef du village
+
+Cette étape a permis de recueillir des informations secondaire sur le village (physique,
+dermographique, climatologiques, hydraulique, économique, administrative, sanitaire,
+éducatives, agro-pastorale…).
+
+ Cartographie
+
+Réalisé grâce à la marche transversale et l’observation directe, la cartographie est un outil qui
+permet d’avoir spatiale des différentes capacités et vulnérabilités du village concerné.
+Lors de la présente EVC nous avons pu réaliser deux cartes, la carte des vulnérabilités, la
+carte des capacités.
+
+
+
+EVC Karma Page 13
+
+V- Résultats de l’étude (Les vulnérabilités, risques et dangers les plus
+importants)
+
+5.1- Caractéristiques principales du village
+
+
+
+EVC Karma Page 14
+
+5.2- Les vulnérabilités, risques et dangers les plus importants
+Le traitement des informations recueillies ont révélé une situation de vulnérabilité qui se présente comme suit. Le tableau ci-dessous présente les
+différents problèmes, les risques, les forces et faiblesses du village.
+Tableau 2 : synthèse des risques, dangers et vulnérabilité du village de Karma
+
+Problèmes/Questio
+ns/Dangers
+
+Risques/ Effets Potentiels Faiblesses
+
+Eau Hygiène et
+assainissement
+
+Maladies diarrhéiques
+Toux,
+paludisme
+
+-présence du parc à bétail au centre du village
+-mauvaise gestion des ordures ménagères
+- Mauvaises pratiques d’hygiènes (gestion des ordures ménagères et des eaux usées…)
+- absence de latrines
+-Insuffisance des infrastructures d’eau potable
+- existence d’un cimetière près du puits principale du village
+
+Insécurité
+alimentaire
+
+-risque de famine
+-la malnutrition
+-Exode rurale (fuite des bras valides
+vers les villes ou les pays voisins
+ainsi que vers les sites d’orpaillage)
+
+- Absence de banques céréalières
+-fuite des bras valides
+-manque d’AGR pour les femmes et les jeunes en saison sèche (maraîchage, petit commerce,
+élevage)
+-absence de points d’eau
+-manque de matériels agricoles adaptés
+-zone inondable
+-Non utilisation de semences améliorées
+-dégradation des sols
+
+Difficulté d’accès
+aux structures de
+santé
+
+-risques d’aggravation des maladies
+-risques d’épidémie
+- Hausse du taux de mortalité
+-risques d’accouchement des
+femmes en cours de route
+
+-absence de CSPS dans le village
+-mauvais état des voies pour accéder au CSPS le plus proche (Aorema à environ 4 km,
+inaccessible, Lemnoogo non encore fonctionnel).
+Absence d’ambulance moto
+
+Inondation -destruction des cultures, des
+récoltes et des maisons
+-propagation de maladies
+-fuite de bras valides
+-famine
+-dégâts matériels et financiers
+
+-mauvais emplacement du village (dans un bas fons à moins d’un km du lit)
+-construction non adaptée des maisons (banco sans de fondation)
+
+Source : Rencontre synthèse et Assemblée Générale
+
+
+
+EVC Karma Page 15
+
+5.3- Les principales capacités et ressources
+
+Quand bien même, les vulnérabilités du village sont nombreuses, il dispose de capacités. Ces dernières ont été identifié au cours de la tenue des
+focus groupes, des entretiens ménages, des interviews avec les informateurs clés et la marche transversales. Elles peuvent être observées sur la
+carte des ressources et capacités et dans le masque ci-dessous.
+
+Tableau 3 : les principales capacités du village de Karma
+Problèmes/Questi
+ons/Dangers
+
+Risques/Effets Potentiels Faiblesses Capacités
+
+Hygiène et
+assainissement
+
+Maladies (Toux, paludisme…)
+Maladie hydrique
+Dermatose
+Diarrhée
+
+-présence d’un parc à bétail au centre du village
+Mauvaises pratiques d’hygiènes (mauvaise gestion
+des ordures ménagères et des eaux usées…)
+-absence de latrines dans les concessions
+Insuffisance de forage
+Utilisation de sources d’eau non protégée.
+- présence d’un cimetière près du puits principal
+
+-existence de groupement de femmes (Nam,
+Relwendé)
+-présence de l’Association Appel France
+-Présence d’un comité villageois de la
+Croix Rouge
+
+Insécurité
+alimentaire
+
+-risque de famine
+-malnutrition
+-fuite des bras valides
+
+-absence de banques céréalières
+-fuite de bras valides
+-manque d’AGR en saison sèche
+-insuffisance de points d’eau
+-manque de matériels agricoles
+-zone inondable
+-dégradation des sols cultivables
+
+-présence de quelques jeunes dans le
+village/ bras valides
+-présence d’un site maraicher dans le
+village
+
+Difficultés d’accès
+aux structures de
+soins
+
+-aggravation des maladies
+-risques de contamination
+-accouchement des femmes en cours
+de route
+-augmentation du taux de décès
+
+-absence de CSPS dans le village
+-mauvais état des voies reliant les centres de santé les
+plus proches (Aorema à 4 km et Lemnoogo à 2 km)
+Absence d’ambulance moto
+
+-présence d’un ASC dans le village (Agent
+de Santé Communautaire)
+
+inondation -destruction des récoltes et des
+maisons
+-fuite de bras valides
+-famine
+-dégâts matériels et financiers
+- dégradation des sols
+
+-zone inondable (basfond à moins d’un km)
+-construction de maisons inadaptées
+
+-présence d’une école de 3 classes -deux
+écoles coraniques
+- une pompe
+-un site maraîcher
+-un moulin
+-présence d’une mosquée
+
+Source : Données des focus groupes, des informateurs clés et de la marche transversale
+
+
+
+EVC Karma Page 16
+
+VI- Actions pour la transformation/ mesures destinées à transformer les faiblesses en capacités
+
+6.1- Mesures destinées à transformer les faiblesses en capacités
+
+Au vue de la situation de vulnérabilité et de capacités notée dans le village de Karma, il est important d’envisager des mesures susceptibles de
+transformer les faiblesses en capacités. Le tableau ci-dessous nous donne une idée des mesures retenues.
+
+Tableau 4 : Mesures de transformations
+
+N° Problèmes/questions/dangers Faiblesses Mesures destinées à transformer les faiblesses en capacités
+
+1
+Eau potable et assainissement
+(mauvaise gestion des ordures
+ménagères et des eaux usées,
+insuffisances des points d'eau
+potable)
+
+présence d’un parc à bétail au centre du
+village
+
+organisation des séances d’IEC (information éducation et
+communication) sur l’hygiène et l’assainissement
+
+2 mauvaise gestion des ordures ménagères et
+des eaux usées
+
+mise en place des comités de gestion des ordures et eaux usées
+3 formation des comités de gestion
+4 équipement en matériel des comités
+5 absence de latrines dans les concessions sensibilisation à la construction de latrines familiales
+6 Subvention pour la construction  de latrines
+7 Insuffisance de points d'eau potable Réalisation de forages
+
+8
+
+Insécurité alimentaire
+
+Non maitrise de nouvelles techniques
+culturales
+
+Sensibilisation des populations sur l’utilisation de nouvelles
+techniques culturales (charrue, semences améliorées, fumure
+organique…)
+
+9
+Formation des populations sur l’utilisation de nouvelles techniques
+culturales (charrue, semences améliorées, fumure organique…)
+
+10 accompagnement à la mise en place de champs école
+11 absence de banques céréalières création d’une banque de céréale
+12 Inondation des champs sensibilisation des populations à utiliser des terres non inondables
+
+13
+Insuffisance de points d'eau pour
+l'abreuvement des troupeaux
+
+-création de points d’eau pour le bétail ou pour la maraicher-culture
+
+14
+Sous emploi des jeunes et des femmes en
+saison sèches
+
+appui des jeunes et les femmes en AGR pour le maraichage, le petit
+commerce, l’élevage…
+
+15
+
+les femmes et les jeunes ne sont pas
+regroupés au sein de d'organisation
+communautaire
+
+organisation des jeunes et les femmes en groupement
+
+16
+Difficultés d’accès aux
+structures de soins
+
+Inaccessibilité aux CSPS les plus proches plaidoyer auprès des partenaires techniques et financiers pour
+équipement en moto ambulance.
+
+
+
+EVC Karma Page 17
+
+N° Problèmes/questions/dangers Faiblesses Mesures destinées à transformer les faiblesses en capacités
+
+17
+plaidoyer auprès des autorités et partenaires pour la réalisation des
+voies
+
+18
+
+Inondation (Destruction des
+récoltes, des cultures, des
+
+habitats)
+
+Construction dans des zones inondables -sensibilisation et conviction des populations à construire sur les sites
+non inondables
+
+19
+sensibilisation des autorités villageoises et les populations sur les
+risques liés aux inondations
+
+20
+Non maitrise des techniques de
+construction durable
+
+-sensibilisation et formation des populations sur les techniques de
+construction durable
+
+21 Absence de Système d'alerte précoce  au
+niveau communautaire
+
+Mise en place d’un système d’alerte précoce
+22 Formation des membres
+23 Dotation d’équipements et de fiches
+
+Source : Rencontre synthèse et Assemblée Générale
+
+6.2-Classification des mesures
+
+Les mesures sont classées en trois catégories. Les mesures préventives  qui sont celles prises pour prévenir certains risques. Les mesures
+préparatoires, qui elles permettent à la communauté d’être prête à faire face aux risques et enfin celles d’atténuation, qui servent à réduire, à
+diminuer l’impact du risque. Le tableau 5 donne cette classification.
+Tableau 5 : Classification des mesures
+
+N° Faiblesses Mesures destinées à transformer les faiblessesen capacités
+Préventio
+n CML Préparation CML
+
+Atténuation
+des effets CML
+
+1
+
+présence d’un parc à bétail au centre
+du village
+
+organisation des séances d’IEC (information
+éducation et communication) sur l’hygiène et
+l’assainissement
+
+Oui CT
+
+2
+mauvaise gestion des ordures
+ménagères et des eaux usées
+
+mise en place des comités de gestion des ordures
+et eaux usées
+
+oui CT, MT Oui MT, LT
+
+3 formation des comités de gestion Oui CT, MT
+4 équipement en matériel des comités Oui CT, MT oui
+
+5
+absence de latrines dans les
+concessions
+
+sensibilisation à la construction de latrines
+familiales
+
+Oui CT
+
+6 Subvention pour la construction  de latrines
+7 Insuffisance de points d'eau potable Réalisation de forages Oui LT Oui LT
+
+
+
+EVC Karma Page 18
+
+N° Faiblesses Mesures destinées à transformer les faiblessesen capacités
+Préventio
+n CML Préparation CML
+
+Atténuation
+des effets CML
+
+8
+
+Non maitrise de nouvelles
+techniques culturales
+
+Sensibilisation des populations sur l’utilisation de
+nouvelles techniques culturales (charrue,
+semences améliorées, fumure organique…)
+
+Oui CT
+
+9
+
+Formation des populations sur l’utilisation de
+nouvelles techniques culturales (charrue,
+semences améliorées, fumure organique…)
+
+Oui MT
+
+10
+accompagnement à la mise en place de champs
+école
+
+Oui CT
+
+11 absence de banques céréalières création d’une banque de céréale Oui MT Oui MT
+
+12
+Inondation des champs sensibilisation des populations à utiliser des
+
+terres non inondables
+Oui CT
+
+13
+
+Insuffisance de points d'eau pour
+l'abreuvement des troupeaux
+
+-création de points d’eau pour le bétail ou pour la
+maraicher-culture
+
+Oui MT
+
+14
+Sous emploi des jeunes et des
+femmes en saison sèches
+
+appui des jeunes et les femmes en AGR pour le
+maraichage, le petit commerce, l’élevage…
+
+Oui MT
+
+15
+
+les femmes et les jeunes ne sont pas
+regroupés au sein  d'organisation
+communautaire
+
+organisation des jeunes et les femmes en
+groupement
+
+Oui CT
+
+16
+Inaccessibilité aux CSPS les plus
+proches
+
+plaidoyer auprès des partenaires techniques et
+financiers pour équipement en moto ambulance.
+
+Oui CT
+
+17
+plaidoyer auprès des autorités et partenaires pour
+la réalisation des voies
+
+Oui CT
+
+18
+Construction dans des zones
+inondables
+
+-sensibilisation et conviction des populations à
+construire sur les sites non inondables
+
+Oui CT
+
+19
+
+sensibilisation des autorités villageoises et les
+populations sur les risques liés aux inondations
+
+Oui CT
+
+20
+Non maitrise des techniques de
+construction durable
+
+-sensibilisation et formation des populations sur
+les techniques de construction durable
+
+Oui MT
+
+21 Absence de Système d'alerte précoce
+au niveau communautaire
+
+Mise en place d’un système d’alerte précoce Oui CT
+22 Formation des membres Oui CT Oui CT
+23 Dotation d’équipements et de fiches Oui CT
+
+Source : Rencontre synthèse et Assemblée Générale
+
+
+
+EVC Karma Page 19
+
+6.3-Comment elles seront financées ?
+
+Avec la communauté, l’équipe s’est intéressée à comment chaque activité pourra être financée. Le Tableau 6 donne la synthèse des échanges
+concernant donc le financement.
+
+Tableau 6 : financement
+
+N°
+Mesures destinées à transformer les faiblesses en
+capacités
+
+Peuvent-elles être
+appliquées
+immédiatement (à CT,
+ou plutôt à MT ou LT
+
+Demandent-
+elles un
+financement
+
+La
+communauté
+peut-elle
+trouver elle-
+même les
+ressources ?
+
+Comment ?
+De quoi a-t-elle
+besoin ?
+
+La mesure
+nécessite-t-elle
+un
+accompagnem
+ent technique
+
+1
+organisation des séances d’IEC sur l’hygiène et
+l’assainissement
+
+OUI à CT
+Oui Non
+
+Technicien en
+WATSAN OUI
+
+2
+mise en place des comités de gestion des ordures et
+eaux usées
+
+OUI à CT
+Oui Non Technicien OUI
+
+3 formation des comités de gestion OUI à CT Oui Non Technicien OUI
+4 équipement en matériel des comités OUI à CT ou à MT Oui Non Financement OUI
+
+5
+sensibilisation à la construction de latrines
+familiales
+
+OUI à CT
+Oui Non
+
+Spécialistes en
+WATSAN OUI
+
+6
+Subvention pour la construction  de latrines
+
+OUI à MT Oui Oui
+Agrégats,
+fouille) OUI
+
+7
+Réalisation de forages OUI à LT
+
+Oui Oui
+Agrégats,
+main d'œuvre OUI
+
+8
+
+Sensibilisation des populations sur l’utilisation de
+nouvelles techniques culturales (charrue, semences
+améliorées, fumure organique…)
+
+OUI à CT
+
+Oui Non
+Spécialistes en
+WATSAN OUI
+
+9
+
+Formation des populations sur l’utilisation de
+nouvelles techniques culturales (charrue, semences
+améliorées, fumure organique…)
+
+Oui à MT
+
+Oui Non Technicien
+
+10
+accompagnement à la mise en place de champs
+école
+
+OUI à CT
+OUI NON
+
+Technicien semence
+intrant OUI
+
+11
+création d’une banque de céréale OUI à CT
+
+OUI OUI
+agrégats main
+d'œuvre OUI
+
+12 sensibilisation des populations à utiliser des terres OUI à CT OUI NON Technicien OUI
+
+
+
+EVC Karma Page 20
+
+N°
+Mesures destinées à transformer les faiblesses en
+capacités
+
+Peuvent-elles être
+appliquées
+immédiatement (à CT,
+ou plutôt à MT ou LT
+
+Demandent-
+elles un
+financement
+
+La
+communauté
+peut-elle
+trouver elle-
+même les
+ressources ?
+
+Comment ?
+De quoi a-t-elle
+besoin ?
+
+La mesure
+nécessite-t-elle
+un
+accompagnem
+ent technique
+
+non inondables
+
+13
+
+-création de points d’eau pour le bétail ou pour la
+maraicher-culture
+
+OUI à MT
+
+OUI OUI
+agrégats,
+main d'œuvre OUI
+
+14
+
+appui des jeunes et les femmes en AGR pour le
+maraichage, le petit commerce, l’élevage…
+
+OUI à MT
+
+OUI NON financement OUI
+
+15
+organisation des jeunes et les femmes en
+groupement
+
+OUI à CT
+OUI NON Technicien OUI
+
+16
+plaidoyer auprès des partenaires techniques et
+financiers pour équipement en moto ambulance.
+
+OUI à CT
+OUI NON financement OUI
+
+17
+plaidoyer auprès des autorités et partenaires pour la
+réalisation des voies
+
+OUI à CT
+OUI NON OUI
+
+18
+
+sensibilisation et conviction des populations à
+construire sur les sites non inondables
+
+OUI à CT
+
+OUI NON OUI
+
+19
+sensibilisation des autorités villageoises et les
+populations sur les risques liés aux inondations
+
+OUI à CT
+OUI NON OUI
+
+20
+sensibilisation et formation des populations sur les
+techniques de construction durable
+
+OUI à MT
+OUI NON OUI
+
+21 Mise en place d’un système d’alerte précoce Oui, court terme Oui Non,
+formalisation des
+indicateurs, Oui
+
+22 Formation des membres Oui, court terme Non Oui,
+Personnes
+Ressources
+
+Les former sur les
+indicateurs oui
+
+23 Dotation d’équipements et de fiches Oui, MT Oui Non
+Equipements
+et fiches
+
+Source : Rencontre synthèse et Assemblée Générale
+
+
+
+EVC Karma Page 21
+
+VII- Contraintes
+
+La mise en œuvre de l’EVC dans son exécution a rencontré des difficultés d’ordre
+organisationnel et technique, parmi lesquelles on peut citer :
+
+- La barrière linguistique
+- L’insuffisance de matériels, d’équipements adéquats de déploiement (ordinateur…)
+- Le manque de moyens de déplacement (moto…)
+- Insuffisance des frais de communication
+- Insuffisance du temps accordé pour l’EVC (préparation au niveau terrain, mise en
+
+œuvre)
+
+VIII- Leçons apprises
+
+Cette présent EVC a été un véritable cadre de renforcement des capacités de l’équipe en
+termes de formation, de connaissances des vraies réalités du terrain, création d’une familiarité
+avec les volontaires de plusieurs horizons (Barga, Ouahigouya, Karma, Banfora, Ziniaré,
+Bobo Dioulasso, Orodara). Une plus grande connaissance, une maîtrise des outils de collecte
+et une plus grande visibilité du mouvement dans la province plus particulièrement dans la
+commune de Barga).
+
+Le passage de la mission de supervision nous a permis de revoir le programme des animations
+des focus groupes et nous aider à résoudre un problème qui existait dans le village. Cela nous
+a permis de rassembler les différents camps pour la restitution.
+
+IX- Recommandations
+
+Pour la bonne marche des actions futures en EVC et l’atteinte des résultats, l’’équipe de mise
+en œuvre de Karma recommande à la CNPRC/CRBRF :
+
+- Organiser et programmer les activités en dehors de la saison des pluies
+- Octroyer à l’équipe du matériel et équipement adéquats (lampes, ordinateurs…)
+- Améliorer les frais de communication
+- Octroyer à l’équipe un moyen de déplacement et du carburant
+- Accorder plus de temps dans la mise en œuvre
+- Renforcer les capacités des équipes sur certaines fiches techniques (fiche de rapport).
+
+
+
+EVC Karma Page 22
+
+Annexes
+
+Liste des volontaires
+
+- Un superviseur : Tapsoba Philippe, superviseur au ZONDOMA
+- Trois chefs d’équipe :
+
+ ZERBO Oumar : chef d’équipe déployé au Zondoma
+ YARBANGA Ramata : volontaire à Barga
+ SAMTOUMA Rebecca : volontaire à Barga
+
+- Six volontaires
+
+ SAMTOUMA Deborah : volontaire à Barga
+ BELEM Madi : volontaire à Karma
+ BELEM Issouf : volontaire à Karma
+ BELEM Mahamadi : volontaire à Karma
+ BELEM Issa : volontaire à Karma
+ BELEM Ramata : volontaire à Karma
+
+
+
+EVC Karma Page 23
+
+Cartes de Vulnérabilité
+
+Carte des capacités
+
+
+
+EVC Karma Page 24
+
+
