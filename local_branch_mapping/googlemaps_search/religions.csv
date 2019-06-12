@@ -1,0 +1,232 @@
+﻿country,type
+ Angola,red_cross
+ Cameroon,red_cross
+ Central African Republic,red_cross
+ Chad,red_crescent
+" Congo, Democratic Republic of the",red_cross
+" Congo, Republic of the",red_cross
+ Equatorial Guinea,red_cross
+ Gabon,red_cross
+ São Tomé and Príncipe,red_cross
+ Burundi,red_cross
+ Comoros,red_crescent
+ Djibouti,red_crescent
+ Eritrea,red_cross
+ Ethiopia,red_cross
+ Kenya,red_cross
+ Madagascar,red_cross
+ Malawi,red_cross
+ Mauritius,red_cross
+ Mayotte,red_crescent
+ Mozambique,red_cross
+ Réunion,red_cross
+ Rwanda,red_cross
+ Seychelles,red_cross
+ Somalia,red_crescent
+ South Sudan,red_cross
+ Tanzania,red_cross
+ Uganda,red_cross
+ Zambia,red_cross
+ Zimbabwe,red_cross
+Algeria,red_crescent
+ Egypt,red_crescent
+ Libya,red_crescent
+ Morocco,red_crescent
+ Sudan,red_crescent
+ Tunisia,red_crescent
+ Botswana,red_cross
+ Eswatini,red_cross
+ Lesotho,red_cross
+ Namibia,red_cross
+ South Africa,red_cross
+Benin,red_cross
+ Burkina Faso,red_crescent
+ Cape Verde,red_cross
+ The Gambia,red_crescent
+ Ghana,red_cross
+ Guinea,red_crescent
+ Guinea-Bissau,red_cross
+ Ivory Coast,red_cross
+ Liberia,red_cross
+ Mali,red_crescent
+ Mauritania,red_crescent
+ Niger,red_crescent
+ Nigeria,red_cross
+ Senegal,red_crescent
+ Sierra Leone,red_crescent
+ Saint Helena,red_cross
+ Togo,red_cross
+ Anguilla,red_cross
+ Antigua and Barbuda,red_cross
+ Aruba,red_cross
+ Bahamas,red_cross
+ Barbados,red_cross
+ Cayman Islands,red_cross
+ Cuba,red_cross
+ Dominica,red_cross
+ Dominican Republic,red_cross
+ Grenada,red_cross
+ Guadeloupe,red_cross
+ Haiti,red_cross
+ Jamaica,red_cross
+ Martinique,red_cross
+ Montserrat,red_cross
+ Netherlands Antilles,red_cross
+ Puerto Rico,red_cross
+ Saint Kitts and Nevis,red_cross
+ Saint Lucia,red_cross
+ Saint Vincent and the Grenadines,red_cross
+ Trinidad and Tobago,red_cross
+ Turks and Caicos Islands,red_cross
+ British Virgin Islands,red_cross
+ U.S. Virgin Islands,red_cross
+ Belize,red_cross
+ Costa Rica,red_cross
+ El Salvador,red_cross
+ Guatemala,red_cross
+ Honduras,red_cross
+ Mexico,red_cross
+ Nicaragua,red_cross
+ Panama,red_cross
+ Bermuda,red_cross
+ Canada,red_cross
+ Greenland,red_cross
+ Saint Pierre and Miquelon,red_cross
+ United States,red_cross
+Argentina,red_cross
+ Bolivia,red_cross
+ Brazil,red_cross
+ Chile,red_cross
+ Colombia,red_cross
+ Ecuador,red_cross
+ Falkland Islands,red_cross
+ French Guiana,red_cross
+ Guyana,red_cross
+ Paraguay,red_cross
+ Peru,red_cross
+ Suriname,red_cross
+ Uruguay,red_cross
+ Venezuela,red_cross
+Mainland China,red_cross
+ Hong Kong,red_cross
+ Macau,red_cross
+ Taiwan,red_cross
+ Japan,red_cross
+ North Korea,red_cross
+ South Korea,red_cross
+ Mongolia,red_cross
+ Brunei,red_crescent
+ Cambodia,red_cross
+ Indonesia,red_crescent
+ Laos,red_cross
+ Malaysia,red_crescent
+ Myanmar,red_cross
+ Philippines,red_crescent
+ Singapore,red_cross
+ Thailand,red_cross
+ Timor-Leste,red_cross
+ Vietnam,red_cross
+ Afghanistan,red_crescent
+ Bangladesh,red_crescent
+ Bhutan,red_cross
+ India,red_cross
+ Maldives,red_crescent
+   Nepal,red_cross
+ Pakistan,red_crescent
+ Sri Lanka,red_cross
+ Kazakhstan,red_crescent
+ Kyrgyzstan,red_crescent
+ Tajikistan,red_crescent
+ Turkmenistan,red_crescent
+ Uzbekistan,red_crescent
+ Bahrain,red_crescent
+ Iraq,red_crescent
+ Israel,red_cross
+ Jordan,red_crescent
+ Kuwait,red_crescent
+ Lebanon,red_cross
+ Oman,red_crescent
+ Palestine,red_crescent
+ Qatar,red_crescent
+ Saudi Arabia,red_crescent
+ Syria,red_crescent
+ United Arab Emirates,red_crescent
+ Yemen,red_crescent
+ Armenia,red_cross
+ Azerbaijan,red_crescent
+ Cyprus,red_cross
+ Iran,red_crescent
+ Turkey,red_crescent
+ Austria,red_cross
+ Croatia,red_cross
+ Czech Republic,red_cross
+ Germany,red_cross
+ Hungary,red_cross
+ Liechtenstein,red_cross
+ Poland,red_cross
+ Romania,red_cross
+ Slovakia,red_cross
+ Slovenia,red_cross
+  Switzerland,red_cross
+Belarus,red_cross
+ Georgia,red_cross
+ Russia,red_cross
+ Ukraine,red_cross
+ Denmark,red_cross
+ Faroe Islands,red_cross
+ Estonia,red_cross
+ Finland,red_cross
+ Iceland,red_cross
+ Latvia,red_cross
+ Lithuania,red_cross
+ Norway,red_cross
+ Sweden,red_cross
+Albania,red_crescent
+ Bosnia and Herzegovina,red_cross
+ Bulgaria,red_cross
+ Greece,red_cross
+ Kosovo,red_crescent
+ Moldova,red_cross
+ Montenegro,red_cross
+ North Macedonia,red_cross
+ Serbia,red_cross
+ Andorra,red_cross
+ Gibraltar,red_cross
+ Italy,red_cross
+ Malta,red_cross
+ Portugal,red_cross
+ San Marino,red_cross
+ Spain,red_cross
+  Vatican City,red_cross
+ Belgium,red_cross
+ France,red_cross
+ Jersey &  Guernsey,red_cross
+ Ireland,red_cross
+ Isle of Man,red_cross
+ Luxembourg,red_cross
+ Monaco,red_cross
+ Netherlands,red_cross
+ United Kingdom,red_cross
+ Australia,red_cross
+ New Zealand,red_cross
+Fiji,red_cross
+ New Caledonia,red_cross
+ Papua New Guinea,red_cross
+ Solomon Islands,red_cross
+ Vanuatu,red_cross
+Guam,red_cross
+ Kiribati,red_cross
+ Marshall Islands,red_cross
+ Micronesia,red_cross
+ Nauru,red_cross
+ Northern Mariana Islands,red_cross
+ Palau,red_cross
+American Samoa,red_cross
+ Cook Islands,red_cross
+ French Polynesia,red_cross
+ Niue,red_cross
+ Samoa,red_cross
+ Tokelau,red_cross
+ Tonga,red_cross
+ Tuvalu,red_cross
+ Wallis and Futuna,red_cross
