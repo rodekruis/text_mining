@@ -1,0 +1,1451 @@
+County;Subcounty;Ward
+Baringo;Ainabkoi;Tirioko
+Bomet;Ainamoi;Kollowa
+Bungoma;Aldai;Ribkwo
+Busia;Alego Usonga;Silale
+Elgeyo-Marakwet;Awendo;Loiyamorok
+Embu;Bahati;Tangulbei/Korossi
+Garissa;Balambala;Churo/Amaya
+Homa Bay;Banissa;Barwessa
+Trans Nzoia;Budalangi;Kabartonjo
+Isiolo;Baringo Central;Saimo/Kipsaram
+Kajiado;Baringo North;Saimo/Soi
+Kakamega;Baringo South;Bartabwa
+Kericho;Belgut;Kabarnet
+Kiambu;Bobasi;Sacho
+Kilifi;Bomachoge Borabu;Kabula
+Kirinyaga;Bomachoge Chache;Tenges
+Kisii;Bomet Central;Ewalel/Chapchap
+Kisumu;Bomet East;Kapropita
+Kitui;Bonchari;Marigat
+Kwale;Bondo;Ilchamus
+Laikipia;Borabu;Mochongoi
+Lamu;Bumula;Mukutan
+Machakos;Bura;Mogotio
+Makueni;Buret;Emining
+Mandera;Butere;Kisanana
+Marsabit;Butula;Lembus
+Meru;Buuri;Lembus Kwen
+Migori;Cental Imenti;Ravine
+Mombasa;Changamwe;Mumberes/Maji Mazuri
+Murang'a;Chepalungu;Lembus/Perkerra
+Nairobi;Cherangany;Kimaeti
+Nakuru;Emuhaya;Koibatek
+Nandi;Chesumei;Ndanai/Abosi
+Narok;Dadaab;Chemagel
+Nyamira;Dagoretti;Kipsonoi
+Nyandarua;Dujis;Kapletundo
+Nyeri;Eldama Ravine;Rongena/Chebilat
+Samburu;Eldas;Kong'asis
+Siaya;Embakasi Central;Nyangores
+Taita Taveta;Embakasi East;Sigor
+Tana River;Embakasi North;Chebunyo
+Tharaka-Nithi;Embakasi South;Siongiroi
+Turkana;Embakasi West;Merigi
+Uasin Gishu;Emgwen;Kembu
+Vihiga;Emurua Dikirr;Longisa
+Wajir;Endebess;Kipreres
+West Pokot;Fafi;Chemaner
+;Funyula;Silibwet Township
+;Gachoka;Ndaraweta
+;Galole;Sigorwet
+;Ganze;Cheseon
+;Igembe Central;Mutarakwa
+;Garsen;Wabera
+;Gatanga;Chepchabas
+;Gatundu North;Kimulot
+;Gatundu South;Mogogosieki
+;Gem;Boito
+;Gichugu;Embomos
+;Kabete;Cheptais
+;Gilgil;Chesikaki
+;Githunguri;Chepyuk
+;Hamisi;Kapkateny
+;Homa Bay;Kaptama
+;Igembe North;Elgon
+;Igembe South;Namwela
+;Ijara;Malakisi/South Kulisiru
+;Ikolomani;Lwandanyi
+;Kuria East;Kabuchai/Chwele
+;Isiolo North;West Nalondo
+;Limuru;Bwake/Luuya
+;Isiolo South;Mukuyuni
+;Jomvu;South Bukusu
+;Juja;Bumula
+;Kabondo Kasipul;Khasoko
+;Kabuchai;West Bukusu
+;Kacheliba;Siboti
+;Kaiti;Bukembe West
+;Kandara;Bukembe East
+;Kajiado Central;Township
+;Kajiado East;Khalaba
+;Kajiado North;Musikoma
+;Khwisero;East Sang'alo
+;Kajiado South;Marakary/Tuuti
+;Kajiado West;West Sang'alo
+;Kaloleni;Mihuu
+;Kamukunji;Ndivisi
+;Kanduyi;Maraka
+;Kangema;Misikhu
+;Kangundo;Sitikho
+;Kiambaa;Matulo
+;Kiambu;Bokoli
+;Kibra;Kibingei
+;Kapenguria;Kimilili
+;Kapseret;Maeni
+;Karachuonyo;Kamukuywa
+;Kasarani;Mbakalo
+;Kasipul;Naitiri/Kabuyefwe
+;Kathiani;Milima
+;Keiyo North;Ndalu
+;Keiyo South;Tongaren
+;Kesses;Soysambu/Mitua
+;Kibwezi East;Malaba Central
+;Kibwezi West;Malaba North
+;Kieni;Ang'urai South
+;Kigumo;Ang'urai North
+;Kiharu;Ang'urai East
+;Kikuyu;Malaba South
+;Kilgoris;Angorom
+;Kilifi North;Chakol South
+;Kilifi South;Chakol North
+;Kilimani;Amukura West
+;Kilome;Amukura East
+;Kimilili;Amukura Central
+;Kiminini;Nambale
+;Kinango;Bukhayo North/Walatsi
+;Kinangop;Bukhayo East
+;Kwanza;Bukhayo Central
+;Kipipiri;Bukhayo West
+;Kipkelion East;Mayenje
+;Kipkelion West;Matayos South
+;Kirinyaga Central;Busibwabo
+;Kisauni;Burumba
+;Kisumu Central;Marachi West
+;Kisumu East;Kingandole
+;Kisumu West;Marachi Central
+;Kitui Central;Marachi East
+;Kitui East;Marachi North
+;Kuresoi South;Elugulu
+;Kitui Rural;Namboboto/Nambuku
+;Kitui South;Nangina
+;Kitui West;Ageng'a Nanguba
+;Kitutu Chache North;Bwiri
+;Kitutu Chache South;Bunyala Central
+;Kitutu Masaba;Bunyala North
+;Konoin;Bunyala West
+;Kuresoi North;Bunyala South
+;Kuria West;Kapyego
+;Lafey;Sambirir
+;Lagdera;Endo
+;Laikipia East;Embobut/Embulot
+;Lamu West;Lelan
+;Lari;Sengwer
+;Likoni;Cheragany/Chebororwa
+;Laikipia North;Moiben/Kuserwo
+;Laikipia West;Kapsowar
+;Laisamis;Arror
+;Lamu East;Kimariny
+;Langata;Emsoo
+;Likuyani;Tambach
+;Loima;Kapchemutwa
+;Luanda;Kaptarakwa
+;Lugari;Chepkorio
+;Lunga Lunga;Soy North
+;Lurambi;Soy South
+;Maara;Kabiemit
+;Machakos Town;Metkei
+;Magarini;Ruguru-Ngandori
+;Makadara;Kithimu
+;Makueni;Nginda
+;Malava;Mbeti North
+;Malindi;Kirimani
+;Mandera East;Gaturi South
+;Marakwet West;Gaturi North
+;Mandera North;Kagaari South
+;Mandera South;Central
+;Mandera West;Kagaari North
+;Manyatta;Kyeni North East
+;Maragwa;Kyeni South
+;Marakwet East;Mwea
+;Mukurweni;Makima
+;Masinga;Mbeti South
+;Matayos;Mavuria
+;Mathare;Kiambere
+;Mathioya;Nthawa
+;Mathira;Muminji
+;Matuga;Evurore
+;Matungu;Township
+;Matungulu;Galbet
+;Mavoko;Township
+;Mbooni;Township
+;Mogotio;Balambala
+;Moiben;Danyere
+;Molo;Jarajara
+;Mosop;Saka
+;Mwea;Sankuri
+;Saboti;Modogashe
+;Moyale;Benane
+;Msambweni;Goreale
+;Mt. Elgon;Maalamin
+;Muhoroni;Sabena
+;Mumias East;Baraki
+;Mumias West;Dertu
+;Mvita;Dadaab
+;Mwala;Labisigale
+;Mwatate;East Gem
+;Saku;Bula Pesa
+;Mwingi East;Damajale
+;Mwingi North;Liboi
+;Mwingi West;Abakaile
+;Naivasha;Bura
+;Nakuru Town East;Dekaharia
+;Nakuru Town West;Jarajila
+;Nambale;Fafi
+;Nandi Hills;Nanighi
+;Narok East;Hulugho
+;Narok North;Kagan
+;Njoro;Sangailu
+;Narok South;Ijara
+;Narok West;Masalani
+;Navakholo;West Kasipul
+;Ndaragwa;South Kasipul
+;Ndhiwa;Central Kasipul
+;Ndia;East Kamagak
+;Nithi;West Kamagak
+;Sabatia;Kabondo East
+;North Horr;Kabondo West
+;North Imenti;Kokwanyo/Kakelo
+;North Mugirango;Kojwach
+;Nyakach;West Karachuonyo
+;Nyali;North Karachuonyo
+;Nyando;Central
+;Nyaribari Chache;Kanyaluo
+;Nyaribari Masaba;Kibiri
+;Nyatike;Wang'chieng
+;Nyeri Town;Kendu Bay Town
+;Ol Jorok;West Gem
+;Ol Kalou;Kochia
+;Othaya;Homa Bay Central
+;Pokot South;Homa Bay Arujo
+;Rabai;Homa Bay West
+;Rangwe;Homa Bay East
+;Rarieda;Kwabwai
+;Rongai;Kanyadoto
+;Rongo;Kanyikela
+;Roysambu;Kabuoch North
+;Ruaraka;Kabuoch/Pala
+;Ruiru;Kanyamwa Kologi
+;Runyenjes;Kanyamwa Kosewe
+;Samburu East;Mfangano Island
+;Samburu North;Rusinga Island
+;Samburu West;Kasgunga
+;Seme;Gembe
+;Shinyalu;Lambwe
+;Subukia;Gwassi South
+;Siakago;Gwassi North
+;Sigor;Kaksingiri West
+;Sigowet/Soin;Kaksingiri East
+;Sirisia;Chari
+;Sotik;Cherab
+;South Imenti;Ngare Mara
+;South Mugirango;Burat
+;Soy;Oldonyiro
+;Starehe;Garbatulla
+;Suba North;Kinna
+;Suba South;Kisa North
+;Suna East;Sericho
+;Suna West;Olkeri
+;Tarbaj;Ongat Rongai
+;Taveta;Nkaimurunya
+;Teso North;Oloolua
+;Teso South;Ngong
+;Tetu;Purko
+;Tharaka;Ildamat
+;Thika Town;Dalalekutuk
+;Tiaty;Matapato North
+;Tigania East;Matapato South
+;Tigania West;Kaputiei North
+;Tinderet;Kitengela
+;Tongaren;Oloosirkon/Sholinke
+;Turbo;Mautuma
+;Turkana North;Mjambere
+;Turkana Central;Kenyewa-Poka
+;Turkana East;Imaroro
+;Wajir West;Keekonyokie
+;West Mugirango;Oloodokilan
+;Westlands;Magadi
+;Turkana South;Ewuaso Kedong
+;Turkana West;Mosiro
+;Ugenya;Entonet/Lengism
+;Ugunja;Imbirikani/Esselengei
+;Uriri;Kuku
+;Vihiga;Rombo
+;Wundanyi;Kimana
+;Yatta;Lugari
+;Voi;Lumakanda
+;Wajir East;Chekalini
+;Wajir North;Chevaywa
+;Wajir South;Luandeti
+;Webuye East;Likuyani
+;Webuye West;Sango
+;;Kongoni
+;;Nzoia
+;;Sinoko
+;;West Kabras
+;;Chemuche
+;;East Kabras
+;;Butali/Chegulo
+;;Manda/Shivanga
+;;Shirugu/Mugai
+;;South Kabras
+;;Butsotso East
+;;South Butsotso
+;;Central Butsotso
+;;Shieywe
+;;Marenyo/Shianda
+;;Marama North
+;;Marama South
+;;Mahiakalo
+;;Shirere
+;;Ingotse-Matiha
+;;Shinoyi-Shikomari-Esumeiya
+;;Bunyala West
+;;Bunyala East
+;;Bunyala Central
+;;Mumias Central
+;;Mumias North
+;;Etenje
+;;Musanda
+;;Lusheya/Lubinu
+;;Malaha/Isongo/Makunga
+;;East Wanga
+;;Koyonzo
+;;Kholera
+;;Khalaba
+;;Mayoni
+;;Namamali
+;;Marama West
+;;Marama Central
+;;Kisa East
+;;Kisa West
+;;Kisa Central
+;;Isukha North
+;;Murhanda
+;;Isukha Central
+;;Isukha South
+;;Tendeno/Sorget
+;;Kunyak
+;;Kamasian
+;;Kipkelion
+;;Chilchila
+;;Kapsoit
+;;Isukha East
+;;Isukha West
+;;Idakho South
+;;Idakho East
+;;Idakho North
+;;Idakho Central
+;;Londiani
+;;Kedowa/Kimugul
+;;Chepseon
+;;Ainamoi
+;;Kapkugerwet
+;;Kipchebor
+;;Kipchimchim
+;;Kapsaos
+;;Kisiara
+;;Tebesonik
+;;Cheboin
+;;Chemosot
+;;Litein
+;;Cheplanget
+;;Kapkatet
+;;Waldai
+;;Kabianga
+;;Cheptororiet/Seretut
+;;Chaik
+;;Kapsuser
+;;Sigowet
+;;Kaplelartet
+;;Soliat
+;;Soin
+;;Kiamwangi
+;;Kiganjo
+;;Ndarugu
+;;Ngenda
+;;Gituamba
+;;Githobokoni
+;;Chania
+;;Mangu
+;;Murera
+;;Theta
+;;Juja
+;;Witeithie
+;;Kalimoni
+;;Township
+;;Kamenu
+;;Hospital
+;;Gatuanyaga
+;;Ngoliba
+;;Gitothua
+;;Biashara
+;;Gatongora
+;;Kahawa Sukari
+;;Kahawa Wendani
+;;Kiuu
+;;Mwiki
+;;Mwihoko
+;;Githunguri
+;;Makina
+;;Githiga
+;;Ikinu
+;;Ngewa
+;;Komothai
+;;Ting'ang'a
+;;Ndumberi
+;;Riabai
+;;Township
+;;Cianda
+;;Karuri
+;;Nenderu
+;;Muchatha
+;;Kihara
+;;Gitaru
+;;Muguga
+;;Nyathuna
+;;Kabete
+;;Uthiru
+;;Karai
+;;Nachu
+;;Sigona
+;;Kikuyu
+;;Kinoo
+;;Bibirioni
+;;Limuru Central
+;;Ndeiya
+;;Limuru East
+;;Ngecha/Tigoni
+;;Masige West
+;;Kinale
+;;Kijabe
+;;Nyanduma
+;;Kamburu
+;;Lari/Kirenga
+;;Tezo
+;;Sokoni
+;;Kibarani
+;;Dabaso
+;;Matsangoni
+;;Watamu
+;;Mnarani
+;;Junju
+;;Mwarakaya
+;;Shimo La Tewa
+;;Chasimba
+;;Mtepeni
+;;Mariakani
+;;Kayafungo
+;;Kaloleni
+;;Mwanamwinga
+;;Mwawesa
+;;Ruruma
+;;Kambe/Ribe
+;;Rabai/Kisurutini
+;;Ganze
+;;Bamba
+;;Jaribuni
+;;Sokoke
+;;Jilore
+;;Kakuyuni
+;;Ganda
+;;Malindi Town
+;;Shella
+;;Marafa
+;;Magarini
+;;Gongoni
+;;Adu
+;;Garashi
+;;Sabaki
+;;Mutithi
+;;Kangai
+;;Thiba
+;;Wamumu
+;;Nyangati
+;;Murinduko
+;;Gathigiriri
+;;Tebere
+;;Kabare
+;;Baragwi
+;;Njuki-Ini
+;;Ngariama
+;;Karumandi
+;;Mukure
+;;Masige East
+;;Kiine
+;;Kariti
+;;Mutira
+;;Kanyekini
+;;Kerugoya
+;;Inoi
+;;Bomariba
+;;Bokiakumi
+;;Bomorenda
+;;Riana
+;;Tabaka
+;;Boikanga
+;;Bogetenga
+;;Borabu/Chitago
+;;Moticho
+;;Getenga
+;;Bombaba Borabu
+;;Boochi Borabu
+;;Bokimonge
+;;Magenche
+;;Bassi Central
+;;Nyacheki
+;;Bassi Bogetaorio
+;;Bobasi Chache
+;;Sameta/Mokwerero
+;;Bobasi/Boitangare
+;;Majoge Bassi
+;;Boochi/Tendere
+;;Bosoti/Sengera
+;;Ichuni
+;;Nyamasibi
+;;Masimba
+;;Gesusu
+;;Kiamokama
+;;Bobaracho
+;;Kisii Central
+;;Keumbu
+;;Kiogoro
+;;Birongo
+;;Ibeno
+;;Monyerero
+;;Sensi
+;;Marani
+;;Kegogi
+;;Bogusero
+;;Bogeka
+;;Nyakoe
+;;Kitutu Central
+;;Nyatieko
+;;Kajulu
+;;Kolwa East
+;;Manyatta 'B'
+;;Nyalenda 'A'
+;;Kolwa Central
+;;South West Kisumu
+;;Central Kisumu
+;;Kisumu North
+;;West Kisumu
+;;North West Kisumu
+;;Railways
+;;Migosi
+;;Shauri Moyo/Kaloleni
+;;Market Milimani
+;;Kondele
+;;Nyalenda 'B'
+;;West Seme
+;;Central Seme
+;;East Seme
+;;North Seme
+;;East Kano/Wawidhi
+;;Awasi/Onjiko
+;;Ahero
+;;Kabonyo/Kanyagwal
+;;Kobura
+;;Akithii
+;;Miwani
+;;Ombeyi
+;;Masogo/Nyang'oma
+;;Chemilil
+;;Muhoroni Koru
+;;South West Nyakach
+;;North Nyakach
+;;Central Nyakach
+;;West Nyakach
+;;South East Nyakach
+;;Ngomeni
+;;Kyuso
+;;Mumoni
+;;Tseikuru
+;;Tharaka
+;;Kwamutonga/Kithumula
+;;Kyome/Thaana
+;;Nguutani
+;;Migwani
+;;Kiomo/Kyethani
+;;Central
+;;Kivou
+;;Nguni
+;;Nuu
+;;Mui
+;;Waita
+;;Mutonguni
+;;Kauwi
+;;Matinyani
+;;Kisasi
+;;Mbitini
+;;Kwavonza/Yatta
+;;Kanyangi
+;;Miambani
+;;Township
+;;Kyangwithya West
+;;Mulango
+;;Kyangwithya East
+;;Zombe/Mwitika
+;;Nzambani
+;;Chuluni
+;;Voo/Kyamatu
+;;Endau/Malalani
+;;Mutitu/Kaliku
+;;Ikanga/Kyatune
+;;Mutomo
+;;Mutha
+;;Ikutha
+;;Kanziko
+;;Athi
+;;Gombato Bogwe
+;;Ukunda
+;;Kinondo
+;;Ramisi
+;;Pongwe/Kikoneni
+;;Dzombo
+;;Mwereni
+;;Vanga
+;;Tsimba Golini
+;;Waa
+;;Tiwi
+;;Kubo South
+;;Mkongani
+;;Ndavaya
+;;Puma
+;;Kinango
+;;Mackinon Road
+;;Chengoni/Samburu
+;;Wasimbete
+;;Mwabila
+;;Kasemeni
+;;Ol-Moran
+;;Rumuruti Township
+;;Githiga
+;;Marmanet
+;;Igwamiti
+;;Salama
+;;Ngobit
+;;Tigithi
+;;Thingithu
+;;Nanyuki
+;;Umande
+;;Sosian
+;;East Kanyamkago
+;;Segera
+;;Mugogodo West
+;;Mugogodo East
+;;Faza
+;;Kiunga
+;;Basuba
+;;Shella
+;;Mkomami
+;;Hindi
+;;Mkunumbi
+;;Hongwe
+;;Witu
+;;Wote
+;;Bahari
+;;Kivaa
+;;Masinga Central
+;;Ekalakala
+;;Muthesya
+;;Ndithini
+;;Ndalani
+;;Matuu
+;;Kithimani
+;;Ikombe
+;;Katangi
+;;Kangundo North
+;;Kangundo Central
+;;Kangundo East
+;;Kangundo West
+;;Tala
+;;Matungulu North
+;;Matungulu East
+;;West Kanyamkago
+;;Matungulu West
+;;Kyeleni
+;;Mitaboni
+;;Kathiani Central
+;;Upper Kaewa/Iveti
+;;Upper Kaewa/Kaani
+;;Athi River
+;;Kinanie
+;;Muthwani
+;;Syokimau
+;;Kalama
+;;Mua
+;;Mutituni
+;;Machakos Central
+;;Mumbuni North
+;;Muvuti/Kiima Kimwe
+;;Kola
+;;Mbiuni
+;;Makutano/Mwala
+;;Masii
+;;Muthetheni
+;;Wamunyu
+;;Kibauni
+;;Tulimani
+;;Mbooni
+;;Kithungo/Kitundu
+;;Kiteta/Kisau
+;;Waia-Kako
+;;Kalawa
+;;Kasikeu
+;;Mukaa
+;;Kiima Kiu/Kalanzoni
+;;Ukia
+;;Kee
+;;Kilungu
+;;Ilima
+;;South Kanyamkago
+;;Muvau/Kikumini
+;;Mavindini
+;;Kitise/Kithuki
+;;Kathonzweni
+;;Nzaui/Kilili/Kalamba
+;;Mbitini
+;;Makindu
+;;Nguumo
+;;Kikumbulyu North
+;;Kikumbulyu South
+;;Nguu/Masumba
+;;Emali/Mulala
+;;Masongaleni
+;;Mtito Andei
+;;North Kanyamkago
+;;Thange
+;;Ivingoni/Nzambani
+;;Takaba South
+;;Takaba
+;;Laghsure
+;;Dandu
+;;Gither
+;;Banissa
+;;Derkhale
+;;Guba
+;;Malkamari
+;;Kiliwaheri
+;;Ashabito
+;;Guticha
+;;Marothile
+;;Rhamu
+;;Rhamu Dimtu
+;;Wargadud
+;;Kotulo
+;;Elwak South
+;;Elwak North
+;;Kianjai
+;;Shambir Fatuma
+;;Arabia
+;;Bulla Mpya
+;;Khalalio
+;;Neboi
+;;Township
+;;Libehia
+;;Fino
+;;Lafey
+;;Warankara
+;;Alango Gof
+;;Butiye
+;;Sololo
+;;Heillu/Manyatta
+;;Nkomo
+;;Central Kanyamkago
+;;Golbo
+;;Moyale Township
+;;Uran
+;;Obbu
+;;Dukana
+;;Maikona
+;;Turbi
+;;Logologo
+;;Ragana-Oruba
+;;North Horr
+;;Illeret
+;;Sagante/Jaldesa
+;;Karare
+;;Marsabit Central
+;;Loiyangalani
+;;Kargi/South Horr
+;;Korr/Ngurunit
+;;Laisamis
+;;Maua
+;;Kiegu/Antubochiu
+;;Athiru Gaiti
+;;Akachiu
+;;Kanuni
+;;Akirang'ondu
+;;Athiru Ruujine
+;;Igembe East
+;;Njia
+;;Kangeta
+;;Antuambui
+;;Ntunene
+;;Antubetwe Kiongo
+;;Naathu
+;;Amwathi
+;;Athwana
+;;Mbeu
+;;Thangatha
+;;Mikinduri
+;;Kiguchwa
+;;Muthara
+;;Karama
+;;Municipality
+;;Ntima East
+;;Ntima West
+;;Nyaki West
+;;Nyaki East
+;;Timau
+;;Kisima
+;;Kiirua/Naari
+;;Ruiri/Rwarera
+;;Mwanganthia
+;;Abothuguchi Central
+;;Abothuguchi West
+;;Kiagu
+;;Kibirichia
+;;Mitunguu
+;;Igoji East
+;;Igoji West
+;;Abogeta East
+;;Abogeta West
+;;Nkuene
+;;North Kamagambo
+;;Central Kamagambo
+;;East Kamagambo
+;;South Kamagambo
+;;North Sakwa
+;;South Sakwa
+;;West Sakwa
+;;Central Sakwa
+;;God Jope
+;;Suna Central
+;;Kakrao
+;;Kwa
+;;Wiga
+;;Wasweta Ii
+;;Kachieng
+;;Kanyasa
+;;North Kadem
+;;Macalder/Kanyaruanda
+;;Kaler
+;;Got Kachola
+;;Muhuru
+;;Bukira East
+;;Bukira Central/Ikerege
+;;Isibania
+;;Mokerero
+;;Masaba
+;;Tagare
+;;Nyamosense'komosoko
+;;Gokeharaka/Getabwega
+;;Ntimaru West
+;;Ntimaru East
+;;Nyabasi East
+;;Nyabasi West
+;;Port Reitz
+;;Kipevu
+;;Airport
+;;Changamwe
+;;Chaani
+;;Jomvu Kuu
+;;Miritini
+;;Mikindani
+;;Junda
+;;Bamburi
+;;Mwakirunge
+;;Mtopanga
+;;Magogoni
+;;Shanzu
+;;Frere Town
+;;Ziwa La Ng'ombe
+;;Mkomani
+;;Kongowea
+;;Kadzandani
+;;Mtongwe
+;;Shika Adabu
+;;Bofu
+;;Likoni
+;;Tibwani
+;;Mji Wa Kale/Makadara
+;;Tudor
+;;Tononoka
+;;Shimanzi/Ganjoni
+;;Majengo
+;;Kanyenya-Ini
+;;Muguru
+;;Rwathia
+;;Gitugi
+;;Kiru
+;;Kamacharia
+;;Wangu
+;;Mugoiri
+;;North Maragoli
+;;Mbiri
+;;Township
+;;Murarandia
+;;Gaturi
+;;Kahumbu
+;;Muthithi
+;;Kigumo
+;;Kangari
+;;Kinyona
+;;Kimorori/Wempa
+;;Makuyu
+;;Kambiti
+;;Kamahuha
+;;Ichagaki
+;;Nginda
+;;Ng'araria
+;;Muruka
+;;Kagundu-Ini
+;;Gaichanjiru
+;;Ithiru
+;;Ruchu
+;;Ithanga
+;;Kakuzi/Mitumbiri
+;;Mugumo-Ini
+;;Kihumbu-Ini
+;;Gatanga
+;;Kariara
+;;Kitisuru
+;;Parklands/Highridge
+;;Karura
+;;Kangemi
+;;Moutain View
+;;Kilimani
+;;Kawangware
+;;Gatina
+;;Kileleshwa
+;;Kabiro
+;;Mutuini
+;;Ngando
+;;Riruta
+;;Uthiru-Ruthimitu
+;;Waithaka
+;;Karen
+;;Nairobi West
+;;Mugumoini
+;;South 'C'
+;;Nyayo Highrise
+;;Laini Saba
+;;Lindi
+;;Woodley/Kenyatta Golf Course
+;;Serangombe
+;;Githurai
+;;Kahawa West
+;;Zimmerman
+;;Roysambu
+;;Kahawa
+;;Clay City
+;;Mwiki
+;;Kasarani
+;;Njiru
+;;Ruai
+;;Babadogo
+;;Utalii
+;;Mathare North
+;;Lucky Summer
+;;Korogocho
+;;Imara Daima
+;;Kwa Njenga
+;;Kwa Reuben
+;;Pipeline
+;;Kware
+;;Kariobangi North
+;;Dandora Area I
+;;Dandora Area Ii
+;;Dandora Area Iii
+;;Dandora Area Iv
+;;Kayole North
+;;Kayole Central
+;;Kayole South
+;;Komarock
+;;Matopeni/Spring Valley
+;;Upper Savanna
+;;Lower Savanna
+;;Embakasi
+;;Utawala
+;;Mihang'o
+;;Umoja I
+;;Umoja Ii
+;;Mowlem
+;;Kariobangi South
+;;Maringo/Hamza
+;;Viwandani
+;;Harambee
+;;Makongeni
+;;Pumwani
+;;Eastleigh North
+;;Eastleigh South
+;;Air Base
+;;California
+;;Nairobi Central
+;;Ngara
+;;Pangani
+;;Ziwani/Kariokor
+;;Land Mawe
+;;Nairobi South
+;;Hospital
+;;Mabatini
+;;Huruma
+;;Ngei
+;;Mlango Kubwa
+;;Kiamaiko
+;;Mariashoni
+;;Elburgon
+;;Turi
+;;Molo
+;;Mau Narok
+;;Mauche
+;;Kihingo
+;;Nessuit
+;;Lare
+;;Njoro
+;;Biashara
+;;Hells Gate
+;;Lake View
+;;Maai Mahiu
+;;Maiela
+;;Olkaria
+;;Naivasha East
+;;Viwanda
+;;Gilgil
+;;Elementaita
+;;Mbaruk/Eburru
+;;Malewa West
+;;Murindat
+;;Amalo
+;;Keringet
+;;Kiptagich
+;;Tinet
+;;Kiptororo
+;;Nyota
+;;Sirikwa
+;;Kamara
+;;Subukia
+;;Waseges
+;;Kabazi
+;;Menengai West
+;;Soin
+;;Visoi
+;;Mosop
+;;Kaptumoi/Kaboi
+;;Solai
+;;Dundori
+;;Kabatini
+;;Kiamaina
+;;Lanet/Umoja
+;;Bahati
+;;Barut
+;;London
+;;Kaptembwo
+;;Kapkures
+;;Rhoda
+;;Shaabab
+;;Biashara
+;;Kivumbini
+;;Flamingo
+;;Menengai
+;;Nakuru East
+;;Songhor/Soba
+;;Tinderet
+;;Chemilil/Chemase
+;;Kapsimotwo
+;;Kibwareng
+;;Terik
+;;Kemeloi-Maraba
+;;Kobujoi
+;;Koyo/Ndurio
+;;Nandi Hills
+;;Chepkunyuk
+;;Ollessos
+;;Kapchorua
+;;Chemundu/Kapng'etunyi
+;;Kosirai
+;;Lelmok/Ngechek
+;;Kaptel/Kamoiywo
+;;Kiptuiya
+;;Chepkumia
+;;Kapkangani
+;;Kapsabet
+;;Kilibwoni
+;;Cheterwai
+;;Kipkaren
+;;Kurgung/Surungai
+;;Kabiyet
+;;Ndalat
+;;Kabisanga
+;;Sangalo/Kebulonik
+;;Kilgoris Central
+;;Keyian
+;;Angata Barikoi
+;;Shankoe
+;;Kimentet
+;;Lolgorian
+;;Ilkerin
+;;Ololmasani
+;;Mogondo
+;;Kapsasian
+;;Olposimoru
+;;Olokurto
+;;Narok Town
+;;Nkareta
+;;Ekerenyo
+;;Olorropil
+;;Melili
+;;Mosiro
+;;Ildamat
+;;Keekonyokie
+;;Suswa
+;;Maji Moto/Naroosura
+;;Ololulung'a
+;;Melelo
+;;Loita
+;;Sogoo
+;;Sagamian
+;;Ilmotiok
+;;Mara
+;;Siana
+;;Naikarra
+;;Rigoma
+;;Gachuba
+;;Kemera
+;;Magombo
+;;Manga
+;;Gesima
+;;Nyamaiya
+;;Bogichora
+;;Bosamaro
+;;Bonyamatuta
+;;Township
+;;Itibo
+;;Bomwagamo
+;;Bokeira
+;;Magwagwa
+;;Mekenene
+;;Kiabonyoru
+;;Nyansiongo
+;;Esise
+;;Engineer
+;;Gathara
+;;North Kinangop
+;;Murungaru
+;;Njabini/Kiburu
+;;Nyakio
+;;Githabai
+;;Mugumu
+;;Wanjohi
+;;Kipipiri
+;;Geta
+;;Githioro
+;;Karau
+;;Kanjuiri Ridge
+;;Mirangine
+;;Kiambaga
+;;Rurii
+;;Gathanji
+;;Gatimu
+;;Weru
+;;Charagita
+;;Leshau/Pondo
+;;Kiriita
+;;Central
+;;Shamata
+;;Dedan Kimathi
+;;Wamagana
+;;Wodanga
+;;Aguthi-Gaaki
+;;Mweiga
+;;Naromoru/Kiamathanga
+;;Mwiyogo/Endarasha
+;;Mugunda
+;;Gatarakwa
+;;Thiegu River
+;;Kabaru
+;;Gakawa
+;;Ruguru
+;;Magutu
+;;Iria-Ini
+;;Konyu
+;;Kirimukuyu
+;;Karatina Town
+;;South East Alego
+;;Busali
+;;Mahiga
+;;Iria-Ini
+;;Chinga
+;;Karima
+;;Gikondi
+;;Rugi
+;;Mukurwe-Ini East
+;;Mukurwe-Ini Central
+;;Kiganjo/Mathari
+;;Rware
+;;Gatitu/Muruguru
+;;Ruring'u
+;;Kamakwa/Mukaro
+;;Lodokejek
+;;Suguta Marmar
+;;Maralal
+;;Loosuk
+;;Porro
+;;El Barta
+;;Nachola
+;;Ndoto
+;;Nyiro
+;;Angata Nanyukie
+;;Baawa
+;;Waso
+;;Wamba West
+;;Wamba East
+;;Wamba North
+;;West Ugenya
+;;Ukwala
+;;North Ugenya
+;;East Ugenya
+;;Sidindi
+;;Sigomere
+;;Ugunja
+;;Usonga
+;;West Alego
+;;Central Alego
+;;Siaya Township
+;;North Alego
+;;North Gem
+;;West Gem
+;;Central Gem
+;;Yala Township
+;;East Gem
+;;South Gem
+;;West Yimbo
+;;Central Sakwa
+;;South Sakwa
+;;Yimbo East
+;;West Sakwa
+;;North Sakwa
+;;East Asembo
+;;West Asembo
+;;North Uyoma
+;;South Uyoma
+;;West Uyoma
+;;Chala
+;;Mahoo
+;;Bomani
+;;Mboghoni
+;;Ngolia
+;;Mata
+;;Wundanyi/Mbale
+;;Werugha
+;;Wumigu/Kishushe
+;;Mwanda/Mgange
+;;Ronge
+;;Mwatate
+;;Bura
+;;Chawia
+;;Wusi/Kishamba
+;;Mbololo
+;;Sagala
+;;Kaloleni
+;;Maungu
+;;Kasigau
+;;Sikhendu
+;;Kipini East
+;;Garsen South
+;;Kipini West
+;;Garsen Central
+;;Garsen West
+;;Garsen North
+;;Kinakomba
+;;Mikinduni
+;;Chewani
+;;Wayu
+;;Chewele
+;;Hirimani
+;;Bangale
+;;Sala
+;;Madogo
+;;Mitheru
+;;Muthambi
+;;Mwimbi
+;;Ganga
+;;Chogoria
+;;Mariani
+;;Karingani
+;;Magumoni
+;;Mugwe
+;;Igambang'ombe
+;;Gatunga
+;;Mukothima
+;;Nkondi
+;;Chiakariga
+;;Marimanti
+;;Kapomboi
+;;Kwanza
+;;Keiyo
+;;Bidii
+;;Chepchoina
+;;Endebes
+;;Matumbei
+;;Kinyoro
+;;Matisi
+;;Tuwani
+;;Saboti
+;;Machewa
+;;Kiminini
+;;Waitaluk
+;;Sirende
+;;Hospital
+;;Nabiswa
+;;Sinyerere
+;;Makutano
+;;Kaplamai
+;;Motosiet
+;;Cherangany/Suwerwa
+;;Chepsiro/Kiptoror
+;;Sitatunga
+;;Kaeris
+;;Lakezone
+;;Lapur
+;;Kalobeyei
+;;Kaaleng/Kaikor
+;;Kibish
+;;Nakalale
+;;Kakuma
+;;Lopur
+;;Letea
+;;Songot
+;;Lokichogio
+;;Nanaam
+;;Kerio Delta
+;;Kangatotha
+;;Kalokol
+;;Lodwar Township
+;;Kanamkemer
+;;Kotaruk/Lobei
+;;Turkwel
+;;Kamagut
+;;Kiplombe
+;;Loima
+;;Lokiriama/Lorengippi
+;;Kaputir
+;;Katilu
+;;Lobokat
+;;Kalapata
+;;Lokichar
+;;Kapsaos
+;;Huruma
+;;Tembelio
+;;Sergoit
+;;Kapedo/Napeitom
+;;Katilia
+;;Lokori/Kochodin
+;;Moi's Bridge
+;;Kapkures
+;;Ziwa
+;;Segero/Barsombe
+;;Kipsomba
+;;Soy
+;;Kuinet/Kapsuswa
+;;Ngenyilel
+;;Tapsagoi
+;;Karuna/Meibeki
+;;Moiben
+;;Kimumu
+;;Kapsoya
+;;Kaptagat
+;;Ainabkoi/Olare
+;;Simat/Kapseret
+;;Kipkenyo
+;;Ngeria
+;;Megun
+;;Langas
+;;Racecourse
+;;Cheptiret/Kipchamo
+;;Tulwet/Chiyat
+;;Tarakwa
+;;Lugaga/Wamuluma
+;;South Maragoli
+;;Central Maragoli
+;;Mungoma
+;;Lyaywa/Izava
+;;Sabatia West
+;;Chavakali
+;;Shiru
+;;Gisambai
+;;Shamakhokho
+;;Banja
+;;Muhudu
+;;Tambua
+;;Jepkoyai
+;;Luanda Township
+;;Wemilabi
+;;Mwibona
+;;Luanda South
+;;Emabungo
+;;North East Bunyore
+;;Central Bunyore
+;;West Bunyore
+;;Gurar
+;;Bute
+;;Korondile
+;;Malkagufu
+;;Arbajahan
+;;Batalu
+;;Danaba
+;;Godoma
+;;Wagberi
+;;Township
+;;Barwaqo
+;;Khorof/Harar
+;;Elben
+;;Sarman
+;;Tarbaj
+;;Wargadud
+;;Hadado/Athibohol
+;;Ademasajide
+;;Ganyure
+;;Wagalla
+;;Eldas
+;;Della
+;;Elnur/Tula Tula
+;;Benane
+;;Bur-Der
+;;Tapach
+;;Dadaja Bulla
+;;Habaswein
+;;Lagboghol South
+;;Ibrahim Ure
+;;Diff
+;;Riwo
+;;Kapenguria
+;;Mnangei
+;;Siyoi
+;;Endugh
+;;Sook
+;;Sekerr
+;;Masool
+;;Lomut
+;;Wei Wei
+;;Suam
+;;Kodich
+;;Kasei
+;;Kapchok
+;;Kiwawa
+;;Alale
+;;Chepareria
+;;Batei
+;;Lelan
