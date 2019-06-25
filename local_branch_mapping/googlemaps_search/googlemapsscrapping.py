@@ -22,6 +22,7 @@ gmaps = googlemaps.Client(key='AIzaSyANzA_Tm91rRCo9O-dTTE3OLQS9tswA_ic')
 
 # read all the data that is used for determining the language and translations
 extreme_points = pd.read_csv('extreme_points.csv', header = 0)
+extreme_points['country'] = [country.lstrip() for country in extreme_points['country']]
 languages = pd.read_csv('languages.csv', header = 0)
 translations = pd.read_csv('translations.csv', header = 0)
 popular_languages = translations['language'].tolist()
@@ -178,7 +179,14 @@ lat_start, lat_end = 50, 54
 STEP = 0.5 # step of the grid. Choose from 1, 0.5 or 0.25 depending on the size of the region
 radius = 111000*0.75*STEP
 
-search_country = 'Netherlands' # set False if you do not care about the country
+search_country = 'Malawi' # set False if you do not care about the country
+if search_country:
+    lat_start = extreme_points.loc[extreme_points['country']==search_country, 'southernmost'].values[0]
+    lat_end = extreme_points.loc[extreme_points['country']==search_country, 'nothernmost'].values[0]
+    long_start = extreme_points.loc[extreme_points['country']==search_country, 'westernmost'].values[0]
+    long_end = extreme_points.loc[extreme_points['country']==search_country, 'easternmost'].values[0]
+
+    
 
 '''
 First we go through the grid and search around each point for one place 
@@ -300,7 +308,7 @@ for place_id in places_extended['place_id']:
     if 'url' in place_details:
         places_extended.loc[places_extended['place_id']==place_id, 'url'] = place_details['url']
     if 'types' in place_details:
-        places_extended.loc[places_extended['place_id']==place_id, 'types'] = place_details['types']
+        places_extended.loc[places_extended['place_id']==place_id, 'types'] = ", ".join(place_details['types'])
     
     address = pd.DataFrame.from_records(place_details['address_components'])
     address.loc[[len(x)==0 for x in address['types']], 'types'] = ['Unknown']
@@ -315,4 +323,4 @@ for place_id in places_extended['place_id']:
 if search_country:        
     places_extended = places_extended[places_extended['country']==search_country]
 
-places_extended.to_csv('search_results_netherlands.csv')
+places_extended.to_csv('search_results_'+search_country+'.csv')
