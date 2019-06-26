@@ -21,13 +21,25 @@ os.chdir(path)
 gmaps = googlemaps.Client(key='AIzaSyANzA_Tm91rRCo9O-dTTE3OLQS9tswA_ic')
 
 # read all the data that is used for determining the language and translations
+
+# file with coordinates of extreme points of each country
 extreme_points = pd.read_csv('extreme_points.csv', header = 0)
 extreme_points['country'] = [country.lstrip() for country in extreme_points['country']]
+
+# file with 2 most used languages for each country
 languages = pd.read_csv('languages.csv', header = 0)
 translations = pd.read_csv('translations.csv', header = 0)
+
+# list of the most popular languages in internet and translation of red cross
+# and red crescent to these languages
+# we only search in these languages
 popular_languages = translations['language'].tolist()
+
+#dictionary with codes for each country
 codes = pd.read_csv('codes.csv', header = 0)
 codes['Code'] = codes['Code'].str.lower()
+
+# file needed to identify in which countries we search for red crescent
 religions = pd.read_csv('religions.csv')
 muslim_countries = religions[religions['type']=='red_crescent']['country'].tolist()
 muslim_countries = [country.lstrip() for country in muslim_countries]
@@ -36,13 +48,8 @@ muslim_countries = [country.lstrip() for country in muslim_countries]
 ## in geoloc_dict we save points for which the country is already identified 
 ## we do that to deacrease the number of requests to geopy and computation time
 geoloc_dict = pd.DataFrame(columns = ['latitude', 'longitude', 'country'])
-SPENT = 0.00 
+SPENT = 0.00   ## here we will save the costs
 
-#def possible_latitudes(longitude):
-    ## finds possible latitudes for a given longitude
-#    latitudes = set() 
-    # ...
-#    return latitudes
 
 def long_step(latitude):
     ## computes step in longitude so that the step in longitude and latitude is the same in meters
@@ -57,9 +64,9 @@ def which_country(latitude, longitude):
     if not 'error' in place:
         if 'country_code' in place['address']:
             country_code = place['address']['country_code'] 
-            country = codes[codes['Code']==country_code]['Name'].values[0]  # using codes distionary to find full country name
+            country = codes[codes['Code']==country_code]['Name'].values[0]  # uses codes distionary to find full country name
     geoloc_dict = geoloc_dict.append({'latitude':latitude, 'longitude': longitude, 'country':country}, ignore_index = True)
-    time.sleep(1)
+    time.sleep(1) # geopy does not really like when you do more than 1 request per second
     return country
 
 def list_of_countries(latitude, longitude):
@@ -179,13 +186,13 @@ lat_start, lat_end = 50, 54
 STEP = 0.5 # step of the grid. Choose from 1, 0.5 or 0.25 depending on the size of the region
 radius = 111000*0.75*STEP
 
-search_country = 'Malawi' # set False if you do not care about the country
+search_country = 'Guatemala' # set False if you do not care about the country
 if search_country:
     lat_start = extreme_points.loc[extreme_points['country']==search_country, 'southernmost'].values[0]
     lat_end = extreme_points.loc[extreme_points['country']==search_country, 'nothernmost'].values[0]
     long_start = extreme_points.loc[extreme_points['country']==search_country, 'westernmost'].values[0]
     long_end = extreme_points.loc[extreme_points['country']==search_country, 'easternmost'].values[0]
-
+    #print('Search area: [%f, %f] x [%f, %f]' % long_start % long_end % lat_srt % lat_end)ta
     
 
 '''
@@ -211,7 +218,7 @@ for latitude in latitude_range:
                 continue                                
             countries_here = [search_country]        
         for search_word in search_words(countries_here):
-            print(search_word)
+            #print(search_word)
             ## search aroung this place using current search word from the list
             place_id = search_for(latitude, longitude, search_word) 
             # if something was found we save it
@@ -265,6 +272,7 @@ for index, row  in cleaned_first_srch_results.iterrows():
     new_total_search_results = text_search(row['latitude'], row['longitude'], row['search_words'])
     total_search_results = total_search_results.append(new_total_search_results)
     #if SPENT > 50:
+    #    print('More than 50 eur spent')
     #    break
 
 '''
