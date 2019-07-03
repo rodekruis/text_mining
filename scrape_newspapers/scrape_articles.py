@@ -3,37 +3,24 @@
 from __future__ import unicode_literals, print_function
 
 import plac
-import random
 from pathlib import Path
-import spacy
 import re
 import os
-import codecs
-from nltk.tokenize import sent_tokenize
-import json
 import sys
-from spacy import displacy
 from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.support.ui import WebDriverWait
 import pandas as pd
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
-from dateutil.parser import parse
 from datetime import datetime
-from types import *
 import time
-from enum import Enum
 
-keyword = 'inondation'#'dry spell'
-keyword_search = 'inondation'#'dry+spell'
-keyword_in_url = 'inondation'#'dry-spell'
-country='Mali'
+keyword = 'flood'
+keyword_search = 'flood'
+keyword_in_url = 'flood'
+country='Uganda'
 
 def is_date(string):
     try:
@@ -97,9 +84,6 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
 
         article_html = str(article.html)
 
-        if vNews_name in ['RadioOne']: # too many dates!
-            article_html = re.sub('Forecast August 24, 2018', '', article_html)
-
         # select articles with keyword
         regex = re.compile(keyword, re.IGNORECASE)
 
@@ -137,7 +121,6 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
                     date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
                     date_re = [date for date in date_re if is_date(date)]
                 if date_re is not None:
-                    print(date_re)
                     for res in date_re:
                         if (pd.to_datetime(res).date() != pd.to_datetime(datetime.today()).date()):
                             date_str = res
@@ -146,13 +129,6 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
             if (date_str == "") | (pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date()):
                 print('Publication date not found or wrongly assigned, skipping article')
                 continue
-                # *************************************************************
-            # print(pd.to_datetime(date_str).date())
-            # print(pd.to_datetime(datetime.today()).date())
-
-            # fix title, if necessary
-            # if 'LusakaTimes' in vNews_name:
-            #     article.title = re.sub('Zambia : ', '', article.title)
 
             # if no text is present (e.g. only video), use title as text
             article_text = article.text
@@ -175,7 +151,8 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
     output_dir=("Optional output directory", "option", "o", Path))
 
 def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
-    """Scrap articles from online newspapers
+    """
+    Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
     """
 
@@ -204,6 +181,7 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
 
         print('**********************************************************************************')
         print('Accessing ' + news_name + ' (' + news_url + ')')
+        news_url += '?s='+keyword_search
         browser.get(news_url)
 
         # process first results page
