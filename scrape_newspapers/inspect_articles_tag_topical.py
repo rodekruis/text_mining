@@ -10,7 +10,7 @@ pd.set_option('max_colwidth', 18)
 pd.set_option('expand_frame_repr', True)
 
 # directory where articles have been saved
-articles_folder = 'Articles_Floods_Uganda'
+articles_folder = 'Articles_inondation_Mali'
 
 # output folder
 output_directory = 'articles_processed'
