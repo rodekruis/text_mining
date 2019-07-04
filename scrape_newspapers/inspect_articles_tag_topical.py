@@ -4,6 +4,7 @@ from __future__ import unicode_literals, print_function
 
 import plac
 import os
+
 import pandas as pd
 pd.set_option('display.max_columns', 5)
 pd.set_option('max_colwidth', 18)
@@ -15,6 +16,8 @@ articles_folder = 'Articles_inondation_Mali'
 # output folder
 output_directory = 'articles_processed'
 
+max_articles_per_newspaper = 5
+
 def main():
     """
     Inspect articles and decide if relevant
@@ -24,10 +27,20 @@ def main():
     files_in_articles_folder = os.listdir(articles_folder)
     files_in_articles_folder = [f for f in files_in_articles_folder if '.csv' in f]
     df_articles_topical_list = []
-    
+
+    # Get number of articles so that you know what you're in for
+    num_articles = 0
     for file in files_in_articles_folder:
-        df_articles = pd.read_csv(articles_folder+'/'+file, sep='|')[:10]
-        print("Analysing {0}".format(file))
+        num_articles += len(pd.read_csv(os.path.join(articles_folder, file),
+                                        sep='|')[:max_articles_per_newspaper])
+    print('Analyzing {} articles'.format(num_articles))
+
+    cnt_article = 0
+    for file in files_in_articles_folder:
+        df_articles = pd.read_csv(articles_folder+'/'+file,
+                                  sep='|')[:max_articles_per_newspaper]
+        print("Analysing #{article_number}: {filename}".format(
+            article_number=cnt_article+1, filename=file))
         var_topical_bool = []
 
         for index, article in df_articles.iterrows():
