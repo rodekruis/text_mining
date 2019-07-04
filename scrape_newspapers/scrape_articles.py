@@ -153,7 +153,7 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
     model=("Model name. Defaults to blank 'en' model.", "option", "m", str),
     output_dir=("Optional output directory", "option", "o", Path))
 
-def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
+def main(output_dir='Articles_'+keyword+'_'+country):
     """
     Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
@@ -219,9 +219,10 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
                     print(search_result_next_page[0])
                     try:
                         browser.get(search_result_next_page[0])
-                    except TimeoutError:
+                    except TimeoutException:
+                        print("Can't open page, skipping")
                         continue
-            except TimeoutError:
+            except TimeoutException:
                 print("Can't open page, skipping")
                 continue
 
