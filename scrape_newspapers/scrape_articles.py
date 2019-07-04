@@ -10,8 +10,8 @@ import sys
 from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import NoSuchElementException
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import \
+    NoSuchElementException, TimeoutException, InvalidArgumentException
 import pandas as pd
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
@@ -23,7 +23,7 @@ keyword_search = 'inondation'
 keyword_in_url = 'inondation'
 country = 'Mali'
 newspapers_url = 'http://www.abyznewslinks.com/mali.htm'
-timeout = 15
+timeout = 30
 
 def is_date(string):
     try:
@@ -55,7 +55,9 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
     url_any = re.escape(url_any) + '(?=\S*[-])([0-9a-zA-Z-\/\.]+)'
     regex = re.compile(url_any)
     print('searching for ', url_any)
-    search_results = list(set([ match[0] for match in regex.finditer(search_result_page_source) if keyword_in_url in match[0].lower()]))
+    search_results = list(set([match[0] for match in
+                               regex.finditer(search_result_page_source)
+                               if keyword_in_url in match[0].lower()]))
 
     if vNews_name in ['NewVision']:
         regex = re.compile('\/new\_vision\/news\/(?=\S*[-])([0-9a-zA-Z-\/\.]+)')
@@ -150,7 +152,6 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
 ################################################################################
 
 @plac.annotations(
-    model=("Model name. Defaults to blank 'en' model.", "option", "m", str),
     output_dir=("Optional output directory", "option", "o", Path))
 
 def main(output_dir='Articles_'+keyword+'_'+country):
@@ -217,15 +218,10 @@ def main(output_dir='Articles_'+keyword+'_'+country):
                     break
                 else:
                     print(search_result_next_page[0])
-                    try:
-                        browser.get(search_result_next_page[0])
-                    except TimeoutException:
-                        print("Can't open page, skipping")
-                        continue
-            except TimeoutException:
-                print("Can't open page, skipping")
-                continue
-
+                    browser.get(search_result_next_page[0])
+            except (TimeoutException, InvalidArgumentException):
+                print("Can't open page, abandoning news source")
+                break
             print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
             try:
                 articles_page = ProcessPage(browser, news_name, news_url)
@@ -239,7 +235,9 @@ def main(output_dir='Articles_'+keyword+'_'+country):
         print('Saving articles from ' + news_name)
         print(articles_news.describe())
         print('*********************************************************')
-        output_dir_news = str(output_dir) + '/articles_' + keyword_in_url + '_' + news_name + '.csv'
+        output_name = 'articles_{keyword_in_url}_{news_name}.csv'.format(
+            keyword_in_url=keyword_in_url, news_name=news_name)
+        output_dir_news = os.path.join(output_dir, output_name)
         articles_news.to_csv(output_dir_news, sep='|')
 
 
