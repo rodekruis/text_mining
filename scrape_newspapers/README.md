@@ -1,6 +1,6 @@
 three python scripts to scrap news articles and extract impact data
 
-1) scrap_articles <br />
+1) scrape_articles <br />
 get articles from all newspapers of a given country <br />
 output: pandas DataFrame of articles, in csv <br />
 row format: ['title', 'publish_date', 'text', 'url']
