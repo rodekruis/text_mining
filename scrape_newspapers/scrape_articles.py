@@ -11,16 +11,19 @@ from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import TimeoutException
 import pandas as pd
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
 from datetime import datetime
 import time
 
-keyword = 'flood'
-keyword_search = 'flood'
-keyword_in_url = 'flood'
-country='Uganda'
+keyword = 'inondation'
+keyword_search = 'inondation'
+keyword_in_url = 'inondation'
+country = 'Mali'
+newspapers_url = 'http://www.abyznewslinks.com/mali.htm'
+timeout = 15
 
 def is_date(string):
     try:
@@ -165,9 +168,10 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
     opts.set_headless()
     assert opts.headless  # operating in headless mode
     browser = Firefox()
+    browser.set_page_load_timeout(timeout)
 
     # get newspapers urls
-    browser.get('http://www.abyznewslinks.com/mali.htm')
+    browser.get(newspapers_url)
     newspaper_elements = browser.find_elements_by_css_selector('a')
     newspaper_urls = [el.get_attribute('href') for el in newspaper_elements]
     newspaper_names = [el.get_attribute('text') for el in newspaper_elements]
@@ -182,7 +186,11 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
         print('**********************************************************************************')
         print('Accessing ' + news_name + ' (' + news_url + ')')
         news_url += '?s='+keyword_search
-        browser.get(news_url)
+        try:
+            browser.get(news_url)
+        except TimeoutException:
+            print('Unable to access, skipping')
+            continue
 
         # process first results page
         print("Begin to process page 1 ({0})".format(browser.current_url))
@@ -210,6 +218,9 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
                 else:
                     print(search_result_next_page[0])
                     browser.get(search_result_next_page[0])
+            except TimeoutError:
+                print("Can't open page, skipping")
+                continue
 
             print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
             try:
