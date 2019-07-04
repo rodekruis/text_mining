@@ -198,7 +198,7 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
         articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
-        page_number = 24
+        page_number = 2
         while True:
             print("Trying to open page {0} ...".format(page_number))
             try:
