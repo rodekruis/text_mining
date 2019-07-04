@@ -198,7 +198,7 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
         articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
-        page_number = 2
+        page_number = 24
         while True:
             print("Trying to open page {0} ...".format(page_number))
             try:
@@ -217,7 +217,10 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
                     break
                 else:
                     print(search_result_next_page[0])
-                    browser.get(search_result_next_page[0])
+                    try:
+                        browser.get(search_result_next_page[0])
+                    except TimeoutError:
+                        continue
             except TimeoutError:
                 print("Can't open page, skipping")
                 continue
