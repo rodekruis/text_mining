@@ -39,18 +39,18 @@ def main():
     for file in files_in_articles_folder:
         df_articles = pd.read_csv(articles_folder+'/'+file,
                                   sep='|')[:max_articles_per_newspaper]
-        print("Analysing #{article_number}: {filename}".format(
-            article_number=cnt_article+1, filename=file))
+        print("Analysing newspaper: {0}".format(file))
         var_topical_bool = []
 
         for index, article in df_articles.iterrows():
-            print('\n')
-            print(article['title'])
+            print("\nArticle #{number}: {title}".format(
+                number=cnt_article+1, title=article['title']))
             var_topical = input("Is it topical? t (True), f (False), i (Inspect text)  ")
             if var_topical == 'i':
                 print(article['text'])
                 var_topical = input("Is it topical? t (True), f (False)  ")
             var_topical_bool.append(var_topical=='t')
+            cnt_article += 1
 
         df_articles = df_articles.assign(topical = var_topical_bool)
         print(df_articles.head())
