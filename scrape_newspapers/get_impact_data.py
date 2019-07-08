@@ -60,7 +60,7 @@ def FindLocations(target_sentence, locations_dict):
 def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
 
-def preprocess_text(text, currencies_short):
+def preprocess_text(text, currencies_short, titles):
     """
     Pre-process text
     """
@@ -121,10 +121,6 @@ def preprocess_text(text, currencies_short):
     target_text_edit = text
     # filter names with titles (Mr., Ms. ...)
     # important: some people have names of towns!
-    titles = ['Mr', 'Mrs', 'Ms', 'Miss', 'Senator', 'President', 'Minister',
-              'Councillor', 'Mayor', 'Governor', 'Secretary', 'Attorney',
-              'Chancellor', 'Judge', 'Don', 'Father', 'Dr', 'Doctor', 'Prof',
-              'Professor']
     for title in titles:
         target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
         target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
@@ -484,6 +480,7 @@ def main(config_file):
                      ast.literal_eval(keywords['currency_short'])
     currency_long = ast.literal_eval(keywords['local_currency_names_long']) +\
                     ast.literal_eval(keywords['currency_long'])
+    titles = ast.literal_eval(keywords['titles'])
 
     # initialize output DatFrame
     df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[],[]],
@@ -506,7 +503,7 @@ def main(config_file):
         
         publication_date = str(df.iloc[id_row]['publish_date'].date())
 
-        doc_with_title = preprocess_text(doc_with_title, currency_short)
+        doc_with_title = preprocess_text(doc_with_title, currency_short, titles)
         doc = nlp(doc_with_title)
 
         # set location (most) mentioned in the document
