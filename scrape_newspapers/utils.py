@@ -21,6 +21,11 @@ def get_scraped_article_output_dir(config):
         keyword=config['keyword'], country=config['country'])
 
 
+def get_articles_summary_output_filename(config):
+    return 'articles_summary_{keyword}_{country}.csv'.format(
+        keyword=config['keyword'], country=config['country'])
+
+
 def get_inspected_articles_output_filename(config):
     return 'articles_all_topical_{keyword}_{country}.csv'.format(
         keyword=config['keyword'], country=config['country'])
