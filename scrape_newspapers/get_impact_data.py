@@ -2,6 +2,8 @@
 # coding: utf8\
 from __future__ import unicode_literals, print_function
 
+import ast
+import configparser
 import plac
 import spacy
 import pandas as pd
@@ -12,11 +14,6 @@ from pandas import ExcelWriter
 import os
 from fuzzywuzzy import process
 from fuzzywuzzy import fuzz
-
-# names of local currency
-local_currency_code ='UGX'
-local_currency_names_short = ['USh', 'UGX', 'UGS', 'sh']
-local_currency_names_long = ['shilling']
 
 # location of gazetteers (http://geonames.nga.mil/gns/html/namefiles.html)
 locations_folder = 'locations'
@@ -445,19 +442,22 @@ def save_in_dataframe(df_impact, location, date, label, number_or_text, addendum
 ################################################################################
 
 @plac.annotations(
-    model=("Model to load (needs parser and NER)", "positional", None, str))
-def main(model='en_core_web_sm'):
-    
+    config_file="Configuration file"
+)
+def main(config_file):
+
     # define country of interest
-    country = 'Uganda'
-    country_short = 'ug'
-    
+    config = configparser.ConfigParser()
+    config.read(config_file)
+    keywords = config['keywords']
+    config = config['main']
+
     # load location dictionary
-    locations_dict = LoadLocations(locations_folder+'/'+country, country_short)
+    locations_dict = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
     
     # load NLP model
-    nlp = spacy.load(model)
-    print("Loaded model '%s'" % model)
+    nlp = spacy.load(config['model'])
+    print("Loaded model '%s'" % config['model'])
 
     # load DataFrame with articles
     df = pd.read_csv(input_directory+'/articles_all_topical.csv', sep='|')
@@ -471,22 +471,20 @@ def main(model='en_core_web_sm'):
     print(df['publish_date'].min().strftime('%Y-%m-%d'), ' -- ', df['publish_date'].max().strftime('%Y-%m-%d'))
     
     # define keywords
-    type_people = pd.read_csv(locations_keywords+'/Victims.txt', header=None)[0].tolist()  
-    type_infrastructure = pd.read_csv(locations_keywords+'/Infrastructures.txt', header=None)[0].tolist()
-    donation = ['donate', 'give', 'contribut', 'present', 'gift', 'grant',
-                'hand', 'waive']
-    type_livelihood = ['crop', 'field', 'cattle', 'farm', 'wheat', 'livestock',
-                       'acre', 'plantation', 'cow', 'sheep', 'pig', 'goat']
-    type_people_multiple = ['household', 'family', 'families']
-    type_people_death = ['casualties', 'victims', 'fatalities', 'dead',
-                         'lives ', 'lives,', 'lives.', 'lives:', 'lives;',
-                         'lives!', 'lives?', 'deaths', 'bodies']
-    list_verb_death = ['die', 'dead', 'pass', 'perish', 'drown', 'expire',
-                       'killed', 'fall'] 
-    type_house = ['house', 'home', 'building', 'hut', 'bungalow', 'cottage',
-                  'ranch', 'barn', 'tower']
-    currency_short = local_currency_names_short + ['USD', 'US$', '$']
-    currency_long = local_currency_names_long + ['dollar']
+    type_people = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_people']),
+                              header=None)[0].tolist()
+    type_infrastructure = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_infrastructures']),
+                                      header=None)[0].tolist()
+    donation = ast.literal_eval(keywords['donation'])
+    type_livelihood = ast.literal_eval(keywords['type_livelihood'])
+    type_people_multiple = ast.literal_eval(keywords['type_people_multiple'])
+    type_people_death = ast.literal_eval(keywords['type_people_death'])
+    list_verb_death = ast.literal_eval(keywords['list_verb_death'])
+    type_house = ast.literal_eval(keywords['type_house'])
+    currency_short = ast.literal_eval(keywords['local_currency_names_short']) +\
+                     ast.literal_eval(keywords['currency_short'])
+    currency_long = ast.literal_eval(keywords['local_currency_names_long']) +\
+                    ast.literal_eval(keywords['currency_long'])
 
     # initialize output DatFrame
     df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[],[]],
