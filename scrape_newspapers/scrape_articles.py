@@ -6,8 +6,7 @@ import plac
 import re
 import os
 import sys
-import configparser
-from pathlib import Path
+import importlib
 from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
@@ -19,8 +18,11 @@ pd.set_option('max_colwidth', 20)
 from datetime import datetime
 import time
 
+utils = importlib.import_module('utils')
+
 TIMEOUT = 30
 NEWSPAPER_URL_BASE = 'abyznewslinks'
+
 
 def is_date(string):
     try:
@@ -28,6 +30,7 @@ def is_date(string):
         return True
     except ValueError:
         return False
+
 
 def ProcessPage(keyword, vBrowser, vNews_name, vNews_url):
     """
@@ -151,20 +154,15 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url):
 
 @plac.annotations(
     config_file="Configuration file",
-    output_dir=("Optional output directory", "option", "o", Path),
 )
-def main(config_file, output_dir=None):
+def main(config_file):
     """
     Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
     """
-    config = configparser.ConfigParser()
-    config.read(config_file)
-    config = config['main']
+    config = utils.get_config(config_file)
+    output_dir = utils.get_scraped_article_output_dir(config)
 
-    if output_dir is None:
-        output_dir = 'Articles_{keyword}_{country}'.format(
-            keyword=config['keyword'], country=config['country'])
     # if output directory does not exist, create it
     if not os.path.isdir(output_dir):
         os.mkdir(output_dir)
