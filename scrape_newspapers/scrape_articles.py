@@ -3,10 +3,11 @@
 from __future__ import unicode_literals, print_function
 
 import plac
-from pathlib import Path
 import re
 import os
 import sys
+import configparser
+from pathlib import Path
 from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
@@ -18,12 +19,8 @@ pd.set_option('max_colwidth', 20)
 from datetime import datetime
 import time
 
-keyword = 'inondation'
-keyword_search = 'inondation'
-keyword_in_url = 'inondation'
-country = 'Mali'
-newspapers_url = 'http://www.abyznewslinks.com/mali.htm'
-timeout = 30
+TIMEOUT = 30
+NEWSPAPER_URL_BASE = 'abyznewslinks'
 
 def is_date(string):
     try:
@@ -32,7 +29,7 @@ def is_date(string):
     except ValueError:
         return False
 
-def ProcessPage(vBrowser, vNews_name, vNews_url):
+def ProcessPage(keyword, vBrowser, vNews_name, vNews_url):
     """
     Process search result page
     get articles and save them to a pandas dataframe (articles_page)
@@ -49,19 +46,19 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
 
     # make url regex-usable
     url_any = vNews_url
-    url_any = re.sub(re.escape('?s='+keyword_search), '', url_any)
-    url_any = re.sub(re.escape('search?k='+keyword_search), '', url_any)
+    url_any = re.sub(re.escape('?s='+keyword), '', url_any)
+    url_any = re.sub(re.escape('search?k='+keyword), '', url_any)
     url_any = re.sub('\?m\=[0-9]{6}', '', url_any)
     url_any = re.escape(url_any) + '(?=\S*[-])([0-9a-zA-Z-\/\.]+)'
     regex = re.compile(url_any)
     print('searching for ', url_any)
     search_results = list(set([match[0] for match in
                                regex.finditer(search_result_page_source)
-                               if keyword_in_url in match[0].lower()]))
+                               if keyword in match[0].lower()]))
 
     if vNews_name in ['NewVision']:
         regex = re.compile('\/new\_vision\/news\/(?=\S*[-])([0-9a-zA-Z-\/\.]+)')
-        search_results = list(set([ match[0] for match in regex.finditer(search_result_page_source) if keyword_in_url in match[0].lower()]))
+        search_results = list(set([ match[0] for match in regex.finditer(search_result_page_source) if keyword in match[0].lower()]))
         search_results = ['https://www.newvision.co.ug' + search_result for search_result in search_results]
 
     if len(search_results) > 0:
@@ -151,33 +148,43 @@ def ProcessPage(vBrowser, vNews_name, vNews_url):
 
 ################################################################################
 
-@plac.annotations(
-    output_dir=("Optional output directory", "option", "o", Path))
 
-def main(output_dir='Articles_'+keyword+'_'+country):
+@plac.annotations(
+    config_file="Configuration file",
+    output_dir=("Optional output directory", "option", "o", Path),
+)
+def main(config_file, output_dir=None):
     """
     Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
     """
+    config = configparser.ConfigParser()
+    config.read(config_file)
+    config = config['main']
 
+    if output_dir is None:
+        output_dir = 'Articles_{keyword}_{country}'.format(
+            keyword=config['keyword'], country=config['country'])
     # if output directory does not exist, create it
     if not os.path.isdir(output_dir):
         os.mkdir(output_dir)
 
     # initialize webdriver
     opts = Options()
-    opts.set_headless()
+    opts.headless = True
     assert opts.headless  # operating in headless mode
     browser = Firefox()
-    browser.set_page_load_timeout(timeout)
+    browser.set_page_load_timeout(TIMEOUT)
 
     # get newspapers urls
-    browser.get(newspapers_url)
+    newspaper_database_url = 'http://{newspaper_url_base}.com/{country}.htm'.format(
+        newspaper_url_base=NEWSPAPER_URL_BASE, country=config['country'][:5].lower())
+    browser.get(newspaper_database_url)
     newspaper_elements = browser.find_elements_by_css_selector('a')
     newspaper_urls = [el.get_attribute('href') for el in newspaper_elements]
     newspaper_names = [el.get_attribute('text') for el in newspaper_elements]
     Newspapers = dict(zip(newspaper_names, newspaper_urls))
-    Newspapers = {key:val for key, val in Newspapers.items() if 'abyznewslinks' not in val}
+    Newspapers = {key:val for key, val in Newspapers.items() if NEWSPAPER_URL_BASE not in val}
 
     # loop over newspapers
     for news_name, news_url in Newspapers.items():
@@ -186,7 +193,7 @@ def main(output_dir='Articles_'+keyword+'_'+country):
 
         print('**********************************************************************************')
         print('Accessing ' + news_name + ' (' + news_url + ')')
-        news_url += '?s='+keyword_search
+        news_url += '?s='+config['keyword']
         try:
             browser.get(news_url)
         except TimeoutException:
@@ -195,7 +202,7 @@ def main(output_dir='Articles_'+keyword+'_'+country):
 
         # process first results page
         print("Begin to process page 1 ({0})".format(browser.current_url))
-        articles_page = ProcessPage(browser, news_name, news_url)
+        articles_page = ProcessPage(config['keyword'], browser, news_name, news_url)
         articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
@@ -207,8 +214,8 @@ def main(output_dir='Articles_'+keyword+'_'+country):
                 browser.get(link.get_attribute("href"))
             except NoSuchElementException:
                 url_next_page = news_url
-                url_next_page = re.sub(re.escape('?s='+keyword_search), '', url_next_page)
-                url_next_page = re.sub(re.escape('search?k='+keyword_search), '', url_next_page)
+                url_next_page = re.sub(re.escape('?s='+config['keyword']), '', url_next_page)
+                url_next_page = re.sub(re.escape('search?k='+config['keyword']), '', url_next_page)
                 url_next_page = re.escape(url_next_page) + 'page\/' + str(page_number) + '.*?(?=")'
                 regex = re.compile(url_next_page)
                 print('link not found, trying explicit regex: ', url_next_page)
@@ -227,28 +234,28 @@ def main(output_dir='Articles_'+keyword+'_'+country):
                 articles_page = ProcessPage(browser, news_name, news_url)
             except:
                 print('Unexpected error: ', sys.exc_info()[0])
-                continue
+                break
             articles_news = articles_news.append(articles_page)
             page_number += 1
 
-        ## save dataframe to csv
+        # save dataframe to csv
         print('Saving articles from ' + news_name)
         print(articles_news.describe())
         print('*********************************************************')
-        output_name = 'articles_{keyword_in_url}_{news_name}.csv'.format(
-            keyword_in_url=keyword_in_url, news_name=news_name)
+        output_name = 'articles_{keyword}_{news_name}.csv'.format(
+            keyword=config['keyword'], news_name=news_name)
         output_dir_news = os.path.join(output_dir, output_name)
         articles_news.to_csv(output_dir_news, sep='|')
-
 
     print("\nFINISHED PROCESSING *****************************")
     # print("\nSummary")
     # print(articles_all.describe())
     #
     # ## save dataframe to hdf5
-    # output_dir_all = str(output_dir) + "/articles_" + keyword_in_url + "_all.h5"
+    # output_dir_all = str(output_dir) + "/articles_" + keyword + "_all.h5"
     # print("Saving all articles to {0}".format(output_dir_all))
     # articles_all.to_hdf(output_dir_all, key='df', mode='w')
+
 
 if __name__ == '__main__':
     plac.call(main)
