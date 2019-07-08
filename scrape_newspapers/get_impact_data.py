@@ -2,6 +2,7 @@
 # coding: utf8\
 from __future__ import unicode_literals, print_function
 
+import ast
 import configparser
 import plac
 import spacy
@@ -31,8 +32,6 @@ def LoadLocations(input_folder, country_short):
     build a dictionary of locations {name: coordinates}
     from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
     """
-    print(input_folder)
-    print(country_short)
     locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t')
     # create a dictionary locations : coordinates
     locations_dict = dict(zip(locations_df.FULL_NAME_ND_RO, zip(locations_df.LAT, locations_df.LONG)))
@@ -476,14 +475,16 @@ def main(config_file):
                               header=None)[0].tolist()
     type_infrastructure = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_infrastructures']),
                                       header=None)[0].tolist()
-    donation = keywords['donation']
-    type_livelihood = keywords['type_livelihood']
-    type_people_multiple = keywords['type_people_multiple']
-    type_people_death = keywords['type_people_death']
-    list_verb_death = keywords['list_verb_death']
-    type_house = keywords['type_house']
-    currency_short = keywords['local_currency_names_short'] + keywords['currency_short']
-    currency_long = keywords['local_currency_names_long'] + keywords['currency_long']
+    donation = ast.literal_eval(keywords['donation'])
+    type_livelihood = ast.literal_eval(keywords['type_livelihood'])
+    type_people_multiple = ast.literal_eval(keywords['type_people_multiple'])
+    type_people_death = ast.literal_eval(keywords['type_people_death'])
+    list_verb_death = ast.literal_eval(keywords['list_verb_death'])
+    type_house = ast.literal_eval(keywords['type_house'])
+    currency_short = ast.literal_eval(keywords['local_currency_names_short']) +\
+                     ast.literal_eval(keywords['currency_short'])
+    currency_long = ast.literal_eval(keywords['local_currency_names_long']) +\
+                    ast.literal_eval(keywords['currency_long'])
 
     # initialize output DatFrame
     df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[],[]],
