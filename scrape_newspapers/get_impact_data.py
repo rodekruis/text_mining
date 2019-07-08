@@ -3,7 +3,7 @@
 from __future__ import unicode_literals, print_function
 
 import ast
-import configparser
+import importlib
 import plac
 import spacy
 import pandas as pd
@@ -15,6 +15,8 @@ import os
 from fuzzywuzzy import process
 from fuzzywuzzy import fuzz
 
+utils = importlib.import_module('utils')
+
 # location of gazetteers (http://geonames.nga.mil/gns/html/namefiles.html)
 locations_folder = 'locations'
 
@@ -24,8 +26,6 @@ locations_keywords = 'keywords'
 # output directory
 output_directory = 'impact_data'
 
-# input directory
-input_directory = 'articles_processed'
 
 def LoadLocations(input_folder, country_short):
     """
@@ -60,7 +60,7 @@ def FindLocations(target_sentence, locations_dict):
 def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
 
-def preprocess_text(text, currencies_short):
+def preprocess_text(text, currencies_short, titles):
     """
     Pre-process text
     """
@@ -121,10 +121,6 @@ def preprocess_text(text, currencies_short):
     target_text_edit = text
     # filter names with titles (Mr., Ms. ...)
     # important: some people have names of towns!
-    titles = ['Mr', 'Mrs', 'Ms', 'Miss', 'Senator', 'President', 'Minister',
-              'Councillor', 'Mayor', 'Governor', 'Secretary', 'Attorney',
-              'Chancellor', 'Judge', 'Don', 'Father', 'Dr', 'Doctor', 'Prof',
-              'Professor']
     for title in titles:
         target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
         target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
@@ -446,11 +442,8 @@ def save_in_dataframe(df_impact, location, date, label, number_or_text, addendum
 )
 def main(config_file):
 
-    # define country of interest
-    config = configparser.ConfigParser()
-    config.read(config_file)
-    keywords = config['keywords']
-    config = config['main']
+    config = utils.get_config(config_file)
+    keywords = utils.get_keywords(config_file)
 
     # load location dictionary
     locations_dict = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
@@ -460,7 +453,9 @@ def main(config_file):
     print("Loaded model '%s'" % config['model'])
 
     # load DataFrame with articles
-    df = pd.read_csv(input_directory+'/articles_all_topical.csv', sep='|')
+    input_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
+    input_file = utils.get_inspected_articles_output_filename(config)
+    df = pd.read_csv(os.path.join(input_directory, input_file), sep='|')
     # select only relevant ones
     df = df[df['topical']==True]
     df = df.drop_duplicates(['title','text'], keep=False)
@@ -485,6 +480,7 @@ def main(config_file):
                      ast.literal_eval(keywords['currency_short'])
     currency_long = ast.literal_eval(keywords['local_currency_names_long']) +\
                     ast.literal_eval(keywords['currency_long'])
+    titles = ast.literal_eval(keywords['titles'])
 
     # initialize output DatFrame
     df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[],[]],
@@ -507,7 +503,7 @@ def main(config_file):
         
         publication_date = str(df.iloc[id_row]['publish_date'].date())
 
-        doc_with_title = preprocess_text(doc_with_title, currency_short)
+        doc_with_title = preprocess_text(doc_with_title, currency_short, titles)
         doc = nlp(doc_with_title)
 
         # set location (most) mentioned in the document
