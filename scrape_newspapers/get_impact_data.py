@@ -469,9 +469,9 @@ def main(config_file):
     
     # define keywords
     type_people = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_people']),
-                              header=None)[0].tolist()
+                              header=None, encoding='latin-1')[0].tolist()
     type_infrastructure = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_infrastructures']),
-                                      header=None)[0].tolist()
+                                      header=None, encoding='latin-1')[0].tolist()
     donation = ast.literal_eval(keywords['donation'])
     type_livelihood = ast.literal_eval(keywords['type_livelihood'])
     type_people_multiple = ast.literal_eval(keywords['type_people_multiple'])
@@ -831,10 +831,15 @@ def main(config_file):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
-    df_impact.to_csv(output_directory+'/impact_data.csv', mode='w', encoding='utf-8', sep='|')
-    writer = ExcelWriter(output_directory+'/impact_data.xlsx')
+    output_filename = 'impact_data_{keyword}_{country}'.format(
+        keyword=config['keyword'], country=config['country']
+    )
+    df_impact.to_csv(os.path.join(output_directory, output_filename+'.csv'),
+                     mode='w', encoding='utf-8', sep='|')
+    writer = ExcelWriter(os.path.join(output_directory, output_filename+'.xlsx'))
     df_impact.to_excel(writer, 'Sheet1')
     writer.save()
+
 
 if __name__ == '__main__':
     plac.call(main)
