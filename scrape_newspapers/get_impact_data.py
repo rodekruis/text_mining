@@ -137,7 +137,8 @@ def preprocess_text(text, currencies_short, titles):
 
     return target_text_edit
 
-def process_number_money(text, sentence_text, sentence, currencies_short, currencies_long):
+def process_number_money(text, sentence_text, sentence, currencies_short, currencies_long, local_currency_names_short,
+                         local_currency_names_long, local_currency_code):
     """
     Get unique currency format
     """
@@ -254,7 +255,8 @@ def process_number_words(text_raw):
                 text = re.sub('[^0-9\.]+', '', text)
     return text
 
-def is_money(ent_text, sentence, currencies_short, currencies_long):
+def is_money(ent_text, sentence, currencies_short, currencies_long,
+             local_currency_names_short, local_currency_names_long, local_currency_code):
     """
     Check if numerical entity is monetary value
     """
@@ -476,9 +478,12 @@ def main(config_file):
     type_people_death = ast.literal_eval(keywords['type_people_death'])
     list_verb_death = ast.literal_eval(keywords['list_verb_death'])
     type_house = ast.literal_eval(keywords['type_house'])
-    currency_short = ast.literal_eval(keywords['local_currency_names_short']) +\
+    local_currency_names_short = ast.literal_eval(keywords['local_currency_names_short'])
+    currency_short = local_currency_names_short +\
                      ast.literal_eval(keywords['currency_short'])
-    currency_long = ast.literal_eval(keywords['local_currency_names_long']) +\
+    local_currency_code = keywords['local_currency_code']
+    local_currency_names_long =  ast.literal_eval(keywords['local_currency_names_long'])
+    currency_long = local_currency_names_long +\
                     ast.literal_eval(keywords['currency_long'])
     titles = ast.literal_eval(keywords['titles'])
 
@@ -607,11 +612,15 @@ def main(config_file):
                 addendum = '' # extra info (currency or object)
                 impact_label = '' # label specifying the nature of the impact data
 
-                money_bool, currency_found = is_money(ent_text, sentence, currency_short, currency_long)
+                money_bool, currency_found = is_money(ent_text, sentence, currency_short, currency_long,
+                                                      local_currency_names_short,
+                                                      local_currency_names_long, local_currency_code)
 
                 # check if it's monetary value
                 if money_bool:
-                    number, addendum = process_number_money(ent_text, sentence_text, sentence, currency_short, currency_long)
+                    number, addendum = process_number_money(ent_text, sentence_text, sentence, currency_short,
+                                                            currency_long, local_currency_names_short,
+                                                            local_currency_names_long, local_currency_code)
                     if addendum == '':
                         addendum = currency_found
                     try:
