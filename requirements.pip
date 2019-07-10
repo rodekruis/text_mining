@@ -7,3 +7,5 @@ spacy
 word2number
 fuzzywuzzy
 openpyxl
+python-Levenshtein
+
