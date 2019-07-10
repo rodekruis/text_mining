@@ -26,36 +26,52 @@ locations_keywords = 'keywords'
 # output directory
 output_directory = 'impact_data'
 
+MIN_LOCATION_STRING_LEN = 2
+
 
 def LoadLocations(input_folder, country_short):
     """
     build a dictionary of locations {name: coordinates}
     from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
     """
-    locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t')
+    columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG']
+    locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t',
+                               encoding='utf-8', usecols=columns)
+    # Only choose places with names that have some minimum string length,
+    # in case there are problems with village names like "Dé"
+    locations_df = locations_df[locations_df['FULL_NAME_ND_RO'].apply(
+        lambda x: len(x) >= MIN_LOCATION_STRING_LEN
+    )]
     # create a dictionary locations : coordinates
-    locations_dict = dict(zip(locations_df.FULL_NAME_ND_RO, zip(locations_df.LAT, locations_df.LONG)))
-    return locations_dict
+    # locations_dict = dict(zip(locations_df.FULL_NAME_RO,
+    #                          zip(locations_df.LAT, locations_df.LONG)))
+    # return locations_dict
+    return locations_df
 
-def FindLocations(target_sentence, locations_dict):
+def FindLocations(target_sentence, locations_df):
     """
     Find locations of interest in a given text
     """
-    
+
     locations_found = []
     text = target_sentence.text
     
     # skip non-string values
     if type(text) != str:
-        return []
+        print('...text is not a string, done')
     else:
-        # find locations and append them to list
-        ratio_loc = process.extract(text, locations_dict.keys(), scorer = fuzz.token_set_ratio)
-        locations_found = []
-        for l,v in ratio_loc: 
-            if v > 95:
-                locations_found.append(l)
+        # find locations and append them to list,
+        # use full_name_nd_ro to avoid using accents with fuzzywuzzy
+        ratio_loc = process.extract(text, locations_df['FULL_NAME_ND_RO'],
+                                    scorer=fuzz.token_set_ratio, limit=100)
+        locations_found = [l for (l, v, i) in ratio_loc if v > 95]
+        # Check if any of the locations are in the text verbatim (the accented version)
+        locations_found_with_accents = locations_df['FULL_NAME_RO'][
+           locations_df['FULL_NAME_ND_RO'].isin(locations_found)]
+        locations_found = [l for l in locations_found_with_accents if l in text]
         return locations_found
+
+    return locations_found
 
 def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
@@ -70,13 +86,11 @@ def preprocess_text(text, currencies_short, titles):
     if numbers_divided is not None:
         for number_divided in numbers_divided:
             if re.search('(20[0-9]{2}|19[0-9]{2})', number_divided) is not None:
-                # print('probably a date, not merging: ', number_divided)
                 continue
             else:
                 number_merged = re.sub('\,\s', '', number_divided)
                 text = re.sub(number_divided, number_merged, text)
-                # print('merging numbers: ', number_divided, ' --> ', number_merged)
-            
+
     # split money: US$20m --> US$ 20000000 or US$20 --> US$ 20
     numbers_changed = []
     for currency in currencies_short:
@@ -448,7 +462,7 @@ def main(config_file):
     keywords = utils.get_keywords(config_file)
 
     # load location dictionary
-    locations_dict = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
+    locations_df = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
     
     # load NLP model
     nlp = spacy.load(config['model'])
@@ -514,7 +528,9 @@ def main(config_file):
         # set location (most) mentioned in the document
         # discard documents with no locations
         location_document = ''
-        locations_document = FindLocations(doc, locations_dict)
+        print('Running FindLocations on full text...')
+        locations_document = FindLocations(doc, locations_df)
+        print('...done')
         # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
         loc2_old, loc1_old = '', ''
         for loc1 in locations_document:
@@ -539,9 +555,11 @@ def main(config_file):
             # no location mentioned, document not useful
             print('WARNING: no locations mentioned in document')
             continue
+        print("Setting document location to {}".format(location_document))
 
         # loop over sentences
         for sentence in doc.sents:
+            #print("Sentence: {}".format(sentence))
             
             # remove newlines
             sentence_text = re.sub('\n', ' ', sentence.text)
@@ -550,7 +568,7 @@ def main(config_file):
             # get locations mentioned in the sentence
             location_final = ''
             location_lists = []
-            locations_found = list(set(FindLocations(sentence, locations_dict)))
+            locations_found = list(set(FindLocations(sentence, locations_df)))
             # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
             loc2_old, loc1_old = '', ''
             for loc1 in locations_found:
@@ -570,7 +588,7 @@ def main(config_file):
             if len(locations_found) == 1:
                 # easy case, assign all damages to the location
                 location_final = locations_found[0]
-                
+
             elif len(locations_found) > 1:
                 # multiple locations mentioned!
                 # will create a list of locations and later assign it to the closest target
@@ -593,7 +611,7 @@ def main(config_file):
                 if len(location_lists) == 0:
                     for loc in locations_found:
                         location_lists.append((loc, 1, [loc]))
-                        
+
             elif len(locations_found) == 0:
                 # no locations mentioned in the sentence, use the paragraph one
                 location_final = location_document
@@ -603,7 +621,7 @@ def main(config_file):
             # check if it's impact data and if so, add to dataframe
             
             for ent in filter(lambda w: (w.label_ == 'CARDINAL') | (w.label_ == 'MONEY'), sentence.as_doc().ents):
-                
+                #print("ent: {}, type: {}".format(ent.text, ent.label_))
                 # get entity text and clean it
                 ent_text = re.sub('\n', '', ent.text).strip()
                 if ent_text == '':
@@ -652,7 +670,7 @@ def main(config_file):
                 # if it's not monetary value, look for object
                 else:
                     # get the object, i.e. what the number refers to
-                    object  = get_object(ent, sentence, TEXT)
+                    object = get_object(ent, sentence, TEXT)
                     number = process_number_words(ent_text)
 
                     if (object != '') & (number != ''):
