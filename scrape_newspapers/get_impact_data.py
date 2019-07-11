@@ -1,19 +1,15 @@
-#!/usr/bin/env python
-# coding: utf8\
-from __future__ import unicode_literals, print_function
-
+import re
+import os
 import ast
 import importlib
+import unicodedata
+
 import plac
 import spacy
 import pandas as pd
-import re
-import unicodedata
-from word2number import w2n
 from pandas import ExcelWriter
-import os
-from fuzzywuzzy import process
-from fuzzywuzzy import fuzz
+from word2number import w2n
+from fuzzywuzzy import process, fuzz
 
 utils = importlib.import_module('utils')
 
@@ -27,6 +23,8 @@ locations_keywords = 'keywords'
 output_directory = 'impact_data'
 
 MIN_LOCATION_STRING_LEN = 2
+
+LANGUAGES_WITH_ENTS = ['english']
 
 
 def LoadLocations(input_folder, country_short):
@@ -47,6 +45,7 @@ def LoadLocations(input_folder, country_short):
     #                          zip(locations_df.LAT, locations_df.LONG)))
     # return locations_dict
     return locations_df
+
 
 def FindLocations(target_sentence, locations_df):
     """
@@ -73,10 +72,12 @@ def FindLocations(target_sentence, locations_df):
 
     return locations_found
 
+
 def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
 
-def preprocess_text(text, currencies_short, titles):
+
+def preprocess_text(text, currencies_short, titles, language):
     """
     Pre-process text
     """
@@ -129,8 +130,7 @@ def preprocess_text(text, currencies_short, titles):
             except:
                 pass
 
-    # get onli ASCII characters, remove "\'"
-    text = clean(text)
+    text = clean(text, language)
     
     target_text_edit = text
     # filter names with titles (Mr., Ms. ...)
@@ -151,6 +151,7 @@ def preprocess_text(text, currencies_short, titles):
 
     return target_text_edit
 
+
 def process_number_money(text, sentence_text, sentence, currencies_short, currencies_long, local_currency_names_short,
                          local_currency_names_long, local_currency_code):
     """
@@ -167,18 +168,19 @@ def process_number_money(text, sentence_text, sentence, currencies_short, curren
         if re.search(regex_currency, sentence_text) is not None:
             for idx, word in enumerate(sentence):
                 if word.text in text:
-                    if (currency_long in sentence[idx+1].text or currency_long in sentence[idx+2].text):
+                    if currency_long in sentence[idx+1].text or currency_long in sentence[idx+2].text:
                         currency = currency_long
-                    if (currency_long in sentence[idx-1].text or currency_long in sentence[idx-2].text):
+                    if currency_long in sentence[idx-1].text or currency_long in sentence[idx-2].text:
                         currency = currency_long
     if currency != '':
-        if (currency in local_currency_names_short or currency in local_currency_names_long):
+        if currency in local_currency_names_short or currency in local_currency_names_long:
             currency = local_currency_code
         else:
             currency = 'USD'
 
     number = process_number_words(text)
-    return (number, currency)
+    return number, currency
+
 
 def process_number_words(text_raw):
     """
@@ -269,8 +271,9 @@ def process_number_words(text_raw):
                 text = re.sub('[^0-9\.]+', '', text)
     return text
 
-def is_money(ent_text, sentence, currencies_short, currencies_long,
-             local_currency_names_short, local_currency_names_long, local_currency_code):
+
+def check_if_money(ent_text, sentence, currencies_short, currencies_long,
+                   local_currency_names_short, local_currency_names_long, local_currency_code):
     """
     Check if numerical entity is monetary value
     """
@@ -288,48 +291,54 @@ def is_money(ent_text, sentence, currencies_short, currencies_long,
             for idx, word in enumerate(sentence):
                 if word.text in ent_text:
                     try:
-                        if (currency == sentence[idx+1].text or currency == sentence[idx+2].text):
+                        if currency == sentence[idx+1].text or currency == sentence[idx+2].text:
                             is_money, currency_found = True, currency
-                        if (currency == sentence[idx-1].text or currency == sentence[idx-2].text):
+                        if currency == sentence[idx-1].text or currency == sentence[idx-2].text:
                             is_money, currency_found = True, currency
                     except:
                         pass
                     
     if currency_found != '':
-        if (currency_found in local_currency_names_short or \
-            currency_found in local_currency_names_long):
+        if currency_found in local_currency_names_short or \
+                currency_found in local_currency_names_long:
             currency_found = local_currency_code
         else:
             currency_found = 'USD'
 
-    return (is_money, currency_found)
+    return is_money, currency_found
 
-def get_object(ent, sentence, doc_text):
+
+def get_object(ent, sentence, language):
     """
     Get what a given number refers to
     """
-    object = ''
+    obj = ''
 
-    # get all tokens of which entity is composed
-    tokens_in_ent = []
-    for idx, word in enumerate(ent):
-        tokens_in_ent.append(word)
+    if language in LANGUAGES_WITH_ENTS :
+        # get all tokens of which entity is composed
+        tokens_in_ent = []
+        for idx, word in enumerate(ent):
+            tokens_in_ent.append(word)
+        # get last token in sentence
+        for idx, word in enumerate(sentence):
+            if word.text == tokens_in_ent[-1].text:
+                # first attempt: look for head of type NOUN
+                if word.head.pos_ == 'NOUN':
+                    obj = word.head.text
+                    break
+                # second attempt: navigate the children list, look for an 'of'
+                for possible_of in word.children:
+                    if possible_of.text == 'of':
+                        for possible_object in possible_of.children:
+                            obj = 'of ' + possible_object.text
+                            break
 
-    # get last token in sentence
-    for idx, word in enumerate(sentence):
-        if word.text == tokens_in_ent[-1].text:
-            # first attempt: look for head of type NOUN
-            if word.head.pos_ == 'NOUN':
-                object = word.head.text
-                break
-            # second attempt: navigate the children list, look for an 'of'
-            for possible_of in word.children:
-                if possible_of.text == 'of':
-                    for possible_object in possible_of.children:
-                        object = 'of ' + possible_object.text
-                        break
+    else:
+        # If no ents, need to navigate the tree by hand
+        obj = ent.head.text
 
-    return object
+    return obj
+
 
 def check_list_locations(locations, sentence):
     """
@@ -393,11 +402,17 @@ def check_list_locations(locations, sentence):
 
     return list_final
 
+
 def most_common(lst):
     return max(set(lst), key=lst.count)
 
-def clean(text):
-    return ''.join([i if (ord(i) < 128) and (i!='\'') else '' for i in text])
+
+def clean(text, language):
+    if language == 'english':
+        return ''.join([i if (ord(i) < 128) and (i != '\'') else '' for i in text])
+    else:
+        return ''.join([i if (i != '\'') else '' for i in text])
+
 
 def sum_values(old_string, new_string, new_addendum, which_impact_label):
 
@@ -420,35 +435,36 @@ def sum_values(old_string, new_string, new_addendum, which_impact_label):
         final_number = str(int(old_string) + int(new_string))
 
     else:
-        if (new_string.lower() not in old_string.lower() and old_string.lower() not in new_string.lower()):
-               if which_impact_label not in ['sentence(s)', 'article_title']:
-                   final_number = old_string + ', ' + new_string
-                   final_addendum = new_addendum
+        if (new_string.lower() not in old_string.lower() and
+                old_string.lower() not in new_string.lower()):
+              final_number = old_string + ', ' + new_string
+              final_addendum = new_addendum
         else:
             final_number = old_string
 
     return str(final_number + ' ' + final_addendum).strip()
 
+
 def save_in_dataframe(df_impact, location, date, label, number_or_text, addendum, sentence, title): 
     """
     Save impact data in dataframe, sum entries if necessary
     """
-
-    final_index = (location, date)      
-
+    final_index = (location, date)
     # first, check if there's already an entry for that location, date and label
     # if so, sum new value to existing value
     if final_index in df_impact.index:
         if str(df_impact.loc[final_index, label]) != 'nan':
             new_value = sum_values(str(df_impact.loc[final_index, label]), number_or_text, addendum, label)
-            df_impact.loc[final_index, label] = new_value
-            new_sentence = sum_values(df_impact.loc[final_index, 'sentence(s)'], sentence, '', 'sentence(s)')
-            new_title = sum_values(df_impact.loc[final_index, 'article_title'], title, '', 'title')
-            df_impact.loc[final_index, ['sentence(s)', 'article_title']] = [new_sentence, new_title]
+        else:
+            new_value = number_or_text
+        df_impact.loc[final_index, label] = new_value
+        new_sentence = sum_values(df_impact.loc[final_index, 'sentence(s)'], sentence, '', 'sentence(s)')
+        new_title = sum_values(df_impact.loc[final_index, 'article_title'], title, '', 'title')
+        df_impact.loc[final_index, ['sentence(s)', 'article_title']] = [new_sentence, new_title]
+        return
     # otherwise just save the new entry
-    else:
-        df_impact.loc[final_index, label] = str(number_or_text+' '+addendum).strip()
-        df_impact.loc[final_index, ['sentence(s)', 'article_title']] = [sentence, title]
+    df_impact.loc[final_index, label] = str(number_or_text+' '+addendum).strip()
+    df_impact.loc[final_index, ['sentence(s)', 'article_title']] = [sentence, title]
 
 
 ################################################################################
@@ -461,12 +477,21 @@ def main(config_file):
     config = utils.get_config(config_file)
     keywords = utils.get_keywords(config_file)
 
+    # create output dir if it doesn't exist
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+
+    output_filename = 'impact_data_{keyword}_{country}'.format(
+        keyword=config['keyword'], country=config['country']
+    )
+    writer = ExcelWriter(os.path.join(output_directory, output_filename+'.xlsx'))
+
     # load location dictionary
     locations_df = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
     
     # load NLP model
+    print("Loading model {}".format(config['model']))
     nlp = spacy.load(config['model'])
-    print("Loaded model '%s'" % config['model'])
 
     # load DataFrame with articles
     input_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
@@ -502,8 +527,8 @@ def main(config_file):
     titles = ast.literal_eval(keywords['titles'])
 
     # initialize output DatFrame
-    df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[],[]],
-                                                 codes=[[],[]],
+    df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[], []],
+                                                 codes=[[], []],
                                                  names=[u'location',
                                                         u'date']),
                              columns=['damage_livelihood', 'damage_general',
@@ -514,23 +539,23 @@ def main(config_file):
                                       'sentence(s)', 'article_title'])
 
     # loop over articles
-    for id_row in range(0, len(df)):
-
+    n_articles = len(df)
+    for id_row in range(n_articles):
+        print("Analyzing article {}/{}...".format(id_row+1, n_articles))
         TEXT = df.iloc[id_row]['text']
         title = df.iloc[id_row]['title']
         doc_with_title = title + '.\n' + TEXT
-        
+
         publication_date = str(df.iloc[id_row]['publish_date'].date())
 
-        doc_with_title = preprocess_text(doc_with_title, currency_short, titles)
+        doc_with_title = preprocess_text(doc_with_title, currency_short, titles,
+                                         config['language'])
         doc = nlp(doc_with_title)
 
         # set location (most) mentioned in the document
         # discard documents with no locations
         location_document = ''
-        print('Running FindLocations on full text...')
         locations_document = FindLocations(doc, locations_df)
-        print('...done')
         # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
         loc2_old, loc1_old = '', ''
         for loc1 in locations_document:
@@ -555,12 +580,10 @@ def main(config_file):
             # no location mentioned, document not useful
             print('WARNING: no locations mentioned in document')
             continue
-        print("Setting document location to {}".format(location_document))
 
         # loop over sentences
         for sentence in doc.sents:
-            #print("Sentence: {}".format(sentence))
-            
+
             # remove newlines
             sentence_text = re.sub('\n', ' ', sentence.text)
             sentence_text = re.sub('-', ' ', sentence_text)
@@ -573,7 +596,7 @@ def main(config_file):
             loc2_old, loc1_old = '', ''
             for loc1 in locations_found:
                 for loc2 in locations_found:
-                    if (loc1 in loc2 and loc1 != loc2):
+                    if loc1 in loc2 and loc1 != loc2:
                         loc2_old = loc2
                         loc1_old = loc1
                         loc2 = re.sub(' ', '-', loc2_old)
@@ -616,12 +639,15 @@ def main(config_file):
                 # no locations mentioned in the sentence, use the paragraph one
                 location_final = location_document
 
-            # *****************************************************************
             # loop over numerical entities,
             # check if it's impact data and if so, add to dataframe
-            
-            for ent in filter(lambda w: (w.label_ == 'CARDINAL') | (w.label_ == 'MONEY'), sentence.as_doc().ents):
-                #print("ent: {}, type: {}".format(ent.text, ent.label_))
+            if config['language'] in LANGUAGES_WITH_ENTS:
+                ents = filter(lambda w: (w.label_ == 'CARDINAL') | (w.label_ == 'MONEY'),
+                              sentence.as_doc().ents)
+            else:
+                ents = [token for token in sentence if token.pos_ == 'NUM']
+
+            for ent in ents:
                 # get entity text and clean it
                 ent_text = re.sub('\n', '', ent.text).strip()
                 if ent_text == '':
@@ -630,12 +656,13 @@ def main(config_file):
                 addendum = '' # extra info (currency or object)
                 impact_label = '' # label specifying the nature of the impact data
 
-                money_bool, currency_found = is_money(ent_text, sentence, currency_short, currency_long,
-                                                      local_currency_names_short,
-                                                      local_currency_names_long, local_currency_code)
+                is_money, currency_found = check_if_money(ent_text, sentence, currency_short, currency_long,
+                                                          local_currency_names_short,
+                                                          local_currency_names_long,
+                                                          local_currency_code)
 
                 # check if it's monetary value
-                if money_bool:
+                if is_money:
                     number, addendum = process_number_money(ent_text, sentence_text, sentence, currency_short,
                                                             currency_long, local_currency_names_short,
                                                             local_currency_names_long, local_currency_code)
@@ -670,24 +697,25 @@ def main(config_file):
                 # if it's not monetary value, look for object
                 else:
                     # get the object, i.e. what the number refers to
-                    object = get_object(ent, sentence, TEXT)
+                    obj = get_object(ent, sentence, config['language'])
                     number = process_number_words(ent_text)
-
-                    if (object != '') & (number != ''):
-
-                        if any(type_obj in object.lower() for type_obj in type_people_death):
+                    if (obj != '') & (number != ''):
+                        if any(type_obj in obj.lower() for type_obj in type_people_death):
                             impact_label = 'people_dead'
-                        elif any(type_obj in object.lower() for type_obj in type_people):
+                        elif any(type_obj in obj.lower() for type_obj in type_people):
                             # if it's "family" or similar, multiply by 4
-                            if any(type_obj in object.lower() for type_obj in type_people_multiple):
+                            if any(type_obj in obj.lower() for type_obj in type_people_multiple):
                                 number = str(int(round(float(number)*4)))
                             # determine if they are dead or not
                             is_dead = False
-                            number_and_object = [tok for tok in ent]
+                            if config['language'] in LANGUAGES_WITH_ENTS:
+                                number_and_object = [tok for tok in ent]
+                            else:
+                                number_and_object = [ent, ent.head]
                             for tok in sentence:
-                                if tok.text == object:
+                                if tok.text == obj:
                                     number_and_object.append(tok)
-                            # first, check if root verb or its children 
+                            # first, check if root verb or its children
                             # (e.g. 'seven people who died') are death-like
                             roots_ch = tok.children
                             for tok in number_and_object:
@@ -696,20 +724,20 @@ def main(config_file):
                                 roots_and_children += [ch.text.lower() for ch in roots_ch]
                                 if any(verb in roots_and_children for verb in list_verb_death):
                                     is_dead = True
-                            
+
                             if is_dead == True:
                                 impact_label = 'people_dead'
                             else:
                                 impact_label = 'people_affected'
-                        elif any(type_obj in object.lower() for type_obj in type_house):
+                        elif any(type_obj in obj.lower() for type_obj in type_house):
                             impact_label = 'houses_affected'
-                        elif any(type_obj in object.lower() for type_obj in type_infrastructure):
+                        elif any(type_obj in obj.lower() for type_obj in type_infrastructure):
                             impact_label = 'infrastructures_affected'
-                            for type_obj in filter(lambda w: w in object.lower(), type_infrastructure):
+                            for type_obj in filter(lambda w: w in obj.lower(), type_infrastructure):
                                 addendum += type_obj
-                        elif any(type_obj in object.lower() for type_obj in type_livelihood):
+                        elif any(type_obj in obj.lower() for type_obj in type_livelihood):
                             impact_label = 'livelihood_affected'
-                            for type_obj in filter(lambda w: w in object.lower(), type_livelihood):
+                            for type_obj in filter(lambda w: w in obj.lower(), type_livelihood):
                                 addendum += type_obj
                         else:
                             # nothing interesting, discarding
@@ -729,7 +757,7 @@ def main(config_file):
                 if impact_label.strip() == '':
                     print('WARNING: impact_label NOT ASSIGNED !!!')
                     continue
-                    
+
                 # assign location
                 location_impact_data = location_final
 
@@ -743,14 +771,14 @@ def main(config_file):
                     for idx, (loc, num, loc_sublist) in enumerate(location_lists):
                         pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(ent_text)+'|'+re.escape(ent_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
                         distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(ent_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, sentence_text)]
-                    closest_entity = min(distances_locations_entities, key = lambda t: t[1])
+                    closest_entity = min(distances_locations_entities, key=lambda t: t[1])
                     # if closest location is a list, location_impact_data will be a list of strings
                     # otherwise just a string
                     if closest_entity[2] > 1:
                         location_impact_data = closest_entity[3] # get list of locations in the list
                     else:
                         location_impact_data = closest_entity[0]
-                        
+
                 # save to dataframe
                 if type(location_impact_data) is str:
                     location_impact_data = location_impact_data.strip()
@@ -834,10 +862,15 @@ def main(config_file):
                             print('WARNING: location_infrastructure NOT FOUND !!!')
                             continue
                         save_in_dataframe(df_impact, location,
-                                      publication_date, 'infrastructures_mentioned',
-                                      inf_text, '', sentence_text, title)
+                                          publication_date, 'infrastructures_mentioned',
+                                          inf_text, '', sentence_text, title)
             # ******************************************************************
-            
+        print("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
+        df_impact.to_csv(os.path.join(output_directory, output_filename+'.csv'),
+                         mode='w', encoding='utf-8', sep='|')
+        df_impact.to_excel(writer, 'Sheet1')
+        writer.save()
+
     print('found ', len(df_impact), ' entries')
 
     df_impact.dropna(how='all', inplace=True)
@@ -845,16 +878,8 @@ def main(config_file):
     print(df_impact.describe())
     print(df_impact.head())
     
-    # create output dir if it doesn't exist
-    if not os.path.exists(output_directory):
-        os.makedirs(output_directory)
-
-    output_filename = 'impact_data_{keyword}_{country}'.format(
-        keyword=config['keyword'], country=config['country']
-    )
     df_impact.to_csv(os.path.join(output_directory, output_filename+'.csv'),
                      mode='w', encoding='utf-8', sep='|')
-    writer = ExcelWriter(os.path.join(output_directory, output_filename+'.xlsx'))
     df_impact.to_excel(writer, 'Sheet1')
     writer.save()
 
