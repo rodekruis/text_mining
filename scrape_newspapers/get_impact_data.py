@@ -9,6 +9,7 @@ import spacy
 import pandas as pd
 from pandas import ExcelWriter
 from word2number import w2n
+from text_to_num import text2num
 from fuzzywuzzy import process, fuzz
 
 utils = importlib.import_module('utils')
@@ -68,8 +69,6 @@ def FindLocations(target_sentence, locations_df):
         locations_found_with_accents = locations_df['FULL_NAME_RO'][
            locations_df['FULL_NAME_ND_RO'].isin(locations_found)]
         locations_found = [l for l in locations_found_with_accents if l in text]
-        return locations_found
-
     return locations_found
 
 
@@ -153,7 +152,7 @@ def preprocess_text(text, currencies_short, titles, language):
 
 
 def process_number_money(text, sentence_text, sentence, currencies_short, currencies_long, local_currency_names_short,
-                         local_currency_names_long, local_currency_code):
+                         local_currency_names_long, local_currency_code, language):
     """
     Get unique currency format
     """
@@ -178,14 +177,19 @@ def process_number_money(text, sentence_text, sentence, currencies_short, curren
         else:
             currency = 'USD'
 
-    number = process_number_words(text)
+    number = process_number_words(text, language)
     return number, currency
 
 
-def process_number_words(text_raw):
+def process_number_words(text_raw, language):
     """
     Convert number words into numbers
     """
+    #TODO: check text2num behaviour
+    if language == 'english':
+        parser = w2n.word_to_num
+    elif language == 'french':
+        parser = text2num
 
     # make lowercase, remove commas
     text = text_raw.lower()
@@ -200,8 +204,8 @@ def process_number_words(text_raw):
     # special case: 'between x and y' --> '(x+y)/2'
     for (x_text, y_text) in re.findall('between\s([0-9a-z\s\-]+)\sand\s([0-9a-z\s\-]+)', text):
         try:
-            x = w2n.word_to_num(x_text)
-            y = w2n.word_to_num(y_text)
+            x = parser(x_text)
+            y = parser(y_text)
             text = str((x+y)/2.)
             return text
         except ValueError:
@@ -211,7 +215,7 @@ def process_number_words(text_raw):
     # special case: 'x per cent'
     for perc in re.findall('([0-9a-z\-]+)\sper\scent', text):
         try:
-            text = str(w2n.word_to_num(perc)) + '%'
+            text = str(parser(perc)) + '%'
             return text
         except ValueError:
             print('number conversion failed (special case *per cent*): ', text)
@@ -230,13 +234,13 @@ def process_number_words(text_raw):
 
     # try first if it can be directly converted
     try:
-        text = str(w2n.word_to_num(text))
+        text = str(parser(text))
     except ValueError:
         # remove words that cannot be converted to numbers: 'more than seven' --> 'seven'
         text_clean = ''
         for word in re.findall('[a-z0-9\-]+', text):
             try:
-                w2n.word_to_num(word)
+                parser(word)
                 text_clean += word
                 if re.search(r'\d', word) is None:
                     text_clean += ' '
@@ -245,7 +249,7 @@ def process_number_words(text_raw):
 
         # try to convert what is left into one number
         try:
-            text = str(w2n.word_to_num(text_clean))
+            text = str(parser(text_clean))
         except ValueError:
             # if we have a vague number word: assign a reasonable number
             if 'billions' in text:
@@ -435,6 +439,7 @@ def sum_values(old_string, new_string, new_addendum, which_impact_label):
         final_number = str(int(old_string) + int(new_string))
 
     else:
+        #TODO: figure out why this isn't catching all duplicate sentences
         if (new_string.lower() not in old_string.lower() and
                 old_string.lower() not in new_string.lower()):
               final_number = old_string + ', ' + new_string
@@ -458,7 +463,8 @@ def save_in_dataframe(df_impact, location, date, label, number_or_text, addendum
         else:
             new_value = number_or_text
         df_impact.loc[final_index, label] = new_value
-        new_sentence = sum_values(df_impact.loc[final_index, 'sentence(s)'], sentence, '', 'sentence(s)')
+        new_sentence = sum_values(df_impact.loc[final_index, 'sentence(s)'],
+                                  sentence, '', 'sentence(s)')
         new_title = sum_values(df_impact.loc[final_index, 'article_title'], title, '', 'title')
         df_impact.loc[final_index, ['sentence(s)', 'article_title']] = [new_sentence, new_title]
         return
@@ -665,7 +671,8 @@ def main(config_file):
                 if is_money:
                     number, addendum = process_number_money(ent_text, sentence_text, sentence, currency_short,
                                                             currency_long, local_currency_names_short,
-                                                            local_currency_names_long, local_currency_code)
+                                                            local_currency_names_long, local_currency_code,
+                                                            config['language'])
                     if addendum == '':
                         addendum = currency_found
                     try:
@@ -698,7 +705,12 @@ def main(config_file):
                 else:
                     # get the object, i.e. what the number refers to
                     obj = get_object(ent, sentence, config['language'])
-                    number = process_number_words(ent_text)
+                    # text2num does not like digits. This will need to be dealt with
+                    # in more detail later...
+                    if ent.is_digit and config['language'] == 'french':
+                        number = ent_text
+                    else:
+                        number = process_number_words(ent_text, config['language'])
                     if (obj != '') & (number != ''):
                         if any(type_obj in obj.lower() for type_obj in type_people_death):
                             impact_label = 'people_dead'
