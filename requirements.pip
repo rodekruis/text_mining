@@ -8,4 +8,5 @@ word2number
 fuzzywuzzy
 openpyxl
 python-Levenshtein
+text2num
 
