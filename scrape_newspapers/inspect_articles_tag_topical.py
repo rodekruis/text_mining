@@ -49,7 +49,7 @@ def main(config_file,
                 row_to_add = [file, index, article['title'], None]
                 df_articles_summary.loc[index_article] = row_to_add
                 index_article += 1
-        df_articles_summary.to_csv(articles_summary_filename)
+        df_articles_summary.to_csv(articles_summary_filename, index=False)
 
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
@@ -60,8 +60,7 @@ def main(config_file,
     for row in articles_to_analyze.itertuples():
         newspaper = articles_to_analyze.at[row.Index, 'newspaper']
         article_number = articles_to_analyze.at[row.Index, 'article_number']
-        article = pd.read_csv(articles_folder+'/'+newspaper,
-                              sep='|').iloc[article_number]
+        article = pd.read_csv(articles_folder+'/'+newspaper, sep='|').iloc[article_number]
         print("\nArticle #{number}/{total}: {title}".format(
             number=cnt_article+1, total=number_to_analyze, title=article['title']))
         var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
@@ -72,7 +71,7 @@ def main(config_file,
             var_topical = input("Is it topical? t (True), f (False)  ")
         df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
         cnt_article += 1
-        df_articles_summary.to_csv(articles_summary_filename)
+        df_articles_summary.to_csv(articles_summary_filename, index=False)
 
     # Use the summary to create a csv with only relevant articles
     columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']
