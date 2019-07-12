@@ -476,9 +476,11 @@ def save_in_dataframe(df_impact, location, date, label, number_or_text, addendum
 ################################################################################
 
 @plac.annotations(
-    config_file="Configuration file"
+    config_file="Configuration file",
+    input_filename=("Optional input filename", "option", "i", str),
+    output_filename_base=("Optional output filename base", "option", "o", str)
 )
-def main(config_file):
+def main(config_file, input_filename=None, output_filename_base=None):
 
     config = utils.get_config(config_file)
     keywords = utils.get_keywords(config_file)
@@ -487,10 +489,11 @@ def main(config_file):
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
-    output_filename = 'impact_data_{keyword}_{country}'.format(
-        keyword=config['keyword'], country=config['country']
-    )
-    writer = ExcelWriter(os.path.join(output_directory, output_filename+'.xlsx'))
+    if output_filename_base is None:
+        output_filename_base = 'impact_data_{keyword}_{country}'.format(
+            keyword=config['keyword'], country=config['country']
+        )
+    writer = ExcelWriter(os.path.join(output_directory, output_filename_base+'.xlsx'))
 
     # load location dictionary
     locations_df = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
@@ -501,8 +504,9 @@ def main(config_file):
 
     # load DataFrame with articles
     input_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
-    input_file = utils.get_inspected_articles_output_filename(config)
-    df = pd.read_csv(os.path.join(input_directory, input_file), sep='|')
+    if input_filename is None:
+        input_filename = utils.get_inspected_articles_output_filename(config)
+    df = pd.read_csv(os.path.join(input_directory, input_filename), sep='|')
     # select only relevant ones
     df = df.drop_duplicates(['title','text'], keep=False)
 
@@ -878,7 +882,7 @@ def main(config_file):
                                           inf_text, '', sentence_text, title)
             # ******************************************************************
         print("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
-        df_impact.to_csv(os.path.join(output_directory, output_filename+'.csv'),
+        df_impact.to_csv(os.path.join(output_directory, output_filename_base+'.csv'),
                          mode='w', encoding='utf-8', sep='|')
         df_impact.to_excel(writer, 'Sheet1')
         writer.save()
@@ -890,7 +894,7 @@ def main(config_file):
     print(df_impact.describe())
     print(df_impact.head())
     
-    df_impact.to_csv(os.path.join(output_directory, output_filename+'.csv'),
+    df_impact.to_csv(os.path.join(output_directory, output_filename_base+'.csv'),
                      mode='w', encoding='utf-8', sep='|')
     df_impact.to_excel(writer, 'Sheet1')
     writer.save()
