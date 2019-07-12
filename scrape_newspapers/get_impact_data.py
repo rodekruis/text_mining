@@ -130,23 +130,25 @@ def preprocess_text(text, currencies_short, titles, language):
                 pass
 
     text = clean(text, language)
-    
     target_text_edit = text
-    # filter names with titles (Mr., Ms. ...)
-    # important: some people have names of towns!
-    for title in titles:
-        target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
-        target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
-        target_text_edit = re.sub(title+'\.\s[A-Za-z]+', 'someone', target_text_edit)
-        target_text_edit = re.sub(title+'\s[A-Za-z]+', 'someone', target_text_edit)
 
-    # filter article signatures
-    pattern_signatures_head = re.compile(r'[A-Z]+\s[A-Z]+\,\s[A-Za-z]+') # e.g. MONICA KAYOMBO, Ndola
-    target_text_edit = re.sub(pattern_signatures_head, '', target_text_edit)
-    pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n Ndola
-    target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
-    pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n\n Ndola
-    target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
+    if language == 'english':
+        # filter names with titles (Mr., Ms. ...)
+        # important: some people have names of towns!
+        # Does weird stuff for French.
+        for title in titles:
+            target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
+            target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
+            target_text_edit = re.sub(title+'\.\s[A-Za-z]+', 'someone', target_text_edit)
+            target_text_edit = re.sub(title+'\s[A-Za-z]+', 'someone', target_text_edit)
+
+        # filter article signatures
+        pattern_signatures_head = re.compile(r'[A-Z]+\s[A-Z]+\,\s[A-Za-z]+') # e.g. MONICA KAYOMBO, Ndola
+        target_text_edit = re.sub(pattern_signatures_head, '', target_text_edit)
+        pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n Ndola
+        target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
+        pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n\n Ndola
+        target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
 
     return target_text_edit
 
