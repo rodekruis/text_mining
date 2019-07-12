@@ -57,8 +57,11 @@ def main(config_file,
 
     # Tag articles and save it in the summary
     cnt_article = 0
-    for _, row in articles_to_analyze.iterrows():
-        article = pd.read_csv(articles_folder+'/'+row['newspaper'], sep='|').iloc[row['article_number']]
+    for row in articles_to_analyze.itertuples():
+        newspaper = articles_to_analyze.at[row.Index, 'newspaper']
+        article_number = articles_to_analyze.at[row.Index, 'article_number']
+        article = pd.read_csv(articles_folder+'/'+newspaper,
+                              sep='|').iloc[article_number]
         print("\nArticle #{number}/{total}: {title}".format(
             number=cnt_article+1, total=number_to_analyze, title=article['title']))
         var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
@@ -67,20 +70,20 @@ def main(config_file,
         elif var_topical == 'i':
             print(article['text'])
             var_topical = input("Is it topical? t (True), f (False)  ")
-        df_articles_summary.loc[row[0], 'topical'] = var_topical == 't'
+        df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
         cnt_article += 1
         df_articles_summary.to_csv(articles_summary_filename)
 
     # Use the summary to create a csv with only relevant articles
-    df_articles_topical_list = []
+    columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']
+    df_articles_topical = pd.DataFrame(columns=columns)
     relevant_articles = df_articles_summary[df_articles_summary['topical'] == True]
     print('Saving {} relevent articles'.format(len(relevant_articles)))
-    for _, row in articles_to_analyze.iterrows():
+    for index, row in relevant_articles.iterrows():
         article = pd.read_csv(articles_folder+'/'+row['newspaper'], sep='|').iloc[row['article_number']]
-        df_articles_topical_list.append(article)
+        df_articles_topical.loc[index] = article
     print("Saving all articles to {0}".format(output_directory))
     output_filename = utils.get_inspected_articles_output_filename(config)
-    df_articles_topical = pd.concat(df_articles_topical_list, axis=0)
     df_articles_topical.to_csv(os.path.join(output_directory, output_filename), sep='|', header=True)
 
 
