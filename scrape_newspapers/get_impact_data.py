@@ -27,6 +27,10 @@ MIN_LOCATION_STRING_LEN = 2
 
 LANGUAGES_WITH_ENTS = ['english']
 
+CRAZY_NUMBER_CUTOFF = 1E6
+USD_CUTOFF = 1E7
+LOCAL_CURRENCY_CUTOFF = 1E11
+
 
 def LoadLocations(input_folder, country_short):
     """
@@ -82,13 +86,15 @@ def preprocess_text(text, currencies_short, titles, language):
     """
 
     # merge numbers divided by whitespace: 20, 000 --> 20000
-    numbers_divided = re.findall('[0-9]+\,\s[0-9]+', text)
+    # Also works with repeated groups, without comma, and with appended currency
+    # e.g. 5 861 052 772FCFA --> 5861052772FCFA (won't work with accents though)
+    numbers_divided = re.findall('\d+(?:\,*\s\d+\w*)+', text)
     if numbers_divided is not None:
         for number_divided in numbers_divided:
             if re.search('(20[0-9]{2}|19[0-9]{2})', number_divided) is not None:
                 continue
             else:
-                number_merged = re.sub('\,\s', '', number_divided)
+                number_merged = re.sub('\,*\s', '', number_divided)
                 text = re.sub(number_divided, number_merged, text)
 
     # split money: US$20m --> US$ 20000000 or US$20 --> US$ 20
@@ -195,8 +201,7 @@ def process_number_words(text_raw, language):
 
     # make lowercase, remove commas
     text = text_raw.lower()
-    text = re.sub('\n', '', text)
-    text = re.sub(',', '', text)
+    text = re.sub('\n|\,|\.', '', text)
     text = text.strip()
 
     # fix misspelling: '30millions' --> '30 millions'
@@ -235,46 +240,47 @@ def process_number_words(text_raw, language):
         text = re.sub(str(number_old+' '+word), number, text)
 
     # try first if it can be directly converted
-    try:
-        text = str(parser(text))
-    except ValueError:
-        # remove words that cannot be converted to numbers: 'more than seven' --> 'seven'
-        text_clean = ''
-        for word in re.findall('[a-z0-9\-]+', text):
-            try:
-                parser(word)
-                text_clean += word
-                if re.search(r'\d', word) is None:
-                    text_clean += ' '
-            except ValueError:
-                continue
-
-        # try to convert what is left into one number
+    if not re.match('^\d+$', text):  # Only try on strings containing non-digits
         try:
-            text = str(parser(text_clean))
+            text = str(parser(text))
         except ValueError:
-            # if we have a vague number word: assign a reasonable number
-            if 'billions' in text:
-                text = '2000000000'
-            elif 'millions' in text:
-                text = '2000000'
-            elif 'hundreds of thousands' in text:
-                text = '200000'
-            elif 'tens of thousands' in text:
-                text = '20000'
-            elif 'thousands' in text:
-                text = '2000'
-            elif 'hundreds' in text:
-                text = '200'
-            elif 'dozens' in text:
-                text = '24'
-            elif 'tens' in text:
-                text = '20'
-            elif 'dozen' in text:
-                text = '12'
-            else:
-                print('number conversion failed (', text, ') !!!')
-                text = re.sub('[^0-9\.]+', '', text)
+            # remove words that cannot be converted to numbers: 'more than seven' --> 'seven'
+            text_clean = ''
+            for word in re.findall('[a-z0-9\-]+', text):
+                try:
+                    parser(word)
+                    text_clean += word
+                    if re.search(r'\d', word) is None:
+                        text_clean += ' '
+                except ValueError:
+                    continue
+
+            # try to convert what is left into one number
+            try:
+                text = str(parser(text_clean))
+            except ValueError:
+                # if we have a vague number word: assign a reasonable number
+                if 'billions' in text:
+                    text = '2000000000'
+                elif 'millions' in text:
+                    text = '2000000'
+                elif 'hundreds of thousands' in text:
+                    text = '200000'
+                elif 'tens of thousands' in text:
+                    text = '20000'
+                elif 'thousands' in text:
+                    text = '2000'
+                elif 'hundreds' in text:
+                    text = '200'
+                elif 'dozens' in text:
+                    text = '24'
+                elif 'tens' in text:
+                    text = '20'
+                elif 'dozen' in text:
+                    text = '12'
+                else:
+                    print('number conversion failed (', text, ') !!!')
+                    text = re.sub('[^0-9\.]+', '', text)
     return text
 
 
@@ -684,11 +690,11 @@ def main(config_file, input_filename=None, output_filename_base=None):
                         int(float(number))
                     except ValueError:
                         continue
-                    if int(number)>=1E7 and addendum == 'USD':
+                    if int(number) >= USD_CUTOFF and addendum == 'USD':
                         print('WARNING: too many dollars:')
                         print(sentence_text)
                         continue
-                    if int(number)>=1E11 and addendum == local_currency_code:
+                    if int(number) >= LOCAL_CURRENCY_CUTOFF and addendum == local_currency_code:
                         print('WARNING: too much local currency:')
                         print(sentence_text)
                         continue
@@ -699,7 +705,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                         # print('donation, discarding')
                         continue
                     else:
-                        if any(type in sentence_text.lower() for type in type_livelihood):
+                        if any(type == sentence_text.lower() for type in type_livelihood):
                             # print('    proposing assignement: ', ent_text, ' in damage_livelihood')
                             impact_label = 'damage_livelihood'
                         else:
@@ -710,13 +716,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                 else:
                     # get the object, i.e. what the number refers to
                     obj = get_object(ent, sentence, config['language'])
-                    # text2num does not like digits. This will need to be dealt with
-                    # in more detail later...
-                    if config['language'] == 'french':
-                        if ent.is_digit:
-                            number = ent_text
-                    else:
-                        number = process_number_words(ent_text, config['language'])
+                    number = process_number_words(ent_text, config['language'])
                     if (obj != '') & (number != ''):
                         if any(type_obj in obj.lower() for type_obj in type_people_death):
                             impact_label = 'people_dead'
@@ -764,8 +764,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                         # object not found, discarding
                         continue
                     try:
-                        # cut-off at 1M
-                        if int(number) >= 1E6:
+                        if int(number) >= CRAZY_NUMBER_CUTOFF:
                             print('WARNING: crazy number (not assigned)', number)
                             print(sentence_text)
                             continue
