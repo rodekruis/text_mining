@@ -504,7 +504,6 @@ def main(config_file):
     input_file = utils.get_inspected_articles_output_filename(config)
     df = pd.read_csv(os.path.join(input_directory, input_file), sep='|')
     # select only relevant ones
-    df = df[df['topical']==True]
     df = df.drop_duplicates(['title','text'], keep=False)
 
     # convert all dates into datetime
@@ -707,8 +706,9 @@ def main(config_file):
                     obj = get_object(ent, sentence, config['language'])
                     # text2num does not like digits. This will need to be dealt with
                     # in more detail later...
-                    if ent.is_digit and config['language'] == 'french':
-                        number = ent_text
+                    if config['language'] == 'french':
+                        if ent.is_digit:
+                            number = ent_text
                     else:
                         number = process_number_words(ent_text, config['language'])
                     if (obj != '') & (number != ''):
