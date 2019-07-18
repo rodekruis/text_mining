@@ -3,6 +3,7 @@ import os
 import ast
 import importlib
 import unicodedata
+
 import plac
 import spacy
 import pandas as pd
@@ -177,7 +178,6 @@ def clean(text, language):
 
 
 def preprocess_titles(text, titles):
-    text = clean(text)
     target_text_edit = text
 
     # filter names with titles (Mr., Ms. ...)
