@@ -3,7 +3,6 @@ import os
 import ast
 import importlib
 import unicodedata
-
 import plac
 import spacy
 import pandas as pd
@@ -66,6 +65,7 @@ def FindLocations(target_sentence, locations_df):
     else:
         # find locations and append them to list,
         # use full_name_nd_ro to avoid using accents with fuzzywuzzy
+        #TODO: perhaps can use spacy matching instead?
         ratio_loc = process.extract(text, locations_df['FULL_NAME_ND_RO'],
                                     scorer=fuzz.token_set_ratio, limit=100)
         locations_found = [l for (l, v, i) in ratio_loc if v > 95]
@@ -80,11 +80,43 @@ def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
 
 
-def preprocess_text(text, currencies_short, titles, language):
+def preprocess_french_number_words(text, nlp):
+    # Since the French model has no entities, need to deal with number words by hand
+    # for now. Could eventually train our own cardinal entity, but in the medium
+    # term this should probably be made a pipeline component, although the text
+    # immutability may be an issue
+    french_number_words = {'millier': 1E3, 'milliers': 1E3,
+                           'million': 1E6, 'millions': 1E6,
+                           'milliard': 1E9, 'milliards': 1E9}
+
+    words = text.split(' ')
+    for i, word in enumerate(words):
+        if word in french_number_words.keys():
+            prev_word = words[i-1]
+            if re.match('^\\d+$', prev_word):
+                number = int(prev_word)
+                need_to_merge = True
+            else:
+                try:
+                    number = text2num(str(prev_word))
+                    need_to_merge = True
+                except ValueError:
+                    number = 2  # Multiply 1 million or whatever by 2
+                    need_to_merge = False
+
+            number *= french_number_words[word]
+            if need_to_merge:
+                search_text = '{}\\s+{}'.format(prev_word, word)
+            else:
+                search_text = word
+            text = re.sub(search_text, str(int(number)), text)
+    return text
+
+
+def preprocess_numbers(text, currencies_short):
     """
     Pre-process text
     """
-
     # merge numbers divided by whitespace: 20, 000 --> 20000
     # Also works with repeated groups, without comma, and with appended currency
     # e.g. 5 861 052 772FCFA --> 5861052772FCFA (won't work with accents though)
@@ -134,27 +166,36 @@ def preprocess_text(text, currencies_short, titles, language):
                 numbers_changed.append(number_final)
             except:
                 pass
+    return text
 
-    text = clean(text, language)
+
+def clean(text, language):
+    if language == 'english':
+        return ''.join([i if (ord(i) < 128) and (i != '\'') else '' for i in text])
+    else:
+        return ''.join([i if (i != '\'') else '' for i in text])
+
+
+def preprocess_titles(text, titles):
+    text = clean(text)
     target_text_edit = text
 
-    if language == 'english':
-        # filter names with titles (Mr., Ms. ...)
-        # important: some people have names of towns!
-        # Does weird stuff for French.
-        for title in titles:
-            target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
-            target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
-            target_text_edit = re.sub(title+'\.\s[A-Za-z]+', 'someone', target_text_edit)
-            target_text_edit = re.sub(title+'\s[A-Za-z]+', 'someone', target_text_edit)
+    # filter names with titles (Mr., Ms. ...)
+    # important: some people have names of towns!
+    # Does weird stuff for French.
+    for title in titles:
+        target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
+        target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
+        target_text_edit = re.sub(title+'\.\s[A-Za-z]+', 'someone', target_text_edit)
+        target_text_edit = re.sub(title+'\s[A-Za-z]+', 'someone', target_text_edit)
 
-        # filter article signatures
-        pattern_signatures_head = re.compile(r'[A-Z]+\s[A-Z]+\,\s[A-Za-z]+') # e.g. MONICA KAYOMBO, Ndola
-        target_text_edit = re.sub(pattern_signatures_head, '', target_text_edit)
-        pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n Ndola
-        target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
-        pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n\n Ndola
-        target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
+    # filter article signatures
+    pattern_signatures_head = re.compile(r'[A-Z]+\s[A-Z]+\,\s[A-Za-z]+') # e.g. MONICA KAYOMBO, Ndola
+    target_text_edit = re.sub(pattern_signatures_head, '', target_text_edit)
+    pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n Ndola
+    target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
+    pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n\n Ndola
+    target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
 
     return target_text_edit
 
@@ -419,12 +460,6 @@ def most_common(lst):
     return max(set(lst), key=lst.count)
 
 
-def clean(text, language):
-    if language == 'english':
-        return ''.join([i if (ord(i) < 128) and (i != '\'') else '' for i in text])
-    else:
-        return ''.join([i if (i != '\'') else '' for i in text])
-
 
 def sum_values(old_string, new_string, new_addendum, which_impact_label):
 
@@ -565,8 +600,12 @@ def main(config_file, input_filename=None, output_filename_base=None):
 
         publication_date = str(df.iloc[id_row]['publish_date'].date())
 
-        doc_with_title = preprocess_text(doc_with_title, currency_short, titles,
-                                         config['language'])
+        if config['language'] == 'french':
+            doc_with_title = preprocess_french_number_words(doc_with_title, nlp)
+        doc_with_title = preprocess_numbers(doc_with_title, currency_short)
+        doc_with_title = clean(doc_with_title, config['language'])
+        if config['language'] == 'english':
+            doc_with_title = preprocess_titles(doc_with_title, titles)
         doc = nlp(doc_with_title)
 
         # set location (most) mentioned in the document
@@ -577,7 +616,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
         loc2_old, loc1_old = '', ''
         for loc1 in locations_document:
             for loc2 in locations_document:
-                if (loc1 in loc2 and loc1 != loc2):
+                if loc1 in loc2 and loc1 != loc2:
                     loc2_old = loc2
                     loc1_old = loc1
                     loc2 = re.sub(' ', '-', loc2_old)
@@ -662,7 +701,8 @@ def main(config_file, input_filename=None, output_filename_base=None):
                 ents = filter(lambda w: (w.label_ == 'CARDINAL') | (w.label_ == 'MONEY'),
                               sentence.as_doc().ents)
             else:
-                ents = [token for token in sentence if token.pos_ == 'NUM']
+                # Sometimes number tokens are classified as e.g. pronouns so also check for digits
+                ents = [token for token in sentence if (token.pos_ == 'NUM' or token.is_digit)]
 
             for ent in ents:
                 # get entity text and clean it
