@@ -458,11 +458,11 @@ def sum_values(old_string, new_string, new_addendum, which_impact_label):
     return str(final_number + ' ' + final_addendum).strip()
 
 
-def save_in_dataframe(df_impact, location, date, label, number_or_text, addendum, sentence, title): 
+def save_in_dataframe(df_impact, location, date, article_num, label, number_or_text, addendum, sentence, title):
     """
     Save impact data in dataframe, sum entries if necessary
     """
-    final_index = (location, date)
+    final_index = (location, date, article_num)
     # first, check if there's already an entry for that location, date and label
     # if so, sum new value to existing value
     if final_index in df_impact.index:
@@ -544,10 +544,11 @@ def main(config_file, input_filename=None, output_filename_base=None):
     titles = ast.literal_eval(keywords['titles'])
 
     # initialize output DatFrame
-    df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[], []],
-                                                 codes=[[], []],
+    df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[], [], []],
+                                                 codes=[[], [], []],
                                                  names=[u'location',
-                                                        u'date']),
+                                                        u'date',
+                                                        u'article_num']),
                              columns=['damage_livelihood', 'damage_general',
                                       'people_affected', 'people_dead',
                                       'houses_affected', 'livelihood_affected',
@@ -559,15 +560,16 @@ def main(config_file, input_filename=None, output_filename_base=None):
     n_articles = len(df)
     for id_row in range(n_articles):
         print("Analyzing article {}/{}...".format(id_row+1, n_articles))
-        TEXT = df.iloc[id_row]['text']
+        article_text = df.iloc[id_row]['text']
         title = df.iloc[id_row]['title']
-        doc_with_title = title + '.\n' + TEXT
+        doc_with_title = title + '.\n' + article_text
 
+        article_num = df.iloc[id_row]['Unnamed: 0']
         publication_date = str(df.iloc[id_row]['publish_date'].date())
 
-        doc_with_title = preprocess_text(doc_with_title, currency_short, titles,
+        article_text = preprocess_text(article_text, currency_short, titles,
                                          config['language'])
-        doc = nlp(doc_with_title)
+        doc = nlp(article_text)
 
         # set location (most) mentioned in the document
         # discard documents with no locations
@@ -805,7 +807,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                         continue
                     # one location, just append impact data to that one
                     save_in_dataframe(df_impact, location_impact_data,
-                                      publication_date, impact_label,
+                                      publication_date, article_num, impact_label,
                                       number, addendum, sentence_text, title)
                 if type(location_impact_data) is list:
                     # multiple locations, divide impact data equally among them
@@ -822,7 +824,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                             print('WARNING: location_impact_data NOT FOUND !!!')
                             continue
                         save_in_dataframe(df_impact, location,
-                                      publication_date, impact_label,
+                                      publication_date, article_num, impact_label,
                                       number_divided, addendum, sentence_text, title)
 
             # *****************************************************************            
@@ -868,7 +870,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                         continue
                     # one location, just append infrastructure to that one
                     save_in_dataframe(df_impact, location_infrastructure,
-                                      publication_date, 'infrastructures_mentioned',
+                                      publication_date, article_num, 'infrastructures_mentioned',
                                       inf_text, '', sentence_text, title)
                 if type(location_infrastructure) is list:
                     # multiple locations and one infrastructure mentioned, assign to all
@@ -879,7 +881,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
                             print('WARNING: location_infrastructure NOT FOUND !!!')
                             continue
                         save_in_dataframe(df_impact, location,
-                                          publication_date, 'infrastructures_mentioned',
+                                          publication_date, article_num, 'infrastructures_mentioned',
                                           inf_text, '', sentence_text, title)
             # ******************************************************************
         print("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
