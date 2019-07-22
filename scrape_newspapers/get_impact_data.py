@@ -569,6 +569,8 @@ def main(config_file, input_filename=None, output_filename_base=None):
 
         article_text = preprocess_text(article_text, currency_short, titles,
                                          config['language'])
+        # TODO: perhaps use dock_with_title here if article text is below some word count,
+        #  but need to be careful of duplicates
         doc = nlp(article_text)
 
         # set location (most) mentioned in the document
