@@ -4,3 +4,7 @@
 *.rds
 .Ruserdata
 config.R
+.idea/
+__pycache__/
+geckodriver.log
+
