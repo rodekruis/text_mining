@@ -23,13 +23,14 @@ locations_keywords = 'keywords'
 # output directory
 output_directory = 'impact_data'
 
-MIN_LOCATION_STRING_LEN = 2
-
 LANGUAGES_WITH_ENTS = ['english']
 
 CRAZY_NUMBER_CUTOFF = 1E6
 USD_CUTOFF = 1E7
 LOCAL_CURRENCY_CUTOFF = 1E11
+
+LONG_ARTICLE = 50  # considered a long article, perhaps signed by a name
+LOCATION_NAME_WORD_CUTOFF = 10
 
 
 def load_locations(input_folder, country_short):
@@ -40,34 +41,30 @@ def load_locations(input_folder, country_short):
     columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG']
     locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t',
                                encoding='utf-8', usecols=columns)
-    # Only choose places with names that have some minimum string length,
-    # in case there are problems with village names like "Dé"
-    locations_df = locations_df[locations_df['FULL_NAME_ND_RO'].apply(
-        lambda x: len(x) >= MIN_LOCATION_STRING_LEN
-    )]
-    # create a dictionary locations : coordinates
-    # locations_dict = dict(zip(locations_df.FULL_NAME_RO,
-    #                          zip(locations_df.LAT, locations_df.LONG)))
-    # return locations_dict
+    # this definitely needs to be refactored to another location,
+    # but anyway if the country is mali take out niger (the river)
+    # or maybe we should not be reading in any of the hydrographic locations?
+    if country_short == 'ml':
+        locations_df = locations_df[locations_df['FULL_NAME_RO'] != "Niger"]
     return locations_df
 
 
-def get_location_matcher(nlp, locations_df):
-    matcher = Matcher(nlp.vocab)
-    _ = [matcher.add('locations', None, [{'LOWER': location.lower(), 'POS': 'PROPN'}])
-         for location in locations_df['FULL_NAME_RO']]
-    return matcher
-
-
-def find_locations(doc, location_matcher):
+def find_locations(doc, locations_df, nlp):
     """
     Find locations of interest in a given text
     """
-
-    # find locations and append them to list,
-    matches = location_matcher(doc)
+    # find locations and append them to list
+    matcher = Matcher(nlp.vocab)
+    _ = [matcher.add('locations', None, [{'LOWER': location.lower(), 'POS': pos}])
+         for location in locations_df['FULL_NAME_RO'] for pos in ['NOUN', 'PROPN']]
+    matches = matcher(doc)
+    # As (longer) articles are often signed, toss out last location if it's close to the end
+    # since it is probably someone's name
+    if len(doc) > LONG_ARTICLE:
+        if matches[-1][1] > len(doc) - LOCATION_NAME_WORD_CUTOFF:
+            matches = matches[:-1]
     locations_found = [doc[i].text for (_, i, _) in matches]
-    return locations_found
+    return matches, locations_found
 
 
 def normalize_caseless(text):
@@ -611,15 +608,14 @@ def main(config_file, input_filename=None, output_filename_base=None):
         article_text = clean(article_text, config['language'])
         article_text = preprocess_titles(article_text, titles, config['language'])
 
-        # TODO: perhaps use dock_with_title here if article text is below some word count,
+        # TODO: perhaps use doc_with_title here if article text is below some word count,
         #  but need to be careful of duplicates
         doc = nlp(article_text)
 
         # set location (most) mentioned in the document
         # discard documents with no locations
-        location_matcher = get_location_matcher(nlp, locations_df)
-        location_document = ''
-        locations_document = find_locations(doc, location_matcher)
+        location_matches, locations_document = find_locations(doc, locations_df, nlp)
+
         # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
         loc2_old, loc1_old = '', ''
         for loc1 in locations_document:
@@ -655,9 +651,9 @@ def main(config_file, input_filename=None, output_filename_base=None):
             # get locations mentioned in the sentence
             location_final = ''
             location_lists = []
-            # TODO: really shouldn't be re-nlping the text, should probably save the
-            #  locations found from the first pass and associate them with each sentence
-            locations_found = list(set(find_locations(nlp(sentence.text), location_matcher)))
+            # Use locations from the full doc
+            locations_found = [doc[i].text for (_, i, _) in location_matches
+                               if sentence.start <= i < sentence.end]
             # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
             loc2_old, loc1_old = '', ''
             for loc1 in locations_found:
@@ -683,7 +679,6 @@ def main(config_file, input_filename=None, output_filename_base=None):
                 # will create a list of locations and later assign it to the closest target
                 location_final = 'TBI'
                 # first, get a list of locations in the order in which they appear in the sentence
-                locations_found_order = []
                 positions = []
                 for loc in locations_found:
                     positions.append(sentence_text.find(loc))
