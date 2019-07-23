@@ -58,3 +58,12 @@ menacé,
 menacés, 
 menacée,
 menacées,
+rescapé,
+rescapés,
+rescapée,
+rescapées,
+décédé,
+décédés,
+décédée,
+décédées
+
