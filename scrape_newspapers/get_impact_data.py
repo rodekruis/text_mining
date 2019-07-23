@@ -61,8 +61,11 @@ def find_locations(doc, locations_df, nlp):
     # As (longer) articles are often signed, toss out last location if it's close to the end
     # since it is probably someone's name
     if len(doc) > LONG_ARTICLE:
-        if matches[-1][1] > len(doc) - LOCATION_NAME_WORD_CUTOFF:
-            matches = matches[:-1]
+        try:
+            if matches[-1][1] > len(doc) - LOCATION_NAME_WORD_CUTOFF:
+                matches = matches[:-1]
+        except IndexError:
+            pass
     locations_found = [doc[i].text for (_, i, _) in matches]
     return matches, locations_found
 
