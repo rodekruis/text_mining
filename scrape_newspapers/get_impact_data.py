@@ -66,7 +66,7 @@ def find_locations(doc, locations_df, nlp):
                 matches = matches[:-1]
         except IndexError:
             pass
-    locations_found = [doc[i].text for (_, i, _) in matches]
+    locations_found = [doc[i:j].text for (_, i, j) in matches]
     return matches, locations_found
 
 
@@ -398,11 +398,16 @@ def get_object(ent, sentence, language):
     return obj
 
 
-def check_list_locations(locations, sentence):
+def check_list_locations(locations, sentence, language):
     """
     Check if locations are in a list (e.g. "Kalabo, Chibombo and Lundazi")
     or if they are scattered around the sentence
     """
+
+    and_word = {
+        'french': 'et',
+        'english': 'and'
+    }[language]
     
     list_final = []
 
@@ -439,13 +444,13 @@ def check_list_locations(locations, sentence):
                 merge += sentence[match_locations[cnt][1]:match_locations[cnt+1][1]]
             cnt_num_loc += 1
             list_loc.append(locations[cnt])
-            if ', and' in in_between[cnt]:
+            if ', {}'.format(and_word) in in_between[cnt]:
                 list_loc.append(locations[cnt+1])
                 list_final.append((merge, cnt_num_loc, list_loc))
                 merge = ''
                 cnt_num_loc = 1
                 list_loc = []
-        elif 'and' in in_between[cnt]:
+        elif and_word in in_between[cnt]:
             if cnt_num_loc == 1:
                 merge += sentence[match_locations[cnt][0]:match_locations[cnt+1][1]]
             else:
@@ -457,7 +462,6 @@ def check_list_locations(locations, sentence):
             merge = ''
             cnt_num_loc = 1
             list_loc = []
-
     return list_final
 
 
@@ -687,7 +691,8 @@ def main(config_file, input_filename=None, output_filename_base=None):
                     positions.append(sentence_text.find(loc))
                 locations_found_order = [x for _,x in sorted(zip(positions,locations_found))]
                 # check if some locations are mentioned within a list (e.g. Paris, London and Rome)
-                location_lists = check_list_locations(locations_found_order, sentence_text)
+                location_lists = check_list_locations(locations_found_order, sentence_text,
+                                                      config['language'])
                 # add a list of locations, merging those that are within a list
                 locations_found_merged = locations_found_order.copy()
                 for loc in locations_found_order:
