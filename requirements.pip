@@ -5,7 +5,6 @@ plac<1.0.0,>=0.9.6
 newspaper3k
 spacy
 word2number
-fuzzywuzzy
 openpyxl
 python-Levenshtein
 text2num

@@ -6,11 +6,11 @@ import unicodedata
 
 import plac
 import spacy
+from spacy.matcher import Matcher
 import pandas as pd
 from pandas import ExcelWriter
 from word2number import w2n
 from text_to_num import text2num
-from fuzzywuzzy import process, fuzz
 
 utils = importlib.import_module('utils')
 
@@ -23,16 +23,17 @@ locations_keywords = 'keywords'
 # output directory
 output_directory = 'impact_data'
 
-MIN_LOCATION_STRING_LEN = 2
-
 LANGUAGES_WITH_ENTS = ['english']
 
 CRAZY_NUMBER_CUTOFF = 1E6
 USD_CUTOFF = 1E7
 LOCAL_CURRENCY_CUTOFF = 1E11
 
+LONG_ARTICLE = 50  # considered a long article, perhaps signed by a name
+LOCATION_NAME_WORD_CUTOFF = 10
 
-def LoadLocations(input_folder, country_short):
+
+def load_locations(input_folder, country_short):
     """
     build a dictionary of locations {name: coordinates}
     from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
@@ -40,41 +41,33 @@ def LoadLocations(input_folder, country_short):
     columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG']
     locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t',
                                encoding='utf-8', usecols=columns)
-    # Only choose places with names that have some minimum string length,
-    # in case there are problems with village names like "Dé"
-    locations_df = locations_df[locations_df['FULL_NAME_ND_RO'].apply(
-        lambda x: len(x) >= MIN_LOCATION_STRING_LEN
-    )]
-    # create a dictionary locations : coordinates
-    # locations_dict = dict(zip(locations_df.FULL_NAME_RO,
-    #                          zip(locations_df.LAT, locations_df.LONG)))
-    # return locations_dict
+    # this definitely needs to be refactored to another location,
+    # but anyway if the country is mali take out niger (the river)
+    # or maybe we should not be reading in any of the hydrographic locations?
+    if country_short == 'ml':
+        locations_df = locations_df[locations_df['FULL_NAME_RO'] != "Niger"]
     return locations_df
 
 
-def FindLocations(target_sentence, locations_df):
+def find_locations(doc, locations_df, nlp):
     """
     Find locations of interest in a given text
     """
-
-    locations_found = []
-    text = target_sentence.text
-    
-    # skip non-string values
-    if type(text) != str:
-        print('...text is not a string, done')
-    else:
-        # find locations and append them to list,
-        # use full_name_nd_ro to avoid using accents with fuzzywuzzy
-        #TODO: perhaps can use spacy matching instead?
-        ratio_loc = process.extract(text, locations_df['FULL_NAME_ND_RO'],
-                                    scorer=fuzz.token_set_ratio, limit=100)
-        locations_found = [l for (l, v, i) in ratio_loc if v > 95]
-        # Check if any of the locations are in the text verbatim (the accented version)
-        locations_found_with_accents = locations_df['FULL_NAME_RO'][
-           locations_df['FULL_NAME_ND_RO'].isin(locations_found)]
-        locations_found = [l for l in locations_found_with_accents if l in text]
-    return locations_found
+    # find locations and append them to list
+    matcher = Matcher(nlp.vocab)
+    _ = [matcher.add('locations', None, [{'LOWER': location.lower(), 'POS': pos}])
+         for location in locations_df['FULL_NAME_RO'] for pos in ['NOUN', 'PROPN']]
+    matches = matcher(doc)
+    # As (longer) articles are often signed, toss out last location if it's close to the end
+    # since it is probably someone's name
+    if len(doc) > LONG_ARTICLE:
+        try:
+            if matches[-1][1] > len(doc) - LOCATION_NAME_WORD_CUTOFF:
+                matches = matches[:-1]
+        except IndexError:
+            pass
+    locations_found = [doc[i:j].text for (_, i, j) in matches]
+    return matches, locations_found
 
 
 def normalize_caseless(text):
@@ -177,25 +170,37 @@ def clean(text, language):
         return ''.join([i if (i != '\'') else '' for i in text])
 
 
-def preprocess_titles(text, titles):
+def preprocess_titles(text, titles, language):
+    # Remove proper names of people because they can have names of towns
+
     target_text_edit = text
+    name_replacement = {
+        'english': 'someone',
+        'french': "quelq'un"
+    }[language]
+    name_pattern_query_list = [
+        r'\.\s[A-Za-z]+\s[A-Z][a-z]+',
+        r'\s[A-Za-z]+\s[A-Z][a-z]+',
+        r'\.\s[A-Za-z]+',
+        r'\s[A-Za-z]+',
+    ]
 
     # filter names with titles (Mr., Ms. ...)
-    # important: some people have names of towns!
-    # Does weird stuff for French.
+    # titles are case insensitive
     for title in titles:
-        target_text_edit = re.sub(title+'\.\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
-        target_text_edit = re.sub(title+'\s[A-Za-z]+\s[A-Z][a-z]+', 'someone', target_text_edit)
-        target_text_edit = re.sub(title+'\.\s[A-Za-z]+', 'someone', target_text_edit)
-        target_text_edit = re.sub(title+'\s[A-Za-z]+', 'someone', target_text_edit)
+        for query in name_pattern_query_list:
+            query_string = r'(?i:{title}){query}'.format(title=title, query=query)
+            target_text_edit = re.sub(query_string, name_replacement, target_text_edit)
 
     # filter article signatures
-    pattern_signatures_head = re.compile(r'[A-Z]+\s[A-Z]+\,\s[A-Za-z]+') # e.g. MONICA KAYOMBO, Ndola
-    target_text_edit = re.sub(pattern_signatures_head, '', target_text_edit)
-    pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n Ndola
-    target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
-    pattern_signatures_foot = re.compile(r'[A-Z]+\s[A-Z]+\n\n[A-Za-z]+') # e.g. MONICA KAYOMBO \n\n Ndola
-    target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
+    article_signature_query_list = [
+        r'[A-Z]+\s[A-Z]+\,\s[A-Za-z]+',  # e.g. MONICA KAYOMBO, Ndola
+        r'[A-Z]+\s[A-Z]+\n[A-Za-z]+',  # e.g. MONICA KAYOMBO \n Ndola
+        r'[A-Z]+\s[A-Z]+\n\n[A-Za-z]+',  # e.g. MONICA KAYOMBO \n\n Ndola
+    ]
+    for query in article_signature_query_list:
+        pattern_signatures = re.compile(query)
+        target_text_edit = re.sub(pattern_signatures, '', target_text_edit)
 
     return target_text_edit
 
@@ -393,11 +398,16 @@ def get_object(ent, sentence, language):
     return obj
 
 
-def check_list_locations(locations, sentence):
+def check_list_locations(locations, sentence, language):
     """
     Check if locations are in a list (e.g. "Kalabo, Chibombo and Lundazi")
     or if they are scattered around the sentence
     """
+
+    and_word = {
+        'french': 'et',
+        'english': 'and'
+    }[language]
     
     list_final = []
 
@@ -434,13 +444,13 @@ def check_list_locations(locations, sentence):
                 merge += sentence[match_locations[cnt][1]:match_locations[cnt+1][1]]
             cnt_num_loc += 1
             list_loc.append(locations[cnt])
-            if ', and' in in_between[cnt]:
+            if ', {}'.format(and_word) in in_between[cnt]:
                 list_loc.append(locations[cnt+1])
                 list_final.append((merge, cnt_num_loc, list_loc))
                 merge = ''
                 cnt_num_loc = 1
                 list_loc = []
-        elif 'and' in in_between[cnt]:
+        elif and_word in in_between[cnt]:
             if cnt_num_loc == 1:
                 merge += sentence[match_locations[cnt][0]:match_locations[cnt+1][1]]
             else:
@@ -452,13 +462,11 @@ def check_list_locations(locations, sentence):
             merge = ''
             cnt_num_loc = 1
             list_loc = []
-
     return list_final
 
 
 def most_common(lst):
     return max(set(lst), key=lst.count)
-
 
 
 def sum_values(old_string, new_string, new_addendum, which_impact_label):
@@ -539,7 +547,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
     writer = ExcelWriter(os.path.join(output_directory, output_filename_base+'.xlsx'))
 
     # load location dictionary
-    locations_df = LoadLocations(locations_folder+'/'+config['country'], config['country_short'])
+    locations_df = load_locations(locations_folder + '/' + config['country'], config['country_short'])
     
     # load NLP model
     print("Loading model {}".format(config['model']))
@@ -573,7 +581,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
     currency_short = local_currency_names_short +\
                      ast.literal_eval(keywords['currency_short'])
     local_currency_code = keywords['local_currency_code']
-    local_currency_names_long =  ast.literal_eval(keywords['local_currency_names_long'])
+    local_currency_names_long = ast.literal_eval(keywords['local_currency_names_long'])
     currency_long = local_currency_names_long +\
                     ast.literal_eval(keywords['currency_long'])
     titles = ast.literal_eval(keywords['titles'])
@@ -602,21 +610,19 @@ def main(config_file, input_filename=None, output_filename_base=None):
         article_num = df.iloc[id_row]['Unnamed: 0']
         publication_date = str(df.iloc[id_row]['publish_date'].date())
 
-        if config['language'] == 'french':
-            article_text = preprocess_french_number_words(article_text)
+        article_text = preprocess_french_number_words(article_text)
         article_text = preprocess_numbers(article_text, currency_short)
         article_text = clean(article_text, config['language'])
-        if config['language'] == 'english':
-            article_text = preprocess_titles(article_text, titles)
+        article_text = preprocess_titles(article_text, titles, config['language'])
 
-        # TODO: perhaps use dock_with_title here if article text is below some word count,
+        # TODO: perhaps use doc_with_title here if article text is below some word count,
         #  but need to be careful of duplicates
         doc = nlp(article_text)
 
         # set location (most) mentioned in the document
         # discard documents with no locations
-        location_document = ''
-        locations_document = FindLocations(doc, locations_df)
+        location_matches, locations_document = find_locations(doc, locations_df, nlp)
+
         # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
         loc2_old, loc1_old = '', ''
         for loc1 in locations_document:
@@ -652,7 +658,9 @@ def main(config_file, input_filename=None, output_filename_base=None):
             # get locations mentioned in the sentence
             location_final = ''
             location_lists = []
-            locations_found = list(set(FindLocations(sentence, locations_df)))
+            # Use locations from the full doc
+            locations_found = [doc[i].text for (_, i, _) in location_matches
+                               if sentence.start <= i < sentence.end]
             # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
             loc2_old, loc1_old = '', ''
             for loc1 in locations_found:
@@ -678,13 +686,13 @@ def main(config_file, input_filename=None, output_filename_base=None):
                 # will create a list of locations and later assign it to the closest target
                 location_final = 'TBI'
                 # first, get a list of locations in the order in which they appear in the sentence
-                locations_found_order = []
                 positions = []
                 for loc in locations_found:
                     positions.append(sentence_text.find(loc))
                 locations_found_order = [x for _,x in sorted(zip(positions,locations_found))]
                 # check if some locations are mentioned within a list (e.g. Paris, London and Rome)
-                location_lists = check_list_locations(locations_found_order, sentence_text)
+                location_lists = check_list_locations(locations_found_order, sentence_text,
+                                                      config['language'])
                 # add a list of locations, merging those that are within a list
                 locations_found_merged = locations_found_order.copy()
                 for loc in locations_found_order:
