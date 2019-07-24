@@ -13,15 +13,16 @@ from word2number import w2n
 from text_to_num import text2num
 
 utils = importlib.import_module('utils')
+Article = importlib.import_module('Article')
 
 # location of gazetteers (http://geonames.nga.mil/gns/html/namefiles.html)
-locations_folder = 'locations'
+LOCATIONS_FOLDER = 'locations'
 
 # location of keywords (victims, infrastructures)
 locations_keywords = 'keywords'
 
 # output directory
-output_directory = 'impact_data'
+OUTPUT_DIRECTORY = 'impact_data'
 
 LANGUAGES_WITH_ENTS = ['english']
 
@@ -31,22 +32,6 @@ LOCAL_CURRENCY_CUTOFF = 1E11
 
 LONG_ARTICLE = 50  # considered a long article, perhaps signed by a name
 LOCATION_NAME_WORD_CUTOFF = 10
-
-
-def load_locations(input_folder, country_short):
-    """
-    build a dictionary of locations {name: coordinates}
-    from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
-    """
-    columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG']
-    locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t',
-                               encoding='utf-8', usecols=columns)
-    # this definitely needs to be refactored to another location,
-    # but anyway if the country is mali take out niger (the river)
-    # or maybe we should not be reading in any of the hydrographic locations?
-    if country_short == 'ml':
-        locations_df = locations_df[locations_df['FULL_NAME_RO'] != "Niger"]
-    return locations_df
 
 
 def find_locations(doc, locations_df, nlp):
@@ -533,25 +518,13 @@ def save_in_dataframe(df_impact, location, date, article_num, label, number_or_t
 )
 def main(config_file, input_filename=None, output_filename_base=None):
 
-    config = utils.get_config(config_file)
-    keywords = utils.get_keywords(config_file)
+    article = Article.ArticleGenerator(config_file, LOCATIONS_FOLDER, output_filename_base)
 
     # create output dir if it doesn't exist
-    if not os.path.exists(output_directory):
-        os.makedirs(output_directory)
+    if not os.path.exists(OUTPUT_DIRECTORY):
+        os.makedirs(OUTPUT_DIRECTORY)
 
-    if output_filename_base is None:
-        output_filename_base = 'impact_data_{keyword}_{country}'.format(
-            keyword=config['keyword'], country=config['country']
-        )
-    writer = ExcelWriter(os.path.join(output_directory, output_filename_base+'.xlsx'))
-
-    # load location dictionary
-    locations_df = load_locations(locations_folder + '/' + config['country'], config['country_short'])
-    
-    # load NLP model
-    print("Loading model {}".format(config['model']))
-    nlp = spacy.load(config['model'])
+    writer = ExcelWriter(os.path.join(OUTPUT_DIRECTORY, article.output_filename_base+'.xlsx'))
 
     # load DataFrame with articles
     input_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
