@@ -1,11 +1,9 @@
 import re
 import os
-import ast
 import importlib
 import unicodedata
 
 import plac
-import spacy
 from spacy.matcher import Matcher
 import pandas as pd
 from pandas import ExcelWriter
@@ -19,7 +17,7 @@ Article = importlib.import_module('Article')
 LOCATIONS_FOLDER = 'locations'
 
 # location of keywords (victims, infrastructures)
-locations_keywords = 'keywords'
+LOCATIONS_KEYWORDS = 'keywords'
 
 # output directory
 OUTPUT_DIRECTORY = 'impact_data'
@@ -518,46 +516,17 @@ def save_in_dataframe(df_impact, location, date, article_num, label, number_or_t
 )
 def main(config_file, input_filename=None, output_filename_base=None):
 
-    article = Article.ArticleGenerator(config_file, LOCATIONS_FOLDER, output_filename_base)
+    article_generator = Article.ArticleGenerator(config_file,
+                                                 LOCATIONS_FOLDER,
+                                                 LOCATIONS_KEYWORDS,
+                                                 input_filename=input_filename,
+                                                 output_filename_base=output_filename_base)
 
     # create output dir if it doesn't exist
     if not os.path.exists(OUTPUT_DIRECTORY):
         os.makedirs(OUTPUT_DIRECTORY)
-
-    writer = ExcelWriter(os.path.join(OUTPUT_DIRECTORY, article.output_filename_base+'.xlsx'))
-
-    # load DataFrame with articles
-    input_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
-    if input_filename is None:
-        input_filename = utils.get_inspected_articles_output_filename(config)
-    df = pd.read_csv(os.path.join(input_directory, input_filename), sep='|')
-    # select only relevant ones
-    df = df.drop_duplicates(['title','text'], keep=False)
-
-    # convert all dates into datetime
-    df['publish_date'] = df['publish_date'].apply(pd.to_datetime)
-    print('got ', len(df), 'articles:')
-    print(df['publish_date'].min().strftime('%Y-%m-%d'), ' -- ', df['publish_date'].max().strftime('%Y-%m-%d'))
-    
-    # define keywords
-    type_people = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_people']),
-                              header=None, encoding='latin-1')[0].tolist()
-    type_infrastructure = pd.read_csv(os.path.join(locations_keywords, keywords['filename_type_infrastructures']),
-                                      header=None, encoding='latin-1')[0].tolist()
-    donation = ast.literal_eval(keywords['donation'])
-    type_livelihood = ast.literal_eval(keywords['type_livelihood'])
-    type_people_multiple = ast.literal_eval(keywords['type_people_multiple'])
-    type_people_death = ast.literal_eval(keywords['type_people_death'])
-    list_verb_death = ast.literal_eval(keywords['list_verb_death'])
-    type_house = ast.literal_eval(keywords['type_house'])
-    local_currency_names_short = ast.literal_eval(keywords['local_currency_names_short'])
-    currency_short = local_currency_names_short +\
-                     ast.literal_eval(keywords['currency_short'])
-    local_currency_code = keywords['local_currency_code']
-    local_currency_names_long = ast.literal_eval(keywords['local_currency_names_long'])
-    currency_long = local_currency_names_long +\
-                    ast.literal_eval(keywords['currency_long'])
-    titles = ast.literal_eval(keywords['titles'])
+    writer = ExcelWriter(os.path.join(OUTPUT_DIRECTORY,
+                                      article_generator.output_filename_base+'.xlsx'))
 
     # initialize output DatFrame
     df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[], [], []],
