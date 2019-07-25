@@ -13,7 +13,8 @@ from fuzzywuzzy import fuzz
 import os
 import math
 
-path = re.sub('Scripts', '', os.getcwd()) + '/'
+# path = re.sub('Scripts', '', os.getcwd()) + '/'
+path = re.sub('Scripts', '', os.getcwd()) + '/GitHub/text_mining/Location Finder/'
 path_data = path + 'Data/'
 path_output = path + 'Output/'
 input_name = 'impact_data.pickle'
@@ -59,9 +60,9 @@ for field in ['Location', 'Comments']:
         except:
             pass
         
-        ratio_ward = process.extract(strsearch, ward_list, scorer=fuzz.token_set_ratio)
-        ratio_subcounty = process.extract(strsearch, subcounty_list, scorer=fuzz.token_set_ratio)
-        ratio_county = process.extract(strsearch, county_list, scorer = fuzz.token_set_ratio)
+        ratio_ward = process.extract(strsearch, ward_list, scorer=fuzz.token_sort_ratio)
+        ratio_subcounty = process.extract(strsearch, subcounty_list, scorer=fuzz.token_sort_ratio)
+        ratio_county = process.extract(strsearch, county_list, scorer = fuzz.token_sort_ratio)
         new_county = []
         new_sub = []
         new_ward = []
