@@ -5,22 +5,12 @@ import unicodedata
 
 import plac
 from spacy.matcher import Matcher
-import pandas as pd
-from pandas import ExcelWriter
 from word2number import w2n
 from text_to_num import text2num
 
 utils = importlib.import_module('utils')
-Article = importlib.import_module('Article')
+ImpactTableGenerator = importlib.import_module('ImpactTableGenerator')
 
-# location of gazetteers (http://geonames.nga.mil/gns/html/namefiles.html)
-LOCATIONS_FOLDER = 'locations'
-
-# location of keywords (victims, infrastructures)
-LOCATIONS_KEYWORDS = 'keywords'
-
-# output directory
-OUTPUT_DIRECTORY = 'impact_data'
 
 LANGUAGES_WITH_ENTS = ['english']
 
@@ -57,93 +47,7 @@ def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
 
 
-def preprocess_french_number_words(text):
-    # Since the French model has no entities, need to deal with number words by hand
-    # for now. Could eventually train our own cardinal entity, but in the medium
-    # term this should probably be made a pipeline component, although the text
-    # immutability may be an issue
-    french_number_words = {'millier': 1E3, 'milliers': 1E3,
-                           'million': 1E6, 'millions': 1E6,
-                           'milliard': 1E9, 'milliards': 1E9}
 
-    words = text.split(' ')
-    for i, word in enumerate(words):
-        if word in french_number_words.keys():
-            prev_word = words[i-1]
-            if re.match('^\\d+$', prev_word):
-                number = int(prev_word)
-                need_to_merge = True
-            else:
-                try:
-                    number = text2num(str(prev_word))
-                    need_to_merge = True
-                except ValueError:
-                    number = 2  # Multiply 1 million or whatever by 2
-                    need_to_merge = False
-
-            number *= french_number_words[word]
-            if need_to_merge:
-                search_text = '{}\\s+{}'.format(prev_word, word)
-            else:
-                search_text = word
-            text = re.sub(search_text, str(int(number)), text)
-    return text
-
-
-def preprocess_numbers(text, currencies_short):
-    """
-    Pre-process text
-    """
-    # merge numbers divided by whitespace: 20, 000 --> 20000
-    # Also works with repeated groups, without comma, and with appended currency
-    # e.g. 5 861 052 772FCFA --> 5861052772FCFA (won't work with accents though)
-    numbers_divided = re.findall('\d+(?:\,*\s\d+\w*)+', text)
-    if numbers_divided is not None:
-        for number_divided in numbers_divided:
-            if re.search('(20[0-9]{2}|19[0-9]{2})', number_divided) is not None:
-                continue
-            else:
-                number_merged = re.sub('\,*\s', '', number_divided)
-                text = re.sub(number_divided, number_merged, text)
-
-    # split money: US$20m --> US$ 20000000 or US$20 --> US$ 20
-    numbers_changed = []
-    for currency in currencies_short:
-        currency_regex = re.sub('\$', '\\\$', currency)
-        numbers_divided = re.findall(re.compile(currency_regex+'[0-9.]+\s', re.IGNORECASE), text)
-        for number_divided in numbers_divided:
-            try:
-                number_final = currency + ' ' + re.search('[0-9.]+\s', number_divided)[0]
-                text = re.sub(re.sub('\$', '\\\$', number_divided), number_final, text)
-            except:
-                pass
-        numbers_divided = re.findall(re.compile(currency_regex+'[0-9.]+[a-z]', re.IGNORECASE), text)
-        for number_divided in numbers_divided:
-            try:
-                number_split_curr = re.sub(currency_regex, currency_regex+' ', number_divided)
-                number_isolated = re.search('[0-9.]+[a-z]', number_split_curr)[0]
-                number_text = re.search('[0-9.]+', number_isolated)[0]
-                appendix = re.search('[a-z]', number_isolated)[0].lower()
-                # try to convert number and appendix into one number
-                try:
-                    number = float(number_text)
-                    if appendix == 'b':
-                        number *= 1E9
-                    elif appendix == 'm':
-                        number *= 1E6
-                    elif appendix == 'k':
-                        number *= 1E3
-                    else:
-                        print('money conversion failed (', text, ') !!!')
-                except:
-                    pass
-                number_final = re.sub(appendix, '', str(int(number)))
-                number_final = currency + ' ' + number_final
-                text = re.sub(re.sub('\$', '\\\$', number_divided), number_final, text)
-                numbers_changed.append(number_final)
-            except:
-                pass
-    return text
 
 
 def clean(text, language):
@@ -516,44 +420,15 @@ def save_in_dataframe(df_impact, location, date, article_num, label, number_or_t
 )
 def main(config_file, input_filename=None, output_filename_base=None):
 
-    article_generator = Article.ArticleGenerator(config_file,
-                                                 LOCATIONS_FOLDER,
-                                                 LOCATIONS_KEYWORDS,
-                                                 input_filename=input_filename,
-                                                 output_filename_base=output_filename_base)
+    impact_table_generator = ImpactTableGenerator.ImpactTableGenerator(
+        config_file,
+        input_filename=input_filename,
+        output_filename_base=output_filename_base)
 
-    # create output dir if it doesn't exist
-    if not os.path.exists(OUTPUT_DIRECTORY):
-        os.makedirs(OUTPUT_DIRECTORY)
-    writer = ExcelWriter(os.path.join(OUTPUT_DIRECTORY,
-                                      article_generator.output_filename_base+'.xlsx'))
+    impact_table_generator.loop_over_articles()
 
-    # initialize output DatFrame
-    df_impact = pd.DataFrame(index=pd.MultiIndex(levels=[[], [], []],
-                                                 codes=[[], [], []],
-                                                 names=[u'location',
-                                                        u'date',
-                                                        u'article_num']),
-                             columns=['damage_livelihood', 'damage_general',
-                                      'people_affected', 'people_dead',
-                                      'houses_affected', 'livelihood_affected',
-                                      'infrastructures_affected',
-                                      'infrastructures_mentioned',
-                                      'sentence(s)', 'article_title'])
-
-    # loop over articles
-    n_articles = len(df)
     for id_row in range(n_articles):
-        print("Analyzing article {}/{}...".format(id_row+1, n_articles))
-        article_text = df.iloc[id_row]['text']
-        title = df.iloc[id_row]['title']
-        doc_with_title = title + '.\n' + article_text
 
-        article_num = df.iloc[id_row]['Unnamed: 0']
-        publication_date = str(df.iloc[id_row]['publish_date'].date())
-
-        article_text = preprocess_french_number_words(article_text)
-        article_text = preprocess_numbers(article_text, currency_short)
         article_text = clean(article_text, config['language'])
         article_text = preprocess_titles(article_text, titles, config['language'])
 
