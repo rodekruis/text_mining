@@ -647,6 +647,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
 
             # remove newlines
             sentence_text = re.sub('\n', '', sentence.text)
+            sentence_text = re.sub('\r', '', sentence_text)
             sentence_text = re.sub('-', ' ', sentence_text)
 
             # get locations mentioned in the sentence
