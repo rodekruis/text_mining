@@ -472,12 +472,18 @@ def most_common(lst, locations_df):
     # Find the places(s) with max counts
     counts = [count[1] for count in location_counts]
     idx_max = np.where(np.max(counts) == counts)[0]
-    if len(idx_max) == 1:
-        return lst[idx_max[0]]
-    # If there is more than one location, take the lowest level admin region
-    lst_max = [lst[idx] for idx in idx_max]
-    location_info = locations_df[locations_df['FULL_NAME_RO'].isin(lst_max)]
-    return location_info.groupby('FULL_NAME_RO')['ADM1'].min().idxmin()
+    # Set location to first entry, this works if there is only one location, or as a fallback
+    # if the multiple location handling doesn't work
+    location = lst[idx_max[0]]
+    # If there is more than one location, take the lowest level admin region.
+    if len(idx_max) > 1:
+        try:
+            lst_max = [lst[idx] for idx in idx_max]
+            location_info = locations_df[locations_df['FULL_NAME_RO'].isin(lst_max)]
+            location = location_info.groupby('FULL_NAME_RO')['ADM1'].min().idxmin()
+        except ValueError:  # in case location_info is empty due to string matching problem reasons
+            pass
+    return location
 
 
 def sum_values(old_string, new_string, new_addendum, which_impact_label):
