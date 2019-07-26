@@ -3,6 +3,7 @@ import os
 import ast
 import importlib
 import unicodedata
+from itertools import groupby
 
 import plac
 import spacy
@@ -11,6 +12,7 @@ import pandas as pd
 from pandas import ExcelWriter
 from word2number import w2n
 from text_to_num import text2num
+import numpy as np
 
 utils = importlib.import_module('utils')
 
@@ -38,7 +40,7 @@ def load_locations(input_folder, country_short):
     build a dictionary of locations {name: coordinates}
     from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
     """
-    columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG']
+    columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
     locations_df = pd.read_csv(input_folder+'/'+country_short+'.txt', sep='\t',
                                encoding='utf-8', usecols=columns)
     # this definitely needs to be refactored to another location,
@@ -465,8 +467,17 @@ def check_list_locations(locations, sentence, language):
     return list_final
 
 
-def most_common(lst):
-    return max(set(lst), key=lst.count)
+def most_common(lst, locations_df):
+    location_counts = [(i, len(list(c))) for i, c in groupby(sorted(lst))]
+    # Find the places(s) with max counts
+    counts = [count[1] for count in location_counts]
+    idx_max = np.where(np.max(counts) == counts)[0]
+    if len(idx_max) == 1:
+        return lst[idx_max[0]]
+    # If there is more than one location, take the lowest level admin region
+    lst_max = [lst[idx] for idx in idx_max]
+    location_info = locations_df[locations_df['FULL_NAME_RO'].isin(lst_max)]
+    return location_info.groupby('FULL_NAME_RO')['ADM1'].min().idxmin()
 
 
 def sum_values(old_string, new_string, new_addendum, which_impact_label):
@@ -642,7 +653,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
             location_document = locations_document[0]
         elif len(locations_document) > 1:
             # multiple locations mentioned, take the most common
-            location_document = most_common(locations_document)
+            location_document = most_common(locations_document, locations_df)
         elif len(locations_document) == 0:
             # no location mentioned, document not useful
             print('WARNING: no locations mentioned in document')
