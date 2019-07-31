@@ -738,7 +738,8 @@ def main(config_file, input_filename=None, output_filename_base=None):
             for ent in ents:
                 # get entity text and clean it
                 ent_text = re.sub('\n', '', ent.text).strip()
-                if ent_text == '':
+                # check if empty entity text or entity text is a year
+                if ent_text == '' or re.search('(20(?!00)[0-9]{2})', ent_text):
                     continue
                 number = '' # number associated to entity
                 addendum = '' # extra info (currency or object)
