@@ -16,4 +16,10 @@ def test_e2e():
     os.system(cmd)
     df_prev = pd.read_csv(os.path.join('tests', OLD_RESULTS+'.csv'), delimiter='|')
     df_new = pd.read_csv(os.path.join('tests', NEW_RESULTS+'.csv'), delimiter='|')
-    assert(df_prev.equals(df_new))
+    for idx, row in df_prev.iterrows():
+        for col, old_val in row.items():
+            new_val = df_new.iloc[idx][col]
+            if pd.isna(old_val):
+                assert pd.isna(new_val)
+            else:
+                assert old_val == new_val
