@@ -738,9 +738,16 @@ def main(config_file, input_filename=None, output_filename_base=None):
             for ent in ents:
                 # get entity text and clean it
                 ent_text = re.sub('\n', '', ent.text).strip()
-                # check if empty entity text or entity text is a year
-                if ent_text == '' or re.search('(20(?!00)[0-9]{2})', ent_text):
+                # check if empty entity text
+                if ent_text == '':
                     continue
+                # check if number is a year
+                try:
+                    if int(ent_text) in range(2001,2041):
+                        continue
+                except ValueError:
+                    pass
+
                 number = '' # number associated to entity
                 addendum = '' # extra info (currency or object)
                 impact_label = '' # label specifying the nature of the impact data
