@@ -45,7 +45,6 @@ class ImpactTableGenerator:
 
         # get keywords
         self.keywords = ImpactTableGenerator._get_keywords(config_file)
-        logger.info(self.keywords.keys())
 
         # prepare output
         if output_filename_base is None:
@@ -56,14 +55,34 @@ class ImpactTableGenerator:
         if not os.path.exists(OUTPUT_DIRECTORY):
             os.makedirs(OUTPUT_DIRECTORY)
         self.writer = ExcelWriter(os.path.join(OUTPUT_DIRECTORY,
-                                          self.output_filename_base+'.xlsx'))
+                                  self.output_filename_base+'.xlsx'))
         self.df_impact = ImpactTableGenerator._make_df_impact()
 
     def loop_over_articles(self):
-        for id_row in range(len(self.articles_df)):
-            logger.info("Analyzing article {}/{}...".format(id_row+1, len(self.articles_df)))
-            article = Article.Article(self, id_row)
+        n_articles = len(self.articles_df)
+        for id_row in range(n_articles):
+            logger.info("Analyzing article {}/{}...".format(id_row+1, n_articles))
+            article = Article.Article(self.articles_df.iloc[id_row],
+                                      self.language,
+                                      self.keywords,
+                                      self.nlp,
+                                      self.locations_df)
+            article.analyze(self.language, self.keywords, self.df_impact )
 
+            print("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
+            self.df_impact.to_csv(os.path.join(OUTPUT_DIRECTORY, self.output_filename_base+'.csv'),
+                             mode='w', encoding='utf-8', sep='|')
+            self.df_impact.to_excel(self.writer, 'Sheet1')
+            self.writer.save()
+
+        print('found ', len(self.df_impact), ' entries')
+        self.df_impact.dropna(how='all', inplace=True)
+        print(self.df_impact.describe())
+        print(self.df_impact.head())
+        self.df_impact.to_csv(os.path.join(OUTPUT_DIRECTORY, self.output_filename_base+'.csv'),
+                         mode='w', encoding='utf-8', sep='|')
+        self.df_impact.to_excel(self.writer, 'Sheet1')
+        self.writer.save()
 
     @staticmethod
     def _make_df_impact():
@@ -107,6 +126,7 @@ class ImpactTableGenerator:
                         'type_livelihood',
                         'type_people_multiple',
                         'type_people_death',
+                        'list_verb_death',
                         'type_house',
                         'local_currency_names_short',
                         'currency_short',
