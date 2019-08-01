@@ -68,6 +68,11 @@ def find_locations(doc, locations_df, nlp):
                 matches = matches[:-1]
         except IndexError:
             pass
+    # Delete any matches that are person entities
+    for ent in doc.ents:
+        if ent.label_ == 'PER':
+            matches = [match for match in matches
+                       if doc[match[1]:match[2]].text not in ent.text]
     locations_found = [doc[i:j].text for (_, i, j) in matches]
     return matches, locations_found
 
@@ -507,7 +512,6 @@ def sum_values(old_string, new_string, new_addendum, which_impact_label):
         final_number = str(int(old_string) + int(new_string))
 
     else:
-        #TODO: figure out why this isn't catching all duplicate sentences
         if (new_string.lower() not in old_string.lower() and
                 old_string.lower() not in new_string.lower()):
               final_number = old_string + ', ' + new_string
@@ -677,7 +681,7 @@ def main(config_file, input_filename=None, output_filename_base=None):
             location_final = ''
             location_lists = []
             # Use locations from the full doc
-            locations_found = [doc[i].text for (_, i, _) in location_matches
+            locations_found = [doc[i:j].text for (_, i, j) in location_matches
                                if sentence.start <= i < sentence.end]
             # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
             loc2_old, loc1_old = '', ''
