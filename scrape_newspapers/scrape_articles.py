@@ -11,7 +11,7 @@ from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import \
-    NoSuchElementException, TimeoutException, InvalidArgumentException
+    NoSuchElementException, TimeoutException, InvalidArgumentException, WebDriverException
 import pandas as pd
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
@@ -194,7 +194,7 @@ def main(config_file):
         news_url += '?s='+config['keyword']
         try:
             browser.get(news_url)
-        except TimeoutException:
+        except (TimeoutException, WebDriverException):
             print('Unable to access, skipping')
             continue
 
@@ -243,7 +243,7 @@ def main(config_file):
         output_name = 'articles_{keyword}_{news_name}.csv'.format(
             keyword=config['keyword'], news_name=news_name)
         output_dir_news = os.path.join(output_dir, output_name)
-        articles_news.to_csv(output_dir_news, sep='|')
+        articles_news.to_csv(output_dir_news, sep='|', index=False)
 
     print("\nFINISHED PROCESSING *****************************")
     # print("\nSummary")
