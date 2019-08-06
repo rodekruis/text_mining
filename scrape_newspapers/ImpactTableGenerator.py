@@ -28,7 +28,8 @@ class ImpactTableGenerator:
     def __init__(self,
                  config_file,
                  input_filename=None,
-                 output_filename_base=None):
+                 output_filename_base=None,
+                 output_directory=None):
 
         # create parameters
         self.__dict__.update(utils.get_config(config_file))
@@ -51,10 +52,14 @@ class ImpactTableGenerator:
             output_filename_base = 'impact_data_{keyword}_{country}'.format(
                 keyword=self.keyword, country=self.country)
         self.output_filename_base = output_filename_base
+        if output_directory is None:
+            self.output_directory = OUTPUT_DIRECTORY
+        else:
+            self.output_directory = output_directory
 
-        if not os.path.exists(OUTPUT_DIRECTORY):
-            os.makedirs(OUTPUT_DIRECTORY)
-        self.writer = ExcelWriter(os.path.join(OUTPUT_DIRECTORY,
+        if not os.path.exists(self.output_directory):
+            os.makedirs(self.output_directory)
+        self.writer = ExcelWriter(os.path.join(self.output_directory,
                                   self.output_filename_base+'.xlsx'))
         self.df_impact = ImpactTableGenerator._make_df_impact()
 
@@ -70,7 +75,7 @@ class ImpactTableGenerator:
             article.analyze(self.language, self.keywords, self.df_impact )
 
             print("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
-            self.df_impact.to_csv(os.path.join(OUTPUT_DIRECTORY, self.output_filename_base+'.csv'),
+            self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
                              mode='w', encoding='utf-8', sep='|')
             self.df_impact.to_excel(self.writer, 'Sheet1')
             self.writer.save()
@@ -79,7 +84,7 @@ class ImpactTableGenerator:
         self.df_impact.dropna(how='all', inplace=True)
         print(self.df_impact.describe())
         print(self.df_impact.head())
-        self.df_impact.to_csv(os.path.join(OUTPUT_DIRECTORY, self.output_filename_base+'.csv'),
+        self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
                          mode='w', encoding='utf-8', sep='|')
         self.df_impact.to_excel(self.writer, 'Sheet1')
         self.writer.save()

@@ -62,7 +62,7 @@ class Ents:
                 ent_text = re.sub('\n', '', ent_text)
                 for idx, (loc, num, loc_sublist) in enumerate(location_final):
                     pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(ent_text)+'|'+re.escape(ent_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
-                    distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(ent_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, sentence_text)]
+                    distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(ent_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances_locations_entities, key=lambda t: t[1])
                 # if closest location is a list, location_impact_data will be a list of strings
                 # otherwise just a string

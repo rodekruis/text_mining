@@ -13,8 +13,6 @@ class Sentence:
         self.sentence_text = re.sub('\n', ' ', self.sentence.text)
         self.sentence_text = re.sub('-', ' ', self.sentence_text)
 
-        # get locations mentioned in the sentence
-        location_lists = []
         # Use locations from the full doc
         self.locations_found = [doc[i].text for (_, i, _) in location_matches
                                 if sentence.start <= i < sentence.end]
@@ -56,7 +54,7 @@ class Sentence:
             if type(self.location_final) is list:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
-                for idx, (loc, num, loc_sublist) in enumerate(location_lists):
+                for idx, (loc, num, loc_sublist) in enumerate(self.location_final):
                     pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
                     distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(inf_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances_locations_entities, key = lambda t: t[1])
