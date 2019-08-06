@@ -1,7 +1,9 @@
 import re
 import logging
 import importlib
+from itertools import groupby
 
+import numpy as np
 from text_to_num import text2num
 from spacy.matcher import Matcher
 
@@ -42,9 +44,8 @@ class Article:
         # set location (most) mentioned in the document
         # discard documents with no locations
         self._find_locations(locations_df, nlp)
-        self._get_doc_location()
         self.locations, self.doc_with_title = Sentence.clean_locations(self.locations, self.doc_with_title)
-        self._get_doc_location()
+        self._get_doc_location(locations_df)
 
     def analyze(self, language, keywords, df_impact):
         if self.location is None:
@@ -54,17 +55,17 @@ class Article:
             sentence = Sentence.Sentence(s, self.doc, self.location_matches, language, self.location)
             final_info_list = sentence.analyze(keywords, language)
             for (location, impact_label, number, addendum) in final_info_list:
-                 _save_in_dataframe(df_impact, location,
-                                        self.publication_date, self.article_num, impact_label,
-                                        number, addendum, sentence.sentence_text, self.title)
+                _save_in_dataframe(df_impact, location,
+                                   self.publication_date, self.article_num, impact_label,
+                                   number, addendum, sentence.sentence_text, self.title)
 
-    def _get_doc_location(self):
+    def _get_doc_location(self, locations_df):
         if len(self.locations) == 1:
             # easy case, document mentions one location only
             self.location = self.locations[0]
         elif len(self.locations) > 1:
             # multiple locations mentioned, take the most common
-            self.location = _most_common(self.locations)
+            self.location = _most_common(self.locations, locations_df)
         elif len(self.locations) == 0:
             # no location mentioned, document not useful
             self.location = None
@@ -215,8 +216,23 @@ class Article:
                 self.text = re.sub(search_text, str(int(number)), self.text)
 
 
-def _most_common(lst):
-    return max(set(lst), key=lst.count)
+def _most_common(lst, locations_df):
+    location_counts = [(i, len(list(c))) for i, c in groupby(sorted(lst))]
+    # Find the places(s) with max counts
+    counts = [count[1] for count in location_counts]
+    idx_max = np.where(np.max(counts) == counts)[0]
+    # Set location to first entry, this works if there is only one location, or as a fallback
+    # if the multiple location handling doesn't work
+    location = lst[idx_max[0]]
+    # If there is more than one location, take the lowest level admin region.
+    if len(idx_max) > 1:
+        try:
+            lst_max = [lst[idx] for idx in idx_max]
+            location_info = locations_df[locations_df['FULL_NAME_RO'].isin(lst_max)]
+            location = location_info.groupby('FULL_NAME_RO')['ADM1'].min().idxmin()
+        except ValueError:  # in case location_info is empty due to string matching problem reasons
+            pass
+    return location
 
 
 def _save_in_dataframe(df_impact, location, date, article_num, label, number_or_text, addendum, sentence, title):

@@ -160,7 +160,7 @@ class ImpactTableGenerator:
         from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
         """
         input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short+'.txt')
-        columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG']
+        columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
         locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
         # this definitely needs to be refactored to another location,
         # but anyway if the country is mali take out niger (the river)
