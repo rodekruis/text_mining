@@ -129,7 +129,7 @@ The entities are then looped through in the `analyze()` method,
 checking whether each entity is money, otherwise trying to determine 
 which object it refers to. Finally, a location is assigned to the entity.
 
-#### Usage:
+#### Usage
 ```
 get_impact_data.py [-h] [-i None] [-o None] [-d None] config_file
 
@@ -157,4 +157,23 @@ Output: .csv and .xlsx files with the following structure :
                                                     'infrastructures_mentioned',
                                                     'sentence(s)', 'article_title']]
 ```
+
+#### End-to-end test
+
+The file `articles_processed/tests/articles_test_inondation_Mali.csv` 
+contains some article examples that are used for an end-to-end test.
+The test can be run by executing `pytest` in the `scrape_newspapers`
+directory.
+
+The expected output file is 
+`tests/impact_data_test_inondation_Mali_prev.csv` and the output
+produced by your current version of the script will be named
+`impact_data_test_inondation_Mali_new.csv`. The test will simply
+tell you if the two output files differ.
+
+You may sometimes make changes that improve the output results,
+in which case you can move the `new` file to the `prev` file
+and commit it to git. Also, please add any funny edge cases to
+the list of example articles. 
+
 author: Jacopo Margutti, 2019
