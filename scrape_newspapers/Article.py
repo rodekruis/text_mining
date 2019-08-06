@@ -86,6 +86,11 @@ class Article:
                     matches = matches[:-1]
             except IndexError:
                 pass
+        # Delete any matches that are person entities
+        for ent in self.doc.ents:
+            if ent.label_ == 'PER':
+                matches = [match for match in matches
+                           if self.doc[match[1]:match[2]].text not in ent.text]
         self.location_matches = matches
         self.locations = [self.doc[i:j].text for (_, i, j) in self.location_matches]
 

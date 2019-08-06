@@ -14,7 +14,7 @@ class Sentence:
         self.sentence_text = re.sub('-', ' ', self.sentence_text)
 
         # Use locations from the full doc
-        self.locations_found = [doc[i].text for (_, i, _) in location_matches
+        self.locations_found = [doc[i:j].text for (_, i, _) in location_matches
                                 if sentence.start <= i < sentence.end]
         self.locations_found, self.sentence_text = clean_locations(self.locations_found, self.sentence_text)
 
