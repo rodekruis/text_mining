@@ -23,7 +23,7 @@ locations_folder = 'locations'
 locations_keywords = 'keywords'
 
 # output directory
-output_directory = 'impact_data'
+OUTPUT_DIRECTORY = 'impact_data'
 
 LANGUAGES_WITH_ENTS = ['english']
 
@@ -550,14 +550,17 @@ def save_in_dataframe(df_impact, location, date, article_num, label, number_or_t
 @plac.annotations(
     config_file="Configuration file",
     input_filename=("Optional input filename", "option", "i", str),
-    output_filename_base=("Optional output filename base", "option", "o", str)
+    output_filename_base=("Optional output filename base", "option", "o", str),
+    output_directory=("Optional output directory", "option", "d", str)
 )
-def main(config_file, input_filename=None, output_filename_base=None):
+def main(config_file, input_filename=None, output_filename_base=None, output_directory=None):
 
     config = utils.get_config(config_file)
     keywords = utils.get_keywords(config_file)
 
     # create output dir if it doesn't exist
+    if output_directory is None:
+        output_directory = OUTPUT_DIRECTORY
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
