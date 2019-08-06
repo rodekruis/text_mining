@@ -27,8 +27,16 @@ class Ents:
         for ent in self.ents:
             # get entity text and clean it
             ent_text = re.sub('\n', '', ent.text).strip()
+            # check if empty entity text
             if ent_text == '':
                 continue
+            # check if number is a year
+            try:
+                if int(ent_text) in range(2001,2041):
+                    continue
+            except ValueError:
+                pass
+
             is_money, currency_found = self._check_if_money(ent_text,
                                                             keywords['currency_short'], keywords['currency_long'],
                                                             keywords['local_currency_names_short'],
