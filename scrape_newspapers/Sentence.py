@@ -10,7 +10,8 @@ class Sentence:
         self.sentence = sentence
 
         # remove newlines
-        self.sentence_text = re.sub('\n', ' ', self.sentence.text)
+        self.sentence_text = re.sub('\n', '', self.sentence.text)
+        self.sentence_text = re.sub('\r', '', self.sentence_text)
         self.sentence_text = re.sub('-', ' ', self.sentence_text)
 
         # Use locations from the full doc
