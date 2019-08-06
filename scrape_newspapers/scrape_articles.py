@@ -243,7 +243,7 @@ def main(config_file):
         output_name = 'articles_{keyword}_{news_name}.csv'.format(
             keyword=config['keyword'], news_name=news_name)
         output_dir_news = os.path.join(output_dir, output_name)
-        articles_news.to_csv(output_dir_news, sep='|')
+        articles_news.to_csv(output_dir_news, sep='|', index=False)
 
     print("\nFINISHED PROCESSING *****************************")
     # print("\nSummary")
