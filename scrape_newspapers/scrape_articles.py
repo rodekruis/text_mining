@@ -228,11 +228,7 @@ def main(config_file):
                 print("Can't open page, abandoning news source")
                 break
             print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
-            try:
-                articles_page = ProcessPage(browser, news_name, news_url)
-            except:
-                print('Unexpected error: ', sys.exc_info()[0])
-                break
+            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url)
             articles_news = articles_news.append(articles_page)
             page_number += 1
 
