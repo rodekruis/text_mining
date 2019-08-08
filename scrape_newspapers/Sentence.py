@@ -176,7 +176,6 @@ class Sentence:
             # no locations mentioned in the sentence, use the paragraph one
             self.location_final = location_article
 
-
 def clean_locations(locations, text_to_replace):
     # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
     loc2_old, loc1_old = '', ''

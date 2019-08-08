@@ -1,7 +1,9 @@
 import re
+import networkx as nx
 
 from word2number import w2n
 from text_to_num import text2num
+
 
 LANGUAGES_WITH_ENTS = ['english']
 
@@ -61,23 +63,16 @@ class Ents:
             # assign location
             location_impact_data = location_final
 
-            # if multiple locations or lists of locations are found
-            # check which is the closest one to the impact data
+            # locations found contains multiple locations
             if type(location_final) is list:
-                # compute distances between entity (i.e. impact data) and locations, choose the closest one
-                distances_locations_entities = []
-                ent_text = ent_text.strip()
-                ent_text = re.sub('\n', '', ent_text)
-                for idx, (loc, num, loc_sublist) in enumerate(location_final):
-                    pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(ent_text)+'|'+re.escape(ent_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
-                    distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(ent_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, self.sentence_text)]
-                closest_entity = min(distances_locations_entities, key=lambda t: t[1])
-                # if closest location is a list, location_impact_data will be a list of strings
-                # otherwise just a string
-                if closest_entity[2] > 1:
-                    location_impact_data = closest_entity[3] # get list of locations in the list
+                # relevant location unknown
+                if len(location_final) > 1:
+                    # get dependency tree
+                    self._get_dependency_graph(self.sentence)
+                    location_impact_data = self._deal_with_multiple_locations(location_final, ent, ent_text)
+                # final location is a single list of locations
                 else:
-                    location_impact_data = closest_entity[0]
+                    location_impact_data = location_final[0][2]
 
             # get final info
             if type(location_impact_data) is str:
@@ -103,6 +98,68 @@ class Ents:
                         continue
                     final_info_list.append([location, impact_label, number_divided, addendum])
         return final_info_list
+
+    def _get_dependency_graph(self, sentence):
+        edges = []
+
+        for token in sentence:
+            for child in token.children:
+                edges.append(('{0}'.format(token.idx), '{0}'.format(child.idx)))
+        try:
+            self.dependency_graph = nx.Graph(edges)
+        except nx.NetworkXError:
+            print('WARNING: Could not generate dependency tree')
+            return
+
+    def _deal_with_multiple_locations(self, locations, ent, ent_text):
+        # check if dependency tree exists
+        if self.dependency_graph:
+            distances = []
+            for idx, (location, num, loc_sublist) in enumerate(locations):
+                # get dependency distances
+                dep_distances = []
+                for loc in loc_sublist:
+                    # get original index (as used in dep graph) of location
+                    loc_index = [token.idx for token in self.sentence if token.text == loc]
+                    dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.idx), target=str(loc_index[0])))
+                dep_distance = min(dep_distances)
+
+                # get regular distance
+                pattern_entity = re.compile(str(
+                    '(' + re.escape(location) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
+                        ent_text) + '(.*)' + re.escape(location) + ')'), re.IGNORECASE)
+                match = re.search(pattern_entity, self.sentence_text)
+                distance = match.end() - match.start() - len(location) - len(ent_text)
+
+                distances.append((loc_sublist, dep_distance,distance))
+            # find min dependency distance
+            min_dep_distances = [location for location in distances if location[1] == min(distances,  key = lambda t: t[1])[1]]
+
+            # if multiple locations corresponds with minimum dependency distance
+            if len(min_dep_distances) > 1:
+                # check regular distance
+                closest_entity = min(min_dep_distances, key = lambda t: t[2])[0]
+            else:
+                #select location with minimum dependency distance
+                closest_entity = min_dep_distances[0][0]
+        else:
+            # check only regular distance if dependency tree is unavailable
+            for idx, (location, num, loc_sublist) in enumerate(locations):
+                pattern_entity = re.compile(str(
+                    '(' + re.escape(location) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
+                        ent_text) + '(.*)' + re.escape(location) + ')'), re.IGNORECASE)
+                distances += [(loc_sublist, len(chunk[0]) - len(location) - len(ent_text))
+                                                     for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                closest_entity = min(distances, key=lambda t: t[1])[0]
+
+        # if closest location is a list, location_impact_data will be a list of strings
+        # otherwise just a string
+        if len(closest_entity) == 1:
+            location_impact_data = closest_entity[0]
+        else:
+            location_impact_data = closest_entity
+
+        return location_impact_data
 
     def _deal_with_object(self, ent, ent_text, language, keywords):
         # get the object, i.e. what the number refers to
