@@ -28,7 +28,7 @@ class Article:
 
         self.text = df_row['text']
         self.title = df_row['title']
-        self.doc_with_title = self.title + '.\n' + self.text
+        self.text_with_title = self.title + '.\n' + self.text
         self.article_num = df_row['Unnamed: 0']
         self.publication_date = str(df_row['publish_date'].date())
 
@@ -37,15 +37,18 @@ class Article:
         self._clean(language)
         self._preprocess_titles(keywords['titles'], language)
 
-        # TODO: perhaps use doc_with_title here if article text is below some word count,
+        # TODO: perhaps use text_with_title here if article text is below some word count,
         #  but need to be careful of duplicates
         self.doc = nlp(self.text)
 
-        # set location (most) mentioned in the document
-        # discard documents with no locations
-        self._find_locations(locations_df, nlp)
-        self.locations, self.doc_with_title = Sentence.clean_locations(self.locations, self.doc_with_title)
-        self._get_doc_location(locations_df)
+        # set location from title, or most mentioned in document
+        self.location_matches, self.locations = Article._find_locations(
+            self.doc, locations_df, nlp)
+        _, self.locations_title = Article._find_locations(
+            nlp(self.title), locations_df, nlp)
+        self.locations, self.text = Sentence.clean_locations(self.locations, self.text)
+        self.locations_title, self.title = Sentence.clean_locations(self.locations_title, self.title)
+        self.location = self._get_doc_location(locations_df)
 
     def analyze(self, language, keywords, df_impact):
         if self.location is None:
@@ -60,17 +63,24 @@ class Article:
                                    number, addendum, sentence.sentence_text, self.title)
 
     def _get_doc_location(self, locations_df):
-        if len(self.locations) == 1:
-            # easy case, document mentions one location only
-            self.location = self.locations[0]
-        elif len(self.locations) > 1:
-            # multiple locations mentioned, take the most common
-            self.location = _most_common(self.locations, locations_df)
-        elif len(self.locations) == 0:
-            # no location mentioned, document not useful
-            self.location = None
+        location = Article._determine_location(self.locations_title, locations_df)
+        if location is None:
+            location = Article._determine_location(self.locations, locations_df)
+        return location
 
-    def _find_locations(self, locations_df, nlp):
+    @staticmethod
+    def _determine_location(locations, locations_df):
+        location = None  # no location mentioned, document not useful
+        if len(locations) == 1:
+            # easy case, document mentions one location only
+            location = locations[0]
+        elif len(locations) > 1:
+            # multiple locations mentioned, take the most common
+            location = _most_common(locations, locations_df)
+        return location
+
+    @staticmethod
+    def _find_locations(doc, locations_df, nlp):
         """
         Find locations of interest in a given text
         """
@@ -78,22 +88,18 @@ class Article:
         matcher = Matcher(nlp.vocab)
         _ = [matcher.add('locations', None, [{'LOWER': location.lower(), 'POS': pos}])
              for location in locations_df['FULL_NAME_RO'] for pos in ['NOUN', 'PROPN']]
-        matches = matcher(self.doc)
+        matches = matcher(doc)
         # As (longer) articles are often signed, toss out last location if it's close to the end
         # since it is probably someone's name
-        if len(self.doc) > LONG_ARTICLE:
+        if len(doc) > LONG_ARTICLE:
             try:
-                if matches[-1][1] > len(self.doc) - LOCATION_NAME_WORD_CUTOFF:
+                if matches[-1][1] > len(doc) - LOCATION_NAME_WORD_CUTOFF:
                     matches = matches[:-1]
             except IndexError:
                 pass
-        # Delete any matches that are person entities
-        for ent in self.doc.ents:
-            if ent.label_ == 'PER':
-                matches = [match for match in matches
-                           if self.doc[match[1]:match[2]].text not in ent.text]
-        self.location_matches = matches
-        self.locations = [self.doc[i:j].text for (_, i, j) in self.location_matches]
+        location_matches = matches
+        locations = [doc[i:j].text for (_, i, j) in location_matches]
+        return location_matches, locations
 
     def _preprocess_titles(self, titles, language):
         # Remove proper names of people because they can have names of towns
