@@ -108,6 +108,7 @@ class Ents:
         try:
             self.dependency_graph = nx.Graph(edges)
         except nx.NetworkXError:
+            self.dependency_graph = None
             print('WARNING: Could not generate dependency tree')
             return
 
