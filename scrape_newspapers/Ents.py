@@ -60,43 +60,30 @@ class Ents:
                 print('WARNING: impact_label NOT ASSIGNED !!!')
                 continue
 
-            # assign location
-            location_impact_data = location_final
-
-            # locations found contains multiple locations
-            if type(location_final) is list:
-                # relevant location unknown
-                if len(location_final) > 1:
-                    # get dependency tree
-                    self._get_dependency_graph(self.sentence)
-                    location_impact_data = self._deal_with_multiple_locations(location_final, ent, ent_text)
-                # final location is a single list of locations
+            # check if relevant location is unknown (single list of multiple locations counts as 1 relevant location found)
+            if len(location_final) > 1:
+                # get dependency tree
+                self._get_dependency_graph(self.sentence)
+                closest_entity = self._deal_with_multiple_locations(location_final, ent, ent_text)
+            else:  #final location is a single (list of) location(s)
+                if location_final[0] is tuple:
+                    closest_entity = location_final[0][1] # final location is single list of locations saved as tuple (loc_string, loc_list)
                 else:
-                    location_impact_data = location_final[0][2]
+                    closest_entity = location_final # final location is single location
 
-            # get final info
-            if type(location_impact_data) is str:
-                location_impact_data = location_impact_data.strip()
+            # save location(s) and corresponding entity
+            try:
+                number_divided = str(int(int(number)/len(closest_entity)))
+            except ValueError:
+                print('division failed: ', number)
+                number_divided = number
+            for location in closest_entity:
+                location = location.strip()
                 # safety check
-                if location_impact_data == '':
+                if location == '':
                     print('WARNING: location_impact_data NOT FOUND !!!')
                     continue
-                final_info_list.append([location_impact_data, impact_label, number, addendum])
-            elif type(location_impact_data) is list:
-                # multiple locations, divide impact data equally among them
-                number_divided = ''
-                try:
-                    number_divided = str(int(int(number)/len(location_impact_data)))
-                except ValueError:
-                    print('division failed: ', number)
-                    number_divided = number
-                for location in location_impact_data:
-                    location = location.strip()
-                    # safety check
-                    if location == '':
-                        print('WARNING: location_impact_data NOT FOUND !!!')
-                        continue
-                    final_info_list.append([location, impact_label, number_divided, addendum])
+                final_info_list.append([location, impact_label, number_divided, addendum])
         return final_info_list
 
     def _get_dependency_graph(self, sentence):
@@ -116,10 +103,10 @@ class Ents:
         # check if dependency tree exists
         if self.dependency_graph:
             distances = []
-            for idx, (location, num, loc_sublist) in enumerate(locations):
+            for idx, (loc_string, loc_list) in enumerate(locations):
                 # get dependency distances
                 dep_distances = []
-                for loc in loc_sublist:
+                for loc in loc_list:
                     # get original index (as used in dep graph) of location
                     loc_index = [token.idx for token in self.sentence if token.text == loc]
                     dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.idx), target=str(loc_index[0])))
@@ -127,12 +114,12 @@ class Ents:
 
                 # get regular distance
                 pattern_entity = re.compile(str(
-                    '(' + re.escape(location) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
-                        ent_text) + '(.*)' + re.escape(location) + ')'), re.IGNORECASE)
+                    '(' + re.escape(loc_string) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
+                        ent_text) + '(.*)' + re.escape(loc_string) + ')'), re.IGNORECASE)
                 match = re.search(pattern_entity, self.sentence_text)
-                distance = match.end() - match.start() - len(location) - len(ent_text)
+                distance = match.end() - match.start() - len(loc_string) - len(ent_text)
 
-                distances.append((loc_sublist, dep_distance,distance))
+                distances.append((loc_list, dep_distance,distance))
             # find min dependency distance
             min_dep_distances = [location for location in distances if location[1] == min(distances,  key = lambda t: t[1])[1]]
 
@@ -145,22 +132,15 @@ class Ents:
                 closest_entity = min_dep_distances[0][0]
         else:
             # check only regular distance if dependency tree is unavailable
-            for idx, (location, num, loc_sublist) in enumerate(locations):
+            for idx, (loc_string, loc_list) in enumerate(locations):
                 pattern_entity = re.compile(str(
-                    '(' + re.escape(location) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
-                        ent_text) + '(.*)' + re.escape(location) + ')'), re.IGNORECASE)
-                distances += [(loc_sublist, len(chunk[0]) - len(location) - len(ent_text))
+                    '(' + re.escape(loc_string) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
+                        ent_text) + '(.*)' + re.escape(loc_string) + ')'), re.IGNORECASE)
+                distances += [(loc_list, len(chunk[0]) - len(loc_string) - len(ent_text))
                                                      for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances, key=lambda t: t[1])[0]
 
-        # if closest location is a list, location_impact_data will be a list of strings
-        # otherwise just a string
-        if len(closest_entity) == 1:
-            location_impact_data = closest_entity[0]
-        else:
-            location_impact_data = closest_entity
-
-        return location_impact_data
+        return closest_entity
 
     def _deal_with_object(self, ent, ent_text, language, keywords):
         # get the object, i.e. what the number refers to

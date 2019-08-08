@@ -45,45 +45,31 @@ class Sentence:
 
         info_list = []
         for infrastructure in int_inf_in_sent:
-            # assign location
-            location_infrastructure = self.location_final
             inf_text = infrastructure.text.strip()
             inf_text = re.sub('\n', '', inf_text)
 
             # if multiple locations (or lists of locations) are found
             # check which is the closest one to the impact data
-            if type(self.location_final) is list:
+            if len(self.location_final) > 1:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
-                for idx, (loc, num, loc_sublist) in enumerate(self.location_final):
-                    pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
-                    distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(inf_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, self.sentence_text)]
-                closest_entity = min(distances_locations_entities, key = lambda t: t[1])
-                # if closest location is a list, location_impact_data will be a list of strings
-                # otherwise just a string
-                if closest_entity[2] > 1:
-                    location_infrastructure = closest_entity[3] # get list of locations in the list
+                for idx, (loc_string, loc_list) in enumerate(self.location_final):
+                    pattern_entity = re.compile(str('('+re.escape(loc_string)+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(loc_string)+')'), re.IGNORECASE)
+                    distances_locations_entities += [(loc_list, len(chunk[0])-len(loc_string)-len(inf_text)) for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
+            else:   # final location is a single (list of) location(s)
+                if self.location_final[0] is tuple:
+                    closest_entity = self.location_final[0][1] # final location is single list of locations saved as tuple (loc_string, loc_list)
                 else:
-                    location_infrastructure = closest_entity[0]
+                    closest_entity = self.location_final # final location is single location
 
-            if type(location_infrastructure) is str:
-                location_infrastructure = location_infrastructure.strip()
+            for location in closest_entity:
+                location = location.strip()
                 # safety check
-                if location_infrastructure == '':
+                if location == '':
                     print('WARNING: location_infrastructure NOT FOUND !!!')
                     continue
-                # one location, just append infrastructure to that one
-                info_list.append([location_infrastructure, 'infrastructures_mentioned',
-                                        inf_text, ''])
-            if type(location_infrastructure) is list:
-                # multiple locations and one infrastructure mentioned, assign to all
-                for location in location_infrastructure:
-                    location = location.strip()
-                    # safety check
-                    if location == '':
-                        print('WARNING: location_infrastructure NOT FOUND !!!')
-                        continue
-                    info_list.append([location, 'infrastructures_mentioned', inf_text, ''])
+                info_list.append([location, 'infrastructures_mentioned', inf_text, ''])
         return info_list
 
     @staticmethod
@@ -149,7 +135,7 @@ class Sentence:
         # determine location, 3 cases:
         if len(locations_found) == 1:
             # easy case, assign all damages to the location
-            self.location_final = locations_found[0]
+            self.location_final = locations_found
         elif len(locations_found) > 1:
             # multiple locations mentioned!
             # will create a list of locations and later assign it to the closest target
@@ -171,10 +157,10 @@ class Sentence:
             if len(location_lists) == 0:
                 for loc in locations_found:
                     location_lists.append((loc, 1, [loc]))
-            self.location_final = location_lists
+            self.location_final = [(location[0], location[2]) for location in location_lists]
         else:
             # no locations mentioned in the sentence, use the paragraph one
-            self.location_final = location_article
+            self.location_final = [location_article]
 
 def clean_locations(locations, text_to_replace):
     # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
