@@ -94,12 +94,12 @@ class Sentence:
             in_between.append(sentence[match_locations[i][1]:match_locations[i+1][0]])
         merge = ''
         cnt_num_loc = 1
-        list_loc = []
+        loc_list = []
         for cnt in range(0, len(match_locations)-1):
             if len(in_between[cnt]) > 8:
                 merge = ''
                 cnt_num_loc = 1
-                list_loc = []
+                loc_list = []
                 continue
             if ',' in in_between[cnt]:
                 if cnt_num_loc == 1:
@@ -107,25 +107,25 @@ class Sentence:
                 else:
                     merge += sentence[match_locations[cnt][1]:match_locations[cnt+1][1]]
                 cnt_num_loc += 1
-                list_loc.append(locations[cnt])
+                loc_list.append(locations[cnt])
                 if ', {}'.format(and_word) in in_between[cnt]:
-                    list_loc.append(locations[cnt+1])
-                    list_final.append((merge, cnt_num_loc, list_loc))
+                    loc_list.append(locations[cnt+1])
+                    list_final.append({'loc_string':merge, 'loc_list':loc_list}  )
                     merge = ''
                     cnt_num_loc = 1
-                    list_loc = []
+                    loc_list = []
             elif and_word in in_between[cnt]:
                 if cnt_num_loc == 1:
                     merge += sentence[match_locations[cnt][0]:match_locations[cnt+1][1]]
                 else:
                     merge += sentence[match_locations[cnt][1]:match_locations[cnt+1][1]]
                 cnt_num_loc += 1
-                list_loc.append(locations[cnt])
-                list_loc.append(locations[cnt+1])
-                list_final.append((merge, cnt_num_loc, list_loc))
+                loc_list.append(locations[cnt])
+                loc_list.append(locations[cnt+1])
+                list_final.append({'loc_string': merge, 'loc_list': loc_list})
                 merge = ''
                 cnt_num_loc = 1
-                list_loc = []
+                loc_list = []
         return list_final
 
     def _get_sentence_location(self, locations_found, sentence_text, language, location_article):
@@ -147,14 +147,14 @@ class Sentence:
             # add a list of locations, merging those that are within a list
             locations_found_merged = locations_found_order.copy()
             for loc in locations_found_order:
-                if any(loc in loc_list for loc_list, num, loc_sublist in location_lists):
+                if any(loc in dict['loc_list'] for dict in location_lists):
                     locations_found_merged.remove(loc)
             for loc in locations_found_merged:
-                location_lists.append((loc, 1, [loc]))
+                location_lists.append({'loc_string':loc, 'loc_list':[loc]})
             if len(location_lists) == 0:
                 for loc in locations_found:
-                    location_lists.append((loc, 1, [loc]))
-            self.location_final = [{'loc_string':location[0], 'loc_list':location[2]} for location in location_lists]
+                    location_lists.append({'loc_string':loc, 'loc_list':[loc]})
+            self.location_final = location_lists
         else:
             # no locations mentioned in the sentence, use the paragraph one
             self.location_final = [{'loc_string':location_article, 'loc_list': [location_article]}]
