@@ -223,7 +223,8 @@ class Article:
 
 
 def _most_common(lst, locations_df):
-    location_counts = [(i, len(list(c))) for i, c in groupby(sorted(lst))]
+    lst = sorted(lst.copy())
+    location_counts = [(i, len(list(c))) for i, c in groupby(lst)]
     # Find the places(s) with max counts
     counts = [count[1] for count in location_counts]
     idx_max = np.where(np.max(counts) == counts)[0]
