@@ -66,10 +66,7 @@ class Ents:
                 self._get_dependency_graph(self.sentence)
                 closest_entity = self._deal_with_multiple_locations(location_final, ent, ent_text)
             else:  #final location is a single (list of) location(s)
-                if location_final[0] is tuple:
-                    closest_entity = location_final[0][1] # final location is single list of locations saved as tuple (loc_string, loc_list)
-                else:
-                    closest_entity = location_final # final location is single location
+                closest_entity = location_final[0]['loc_list']
 
             # save location(s) and corresponding entity
             try:
@@ -103,10 +100,10 @@ class Ents:
         # check if dependency tree exists
         if self.dependency_graph:
             distances = []
-            for idx, (loc_string, loc_list) in enumerate(locations):
+            for idx, dict in enumerate(locations):
                 # get dependency distances
                 dep_distances = []
-                for loc in loc_list:
+                for loc in dict['loc_list']:
                     # get original index (as used in dep graph) of location
                     loc_index = [token.idx for token in self.sentence if token.text == loc]
                     dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.idx), target=str(loc_index[0])))
@@ -114,12 +111,12 @@ class Ents:
 
                 # get regular distance
                 pattern_entity = re.compile(str(
-                    '(' + re.escape(loc_string) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
-                        ent_text) + '(.*)' + re.escape(loc_string) + ')'), re.IGNORECASE)
+                    '(' + re.escape(dict['loc_string']) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
+                        ent_text) + '(.*)' + re.escape(dict['loc_string']) + ')'), re.IGNORECASE)
                 match = re.search(pattern_entity, self.sentence_text)
-                distance = match.end() - match.start() - len(loc_string) - len(ent_text)
+                distance = match.end() - match.start() - len(dict['loc_string']) - len(ent_text)
 
-                distances.append((loc_list, dep_distance,distance))
+                distances.append((dict['loc_list'], dep_distance,distance))
             # find min dependency distance
             min_dep_distances = [location for location in distances if location[1] == min(distances,  key = lambda t: t[1])[1]]
 
@@ -132,11 +129,11 @@ class Ents:
                 closest_entity = min_dep_distances[0][0]
         else:
             # check only regular distance if dependency tree is unavailable
-            for idx, (loc_string, loc_list) in enumerate(locations):
+            for idx, dict in enumerate(locations):
                 pattern_entity = re.compile(str(
-                    '(' + re.escape(loc_string) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
-                        ent_text) + '(.*)' + re.escape(loc_string) + ')'), re.IGNORECASE)
-                distances += [(loc_list, len(chunk[0]) - len(loc_string) - len(ent_text))
+                    '(' + re.escape(dict['loc_string']) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
+                        ent_text) + '(.*)' + re.escape(dict['loc_string']) + ')'), re.IGNORECASE)
+                distances += [(dict['loc_list'], len(chunk[0]) - len(dict['loc_string']) - len(ent_text))
                                                      for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances, key=lambda t: t[1])[0]
 

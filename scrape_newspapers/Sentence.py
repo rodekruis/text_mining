@@ -53,15 +53,12 @@ class Sentence:
             if len(self.location_final) > 1:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
-                for idx, (loc_string, loc_list) in enumerate(self.location_final):
-                    pattern_entity = re.compile(str('('+re.escape(loc_string)+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(loc_string)+')'), re.IGNORECASE)
-                    distances_locations_entities += [(loc_list, len(chunk[0])-len(loc_string)-len(inf_text)) for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                for idx, dict in enumerate(self.location_final):
+                    pattern_entity = re.compile(str('('+re.escape(dict['loc_string'])+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(dict['loc_string'])+')'), re.IGNORECASE)
+                    distances_locations_entities += [(dict['loc_list'], len(chunk[0])-len(dict['loc_string'])-len(inf_text)) for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
             else:   # final location is a single (list of) location(s)
-                if self.location_final[0] is tuple:
-                    closest_entity = self.location_final[0][1] # final location is single list of locations saved as tuple (loc_string, loc_list)
-                else:
-                    closest_entity = self.location_final # final location is single location
+                closest_entity = self.location_final[0]['loc_list']
 
             for location in closest_entity:
                 location = location.strip()
@@ -135,7 +132,7 @@ class Sentence:
         # determine location, 3 cases:
         if len(locations_found) == 1:
             # easy case, assign all damages to the location
-            self.location_final = locations_found
+            self.location_final = [{'loc_string':locations_found[0], 'loc_list':locations_found}]
         elif len(locations_found) > 1:
             # multiple locations mentioned!
             # will create a list of locations and later assign it to the closest target
@@ -157,10 +154,10 @@ class Sentence:
             if len(location_lists) == 0:
                 for loc in locations_found:
                     location_lists.append((loc, 1, [loc]))
-            self.location_final = [(location[0], location[2]) for location in location_lists]
+            self.location_final = [{'loc_string':location[0], 'loc_list':location[2]} for location in location_lists]
         else:
             # no locations mentioned in the sentence, use the paragraph one
-            self.location_final = [location_article]
+            self.location_final = [{'loc_string':location_article, 'loc_list': [location_article]}]
 
 def clean_locations(locations, text_to_replace):
     # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
