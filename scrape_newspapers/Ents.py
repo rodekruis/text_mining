@@ -98,8 +98,8 @@ class Ents:
 
     def _deal_with_multiple_locations(self, locations, ent, ent_text):
         # check if dependency tree exists
+        distances = []
         if self.dependency_graph:
-            distances = []
             for idx, dict in enumerate(locations):
                 # get dependency distances
                 dep_distances = []
@@ -108,6 +108,7 @@ class Ents:
                     loc_index = [token.idx for token in self.sentence if token.text == loc]
                     dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.idx), target=str(loc_index[0])))
                 dep_distance = min(dep_distances)
+                dict['dep_distance'] = dep_distance
 
                 # get regular distance
                 pattern_entity = re.compile(str(
@@ -115,18 +116,21 @@ class Ents:
                         ent_text) + '(.*)' + re.escape(dict['loc_string']) + ')'), re.IGNORECASE)
                 match = re.search(pattern_entity, self.sentence_text)
                 distance = match.end() - match.start() - len(dict['loc_string']) - len(ent_text)
+                dict['distance'] = distance
 
-                distances.append((dict['loc_list'], dep_distance,distance))
             # find min dependency distance
-            min_dep_distances = [location for location in distances if location[1] == min(distances,  key = lambda t: t[1])[1]]
+            min_dep_distance = min([dict['dep_distance'] for dict in locations])
+            min_dep_distances = [location for location in locations if location['dep_distance'] == min_dep_distance]
 
             # if multiple locations corresponds with minimum dependency distance
             if len(min_dep_distances) > 1:
                 # check regular distance
-                closest_entity = min(min_dep_distances, key = lambda t: t[2])[0]
+                min_distance = min([dict['distance'] for dict in min_dep_distances])
+                min_distances = [location for location in min_dep_distances if location['distance'] == min_distance]
+                closest_entity = min_distances[0]['loc_list']
             else:
                 #select location with minimum dependency distance
-                closest_entity = min_dep_distances[0][0]
+                closest_entity = min_dep_distances[0]['loc_list']
         else:
             # check only regular distance if dependency tree is unavailable
             for idx, dict in enumerate(locations):
