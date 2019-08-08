@@ -17,22 +17,23 @@ pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
 from datetime import datetime
 import time
+import dateparser
 
 utils = importlib.import_module('utils')
 
-TIMEOUT = 30
+TIMEOUT = 60
 NEWSPAPER_URL_BASE = 'abyznewslinks'
 
 
-def is_date(string):
-    try:
-        pd.to_datetime(string)
+def is_date(txt, lng):
+    output = dateparser.parse(txt, languages=[lng])
+    if output:
         return True
-    except ValueError:
+    else:
         return False
 
 
-def ProcessPage(keyword, vBrowser, vNews_name, vNews_url):
+def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
     """
     Process search result page
     get articles and save them to a pandas dataframe (articles_page)
@@ -76,7 +77,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url):
 
         print('processing ', search_result)
         # download article
-        article = Article(search_result)
+        article = Article(search_result, keep_article_html=True)
         article.download()
         attempts = 0
         while (article.download_state != 2) & (attempts<5): #ArticleDownloadState.SUCCESS is 2
@@ -92,48 +93,56 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url):
         # select articles with keyword
         regex = re.compile(keyword, re.IGNORECASE)
 
-        if re.search(regex, article.title) is not None:
+        if re.search(regex, article.html) is not None:
 
             # print(article_html)
 
             # get date
             date = article.publish_date
             date_str = ""
+            search_date = False
+
             if date is not None:
-                date_str = date.strftime('%m/%d/%Y')
-            if (date is None) | (pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date()):
-                regex_date = re.compile('[a-zA-z]\w+\s[0-9]+\,\s[0-9]{4}')
-                date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
-                date_re = [date for date in date_re if is_date(date)]
-                if (date_re is None) | (all(pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date() for date_str in date_re)):
-                    regex_date = re.compile('[a-zA-z]\w+\s[0-9]+\s[0-9]{4}')
-                    date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
-                    date_re = [date for date in date_re if is_date(date)]
-                if (date_re is None) | (all(pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date() for date_str in date_re)):
-                    regex_date = re.compile('[0-9]\w+\s[a-zA-Z]+\,\s[0-9]{4}')
-                    date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
-                    date_re = [date for date in date_re if is_date(date)]
-                if (date_re is None) | (all(pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date() for date_str in date_re)):
-                    regex_date = re.compile('[0-9]\w+\s[a-zA-Z]+\s[0-9]{4}')
-                    date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
-                    date_re = [date for date in date_re if is_date(date)]
-                if (date_re is None) | (all(pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date() for date_str in date_re)):
-                    regex_date = re.compile('[0-9]{2}\/[0-9]{2}\/[0-9]{4}')
-                    date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
-                    date_re = [date for date in date_re if is_date(date)]
-                if (date_re is None) | (all(pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date() for date_str in date_re)):
-                    regex_date = re.compile('[0-9]{2}\-[0-9]{2}\-[0-9]{4}')
-                    date_re = list(set([match[0] for match in regex_date.finditer(article_html)]))
-                    date_re = [date for date in date_re if is_date(date)]
-                if date_re is not None:
-                    for res in date_re:
-                        if (pd.to_datetime(res).date() != pd.to_datetime(datetime.today()).date()):
-                            date_str = res
+                # keep date found only if older than today
+                if pd.to_datetime(date_str).date() < pd.to_datetime(datetime.today()).date():
+                    date_str = date.strftime('%d/%m/%Y')
+                else:
+                    search_date = True
+            else:
+                search_date = True
+
+            if search_date:
+                article_html = re.sub('\s+', ' ', article_html)
+                dates_found = []
+
+                res_date = [re.compile('[a-zA-ZÀ-ÿ]\w+\s[0-9]+\,\s[0-9]{4}'),
+                            re.compile('[a-zA-ZÀ-ÿ]\w+\s[0-9]+\s[0-9]{4}'),
+                            re.compile('[0-9]\w+\s[a-zA-ZÀ-ÿ]+\,\s[0-9]{4}'),
+                            re.compile('[0-9]\w+\s[a-zA-ZÀ-ÿ]+\s[0-9]{4}'),
+                            re.compile('[0-9]+\s[a-zA-ZÀ-ÿ]+\,\s[0-9]{4}'),
+                            re.compile('[0-9]+\s[a-zA-ZÀ-ÿ]+\s[0-9]{4}'),
+                            re.compile('[0-9]{2}\/[0-9]{2}\/[0-9]{4}'),
+                            re.compile('[0-9]{2}\-[0-9]{2}\-[0-9]{4}'),
+                            re.compile('[0-9]{2}\.[0-9]{2}\.[0-9]{4}')]
+                for re_date in res_date:
+                    for match in re_date.finditer(article_html):
+                        if is_date(match.group(), language):
+                            dates_found.append((match.start(), match.group()))
+                if len(dates_found) > 0:
+                    print(dates_found)
+                    dates_found.sort(key=lambda tup: tup[0])
+                    for res in dates_found:
+                        res_date = dateparser.parse(res[1], languages=[language]).date()
+                        if (res_date < pd.to_datetime(datetime.today()).date()
+                            and res_date > pd.to_datetime('30/04/1993', format="%d/%m/%Y").date()):
+                            date_str = res[1]
                             break
 
-            if (date_str == "") | (pd.to_datetime(date_str).date() == pd.to_datetime(datetime.today()).date()):
+            if date_str == "":
                 print('Publication date not found or wrongly assigned, skipping article')
                 continue
+            else:
+                print('Publication date assigned: ', date_str)
 
             # if no text is present (e.g. only video), use title as text
             article_text = article.text
@@ -184,6 +193,9 @@ def main(config_file):
     Newspapers = dict(zip(newspaper_names, newspaper_urls))
     Newspapers = {key:val for key, val in Newspapers.items() if NEWSPAPER_URL_BASE not in val}
 
+    # blacklist
+    del Newspapers['Niarela']
+
     # loop over newspapers
     for news_name, news_url in Newspapers.items():
 
@@ -200,7 +212,7 @@ def main(config_file):
 
         # process first results page
         print("Begin to process page 1 ({0})".format(browser.current_url))
-        articles_page = ProcessPage(config['keyword'], browser, news_name, news_url)
+        articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
         articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
@@ -228,7 +240,7 @@ def main(config_file):
                 print("Can't open page, abandoning news source")
                 break
             print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
-            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url)
+            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
             articles_news = articles_news.append(articles_page)
             page_number += 1
 
