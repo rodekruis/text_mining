@@ -53,9 +53,9 @@ class Sentence:
             if len(self.location_final) > 1:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
-                for idx, location in enumerate(self.location_final):
-                    pattern_entity = re.compile(str('('+re.escape(location['loc_string'])+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(location['loc_string'])+')'), re.IGNORECASE)
-                    distances_locations_entities += [(location['loc_list'], len(chunk[0])-len(location['loc_string'])-len(inf_text)) for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                for location_dict in self.location_final:
+                    pattern_entity = re.compile(str('('+re.escape(location_dict['loc_string'])+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(location_dict['loc_string'])+')'), re.IGNORECASE)
+                    distances_locations_entities += [(location_dict['loc_list'], len(chunk[0])-len(location_dict['loc_string'])-len(inf_text)) for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
             else:   # final location is a single (list of) location(s)
                 closest_entity = self.location_final[0]['loc_list']
@@ -147,7 +147,7 @@ class Sentence:
             # add a list of locations, merging those that are within a list
             locations_found_merged = locations_found_order.copy()
             for loc in locations_found_order:
-                if any(loc in locations['loc_list'] for locations in location_lists):
+                if any(loc in location_dict['loc_list'] for location_dict in location_lists):
                     locations_found_merged.remove(loc)
             for loc in locations_found_merged:
                 location_lists.append({'loc_string':loc, 'loc_list':[loc]})
