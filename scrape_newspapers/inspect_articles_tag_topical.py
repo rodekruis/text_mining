@@ -3,13 +3,25 @@ import importlib
 
 import plac
 import pandas as pd
+import ast
 
 utils = importlib.import_module('utils')
 
 pd.set_option('display.max_columns', 5)
 pd.set_option('max_colwidth', 18)
 pd.set_option('expand_frame_repr', True)
+LOCATIONS_KEYWORDS = 'keywords'
+LOCATIONS_FOLDER = 'locations'
 
+def _load_locations(country, country_short):
+    """
+    build a dictionary of locations {name: coordinates}
+    from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
+    """
+    input_file = os.path.join(LOCATIONS_FOLDER, country, country_short+'.txt')
+    columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
+    locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
+    return locations_df
 
 @plac.annotations(
     #config_file="Configuration file",
@@ -24,6 +36,8 @@ def main(
     """
     config_file = 'config_files/mali.cfg'
     config = utils.get_config(config_file)
+    keywords = utils.get_keywords(config_file)
+    recreate_summary_file = True
 
     output_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
     if not os.path.exists(output_directory):
@@ -51,14 +65,55 @@ def main(
                 row_to_add = [file, index, article['title'], None]
                 df_articles_summary.loc[index_article] = row_to_add
                 index_article += 1
-        df_articles_summary.to_csv(articles_summary_filename, index=False)
         
-    #tag articles topical yes/no
-    
+        # Automised article annotation
+        # load keywords
+        locations_df = _load_locations(config['country'],config['country_short'])
+        keys_topical = pd.read_csv(os.path.join(LOCATIONS_KEYWORDS, 
+                                        keywords['filename_article_topical']),
+                            header=None, encoding='latin-1')[0].tolist() + locations_df['FULL_NAME_RO'].tolist()
+        keys_not_topical = pd.read_csv(os.path.join(LOCATIONS_KEYWORDS, 
+                                        keywords['filename_article_nontopical']),
+                            header=None, encoding='latin-1')[0].tolist()
+        keys_manual_check = ast.literal_eval(keywords['keys_manual_check'])
+
+        #set counters and annotate article titles
+        cnt_true = 0
+        cnt_false = 0
+        cnt_total = 0
+        cnt_check = 0
+        
+        for row in df_articles_summary.itertuples():
+            title_summary = df_articles_summary.at[row.Index, 'title']
+#            print(title_summary.lower())
+#            print(keys_manual_check)
+#            print([word in title_summary.lower() for word in keys_manual_check])
+#            print([word for word in keys_manual_check])
+            if any(word in title_summary.lower() for word in keys_manual_check): 
+                df_articles_summary.loc[row.Index, 'topical'] = None
+                cnt_check += 1
+                print(row.Index, title_summary, 'CHECK')
+            elif any(word in title_summary.lower() for word in keys_not_topical):
+                df_articles_summary.loc[row.Index, 'topical'] = False
+                cnt_false += 1
+                print(row.Index, title_summary, 'FALSE')
+            elif any(word in title_summary.lower() for word in keys_topical):
+                df_articles_summary.loc[row.Index, 'topical'] = True
+                cnt_true += 1
+                print(row.Index, title_summary, 'TRUE')
+            cnt_total += 1
+
+        #print result summary and write to csv
+        cnt_rest = cnt_total-cnt_true-cnt_false
+        print('\n Finished processing: \n {cnt_total} articles in total \n {cnt_true} True \n {cnt_false} False \n {cnt_rest} to be checked manually ({check} info-mali)'.format(
+        cnt_total=cnt_total, cnt_true=cnt_true, cnt_false=cnt_false, cnt_rest=cnt_rest, check = cnt_check))
+        
+        df_articles_summary.to_csv(articles_summary_filename, index=False)
+
 
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
-    print('Analyzing {} articles'.format(number_to_analyze))
+    print('/n Analyzing {} articles'.format(number_to_analyze))
 
     # Tag articles and save it in the summary
     cnt_article = 0
@@ -82,7 +137,7 @@ def main(
     columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']
     df_articles_topical = pd.DataFrame(columns=columns)
     relevant_articles = df_articles_summary[df_articles_summary['topical'] == True]
-    print('Saving {} relevent articles'.format(len(relevant_articles)))
+    print('Saving {} topical articles'.format(len(relevant_articles)))
     for index, row in relevant_articles.iterrows():
         article = pd.read_csv(articles_folder+'/'+row['newspaper'], sep='|').iloc[row['article_number']]
         df_articles_topical.loc[index] = article
