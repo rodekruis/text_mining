@@ -3,6 +3,7 @@ import importlib
 import unicodedata
 
 Ents = importlib.import_module('Ents')
+utils = importlib.import_module('utils')
 
 
 class Sentence:
@@ -54,10 +55,7 @@ class Sentence:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
                 for location_dict in self.location_final:
-                    pattern_entity = '({loc_string}(.*){inf_text}|{inf_text}(.*){loc_string})'
-                    pattern_entity = pattern_entity.format(loc_string=re.escape(location_dict['loc_string']),
-                                                           inf_text=re.escape(inf_text))
-                    pattern_entity = re.compile(str(pattern_entity), re.IGNORECASE)
+                    pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], inf_text)
                     distances_locations_entities += [(location_dict['loc_list'],
                                                       len(chunk[0])-len(location_dict['loc_string'])-len(inf_text))
                                                      for chunk in re.finditer(pattern_entity, self.sentence_text)]

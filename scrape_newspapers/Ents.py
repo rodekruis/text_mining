@@ -1,8 +1,11 @@
 import re
 import networkx as nx
+import importlib
 
 from word2number import w2n
 from text_to_num import text2num
+
+utils = importlib.import_module('utils')
 
 
 LANGUAGES_WITH_ENTS = ['english']
@@ -111,10 +114,7 @@ class Ents:
                 location_dict['dep_distance'] = dep_distance
 
                 # get regular distance
-                pattern_entity = '({loc_string}(.*){ent_text}|{ent_text}(.*){loc_string})'
-                pattern_entity = pattern_entity.format(loc_string=re.escape(location_dict['loc_string']),
-                                                       ent_text=re.escape(ent_text))
-                pattern_entity = re.compile(str(pattern_entity), re.IGNORECASE)
+                pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
                 match = re.search(pattern_entity, self.sentence_text)
                 distance = match.end() - match.start() - len(location_dict['loc_string']) - len(ent_text)
                 location_dict['distance'] = distance
@@ -135,11 +135,10 @@ class Ents:
         else:
             # check only regular distance if dependency tree is unavailable
             for location_dict in locations:
-                pattern_entity = re.compile(str(
-                    '(' + re.escape(location_dict['loc_string']) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
-                        ent_text) + '(.*)' + re.escape(location_dict['loc_string']) + ')'), re.IGNORECASE)
-                distances += [(location_dict['loc_list'], len(chunk[0]) - len(location_dict['loc_string']) - len(ent_text))
-                                                     for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
+                distances += [(location_dict['loc_list'],
+                               len(chunk[0]) - len(location_dict['loc_string']) - len(ent_text))
+                              for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances, key=lambda t: t[1])[0]
 
         return closest_entity
