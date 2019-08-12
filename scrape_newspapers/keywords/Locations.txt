@@ -52,4 +52,7 @@ fégui,
 kourounikoto,
 yélimané,
 diéma,
-kangaba
+kangaba,
+bougouba,
+ansongo,
+tessalit
