@@ -1,25 +1,21 @@
-#!/usr/bin/env python
-# coding: utf8
-from __future__ import unicode_literals, print_function
-
-import plac
 import re
 import os
-import sys
-import importlib
+from datetime import datetime
+import time
+
+import plac
 from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import \
     NoSuchElementException, TimeoutException, InvalidArgumentException, WebDriverException
 import pandas as pd
-pd.set_option('display.max_columns', 4)
-pd.set_option('max_colwidth', 20)
-from datetime import datetime
-import time
 import dateparser
 
 from utils import utils
+
+pd.set_option('display.max_columns', 4)
+pd.set_option('max_colwidth', 20)
 
 TIMEOUT = 60
 NEWSPAPER_URL_BASE = 'abyznewslinks'
