@@ -12,15 +12,17 @@ pd.set_option('expand_frame_repr', True)
 
 
 @plac.annotations(
-    config_file="Configuration file",
+    #config_file="Configuration file",
     recreate_summary_file=("Recreate the summary file", "flag", "r")
 )
-def main(config_file,
+def main(
+        #config_file,
          recreate_summary_file=False):
     """
     Inspect articles and decide if relevant
     add corresponding boolean (topical) to dataframe
     """
+    config_file = 'config_files/mali.cfg'
     config = utils.get_config(config_file)
 
     output_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
@@ -50,6 +52,9 @@ def main(config_file,
                 df_articles_summary.loc[index_article] = row_to_add
                 index_article += 1
         df_articles_summary.to_csv(articles_summary_filename, index=False)
+        
+    #tag articles topical yes/no
+    
 
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
