@@ -19,7 +19,7 @@ from datetime import datetime
 import time
 import dateparser
 
-utils = importlib.import_module('utils')
+from utils import utils
 
 TIMEOUT = 60
 NEWSPAPER_URL_BASE = 'abyznewslinks'

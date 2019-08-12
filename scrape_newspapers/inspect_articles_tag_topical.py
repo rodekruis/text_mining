@@ -1,10 +1,10 @@
 import os
-import importlib
 
 import plac
 import pandas as pd
 
-utils = importlib.import_module('utils')
+from utils import utils
+
 
 pd.set_option('display.max_columns', 5)
 pd.set_option('max_colwidth', 18)

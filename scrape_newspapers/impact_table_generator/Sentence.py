@@ -1,8 +1,7 @@
 import re
-import importlib
 import unicodedata
 
-Ents = importlib.import_module('Ents')
+from . import Ents
 
 
 class Sentence:

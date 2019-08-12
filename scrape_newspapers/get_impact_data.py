@@ -1,9 +1,6 @@
-import importlib
-
 import plac
 
-utils = importlib.import_module('utils')
-ImpactTableGenerator = importlib.import_module('ImpactTableGenerator')
+from impact_table_generator import ImpactTableGenerator
 
 
 @plac.annotations(
