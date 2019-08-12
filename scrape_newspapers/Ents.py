@@ -27,7 +27,7 @@ class Ents:
             # Sometimes number tokens are classified as e.g. pronouns so also check for digits
             self.ents = [token for token in self.sentence if (token.pos_ == 'NUM' or token.is_digit)]
 
-    def analyze(self, keywords, location_final, language):
+    def analyze(self, keywords, locations_final, language):
         final_info_list = []
         for ent in self.ents:
             # get entity text and clean it
@@ -64,15 +64,18 @@ class Ents:
                 continue
 
             # check if relevant location is unknown (single list of multiple locations counts as 1 relevant location found)
-            if len(location_final) > 1:
+            if len(locations_final) > 1:
                 # get dependency tree
                 self._get_dependency_graph(self.sentence)
-                closest_entity = self._deal_with_multiple_locations(location_final, ent, ent_text)
+                closest_entity = self._deal_with_multiple_locations(locations_final, ent, ent_text)
             else:  #final location is a single (list of) location(s)
-                closest_entity = location_final[0]['loc_list']
+                closest_entity = locations_final[0]['loc_list']
 
-            # save location(s) and corresponding entity
+            # from closest_entity list, get location corresponding to numerical entity
             try:
+                # if closest_entity contains multiple locations, divide numerical entity by number of locations and
+                # distribute equally over different locations
+                # if closest_entity contains single location, numerical entity is divided by 1 and assigned to location
                 number_divided = str(int(int(number)/len(closest_entity)))
             except ValueError:
                 print('division failed: ', number)
@@ -102,7 +105,7 @@ class Ents:
     def _deal_with_multiple_locations(self, locations, ent, ent_text):
         # check if dependency tree exists
         distances = []
-        if self.dependency_graph:
+        if self.dependency_graph is not None:
             for location_dict in locations:
                 # get dependency distances
                 dep_distances = []
@@ -128,6 +131,8 @@ class Ents:
                 # check regular distance
                 min_distance = min([location_dict['distance'] for location_dict in min_dep_distances])
                 min_distances = [location_dict for location_dict in min_dep_distances if location_dict['distance'] == min_distance]
+                # Take first item of min_distances as closest_entity
+                # Will fail in case two locations have same dep_distance and same 'regular' distance
                 closest_entity = min_distances[0]['loc_list']
             else:
                 #select location with minimum dependency distance

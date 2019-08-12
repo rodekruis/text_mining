@@ -27,7 +27,7 @@ class Sentence:
         # loop over numerical entities,
         # check if it's impact data and if so, add to dataframe
         ents = Ents.Ents(self.sentence, self.sentence_text, language)
-        final_info_list += ents.analyze(keywords, self.location_final, language)
+        final_info_list += ents.analyze(keywords, self.locations_final, language)
         final_info_list += self._analyze_infrastructures(keywords)
 
         return final_info_list
@@ -51,17 +51,17 @@ class Sentence:
 
             # if multiple locations (or lists of locations) are found
             # check which is the closest one to the impact data
-            if len(self.location_final) > 1:
+            if len(self.locations_final) > 1:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
-                for location_dict in self.location_final:
+                for location_dict in self.locations_final:
                     pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], inf_text)
                     distances_locations_entities += [(location_dict['loc_list'],
                                                       len(chunk[0])-len(location_dict['loc_string'])-len(inf_text))
                                                      for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
             else:   # final location is a single (list of) location(s)
-                closest_entity = self.location_final[0]['loc_list']
+                closest_entity = self.locations_final[0]['loc_list']
 
             for location in closest_entity:
                 location = location.strip()
@@ -76,7 +76,8 @@ class Sentence:
     def _check_list_locations(locations, sentence, language):
         """
         Check if locations are in a list (e.g. "Kalabo, Chibombo and Lundazi")
-        or if they are scattered around the sentence
+        or if they are scattered around the sentence.
+        Create corresponding location dictionary
         """
         and_word = {
             'french': 'et',
@@ -132,14 +133,18 @@ class Sentence:
         return list_final
 
     def _get_sentence_location(self, locations_found, sentence_text, language, location_article):
+        """
+        For each location found in sentence, creates a location dictionary with:
+        loc_string: Original location string in sentence, e.g. 'Segou' or 'Bamako, Sikasso et Koulikoro'
+        loc_list: List containing separate locations, e.g. ['Segou'] or ['Bamako', 'Sikasso', 'Koulikoro']
+        """
         # determine location, 3 cases:
         if len(locations_found) == 1:
             # easy case, assign all damages to the location
-            self.location_final = [{'loc_string':locations_found[0], 'loc_list':locations_found}]
+            self.locations_final = [{'loc_string':locations_found[0], 'loc_list':locations_found}]
         elif len(locations_found) > 1:
             # multiple locations mentioned!
             # will create a list of locations and later assign it to the closest target
-            location_final = 'TBI'
             # first, get a list of locations in the order in which they appear in the sentence
             positions = []
             for loc in locations_found:
@@ -157,10 +162,10 @@ class Sentence:
             if len(location_lists) == 0:
                 for loc in locations_found:
                     location_lists.append({'loc_string':loc, 'loc_list':[loc]})
-            self.location_final = location_lists
+            self.locations_final = location_lists
         else:
             # no locations mentioned in the sentence, use the paragraph one
-            self.location_final = [{'loc_string':location_article, 'loc_list': [location_article]}]
+            self.locations_final = [{'loc_string':location_article, 'loc_list': [location_article]}]
 
 def clean_locations(locations, text_to_replace):
     # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
