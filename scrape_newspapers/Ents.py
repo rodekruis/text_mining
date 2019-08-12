@@ -111,9 +111,10 @@ class Ents:
                 location_dict['dep_distance'] = dep_distance
 
                 # get regular distance
-                pattern_entity = re.compile(str(
-                    '(' + re.escape(location_dict['loc_string']) + '(.*)' + re.escape(ent_text) + '|' + re.escape(
-                        ent_text) + '(.*)' + re.escape(location_dict['loc_string']) + ')'), re.IGNORECASE)
+                pattern_entity = '({loc_string}(.*){ent_text}|{ent_text}(.*){loc_string})'
+                pattern_entity = pattern_entity.format(loc_string=re.escape(location_dict['loc_string']),
+                                                       ent_text=re.escape(ent_text))
+                pattern_entity = re.compile(str(pattern_entity), re.IGNORECASE)
                 match = re.search(pattern_entity, self.sentence_text)
                 distance = match.end() - match.start() - len(location_dict['loc_string']) - len(ent_text)
                 location_dict['distance'] = distance

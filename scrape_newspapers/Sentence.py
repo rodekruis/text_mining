@@ -54,8 +54,13 @@ class Sentence:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
                 for location_dict in self.location_final:
-                    pattern_entity = re.compile(str('('+re.escape(location_dict['loc_string'])+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(location_dict['loc_string'])+')'), re.IGNORECASE)
-                    distances_locations_entities += [(location_dict['loc_list'], len(chunk[0])-len(location_dict['loc_string'])-len(inf_text)) for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                    pattern_entity = '({loc_string}(.*){inf_text}|{inf_text}(.*){loc_string})'
+                    pattern_entity = pattern_entity.format(loc_string=re.escape(location_dict['loc_string']),
+                                                           inf_text=re.escape(inf_text))
+                    pattern_entity = re.compile(str(pattern_entity), re.IGNORECASE)
+                    distances_locations_entities += [(location_dict['loc_list'],
+                                                      len(chunk[0])-len(location_dict['loc_string'])-len(inf_text))
+                                                     for chunk in re.finditer(pattern_entity, self.sentence_text)]
                 closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
             else:   # final location is a single (list of) location(s)
                 closest_entity = self.location_final[0]['loc_list']
