@@ -2,6 +2,7 @@ import re
 import unicodedata
 
 from . import Ents
+from utils import utils
 
 
 class Sentence:
@@ -25,7 +26,7 @@ class Sentence:
         # loop over numerical entities,
         # check if it's impact data and if so, add to dataframe
         ents = Ents.Ents(self.sentence, self.sentence_text, language)
-        final_info_list += ents.analyze(keywords, self.location_final, language)
+        final_info_list += ents.analyze(keywords, self.locations_final, language)
         final_info_list += self._analyze_infrastructures(keywords)
 
         return final_info_list
@@ -44,52 +45,38 @@ class Sentence:
 
         info_list = []
         for infrastructure in int_inf_in_sent:
-            # assign location
-            location_infrastructure = self.location_final
             inf_text = infrastructure.text.strip()
             inf_text = re.sub('\n', '', inf_text)
 
             # if multiple locations (or lists of locations) are found
             # check which is the closest one to the impact data
-            if type(self.location_final) is list:
+            if len(self.locations_final) > 1:
                 # compute distances between infrastructure and locations, choose the closest one
                 distances_locations_entities = []
-                for idx, (loc, num, loc_sublist) in enumerate(self.location_final):
-                    pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(inf_text)+'|'+re.escape(inf_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
-                    distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(inf_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, self.sentence_text)]
-                closest_entity = min(distances_locations_entities, key = lambda t: t[1])
-                # if closest location is a list, location_impact_data will be a list of strings
-                # otherwise just a string
-                if closest_entity[2] > 1:
-                    location_infrastructure = closest_entity[3] # get list of locations in the list
-                else:
-                    location_infrastructure = closest_entity[0]
+                for location_dict in self.locations_final:
+                    pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], inf_text)
+                    distances_locations_entities += [(location_dict['loc_list'],
+                                                      len(chunk[0])-len(location_dict['loc_string'])-len(inf_text))
+                                                     for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
+            else:   # final location is a single (list of) location(s)
+                closest_entity = self.locations_final[0]['loc_list']
 
-            if type(location_infrastructure) is str:
-                location_infrastructure = location_infrastructure.strip()
+            for location in closest_entity:
+                location = location.strip()
                 # safety check
-                if location_infrastructure == '':
+                if location == '':
                     print('WARNING: location_infrastructure NOT FOUND !!!')
                     continue
-                # one location, just append infrastructure to that one
-                info_list.append([location_infrastructure, 'infrastructures_mentioned',
-                                        inf_text, ''])
-            if type(location_infrastructure) is list:
-                # multiple locations and one infrastructure mentioned, assign to all
-                for location in location_infrastructure:
-                    location = location.strip()
-                    # safety check
-                    if location == '':
-                        print('WARNING: location_infrastructure NOT FOUND !!!')
-                        continue
-                    info_list.append([location, 'infrastructures_mentioned', inf_text, ''])
+                info_list.append([location, 'infrastructures_mentioned', inf_text, ''])
         return info_list
 
     @staticmethod
     def _check_list_locations(locations, sentence, language):
         """
         Check if locations are in a list (e.g. "Kalabo, Chibombo and Lundazi")
-        or if they are scattered around the sentence
+        or if they are scattered around the sentence.
+        Create corresponding location dictionary
         """
         and_word = {
             'french': 'et',
@@ -110,12 +97,12 @@ class Sentence:
             in_between.append(sentence[match_locations[i][1]:match_locations[i+1][0]])
         merge = ''
         cnt_num_loc = 1
-        list_loc = []
+        loc_list = []
         for cnt in range(0, len(match_locations)-1):
             if len(in_between[cnt]) > 8:
                 merge = ''
                 cnt_num_loc = 1
-                list_loc = []
+                loc_list = []
                 continue
             if ',' in in_between[cnt]:
                 if cnt_num_loc == 1:
@@ -123,58 +110,61 @@ class Sentence:
                 else:
                     merge += sentence[match_locations[cnt][1]:match_locations[cnt+1][1]]
                 cnt_num_loc += 1
-                list_loc.append(locations[cnt])
+                loc_list.append(locations[cnt])
                 if ', {}'.format(and_word) in in_between[cnt]:
-                    list_loc.append(locations[cnt+1])
-                    list_final.append((merge, cnt_num_loc, list_loc))
+                    loc_list.append(locations[cnt+1])
+                    list_final.append({'loc_string':merge, 'loc_list':loc_list}  )
                     merge = ''
                     cnt_num_loc = 1
-                    list_loc = []
+                    loc_list = []
             elif and_word in in_between[cnt]:
                 if cnt_num_loc == 1:
                     merge += sentence[match_locations[cnt][0]:match_locations[cnt+1][1]]
                 else:
                     merge += sentence[match_locations[cnt][1]:match_locations[cnt+1][1]]
                 cnt_num_loc += 1
-                list_loc.append(locations[cnt])
-                list_loc.append(locations[cnt+1])
-                list_final.append((merge, cnt_num_loc, list_loc))
+                loc_list.append(locations[cnt])
+                loc_list.append(locations[cnt+1])
+                list_final.append({'loc_string': merge, 'loc_list': loc_list})
                 merge = ''
                 cnt_num_loc = 1
-                list_loc = []
+                loc_list = []
         return list_final
 
     def _get_sentence_location(self, locations_found, sentence_text, language, location_article):
+        """
+        For each location found in sentence, creates a location dictionary with:
+        loc_string: Original location string in sentence, e.g. 'Segou' or 'Bamako, Sikasso et Koulikoro'
+        loc_list: List containing separate locations, e.g. ['Segou'] or ['Bamako', 'Sikasso', 'Koulikoro']
+        """
         # determine location, 3 cases:
         if len(locations_found) == 1:
             # easy case, assign all damages to the location
-            self.location_final = locations_found[0]
+            self.locations_final = [{'loc_string':locations_found[0], 'loc_list':locations_found}]
         elif len(locations_found) > 1:
             # multiple locations mentioned!
             # will create a list of locations and later assign it to the closest target
-            location_final = 'TBI'
             # first, get a list of locations in the order in which they appear in the sentence
             positions = []
             for loc in locations_found:
                 positions.append(sentence_text.find(loc))
             locations_found_order = [x for _,x in sorted(zip(positions,locations_found))]
             # check if some locations are mentioned within a list (e.g. Paris, London and Rome)
-            location_lists = Sentence. _check_list_locations(locations_found_order, sentence_text, language)
+            location_lists = Sentence._check_list_locations(locations_found_order, sentence_text, language)
             # add a list of locations, merging those that are within a list
             locations_found_merged = locations_found_order.copy()
             for loc in locations_found_order:
-                if any(loc in loc_list for loc_list, num, loc_sublist in location_lists):
+                if any(loc in location_dict['loc_list'] for location_dict in location_lists):
                     locations_found_merged.remove(loc)
             for loc in locations_found_merged:
-                location_lists.append((loc, 1, [loc]))
+                location_lists.append({'loc_string':loc, 'loc_list':[loc]})
             if len(location_lists) == 0:
                 for loc in locations_found:
-                    location_lists.append((loc, 1, [loc]))
-            self.location_final = location_lists
+                    location_lists.append({'loc_string':loc, 'loc_list':[loc]})
+            self.locations_final = location_lists
         else:
             # no locations mentioned in the sentence, use the paragraph one
-            self.location_final = location_article
-
+            self.locations_final = [{'loc_string':location_article, 'loc_list': [location_article]}]
 
 def clean_locations(locations, text_to_replace):
     # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
