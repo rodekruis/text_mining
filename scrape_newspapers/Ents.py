@@ -1,7 +1,12 @@
 import re
+import networkx as nx
+import importlib
 
 from word2number import w2n
 from text_to_num import text2num
+
+utils = importlib.import_module('utils')
+
 
 LANGUAGES_WITH_ENTS = ['english']
 
@@ -22,7 +27,7 @@ class Ents:
             # Sometimes number tokens are classified as e.g. pronouns so also check for digits
             self.ents = [token for token in self.sentence if (token.pos_ == 'NUM' or token.is_digit)]
 
-    def analyze(self, keywords, location_final, language):
+    def analyze(self, keywords, locations_final, language):
         final_info_list = []
         for ent in self.ents:
             # get entity text and clean it
@@ -58,51 +63,90 @@ class Ents:
                 print('WARNING: impact_label NOT ASSIGNED !!!')
                 continue
 
-            # assign location
-            location_impact_data = location_final
+            # check if relevant location is unknown (single list of multiple locations counts as 1 relevant location found)
+            if len(locations_final) > 1:
+                # get dependency tree
+                self._get_dependency_graph(self.sentence)
+                closest_entity = self._deal_with_multiple_locations(locations_final, ent, ent_text)
+            else:  #final location is a single (list of) location(s)
+                closest_entity = locations_final[0]['loc_list']
 
-            # if multiple locations or lists of locations are found
-            # check which is the closest one to the impact data
-            if type(location_final) is list:
-                # compute distances between entity (i.e. impact data) and locations, choose the closest one
-                distances_locations_entities = []
-                ent_text = ent_text.strip()
-                ent_text = re.sub('\n', '', ent_text)
-                for idx, (loc, num, loc_sublist) in enumerate(location_final):
-                    pattern_entity = re.compile(str('('+re.escape(loc)+'(.*)'+re.escape(ent_text)+'|'+re.escape(ent_text)+'(.*)'+re.escape(loc)+')'), re.IGNORECASE)
-                    distances_locations_entities += [(loc, len(chunk[0])-len(loc)-len(ent_text), num, loc_sublist) for chunk in re.finditer(pattern_entity, self.sentence_text)]
-                closest_entity = min(distances_locations_entities, key=lambda t: t[1])
-                # if closest location is a list, location_impact_data will be a list of strings
-                # otherwise just a string
-                if closest_entity[2] > 1:
-                    location_impact_data = closest_entity[3] # get list of locations in the list
-                else:
-                    location_impact_data = closest_entity[0]
-
-            # get final info
-            if type(location_impact_data) is str:
-                location_impact_data = location_impact_data.strip()
+            # from closest_entity list, get location corresponding to numerical entity
+            try:
+                # if closest_entity contains multiple locations, divide numerical entity by number of locations and
+                # distribute equally over different locations
+                # if closest_entity contains single location, numerical entity is divided by 1 and assigned to location
+                number_divided = str(int(int(number)/len(closest_entity)))
+            except ValueError:
+                print('division failed: ', number)
+                number_divided = number
+            for location in closest_entity:
+                location = location.strip()
                 # safety check
-                if location_impact_data == '':
+                if location == '':
                     print('WARNING: location_impact_data NOT FOUND !!!')
                     continue
-                final_info_list.append([location_impact_data, impact_label, number, addendum])
-            elif type(location_impact_data) is list:
-                # multiple locations, divide impact data equally among them
-                number_divided = ''
-                try:
-                    number_divided = str(int(int(number)/len(location_impact_data)))
-                except ValueError:
-                    print('division failed: ', number)
-                    number_divided = number
-                for location in location_impact_data:
-                    location = location.strip()
-                    # safety check
-                    if location == '':
-                        print('WARNING: location_impact_data NOT FOUND !!!')
-                        continue
-                    final_info_list.append([location, impact_label, number_divided, addendum])
+                final_info_list.append([location, impact_label, number_divided, addendum])
         return final_info_list
+
+    def _get_dependency_graph(self, sentence):
+        edges = []
+
+        for token in sentence:
+            for child in token.children:
+                edges.append(('{0}'.format(token.idx), '{0}'.format(child.idx)))
+        try:
+            self.dependency_graph = nx.Graph(edges)
+        except nx.NetworkXError:
+            self.dependency_graph = None
+            print('WARNING: Could not generate dependency tree')
+            return
+
+    def _deal_with_multiple_locations(self, locations, ent, ent_text):
+        # check if dependency tree exists
+        if self.dependency_graph is not None:
+            for location_dict in locations:
+                # get dependency distances
+                dep_distances = []
+                for loc in location_dict['loc_list']:
+                    # get original index (as used in dep graph) of location
+                    loc_index = [token.idx for token in self.sentence if token.text == loc]
+                    dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.idx), target=str(loc_index[0])))
+                dep_distance = min(dep_distances)
+                location_dict['dep_distance'] = dep_distance
+
+                # get regular distance
+                pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
+                match = re.search(pattern_entity, self.sentence_text)
+                distance = match.end() - match.start() - len(location_dict['loc_string']) - len(ent_text)
+                location_dict['distance'] = distance
+
+            # find min dependency distance
+            min_dep_distance = min([location_dict['dep_distance'] for location_dict in locations])
+            min_dep_distances = [location_dict for location_dict in locations if location_dict['dep_distance'] == min_dep_distance]
+
+            # if multiple locations corresponds with minimum dependency distance
+            if len(min_dep_distances) > 1:
+                # check regular distance
+                min_distance = min([location_dict['distance'] for location_dict in min_dep_distances])
+                min_distances = [location_dict for location_dict in min_dep_distances if location_dict['distance'] == min_distance]
+                # Take first item of min_distances as closest_entity
+                # Will fail in case two locations have same dep_distance and same 'regular' distance
+                closest_entity = min_distances[0]['loc_list']
+            else:
+                #select location with minimum dependency distance
+                closest_entity = min_dep_distances[0]['loc_list']
+        else:
+            # check only regular distance if dependency tree is unavailable
+            distances = []
+            for location_dict in locations:
+                pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
+                distances += [(location_dict['loc_list'],
+                               len(chunk[0]) - len(location_dict['loc_string']) - len(ent_text))
+                              for chunk in re.finditer(pattern_entity, self.sentence_text)]
+            closest_entity = min(distances, key=lambda t: t[1])[0]
+
+        return closest_entity
 
     def _deal_with_object(self, ent, ent_text, language, keywords):
         # get the object, i.e. what the number refers to

@@ -1,4 +1,5 @@
 import configparser
+import re
 
 
 INPSECTED_ARTICLES_OUTPUT_DIR = 'articles_processed'
@@ -29,3 +30,9 @@ def get_articles_summary_output_filename(config):
 def get_inspected_articles_output_filename(config):
     return 'articles_all_topical_{keyword}_{country}.csv'.format(
         keyword=config['keyword'], country=config['country'])
+
+
+def get_pattern_entity(loc_string, target):
+    pattern_entity = '({loc_string}(.*){target}|{target}(.*){loc_string})'
+    pattern_entity = pattern_entity.format(loc_string=re.escape(loc_string), target=re.escape(target))
+    return re.compile(str(pattern_entity), re.IGNORECASE)

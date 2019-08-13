@@ -8,4 +8,5 @@ word2number
 openpyxl
 python-Levenshtein
 text2num
+networkx
 
