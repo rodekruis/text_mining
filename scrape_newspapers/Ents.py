@@ -104,7 +104,6 @@ class Ents:
 
     def _deal_with_multiple_locations(self, locations, ent, ent_text):
         # check if dependency tree exists
-        distances = []
         if self.dependency_graph is not None:
             for location_dict in locations:
                 # get dependency distances
@@ -139,12 +138,13 @@ class Ents:
                 closest_entity = min_dep_distances[0]['loc_list']
         else:
             # check only regular distance if dependency tree is unavailable
+            distances = []
             for location_dict in locations:
                 pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
                 distances += [(location_dict['loc_list'],
                                len(chunk[0]) - len(location_dict['loc_string']) - len(ent_text))
                               for chunk in re.finditer(pattern_entity, self.sentence_text)]
-                closest_entity = min(distances, key=lambda t: t[1])[0]
+            closest_entity = min(distances, key=lambda t: t[1])[0]
 
         return closest_entity
 
