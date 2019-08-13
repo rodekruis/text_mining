@@ -1,12 +1,10 @@
 import re
 import networkx as nx
-import importlib
 
 from word2number import w2n
 from text_to_num import text2num
 
-utils = importlib.import_module('utils')
-
+from utils import utils
 
 LANGUAGES_WITH_ENTS = ['english']
 
