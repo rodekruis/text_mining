@@ -151,7 +151,7 @@ class Sentence:
                 positions.append(sentence_text.find(loc))
             locations_found_order = [x for _,x in sorted(zip(positions,locations_found))]
             # check if some locations are mentioned within a list (e.g. Paris, London and Rome)
-            location_lists = Sentence. _check_list_locations(locations_found_order, sentence_text, language)
+            location_lists = Sentence._check_list_locations(locations_found_order, sentence_text, language)
             # add a list of locations, merging those that are within a list
             locations_found_merged = locations_found_order.copy()
             for loc in locations_found_order:
