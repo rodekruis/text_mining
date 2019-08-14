@@ -1,5 +1,6 @@
 import configparser
 import re
+import logging
 
 
 INPSECTED_ARTICLES_OUTPUT_DIR = 'articles_processed'
@@ -36,3 +37,10 @@ def get_pattern_entity(loc_string, target):
     pattern_entity = '({loc_string}(.*){target}|{target}(.*){loc_string})'
     pattern_entity = pattern_entity.format(loc_string=re.escape(loc_string), target=re.escape(target))
     return re.compile(str(pattern_entity), re.IGNORECASE)
+
+
+def set_log_level(is_debug_mode=False):
+    logging.basicConfig()
+    log_level = 'DEBUG' if is_debug_mode else 'INFO'
+    root_logger = logging.getLogger()
+    root_logger.setLevel(log_level.upper())
