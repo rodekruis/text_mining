@@ -1,8 +1,12 @@
 import configparser
 import re
+import os
+
+import pandas as pd
 
 
 INPSECTED_ARTICLES_OUTPUT_DIR = 'articles_processed'
+LOCATIONS_KEYWORDS = 'keywords'  # location of keywords (victims, infrastructures)
 
 
 def get_config(config_file):
@@ -36,3 +40,8 @@ def get_pattern_entity(loc_string, target):
     pattern_entity = '({loc_string}(.*){target}|{target}(.*){loc_string})'
     pattern_entity = pattern_entity.format(loc_string=re.escape(loc_string), target=re.escape(target))
     return re.compile(str(pattern_entity), re.IGNORECASE)
+
+
+def read_keyword_csv(filename):
+    pd.read_csv(os.path.join(LOCATIONS_KEYWORDS,  filename),
+                header=None, encoding='latin-1')[0].tolist()
