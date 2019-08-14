@@ -1,13 +1,12 @@
 import re
 import logging
-import importlib
 from itertools import groupby
 
 import numpy as np
 from text_to_num import text2num
 from spacy.matcher import Matcher
 
-Sentence = importlib.import_module('Sentence')
+from . import Sentence
 
 
 logger = logging.getLogger(__name__)

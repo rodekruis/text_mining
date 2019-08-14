@@ -1,5 +1,4 @@
 import os
-import importlib
 import logging
 import ast
 
@@ -7,8 +6,9 @@ import pandas as pd
 from pandas import ExcelWriter
 import spacy
 
-utils = importlib.import_module('utils')
-Article = importlib.import_module('Article')
+from . import Article
+from utils import utils
+
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.DEBUG)
