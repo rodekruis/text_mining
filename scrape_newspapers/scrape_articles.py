@@ -17,7 +17,7 @@ from utils import utils
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
 
-TIMEOUT = 60
+TIMEOUT = 30
 NEWSPAPER_URL_BASE = 'abyznewslinks'
 
 
@@ -27,6 +27,20 @@ def is_date(txt, lng):
         return True
     else:
         return False
+
+
+def remove_newspaper_name_from_title(article_title, news_name):
+    # Match on possible punctuation (some kind of separator like an en-dash or •),
+    # 0 or more spaces, a possible word for newspaper like "journal" (can be expanded for other cases),
+    # 0 or more spaces, the name of the newspaper with and without added hyphens,
+    # and a possible '.abc' to catch URLs.
+
+    match_string = r'[^\w\d\s]?\s*({newspaper_word})?\s*({news_name}|{news_name_hyphen})(\.\w*)?'
+    match_string = match_string.format(newspaper_word='journal',
+                                       news_name=re.escape(news_name.strip()),
+                                       news_name_hyphen=re.sub(' ', '-', re.escape(news_name.strip())))
+    article_title = re.sub(match_string, '', article_title, flags=re.IGNORECASE).strip()
+    return article_title
 
 
 def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
@@ -139,6 +153,9 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                 continue
             else:
                 print('Publication date assigned: ', date_str)
+
+            # Take newspaper name out of article title
+            article.title = remove_newspaper_name_from_title(article.title, vNews_name)
 
             # if no text is present (e.g. only video), use title as text
             article_text = article.text
