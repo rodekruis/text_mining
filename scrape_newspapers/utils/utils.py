@@ -1,9 +1,11 @@
 import configparser
 import re
 import logging
+import os
 
 
 INPSECTED_ARTICLES_OUTPUT_DIR = 'articles_processed'
+LOG_DIR = 'logs'
 
 
 def get_config(config_file):
@@ -39,8 +41,17 @@ def get_pattern_entity(loc_string, target):
     return re.compile(str(pattern_entity), re.IGNORECASE)
 
 
-def set_log_level(is_debug_mode=False):
+def set_log_level(is_debug_mode=False, log_filename=None):
     logging.basicConfig()
     log_level = 'DEBUG' if is_debug_mode else 'INFO'
     root_logger = logging.getLogger()
     root_logger.setLevel(log_level.upper())
+
+    if log_filename is not None:
+        if not os.path.isdir(LOG_DIR):
+            os.mkdir(LOG_DIR)
+        file_handler = logging.FileHandler(os.path.join(LOG_DIR, log_filename))
+        formatter = logging.Formatter('%(name)-12s: %(levelname)-8s %(message)s')
+        file_handler.setFormatter(formatter)
+        file_handler.setLevel(log_level.upper())
+        root_logger.addHandler(file_handler)

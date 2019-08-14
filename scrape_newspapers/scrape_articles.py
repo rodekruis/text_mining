@@ -16,7 +16,7 @@ import dateparser
 from utils import utils
 
 
-logger = logging.getLogger()
+logger = logging.getLogger(__name__)
 
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
@@ -55,7 +55,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
     url_any = re.sub('\?m\=[0-9]{6}', '', url_any)
     url_any = re.escape(url_any) + '(?=\S*[-])([0-9a-zA-Z-\/\.]+)'
     regex = re.compile(url_any)
-    logger.info('searching for ', url_any)
+    logger.info('searching for {}'.format(url_any))
     search_results = list(set([match[0] for match in
                                regex.finditer(search_result_page_source)
                                if keyword in match[0].lower()]))
@@ -75,7 +75,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
     # 2) for each result, get article and save it
     for idx, search_result in enumerate(search_results):
 
-        logger.info('processing ', search_result)
+        logger.info('processing {}'.format(search_result))
         # download article
         article = Article(search_result, keep_article_html=True)
         article.download()
@@ -84,7 +84,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
             attempts += 1
             time.sleep(1)
         if article.download_state != 2:
-            logger.warning('unable to download article: ', search_result)
+            logger.warning('unable to download article: {}'.format(search_result))
             continue
         article.parse()
 
@@ -95,7 +95,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
 
         if re.search(regex, article.html) is not None:
 
-            logger.debug(article_html)
+            logger.debug('{}'.format(article_html))
 
             # get date
             date = article.publish_date
@@ -129,7 +129,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                         if is_date(match.group(), language):
                             dates_found.append((match.start(), match.group()))
                 if len(dates_found) > 0:
-                    logger.info(dates_found)
+                    logger.info('{}'.format(dates_found))
                     dates_found.sort(key=lambda tup: tup[0])
                     for res in dates_found:
                         res_date = dateparser.parse(res[1], languages=[language]).date()
@@ -142,7 +142,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                 logger.warning('Publication date not found or wrongly assigned, skipping article')
                 continue
             else:
-                logger.info('Publication date assigned: ', date_str)
+                logger.info('Publication date assigned: {}'.format(date_str))
 
             # if no text is present (e.g. only video), use title as text
             article_text = article.text
@@ -150,12 +150,12 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                 article_text = article.title
 
             # add to dataframe
-            logger.info(article.title, ' : ', date_str)
+            logger.info('{0} : {1}'.format(article.title, date_str))
             articles_page.loc[idx] = [article.title, date_str, article_text, article.url]
 
     # 3) return dataframe
     if len(search_results) > 0:
-        logger.info(articles_page.head())
+        logger.info('{}'.format(articles_page.head()))
     return articles_page
 
 ################################################################################
@@ -170,10 +170,16 @@ def main(config_file, debug=False):
     Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
     """
-    utils.set_log_level(debug)
     config = utils.get_config(config_file)
-    output_dir = utils.get_scraped_article_output_dir(config)
+
+    # Log output to a file
+    log_filename = 'scrape_articles_{country}_{keyword}_{timestamp}'
+    log_filename = log_filename.format(country=config['country'], keyword=config['keyword'],
+                                       timestamp=time.strftime('%Y%m%d-%H%M%S'))
+    utils.set_log_level(debug, log_filename=log_filename)
+
     # if output directory does not exist, create it
+    output_dir = utils.get_scraped_article_output_dir(config)
     if not os.path.isdir(output_dir):
         os.mkdir(output_dir)
 
@@ -203,7 +209,7 @@ def main(config_file, debug=False):
         articles_news = pd.DataFrame(columns=['title', 'publish_date', 'text', 'url'])
 
         logger.info('**********************************************************************************')
-        logger.info('Accessing ' + news_name + ' (' + news_url + ')')
+        logger.info('Accessing {0} ({1})'.format(news_name, news_url))
         news_url += '?s='+config['keyword']
         try:
             browser.get(news_url)
@@ -229,13 +235,13 @@ def main(config_file, debug=False):
                 url_next_page = re.sub(re.escape('search?k='+config['keyword']), '', url_next_page)
                 url_next_page = re.escape(url_next_page) + 'page\/' + str(page_number) + '.*?(?=")'
                 regex = re.compile(url_next_page)
-                logger.info('link not found, trying explicit regex: ', url_next_page)
+                logger.info('link not found, trying explicit regex: {}'.format(url_next_page))
                 search_result_next_page = re.search(regex, browser.page_source)
                 if search_result_next_page is None:
                     logger.info('Not found!')
                     break
                 else:
-                    logger.info(search_result_next_page[0])
+                    logger.info('{}'.format(search_result_next_page[0]))
                     browser.get(search_result_next_page[0])
             except (TimeoutException, InvalidArgumentException):
                 logger.error("Can't open page, abandoning news source")
@@ -246,8 +252,8 @@ def main(config_file, debug=False):
             page_number += 1
 
         # save dataframe to csv
-        logger.info('Saving articles from ' + news_name)
-        logger.info(articles_news.describe())
+        logger.info('Saving articles from {}'.format( news_name))
+        logger.info('{}'.format(articles_news.describe()))
         logger.info('*********************************************************')
         output_name = 'articles_{keyword}_{news_name}.csv'.format(
             keyword=config['keyword'], news_name=news_name)
