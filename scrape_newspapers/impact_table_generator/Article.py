@@ -10,7 +10,6 @@ from . import Sentence
 
 
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.DEBUG)
 
 LONG_ARTICLE = 50  # considered a long article, perhaps signed by a name
 LOCATION_NAME_WORD_CUTOFF = 10
@@ -179,7 +178,7 @@ class Article:
                         elif appendix == 'k':
                             number *= 1E3
                         else:
-                            print('money conversion failed (', self.text, ') !!!')
+                            logger.info('money conversion failed (', self.text, ') !!!')
                     except:
                         pass
                     number_final = re.sub(appendix, '', str(int(number)))
@@ -281,7 +280,7 @@ def sum_values(old_string, new_string, new_addendum, which_impact_label):
                     final_number = str(int(number) + int(new_string))
                 final_addendum = new_addendum
             else:
-                print('different currencies, dont know how to sum !!!!')
+                logger.warning('different currencies, dont know how to sum !!!!')
 
     elif (which_impact_label == 'houses_affected') or (which_impact_label == 'people_affected') or (which_impact_label == 'people_dead'):
         final_number = str(int(old_string) + int(new_string))

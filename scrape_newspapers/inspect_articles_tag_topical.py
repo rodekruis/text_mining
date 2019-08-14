@@ -1,10 +1,13 @@
 import os
+import logging
 
 import plac
 import pandas as pd
 
 from utils import utils
 
+
+logger = logging.getLogger(__name__)
 
 pd.set_option('display.max_columns', 5)
 pd.set_option('max_colwidth', 18)
@@ -14,16 +17,16 @@ pd.set_option('expand_frame_repr', True)
 @plac.annotations(
     config_file="Configuration file",
     recreate_summary_file=("Recreate the summary file", "flag", "r"),
-    is_debug_mode=("Set log level to debug", "flag", "debug")
+    debug=("Set log level to debug", "flag", "d")
 )
 def main(config_file,
          recreate_summary_file=False,
-         is_debug_mode=False):
+         debug=False):
     """
     Inspect articles and decide if relevant
     add corresponding boolean (topical) to dataframe
     """
-    utils.set_log_level(is_debug_mode)
+    utils.set_log_level(debug)
     config = utils.get_config(config_file)
 
     output_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
@@ -39,10 +42,10 @@ def main(config_file,
     articles_summary_filename = os.path.join(output_directory,
                                              utils.get_articles_summary_output_filename(config))
     if os.path.isfile(articles_summary_filename) and not recreate_summary_file:
-        print('Reading in summary file {}'.format(articles_summary_filename))
+        logging.info('Reading in summary file {}'.format(articles_summary_filename))
         df_articles_summary = pd.read_csv(articles_summary_filename)
     else:
-        print('Creating summary file {}'.format(articles_summary_filename))
+        logging.info('Creating summary file {}'.format(articles_summary_filename))
         columns = ['newspaper', 'article_number', 'title', 'topical']
         df_articles_summary = pd.DataFrame(columns=columns)
         index_article = 0
@@ -56,7 +59,7 @@ def main(config_file,
 
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
-    print('Analyzing {} articles'.format(number_to_analyze))
+    logging.info('Analyzing {} articles'.format(number_to_analyze))
 
     # Tag articles and save it in the summary
     cnt_article = 0
@@ -64,13 +67,13 @@ def main(config_file,
         newspaper = articles_to_analyze.at[row.Index, 'newspaper']
         article_number = articles_to_analyze.at[row.Index, 'article_number']
         article = pd.read_csv(articles_folder+'/'+newspaper, sep='|').iloc[article_number]
-        print("\nArticle #{number}/{total}: {title}".format(
+        logging.info("\nArticle #{number}/{total}: {title}".format(
             number=cnt_article+1, total=number_to_analyze, title=article['title']))
         var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
         if var_topical == 'q':
             break
         elif var_topical == 'i':
-            print(article['text'])
+            logging.info(article['text'])
             var_topical = input("Is it topical? t (True), f (False)  ")
         df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
         cnt_article += 1
@@ -80,11 +83,11 @@ def main(config_file,
     columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']
     df_articles_topical = pd.DataFrame(columns=columns)
     relevant_articles = df_articles_summary[df_articles_summary['topical'] == True]
-    print('Saving {} relevent articles'.format(len(relevant_articles)))
+    logging.info('Saving {} relevent articles'.format(len(relevant_articles)))
     for index, row in relevant_articles.iterrows():
         article = pd.read_csv(articles_folder+'/'+row['newspaper'], sep='|').iloc[row['article_number']]
         df_articles_topical.loc[index] = article
-    print("Saving all articles to {0}".format(output_directory))
+    logging.info("Saving all articles to {0}".format(output_directory))
     output_filename = utils.get_inspected_articles_output_filename(config)
     df_articles_topical.to_csv(os.path.join(output_directory, output_filename), sep='|', header=True)
 

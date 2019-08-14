@@ -1,10 +1,14 @@
 import re
-import networkx as nx
+import logging
 
 from word2number import w2n
 from text_to_num import text2num
+import networkx as nx
 
 from utils import utils
+
+
+logger = logging.getLogger(__name__)
 
 LANGUAGES_WITH_ENTS = ['english']
 
@@ -58,7 +62,7 @@ class Ents:
 
             # safety check
             if impact_label.strip() == '':
-                print('WARNING: impact_label NOT ASSIGNED !!!')
+                logger.warning('Impact_label NOT ASSIGNED !!!')
                 continue
 
             # check if relevant location is unknown (single list of multiple locations counts as 1 relevant location found)
@@ -76,13 +80,13 @@ class Ents:
                 # if closest_entity contains single location, numerical entity is divided by 1 and assigned to location
                 number_divided = str(int(int(number)/len(closest_entity)))
             except ValueError:
-                print('division failed: ', number)
+                logger.error('division failed: ', number)
                 number_divided = number
             for location in closest_entity:
                 location = location.strip()
                 # safety check
                 if location == '':
-                    print('WARNING: location_impact_data NOT FOUND !!!')
+                    logger.warning('location_impact_data NOT FOUND !!!')
                     continue
                 final_info_list.append([location, impact_label, number_divided, addendum])
         return final_info_list
@@ -97,7 +101,7 @@ class Ents:
             self.dependency_graph = nx.Graph(edges)
         except nx.NetworkXError:
             self.dependency_graph = None
-            print('WARNING: Could not generate dependency tree')
+            logger.warning('Could not generate dependency tree')
             return
 
     def _deal_with_multiple_locations(self, locations, ent, ent_text):
@@ -200,8 +204,7 @@ class Ents:
             return None
         try:
             if int(number) >= CRAZY_NUMBER_CUTOFF:
-                print('WARNING: crazy number (not assigned)', number)
-                print(self.sentence_text)
+                logger.warning('crazy number (not assigned)', number, self.sentence_text)
                 return None
         except:
             pass
@@ -220,25 +223,23 @@ class Ents:
         except ValueError:
             return None
         if int(number) >= USD_CUTOFF and addendum == 'USD':
-            print('WARNING: too many dollars:')
-            print(self.sentence_text)
+            logger.warning('too many dollars:', self.sentence_text)
             return None
         if int(number) >= LOCAL_CURRENCY_CUTOFF and addendum == keywords['local_currency_code']:
-            print('WARNING: too much local currency:')
-            print(self.sentence_text)
+            logger.warning('too much local currency:', self.sentence_text)
             return None
         # check if root is damage-like
         token_root = next(iter([token for token in self.sentence if token.dep_ == 'ROOT']), None)
         if any(type in token_root.text for type in keywords['donation']):
             # donation, discard
-            # print('donation, discarding')
+            logger.debug('donation, discarding')
             return None
         else:
             if any(type == self.sentence_text.lower() for type in keywords['type_livelihood']):
-                # print('    proposing assignement: ', ent_text, ' in damage_livelihood')
+                logger.debug('    proposing assignement: ', ent_text, ' in damage_livelihood')
                 impact_label = 'damage_livelihood'
             else:
-                # print('    proposing assignement: ', ent_text, ' in damage_general')
+                logger.debug('    proposing assignement: ', ent_text, ' in damage_general')
                 impact_label = 'damage_general'
             return number, addendum, impact_label
 
@@ -299,7 +300,7 @@ class Ents:
                 text = str((x+y)/2.)
                 return text
             except ValueError:
-                print('number conversion failed (special case *between*): ', text)
+                logger.warning('number conversion failed (special case *between*): ', text)
                 return text
 
         # special case: 'x per cent'
@@ -308,7 +309,7 @@ class Ents:
                 text = str(parser(perc)) + '%'
                 return text
             except ValueError:
-                print('number conversion failed (special case *per cent*): ', text)
+                logger.warning('number conversion failed (special case *per cent*): ', text)
                 return text
 
         # word_to_num not working, need to convert string to number
@@ -362,7 +363,7 @@ class Ents:
                     elif 'dozen' in text:
                         text = '12'
                     else:
-                        print('number conversion failed (', text, ') !!!')
+                        logger.warning('number conversion failed (', text, ') !!!')
                         text = re.sub('[^0-9\.]+', '', text)
         return text
 
