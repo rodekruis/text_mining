@@ -51,11 +51,39 @@ This works in three steps:
 contains the title, newspaper name and index of all articles that were scraped, 
 as well as a column for marking the relevance as `True` / `False`. It is saved as
 `articles_processed/articles_summary_{keyword}_{country}.csv`. 
-2) For all articles that still require their relevancy to be assessed,
-the user will be shown the title of the article, and prompted to evaluate it
+2) Automisation of the annotation process. 
+Based on the the summary dataframe, this script checks the title for words that 
+indicate the relevance or not. The result (True/False/blank) is written to the 
+column `topical`.
+Possible outcomes:
+    - Still require manual inspection of the article title and text --> left `blank`
+    This is based on the keywords in `keys_manual_check` in the Config file. 
+    These are be words that have ambiguous meaning: e.g. river Niger 
+    in Mali (relevant), or country Niger (not relevant for floods in Mali).
+    - Non topical / not relevant artciles --> `False`
+    This is based on the keywords in `Article_nontopical_{country}.txt`. Keyword 
+    examples are: countries outside target country, 'you searched for', words
+    related to the target word, but in a different sense: e.g. flooding a 'stadium'
+    with people, or a 'market' is flooded with cheap products.
+    - Topical or relevant articles --> `True`
+    This is based on the keywords in `Article_topical_{country}.txt` and 
+    `Locations_{country}.txt`. Article_topical_{country}.txt contains words that
+    indicate relevance, e.g. the target country president's name, the name of the
+    people ('maliens' for Mali, 'français' for France), etc.
+    Locations_{country}.txt contains a selection of (larger) cities and provinces
+    in a country, e.g. from Wikipedia. A complete list of a country's locations
+    is not used, since it may also include very small villages that are recognised
+    in parts of words and therefore falsly treated as True by the script, e.g. 
+    village 'Da' in Mali is recognised in the word 'indonDAtion'.
+It is wise to check a sample of the annotation results (in Excel), to see if they
+are correct and to find more words to add to the (non)topical lists.
+Note: all keywords need to be written in lower case and with accents.
+3) For all articles that still require their relevancy to be assessed,
+the user will be shown the title of the article and prompted to evaluate it
 as relevant (`y`/`n`). There is also the option `i` to view the article text,
-and `q` to quit and save the current results.
-3) The text from all articles with relevance marked as `True` is saved to a new file,
+and `q` to quit and save the current results. Only titles will be shown of 
+articles where the cell in column `topical` is left blank.
+4) The text from all articles with relevance marked as `True` is saved to a new file,
 `articles_processed/articles_all_topical_{keyword}_{country}.csv`. 
 
 Usage:
