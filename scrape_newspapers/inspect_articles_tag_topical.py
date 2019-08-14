@@ -13,14 +13,17 @@ pd.set_option('expand_frame_repr', True)
 
 @plac.annotations(
     config_file="Configuration file",
-    recreate_summary_file=("Recreate the summary file", "flag", "r")
+    recreate_summary_file=("Recreate the summary file", "flag", "r"),
+    is_debug_mode=("Set log level to debug", "flag", "debug")
 )
 def main(config_file,
-         recreate_summary_file=False):
+         recreate_summary_file=False,
+         is_debug_mode=False):
     """
     Inspect articles and decide if relevant
     add corresponding boolean (topical) to dataframe
     """
+    utils.set_log_level(is_debug_mode)
     config = utils.get_config(config_file)
 
     output_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR

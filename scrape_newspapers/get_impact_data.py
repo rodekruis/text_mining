@@ -1,6 +1,5 @@
 import plac
 
-
 from impact_table_generator import ImpactTableGenerator
 from utils import utils
 
@@ -10,11 +9,10 @@ from utils import utils
     input_filename=("Optional input filename", "option", "i", str),
     output_filename_base=("Optional output filename base", "option", "o", str),
     output_directory=("Optional output directory", "option", "d", str),
-    debug=("Debug", "flag", "debug")
+    is_debug_mode=("Set log level to debug", "flag", "debug")
 )
-def main(config_file, input_filename=None, output_filename_base=None, output_directory=None, debug=False):
-    log_level = 'DEBUG' if debug else 'INFO'
-    utils.set_log_level(log_level)
+def main(config_file, input_filename=None, output_filename_base=None, output_directory=None, is_debug_mode=False):
+    utils.set_log_level(is_debug_mode)
 
     impact_table_generator = ImpactTableGenerator.ImpactTableGenerator(
         config_file,

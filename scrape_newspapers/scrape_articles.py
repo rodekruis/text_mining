@@ -2,6 +2,7 @@ import re
 import os
 from datetime import datetime
 import time
+import logging
 
 import plac
 from newspaper import Article
@@ -159,12 +160,14 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
 
 @plac.annotations(
     config_file="Configuration file",
+    is_debug_mode=("Set log level to debug", "flag", "debug")
 )
-def main(config_file):
+def main(config_file, is_debug_mode=False):
     """
     Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
     """
+    utils.set_log_level(is_debug_mode)
     config = utils.get_config(config_file)
     output_dir = utils.get_scraped_article_output_dir(config)
 

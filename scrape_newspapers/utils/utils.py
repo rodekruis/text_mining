@@ -39,6 +39,7 @@ def get_pattern_entity(loc_string, target):
     return re.compile(str(pattern_entity), re.IGNORECASE)
 
 
-def set_log_level(log_level='INFO'):
+def set_log_level(is_debug_mode=False):
+    log_level = 'DEBUG' if is_debug_mode else 'INFO'
     root_logger = logging.getLogger()
     root_logger.setLevel(log_level.upper())
