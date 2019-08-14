@@ -23,10 +23,12 @@ def _load_locations(country, country_short):
     locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
     return locations_df
 
-@plac.annotations(config_file="Configuration file",
+@plac.annotations(
+        config_file="Configuration file",
     recreate_summary_file=("Recreate the summary file", "flag", "r")
 )
-def main(config_file,
+def main(
+        config_file,
          recreate_summary_file=False):
     """
     Inspect articles and decide if relevant
@@ -84,10 +86,10 @@ def main(config_file,
         
         for row in df_articles_summary.itertuples():
             title_summary = df_articles_summary.at[row.Index, 'title']
-#            print(title_summary.lower())
-#            print(keys_manual_check)
-#            print([word in title_summary.lower() for word in keys_manual_check])
-#            print([word for word in keys_manual_check])
+            #print(title_summary.lower())
+            #print(keys_manual_check)
+            #print([word in title_summary.lower() for word in keys_manual_check])
+            #print([word for word in keys_manual_check])
             if any(word.lower() in title_summary.lower() for word in keys_manual_check): 
                 df_articles_summary.loc[row.Index, 'topical'] = None
                 cnt_check += 1
@@ -104,9 +106,10 @@ def main(config_file,
 
         #print result summary and write to csv
         cnt_rest = cnt_total-cnt_true-cnt_false
-        print('\n Finished processing: \n {cnt_total} articles in total \n {cnt_true} True \n {cnt_false} False \n {cnt_rest} to be checked manually ({check} newspaper names problem)'.format(
-        cnt_total=cnt_total, cnt_true=cnt_true, cnt_false=cnt_false, cnt_rest=cnt_rest, check = cnt_check))
-        
+        processing_result = '\n Finished processing: \n {cnt_total} articles in total' \
+            '\n {cnt_true} True \n {cnt_false} False \n {cnt_rest} to be checked manually ({check} newspaper names problem)'.format(
+                    cnt_total=cnt_total, cnt_true=cnt_true, cnt_false=cnt_false, cnt_rest=cnt_rest, check = cnt_check)
+        print(processing_result)
         df_articles_summary.to_csv(articles_summary_filename, index=False)
         
         #debugging, find word that triggers annotation choice:
