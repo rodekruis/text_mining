@@ -15,6 +15,9 @@ import dateparser
 
 from utils import utils
 
+
+logger = logging.getLogger()
+
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
 
@@ -52,7 +55,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
     url_any = re.sub('\?m\=[0-9]{6}', '', url_any)
     url_any = re.escape(url_any) + '(?=\S*[-])([0-9a-zA-Z-\/\.]+)'
     regex = re.compile(url_any)
-    print('searching for ', url_any)
+    logger.info('searching for ', url_any)
     search_results = list(set([match[0] for match in
                                regex.finditer(search_result_page_source)
                                if keyword in match[0].lower()]))
@@ -63,16 +66,16 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
         search_results = ['https://www.newvision.co.ug' + search_result for search_result in search_results]
 
     if len(search_results) > 0:
-        print("found {0} article(s):".format(len(search_results)))
+        logger.info("found {0} article(s):".format(len(search_results)))
         for title in search_results:
-            print("url: {0}".format(title))
+            logger.info("url: {0}".format(title))
     else:
-        print('no articles found')
+        logger.info('no articles found')
 
     # 2) for each result, get article and save it
     for idx, search_result in enumerate(search_results):
 
-        print('processing ', search_result)
+        logger.info('processing ', search_result)
         # download article
         article = Article(search_result, keep_article_html=True)
         article.download()
@@ -81,7 +84,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
             attempts += 1
             time.sleep(1)
         if article.download_state != 2:
-            print('unable to download article: ', search_result)
+            logger.warning('unable to download article: ', search_result)
             continue
         article.parse()
 
@@ -92,7 +95,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
 
         if re.search(regex, article.html) is not None:
 
-            # print(article_html)
+            logger.debug(article_html)
 
             # get date
             date = article.publish_date
@@ -126,7 +129,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                         if is_date(match.group(), language):
                             dates_found.append((match.start(), match.group()))
                 if len(dates_found) > 0:
-                    print(dates_found)
+                    logger.info(dates_found)
                     dates_found.sort(key=lambda tup: tup[0])
                     for res in dates_found:
                         res_date = dateparser.parse(res[1], languages=[language]).date()
@@ -136,10 +139,10 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                             break
 
             if date_str == "":
-                print('Publication date not found or wrongly assigned, skipping article')
+                logger.warning('Publication date not found or wrongly assigned, skipping article')
                 continue
             else:
-                print('Publication date assigned: ', date_str)
+                logger.info('Publication date assigned: ', date_str)
 
             # if no text is present (e.g. only video), use title as text
             article_text = article.text
@@ -147,12 +150,12 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                 article_text = article.title
 
             # add to dataframe
-            print(article.title, ' : ', date_str)
+            logger.info(article.title, ' : ', date_str)
             articles_page.loc[idx] = [article.title, date_str, article_text, article.url]
 
     # 3) return dataframe
     if len(search_results) > 0:
-        print(articles_page.head())
+        logger.info(articles_page.head())
     return articles_page
 
 ################################################################################
@@ -160,17 +163,16 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
 
 @plac.annotations(
     config_file="Configuration file",
-    is_debug_mode=("Set log level to debug", "flag", "debug")
+    debug=("Set log level to debug", "flag", "d")
 )
-def main(config_file, is_debug_mode=False):
+def main(config_file, debug=False):
     """
     Scrape articles from online newspapers
     save article in pandas dataframe (articles_all)
     """
-    utils.set_log_level(is_debug_mode)
+    utils.set_log_level(debug)
     config = utils.get_config(config_file)
     output_dir = utils.get_scraped_article_output_dir(config)
-
     # if output directory does not exist, create it
     if not os.path.isdir(output_dir):
         os.mkdir(output_dir)
@@ -200,24 +202,24 @@ def main(config_file, is_debug_mode=False):
 
         articles_news = pd.DataFrame(columns=['title', 'publish_date', 'text', 'url'])
 
-        print('**********************************************************************************')
-        print('Accessing ' + news_name + ' (' + news_url + ')')
+        logger.info('**********************************************************************************')
+        logger.info('Accessing ' + news_name + ' (' + news_url + ')')
         news_url += '?s='+config['keyword']
         try:
             browser.get(news_url)
         except (TimeoutException, WebDriverException):
-            print('Unable to access, skipping')
+            logger.error('Unable to access, skipping')
             continue
 
         # process first results page
-        print("Begin to process page 1 ({0})".format(browser.current_url))
+        logger.info("Begin to process page 1 ({0})".format(browser.current_url))
         articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
         articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
         page_number = 2
         while True:
-            print("Trying to open page {0} ...".format(page_number))
+            logger.info("Trying to open page {0} ...".format(page_number))
             try:
                 link = browser.find_element_by_link_text(str(page_number))
                 browser.get(link.get_attribute("href"))
@@ -227,38 +229,36 @@ def main(config_file, is_debug_mode=False):
                 url_next_page = re.sub(re.escape('search?k='+config['keyword']), '', url_next_page)
                 url_next_page = re.escape(url_next_page) + 'page\/' + str(page_number) + '.*?(?=")'
                 regex = re.compile(url_next_page)
-                print('link not found, trying explicit regex: ', url_next_page)
+                logger.info('link not found, trying explicit regex: ', url_next_page)
                 search_result_next_page = re.search(regex, browser.page_source)
                 if search_result_next_page is None:
-                    print('Not found!')
+                    logger.info('Not found!')
                     break
                 else:
-                    print(search_result_next_page[0])
+                    logger.info(search_result_next_page[0])
                     browser.get(search_result_next_page[0])
             except (TimeoutException, InvalidArgumentException):
-                print("Can't open page, abandoning news source")
+                logger.error("Can't open page, abandoning news source")
                 break
-            print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
+            logger.info("Begin to process page {0} ({1})".format(page_number, browser.current_url))
             articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
             articles_news = articles_news.append(articles_page)
             page_number += 1
 
         # save dataframe to csv
-        print('Saving articles from ' + news_name)
-        print(articles_news.describe())
-        print('*********************************************************')
+        logger.info('Saving articles from ' + news_name)
+        logger.info(articles_news.describe())
+        logger.info('*********************************************************')
         output_name = 'articles_{keyword}_{news_name}.csv'.format(
             keyword=config['keyword'], news_name=news_name)
         output_dir_news = os.path.join(output_dir, output_name)
         articles_news.to_csv(output_dir_news, sep='|', index=False)
 
-    print("\nFINISHED PROCESSING *****************************")
-    # print("\nSummary")
-    # print(articles_all.describe())
-    #
+    logger.info("\nFINISHED PROCESSING *****************************")
+
     # ## save dataframe to hdf5
     # output_dir_all = str(output_dir) + "/articles_" + keyword + "_all.h5"
-    # print("Saving all articles to {0}".format(output_dir_all))
+    # logger.info("Saving all articles to {0}".format(output_dir_all))
     # articles_all.to_hdf(output_dir_all, key='df', mode='w')
 
 
