@@ -76,8 +76,10 @@ Possible outcomes:
     in parts of words and therefore falsly treated as True by the script, e.g. 
     village 'Da' in Mali is recognised in the word 'indonDAtion'.
 It is wise to check a sample of the annotation results (in Excel), to see if they
-are correct and to find more words to add to the (non)topical lists.
-Note: all keywords need to be written in lower case and with accents.
+are correct and to find more words to add to the (non)topical lists. The scripts
+prints for every title: the title, index, True/False/Check, and the word responsible
+for the choice of True/False/Check.
+NOTE: all keywords need to be written in lower case and with accents.
 3) For all articles that still require their relevancy to be assessed,
 the user will be shown the title of the article and prompted to evaluate it
 as relevant (`y`/`n`). There is also the option `i` to view the article text,
