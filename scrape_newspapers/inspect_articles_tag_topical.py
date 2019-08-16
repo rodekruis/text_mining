@@ -3,6 +3,7 @@ import logging
 
 import plac
 import pandas as pd
+import ast
 
 from utils import utils
 
@@ -26,8 +27,10 @@ def main(config_file,
     Inspect articles and decide if relevant
     add corresponding boolean (topical) to dataframe
     """
+    #config_file = 'config_files/mali.cfg'
     utils.set_log_level(debug)
     config = utils.get_config(config_file)
+    keywords = utils.get_keywords(config_file)
 
     output_directory = utils.INPSECTED_ARTICLES_OUTPUT_DIR
     if not os.path.exists(output_directory):
@@ -55,7 +58,59 @@ def main(config_file,
                 row_to_add = [file, index, article['title'], None]
                 df_articles_summary.loc[index_article] = row_to_add
                 index_article += 1
+        
+        # Automised article annotation
+        # load keywords
+        df_locations = utils.read_keyword_csv(keywords['filename_locations'])
+        keys_topical = utils.read_keyword_csv(keywords['filename_article_topical']) + df_locations
+        keys_not_topical = utils.read_keyword_csv(keywords['filename_article_nontopical'])
+        keys_manual_check = ast.literal_eval(keywords['keys_manual_check'])
+
+        #set counters and annotate article titles
+        cnt_true = 0
+        cnt_false = 0
+        cnt_total = 0
+        cnt_check = 0
+        
+        for row in df_articles_summary.itertuples():
+            title_summary = df_articles_summary.at[row.Index, 'title']
+            logger.debug('{}'.format(title_summary.lower()))
+            logger.debug('{}'.format(keys_manual_check))
+            logger.debug('{}'.format([word in title_summary.lower() for word in keys_manual_check]))
+            logger.debug('{}'.format([word for word in keys_manual_check]))
+            log_string = ' -{index}- | {flag} | {word_list} | {title_summary}'
+            if any(word.lower() in title_summary.lower() for word in keys_manual_check): 
+                df_articles_summary.loc[row.Index, 'topical'] = None
+                cnt_check += 1
+                logger.info(log_string.format(index=row.Index, flag='CHECK', title_summary=title_summary,
+                                              word_list=[word for word in keys_manual_check if
+                                                         word.lower() in title_summary.lower()]))
+            elif any(word.lower() in title_summary.lower() for word in keys_not_topical):
+                df_articles_summary.loc[row.Index, 'topical'] = False
+                cnt_false += 1
+                logger.info(log_string.format(index=row.Index, flag='FALSE', title_summary=title_summary,
+                                              word_list=[word for word in keys_not_topical if
+                                                         word.lower() in title_summary.lower()]))
+            elif any(word.lower() in title_summary.lower() for word in keys_topical):
+                df_articles_summary.loc[row.Index, 'topical'] = True
+                cnt_true += 1
+                logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
+                                              word_list=[word for word in keys_topical if
+                                                         word.lower() in title_summary.lower()]))
+            cnt_total += 1
+
+        #print result summary and write to csv
+        cnt_rest = cnt_total-cnt_true-cnt_false
+        processing_result = '\n Finished processing: \n {cnt_total} articles in total\n {cnt_true} True \n ' \
+                            '{cnt_false} False \n {cnt_rest} to be checked manually ({check} newspaper names problem)'
+        processing_result = processing_result.format(cnt_total=cnt_total, cnt_true=cnt_true, cnt_false=cnt_false,
+                                                     cnt_rest=cnt_rest, check = cnt_check)
+        logger.info(processing_result)
         df_articles_summary.to_csv(articles_summary_filename, index=False)
+        
+        #debugging, find word that triggers annotation choice:
+        test_title = 'Inondation meurtrière à Bamako: Les maires à l’indexe – MALI 24 INFO'
+        logger.debug('{}'.format([word for word in keys_not_topical if word.lower() in test_title.lower()]))
 
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
@@ -83,7 +138,7 @@ def main(config_file,
     columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']
     df_articles_topical = pd.DataFrame(columns=columns)
     relevant_articles = df_articles_summary[df_articles_summary['topical'] == True]
-    logging.info('Saving {} relevent articles'.format(len(relevant_articles)))
+    logging.info('Saving {} topical articles'.format(len(relevant_articles)))
     for index, row in relevant_articles.iterrows():
         article = pd.read_csv(articles_folder+'/'+row['newspaper'], sep='|').iloc[row['article_number']]
         df_articles_topical.loc[index] = article

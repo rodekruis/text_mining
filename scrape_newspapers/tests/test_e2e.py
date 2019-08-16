@@ -9,8 +9,8 @@ NEW_RESULTS = 'impact_data_test_inondation_Mali_new'
 def test_e2e():
     cmd = 'python get_impact_data.py config_files/mali.cfg' \
           ' -i {test_articles_file}' \
-          ' -o {new_results}' \
-          ' -d tests'
+          ' -f {new_results}' \
+          ' -o tests'
     cmd = cmd.format(test_articles_file=TEST_ARTICLES_FILE,
                      new_results=NEW_RESULTS)
     os.system(cmd)
