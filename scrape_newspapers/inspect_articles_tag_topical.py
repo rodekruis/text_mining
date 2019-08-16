@@ -57,7 +57,7 @@ def main(
         # Automised article annotation
         # load keywords
         df_locations = utils.read_keyword_csv(keywords['filename_locations'])
-        keys_topical = utils.read_keyword_csv(keywords['filename_article_topical'])
+        keys_topical = utils.read_keyword_csv(keywords['filename_article_topical']) + df_locations
         keys_not_topical = utils.read_keyword_csv(keywords['filename_article_nontopical'])
         keys_manual_check = ast.literal_eval(keywords['keys_manual_check'])
 
@@ -105,7 +105,7 @@ def main(
 
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
-    print('/n Analyzing {} articles'.format(number_to_analyze))
+    print('\n Analyzing {} articles'.format(number_to_analyze))
 
     # Tag articles and save it in the summary
     cnt_article = 0
