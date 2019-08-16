@@ -192,7 +192,7 @@ def main(config_file, debug=False):
     config = utils.get_config(config_file)
 
     # Log output to a file
-    log_filename = 'scrape_articles_{country}_{keyword}_{timestamp}'
+    log_filename = 'scrape_articles_{country}_{keyword}_{timestamp}.log'
     log_filename = log_filename.format(country=config['country'], keyword=config['keyword'],
                                        timestamp=time.strftime('%Y%m%d-%H%M%S'))
     utils.set_log_level(debug, log_filename=log_filename)
