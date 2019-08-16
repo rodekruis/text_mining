@@ -1,8 +1,12 @@
 import re
 import unicodedata
+import logging
 
 from . import Ents
 from utils import utils
+
+
+logger = logging.getLogger(__name__)
 
 
 class Sentence:
@@ -66,7 +70,7 @@ class Sentence:
                 location = location.strip()
                 # safety check
                 if location == '':
-                    print('WARNING: location_infrastructure NOT FOUND !!!')
+                    logger.warning('location_infrastructure NOT FOUND !!!')
                     continue
                 info_list.append([location, 'infrastructures_mentioned', inf_text, ''])
         return info_list
