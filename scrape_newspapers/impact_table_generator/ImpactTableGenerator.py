@@ -144,12 +144,8 @@ class ImpactTableGenerator:
         keywords = {keyword: ast.literal_eval(keywords_config[keyword])
                     for keyword in keyword_list}
 
-        keywords['type_people'] = pd.read_csv(os.path.join(LOCATIONS_KEYWORDS,
-                                              keywords_config['filename_type_people']),
-                                              header=None, encoding='latin-1')[0].tolist()
-        keywords['type_infrastructure'] = pd.read_csv(os.path.join(LOCATIONS_KEYWORDS,
-                                                      keywords_config['filename_type_infrastructures']),
-                                                      header=None, encoding='latin-1')[0].tolist()
+        keywords['type_people'] = utils.read_keyword_csv(keywords_config['filename_type_people'])
+        keywords['type_infrastructure'] = utils.read_keyword_csv(keywords_config['filename_type_infrastructures'])
         keywords['currency_short'] = keywords['local_currency_names_short'] + keywords['currency_short']
         keywords['currency_long'] = keywords['local_currency_names_long'] + keywords['currency_long']
         return keywords
