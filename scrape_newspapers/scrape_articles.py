@@ -17,6 +17,8 @@ from utils import utils
 
 
 logger = logging.getLogger(__name__)
+for package in ['selenium', 'urllib3']:
+    logging.getLogger(package).setLevel(max(logger.level, getattr(logging, 'INFO')))
 
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
