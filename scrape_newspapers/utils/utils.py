@@ -3,6 +3,7 @@ import re
 import os
 
 import pandas as pd
+from pandas.errors import EmptyDataError
 
 
 INPSECTED_ARTICLES_OUTPUT_DIR = 'articles_processed'
@@ -43,5 +44,8 @@ def get_pattern_entity(loc_string, target):
 
 
 def read_keyword_csv(filename):
-    pd.read_csv(os.path.join(LOCATIONS_KEYWORDS,  filename),
-                header=None, encoding='latin-1')[0].tolist()
+    try:
+        return pd.read_csv(os.path.join(LOCATIONS_KEYWORDS,  filename),
+                           header=None, encoding='latin-1')[0].tolist()
+    except EmptyDataError:
+        return []
