@@ -178,7 +178,7 @@ class Article:
                         elif appendix == 'k':
                             number *= 1E3
                         else:
-                            logger.info('money conversion failed (', self.text, ') !!!')
+                            logger.info('money conversion failed  {}) !!!'.format(self.text))
                     except:
                         pass
                     number_final = re.sub(appendix, '', str(int(number)))

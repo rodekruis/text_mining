@@ -80,7 +80,7 @@ class Ents:
                 # if closest_entity contains single location, numerical entity is divided by 1 and assigned to location
                 number_divided = str(int(int(number)/len(closest_entity)))
             except ValueError:
-                logger.error('division failed: ', number)
+                logger.error('division failed: {}'.format(number))
                 number_divided = number
             for location in closest_entity:
                 location = location.strip()
@@ -204,7 +204,7 @@ class Ents:
             return None
         try:
             if int(number) >= CRAZY_NUMBER_CUTOFF:
-                logger.warning('crazy number (not assigned)', number, self.sentence_text)
+                logger.warning('crazy number (not assigned) {} {}'.format(number, self.sentence_text))
                 return None
         except:
             pass
@@ -223,10 +223,10 @@ class Ents:
         except ValueError:
             return None
         if int(number) >= USD_CUTOFF and addendum == 'USD':
-            logger.warning('too many dollars:', self.sentence_text)
+            logger.warning('too many dollars: {}'.format(self.sentence_text))
             return None
         if int(number) >= LOCAL_CURRENCY_CUTOFF and addendum == keywords['local_currency_code']:
-            logger.warning('too much local currency:', self.sentence_text)
+            logger.warning('too much local currency: {}'.format(self.sentence_text))
             return None
         # check if root is damage-like
         token_root = next(iter([token for token in self.sentence if token.dep_ == 'ROOT']), None)
@@ -236,10 +236,10 @@ class Ents:
             return None
         else:
             if any(type == self.sentence_text.lower() for type in keywords['type_livelihood']):
-                logger.debug('    proposing assignement: ', ent_text, ' in damage_livelihood')
+                logger.debug('    proposing assignement: {} in damage_livelihood'.format(ent_text))
                 impact_label = 'damage_livelihood'
             else:
-                logger.debug('    proposing assignement: ', ent_text, ' in damage_general')
+                logger.debug('    proposing assignement: {} in damage_general'.format(ent_text))
                 impact_label = 'damage_general'
             return number, addendum, impact_label
 
@@ -300,7 +300,7 @@ class Ents:
                 text = str((x+y)/2.)
                 return text
             except ValueError:
-                logger.warning('number conversion failed (special case *between*): ', text)
+                logger.warning('number conversion failed (special case *between*): {}'.format(text))
                 return text
 
         # special case: 'x per cent'
@@ -309,7 +309,7 @@ class Ents:
                 text = str(parser(perc)) + '%'
                 return text
             except ValueError:
-                logger.warning('number conversion failed (special case *per cent*): ', text)
+                logger.warning('number conversion failed (special case *per cent*): {}'.format(text))
                 return text
 
         # word_to_num not working, need to convert string to number
@@ -363,7 +363,7 @@ class Ents:
                     elif 'dozen' in text:
                         text = '12'
                     else:
-                        logger.warning('number conversion failed (', text, ') !!!')
+                        logger.warning('number conversion failed ({}) !!!'.format(text))
                         text = re.sub('[^0-9\.]+', '', text)
         return text
 

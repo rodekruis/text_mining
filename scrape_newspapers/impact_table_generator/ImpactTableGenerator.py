@@ -79,10 +79,10 @@ class ImpactTableGenerator:
             self.df_impact.to_excel(self.writer, 'Sheet1')
             self.writer.save()
 
-        logger.info('found ', len(self.df_impact), ' entries')
+        logger.info('found {} entries'.format(len(self.df_impact)))
         self.df_impact.dropna(how='all', inplace=True)
-        logger.info(self.df_impact.describe())
-        logger.info(self.df_impact.head())
+        logger.info('{}'.format(self.df_impact.describe()))
+        logger.info('{}'.format(self.df_impact.head()))
         self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
                          mode='w', encoding='utf-8', sep='|')
         self.df_impact.to_excel(self.writer, 'Sheet1')
