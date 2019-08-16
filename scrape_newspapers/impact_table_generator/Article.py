@@ -1,12 +1,12 @@
 import re
 import logging
-from itertools import groupby
 
 import numpy as np
 from text_to_num import text2num
 from spacy.matcher import Matcher
 
 from . import Sentence
+from . import Location
 
 
 logger = logging.getLogger(__name__)
@@ -40,12 +40,14 @@ class Article:
         self.doc = nlp(self.text)
 
         # set location from title, or most mentioned in document
-        self.location_matches, self.locations = Article._find_locations(
-            self.doc, locations_df, nlp)
-        _, self.locations_title = Article._find_locations(
-            nlp(self.title), locations_df, nlp)
-        self.locations, self.text = Sentence.clean_locations(self.locations, self.text)
-        self.locations_title, self.title = Sentence.clean_locations(self.locations_title, self.title)
+        self.locations = Article._find_locations(self.doc, locations_df, nlp)
+        self.locations_title = Article._find_locations(nlp(self.title), locations_df, nlp)
+
+        # clean found locations
+        self.locations, self.text = Location.clean_locations(self.locations, self.text)
+        self.locations_title, self.title = Location.clean_locations(self.locations_title, self.title)
+
+        # get main location of article
         self.location = self._get_doc_location(locations_df)
 
     def analyze(self, language, keywords, df_impact):
@@ -53,7 +55,7 @@ class Article:
             logger.warning('No locations mentioned in document, not analyzing')
             return
         for s in self.doc.sents:
-            sentence = Sentence.Sentence(s, self.doc, self.location_matches, language, self.location)
+            sentence = Sentence.Sentence(s, self.locations, language, self.location)
             final_info_list = sentence.analyze(keywords, language)
             for (location, impact_label, number, addendum) in final_info_list:
                 _save_in_dataframe(df_impact, location,
@@ -61,6 +63,9 @@ class Article:
                                    number, addendum, sentence.sentence_text, self.title)
 
     def _get_doc_location(self, locations_df):
+        """
+        Get the main locartion belonging to the article
+        """
         location = Article._determine_location(self.locations_title, locations_df)
         if location is None:
             location = Article._determine_location(self.locations, locations_df)
@@ -68,19 +73,22 @@ class Article:
 
     @staticmethod
     def _determine_location(locations, locations_df):
+        """
+        Determine which of the found locations is the main location
+        """
         location = None  # no location mentioned, document not useful
         if len(locations) == 1:
             # easy case, document mentions one location only
-            location = locations[0]
+            location = locations
         elif len(locations) > 1:
             # multiple locations mentioned, take the most common
-            location = _most_common(locations, locations_df)
+            location = Location.most_common(locations, locations_df)
         return location
 
     @staticmethod
     def _find_locations(doc, locations_df, nlp):
         """
-        Find locations of interest in a given text
+        Find all locations of interest in a given text
         """
         # find locations and append them to list
         matcher = Matcher(nlp.vocab)
@@ -96,8 +104,14 @@ class Article:
             except IndexError:
                 pass
         location_matches = matches
-        locations = [doc[i:j].text for (_, i, j) in location_matches]
-        return location_matches, locations
+
+        # Create list of location objects
+        locations = []
+        for location in location_matches:
+                loc_string = doc[location[1]:location[2]].text
+                locations.append(Location.Location(loc_string, [loc_string], (location[1], location[2])))
+
+        return locations
 
     def _preprocess_titles(self, titles, language):
         # Remove proper names of people because they can have names of towns
@@ -220,26 +234,6 @@ class Article:
                 self.text = re.sub(search_text, str(int(number)), self.text)
 
 
-def _most_common(lst, locations_df):
-    # Sort the list and count duplicates, then remove them
-    lst = sorted(lst)
-    location_counts = [(i, len(list(c))) for i, c in groupby(lst)]
-    lst = sorted(list(set(lst)))
-    # Find the places(s) with max counts
-    counts = [count[1] for count in location_counts]
-    idx_max = np.where(np.max(counts) == counts)[0]
-    # Set location to first entry, this works if there is only one location, or as a fallback
-    # if the multiple location handling doesn't work
-    location = lst[idx_max[0]]
-    # If there is more than one location, take the lowest level admin region.
-    if len(idx_max) > 1:
-        try:
-            lst_max = [lst[idx] for idx in idx_max]
-            location_info = locations_df[locations_df['FULL_NAME_RO'].isin(lst_max)]
-            location = location_info.groupby('FULL_NAME_RO')['ADM1'].min().idxmin()
-        except ValueError:  # in case location_info is empty due to string matching problem reasons
-            pass
-    return location
 
 
 def _save_in_dataframe(df_impact, location, date, article_num, label, number_or_text, addendum, sentence, title):

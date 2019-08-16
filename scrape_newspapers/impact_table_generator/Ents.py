@@ -71,7 +71,7 @@ class Ents:
                 self._get_dependency_graph(self.sentence)
                 closest_entity = self._deal_with_multiple_locations(locations_final, ent, ent_text)
             else:  #final location is a single (list of) location(s)
-                closest_entity = locations_final[0]['loc_list']
+                closest_entity = locations_final[0].list
 
             # from closest_entity list, get location corresponding to numerical entity
             try:
@@ -96,7 +96,7 @@ class Ents:
 
         for token in sentence:
             for child in token.children:
-                edges.append(('{0}'.format(token.idx), '{0}'.format(child.idx)))
+                edges.append(('{0}'.format(token.i), '{0}'.format(child.i)))
         try:
             self.dependency_graph = nx.Graph(edges)
         except nx.NetworkXError:
@@ -107,45 +107,51 @@ class Ents:
     def _deal_with_multiple_locations(self, locations, ent, ent_text):
         # check if dependency tree exists
         if self.dependency_graph is not None:
-            for location_dict in locations:
+            for location_obj in locations:
                 # get dependency distances
                 dep_distances = []
-                for loc in location_dict['loc_list']:
-                    # get original index (as used in dep graph) of location
-                    loc_index = [token.idx for token in self.sentence if token.text == loc]
-                    dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.idx), target=str(loc_index[0])))
+                for loc_index in range(location_obj.index[0],location_obj.index[1]):
+                    if str(loc_index) in self.dependency_graph:
+                        dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.i), target=str(loc_index)))
                 dep_distance = min(dep_distances)
-                location_dict['dep_distance'] = dep_distance
+                location_obj.save_dep_distance(dep_distance)
 
                 # get regular distance
-                pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
-                match = re.search(pattern_entity, self.sentence_text)
-                distance = match.end() - match.start() - len(location_dict['loc_string']) - len(ent_text)
-                location_dict['distance'] = distance
+                if ent.i < location_obj.index[0]:
+                    distance = location_obj.index[0] - ent.i
+                elif ent.i > location_obj.index[1]:
+                    distance = ent.i - location_obj.index[1]
+
+                location_obj.save_distance(distance)
 
             # find min dependency distance
-            min_dep_distance = min([location_dict['dep_distance'] for location_dict in locations])
-            min_dep_distances = [location_dict for location_dict in locations if location_dict['dep_distance'] == min_dep_distance]
+            min_dep_distance = min([location_obj.dep_distance for location_obj in locations])
+            min_dep_distances = [location_obj for location_obj in locations if location_obj.dep_distance == min_dep_distance]
 
             # if multiple locations corresponds with minimum dependency distance
             if len(min_dep_distances) > 1:
                 # check regular distance
-                min_distance = min([location_dict['distance'] for location_dict in min_dep_distances])
-                min_distances = [location_dict for location_dict in min_dep_distances if location_dict['distance'] == min_distance]
+                min_distance = min([location_obj.distance for location_obj in min_dep_distances])
+                min_distances = [location_obj for location_obj in min_dep_distances if location_obj.distance == min_distance]
                 # Take first item of min_distances as closest_entity
                 # Will fail in case two locations have same dep_distance and same 'regular' distance
-                closest_entity = min_distances[0]['loc_list']
+                #TODO: Deal with case of equal dependency and regular distances
+                closest_entity = min_distances[0].list
             else:
                 #select location with minimum dependency distance
-                closest_entity = min_dep_distances[0]['loc_list']
+                closest_entity = min_dep_distances[0].list
         else:
             # check only regular distance if dependency tree is unavailable
             distances = []
-            for location_dict in locations:
-                pattern_entity = utils.get_pattern_entity(location_dict['loc_string'], ent_text)
-                distances += [(location_dict['loc_list'],
-                               len(chunk[0]) - len(location_dict['loc_string']) - len(ent_text))
-                              for chunk in re.finditer(pattern_entity, self.sentence_text)]
+            for location_obj in locations:
+                if ent.idx < location_obj.index[0]:
+                    distance = location_obj.index[0] - ent.idx
+                elif ent.idx > location_obj.index[1]:
+                    distance = ent.idx - location_obj.index[1]
+
+                distances.append((location_obj.list, distance))
+            # assuming no equal distances
+            #TODO: Deal with case of equal distances
             closest_entity = min(distances, key=lambda t: t[1])[0]
 
         return closest_entity
