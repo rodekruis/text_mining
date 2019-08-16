@@ -174,11 +174,10 @@ class Ents:
                         number_and_object.append(tok)
                 # first, check if root verb or its children
                 # (e.g. 'seven people who died') are death-like
-                roots_ch = tok.children
                 for tok in number_and_object:
                     roots_and_children = list()
                     roots_and_children.append(tok.head.text.lower())
-                    roots_and_children += [ch.text.lower() for ch in roots_ch]
+                    roots_and_children += [ch.text.lower() for ch in tok.children]
                     if any(verb in roots_and_children for verb in keywords['list_verb_death']):
                         is_dead = True
 
