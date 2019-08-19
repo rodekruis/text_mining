@@ -27,6 +27,7 @@ def main(config_file,
     Inspect articles and decide if relevant
     add corresponding boolean (topical) to dataframe
     """
+    #debug=False
     #config_file = 'config_files/mali.cfg'
     utils.set_log_level(debug)
     config = utils.get_config(config_file)
@@ -79,11 +80,11 @@ def main(config_file,
             logger.debug('{}'.format([word in title_summary.lower() for word in keys_manual_check]))
             logger.debug('{}'.format([word for word in keys_manual_check]))
             log_string = ' -{index}- | {flag} | {word_list} | {title_summary}'
-            if any(word.lower() in title_summary.lower() for word in keys_manual_check): 
-                df_articles_summary.loc[row.Index, 'topical'] = None
-                cnt_check += 1
-                logger.info(log_string.format(index=row.Index, flag='CHECK', title_summary=title_summary,
-                                              word_list=[word for word in keys_manual_check if
+            if any(word.lower() in title_summary.lower() for word in keys_topical):
+                df_articles_summary.loc[row.Index, 'topical'] = True
+                cnt_true += 1
+                logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
+                                              word_list=[word for word in keys_topical if
                                                          word.lower() in title_summary.lower()]))
             elif any(word.lower() in title_summary.lower() for word in keys_not_topical):
                 df_articles_summary.loc[row.Index, 'topical'] = False
@@ -91,11 +92,11 @@ def main(config_file,
                 logger.info(log_string.format(index=row.Index, flag='FALSE', title_summary=title_summary,
                                               word_list=[word for word in keys_not_topical if
                                                          word.lower() in title_summary.lower()]))
-            elif any(word.lower() in title_summary.lower() for word in keys_topical):
-                df_articles_summary.loc[row.Index, 'topical'] = True
-                cnt_true += 1
-                logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
-                                              word_list=[word for word in keys_topical if
+            elif any(word.lower() in title_summary.lower() for word in keys_manual_check): 
+                df_articles_summary.loc[row.Index, 'topical'] = None
+                cnt_check += 1
+                logger.info(log_string.format(index=row.Index, flag='CHECK', title_summary=title_summary,
+                                              word_list=[word for word in keys_manual_check if
                                                          word.lower() in title_summary.lower()]))
             cnt_total += 1
 
@@ -108,10 +109,6 @@ def main(config_file,
         logger.info(processing_result)
         df_articles_summary.to_csv(articles_summary_filename, index=False)
         
-        #debugging, find word that triggers annotation choice:
-        test_title = 'Inondation meurtrière à Bamako: Les maires à l’indexe – MALI 24 INFO'
-        logger.debug('{}'.format([word for word in keys_not_topical if word.lower() in test_title.lower()]))
-
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
     logging.info('Analyzing {} articles'.format(number_to_analyze))
