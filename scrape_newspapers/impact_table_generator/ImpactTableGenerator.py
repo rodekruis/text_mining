@@ -5,6 +5,7 @@ import ast
 import pandas as pd
 from pandas import ExcelWriter
 import spacy
+import dateparser
 
 from . import Article
 from utils import utils
@@ -116,7 +117,8 @@ class ImpactTableGenerator:
                 {'keyword': self.keyword, 'country': self.country})
         df = pd.read_csv(os.path.join(input_directory, input_filename),
                          sep='|').drop_duplicates(['title', 'text'], keep=False)
-        df['publish_date'] = df['publish_date'].apply(pd.to_datetime)
+        df['publish_date'] = df['publish_date'].apply(
+            lambda x: pd.to_datetime(dateparser.parse(x,  languages=[self.language[:2]]).date()))
         logger.info('got {} articles:'.format(len(df)))
         logger.info('{} -- {}'.format(df['publish_date'].min().strftime('%Y-%m-%d'),
                                       df['publish_date'].min().strftime('%Y-%m-%d')))
