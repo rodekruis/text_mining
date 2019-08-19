@@ -4,6 +4,7 @@ import logging
 import plac
 import pandas as pd
 import ast
+import dateparser
 
 from utils import utils
 
@@ -50,16 +51,16 @@ def main(config_file,
         df_articles_summary = pd.read_csv(articles_summary_filename)
     else:
         logging.info('Creating summary file {}'.format(articles_summary_filename))
-        columns = ['newspaper', 'article_number', 'title', 'topical']
+        columns = ['newspaper', 'article_number', 'title', 'publish_date', 'topical']
         df_articles_summary = pd.DataFrame(columns=columns)
         index_article = 0
         for file in files_in_articles_folder:
             df_articles = pd.read_csv(articles_folder+'/'+file, sep='|')
             for index, article in df_articles.iterrows():
-                row_to_add = [file, index, article['title'], None]
+                row_to_add = [file, index, article['title'], article['publish_date'], None]
                 df_articles_summary.loc[index_article] = row_to_add
                 index_article += 1
-        
+
         # Automised article annotation
         # load keywords
         df_locations = utils.read_keyword_csv(keywords['filename_locations'])
@@ -100,6 +101,11 @@ def main(config_file,
                                                          word.lower() in title_summary.lower()]))
             cnt_total += 1
 
+        # Sort from oldest to newest
+        df_articles_summary['publish_date'] = df_articles_summary['publish_date'].apply(
+            lambda x: pd.to_datetime(dateparser.parse(x, languages=[config['language'][:2]]).date()))
+        df_articles_summary.sort_values(by=['publish_date'], inplace=True)
+
         #print result summary and write to csv
         cnt_rest = cnt_total-cnt_true-cnt_false
         processing_result = '\n Finished processing: \n {cnt_total} articles in total\n {cnt_true} True \n ' \
@@ -119,8 +125,9 @@ def main(config_file,
         newspaper = articles_to_analyze.at[row.Index, 'newspaper']
         article_number = articles_to_analyze.at[row.Index, 'article_number']
         article = pd.read_csv(articles_folder+'/'+newspaper, sep='|').iloc[article_number]
-        logging.info("\nArticle #{number}/{total}: {title}".format(
-            number=cnt_article+1, total=number_to_analyze, title=article['title']))
+        logging.info("\nArticle #{number}/{total}: {title} | {date}".format(
+            number=cnt_article+1, total=number_to_analyze, title=article['title'],
+            date=article['publish_date']))
         var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
         if var_topical == 'q':
             break
