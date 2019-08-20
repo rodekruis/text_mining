@@ -9,11 +9,8 @@ class Location:
         self.list = loc_list
         self.index = index
 
-    def save_dep_distance(self, dep_distance):
-        self.dep_distance = dep_distance
-
-    def save_distance(self, distance):
-        self.distance = distance
+        self.dep_distance = None
+        self.distance = None
 
 def most_common(locations, locations_df):
 

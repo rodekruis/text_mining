@@ -114,7 +114,7 @@ class Ents:
                     if str(loc_index) in self.dependency_graph:
                         dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.i), target=str(loc_index)))
                 dep_distance = min(dep_distances)
-                location_obj.save_dep_distance(dep_distance)
+                location_obj.dep_distance = dep_distance
 
                 # get regular distance
                 if ent.i < location_obj.index[0]:
@@ -122,7 +122,7 @@ class Ents:
                 elif ent.i > location_obj.index[1]:
                     distance = ent.i - location_obj.index[1]
 
-                location_obj.save_distance(distance)
+                location_obj.distance = distance
 
             # find min dependency distance
             min_dep_distance = min([location_obj.dep_distance for location_obj in locations])
