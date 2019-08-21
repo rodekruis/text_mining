@@ -25,6 +25,7 @@ pd.set_option('max_colwidth', 20)
 
 TIMEOUT = 30
 NEWSPAPER_URL_BASE = 'abyznewslinks'
+DATE_FORMAT = '%d/%m/%Y'
 
 
 def is_date(txt, lng):
@@ -121,7 +122,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
             if date is not None:
                 # keep date found only if older than today
                 if pd.to_datetime(date_str).date() < pd.to_datetime(datetime.today()).date():
-                    date_str = date.strftime('%d/%m/%Y')
+                    date_str = date.strftime(DATE_FORMAT)
                 else:
                     search_date = True
             else:
@@ -151,7 +152,7 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                         res_date = dateparser.parse(res[1], languages=[language]).date()
                         if (res_date < pd.to_datetime(datetime.today()).date()
                             and res_date > pd.to_datetime('30/04/1993', format="%d/%m/%Y").date()):
-                            date_str = res[1]
+                            date_str = res_date.strftime(DATE_FORMAT)
                             break
 
             if date_str == "":
