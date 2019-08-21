@@ -66,23 +66,14 @@ class Article:
         """
         Get the main locartion belonging to the article
         """
-        location = Article._determine_location(self.locations_title, locations_df)
-        if location is None:
-            location = Article._determine_location(self.locations, locations_df)
-        return location
+        # Location in article title
+        location = None
+        if len(self.locations_title) != 0:
+            location = Location.most_common(self.locations_title, locations_df)
+        # else, look for locations in article text (if any)
+        elif len(self.locations) != 0:
+            location = Location.most_common(self.locations, locations_df)
 
-    @staticmethod
-    def _determine_location(locations, locations_df):
-        """
-        Determine which of the found locations is the main location
-        """
-        location = None  # no location mentioned, document not useful
-        if len(locations) == 1:
-            # easy case, document mentions one location only
-            location = locations
-        elif len(locations) > 1:
-            # multiple locations mentioned, take the most common
-            location = Location.most_common(locations, locations_df)
         return location
 
     @staticmethod
