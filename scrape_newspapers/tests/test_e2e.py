@@ -7,6 +7,13 @@ NEW_RESULTS = 'impact_data_test_inondation_Mali_new'
 
 
 def test_e2e():
+    # Delete the previous test file if it exists
+    filename_new = os.path.join('tests', NEW_RESULTS+'.csv')
+    try:
+        os.remove(filename_new)
+    except FileNotFoundError:
+        pass
+
     cmd = 'python get_impact_data.py config_files/mali.cfg' \
           ' -i {test_articles_file}' \
           ' -f {new_results}' \
@@ -15,7 +22,7 @@ def test_e2e():
                      new_results=NEW_RESULTS)
     os.system(cmd)
     df_prev = pd.read_csv(os.path.join('tests', OLD_RESULTS+'.csv'), delimiter='|')
-    df_new = pd.read_csv(os.path.join('tests', NEW_RESULTS+'.csv'), delimiter='|')
+    df_new = pd.read_csv(filename_new, delimiter='|')
     for idx, row in df_prev.iterrows():
         for col, old_val in row.items():
             new_val = df_new.iloc[idx][col]
