@@ -3,11 +3,12 @@ import numpy as np
 import re
 
 class Location:
-    def __init__(self, loc_string, loc_list, index):
+    def __init__(self, loc_string, loc_list, index_start, index_end):
 
         self.string = loc_string
         self.list = loc_list
-        self.index = index
+        self.index_start = index_start
+        self.index_end = index_end
 
         self.dep_distance = None
         self.distance = None
@@ -61,16 +62,17 @@ def clean_locations(locations, text_to_replace):
 
 def merge_locations(location_obj1, location_obj2, sentence):
     # merge strings
-    loc_string_start = location_obj1.index[0] - sentence.start
-    loc_string_end = location_obj2.index[1] - sentence.start
+    loc_string_start = location_obj1.index_start - sentence.start
+    loc_string_end = location_obj2.index_end - sentence.start
     loc_string = sentence[loc_string_start:loc_string_end].text
 
     # merge lists
     loc_list = location_obj1.list + location_obj2.list
 
-    # merge indeces
-    index = (location_obj1.index[0], location_obj2.index[1])
+    # get indeces
+    index_start = location_obj1.index_start
+    index_end = location_obj2.index_end
 
-    location = Location(loc_string, loc_list, index)
+    location = Location(loc_string, loc_list, index_start, index_end)
 
     return location

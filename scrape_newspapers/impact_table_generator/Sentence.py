@@ -20,7 +20,7 @@ class Sentence:
         self.sentence_text = re.sub('-', ' ', self.sentence_text)
 
         # Find all locations in  sentence
-        self.locations_found = [location for location in locations if sentence.start <= location.index[1] < sentence.end]
+        self.locations_found = [location for location in locations if sentence.start <= location.index_end < sentence.end]
 
         # Clean location strings
         self.locations_found, self.sentence_text = Location.clean_locations(self.locations_found, self.sentence_text)
@@ -99,8 +99,8 @@ class Sentence:
         # get sentence indeces of locations
         match_locations = []
         for location in locations:
-            location_start = location.index[0] - sentence.start
-            location_end = location.index[1] - sentence.start
+            location_start = location.index_start - sentence.start
+            location_end = location.index_end - sentence.start
             match_locations.append((location_start, location_end))
 
         # get list of indeces in between matches
@@ -158,7 +158,7 @@ class Sentence:
             # first, get a list of locations in the order in which they appear in the sentence
             positions = []
             for loc in locations_found:
-                positions.append(loc.index[0])
+                positions.append(loc.index_start)
             locations_found_order = [x for _,x in sorted(zip(positions,locations_found), key = lambda t:t[0])]
             # check if some locations are mentioned within a list (e.g. Paris, London and Rome)
             location_lists = Sentence._check_list_locations(locations_found_order, sentence, language)

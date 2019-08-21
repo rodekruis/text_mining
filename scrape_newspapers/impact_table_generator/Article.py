@@ -100,7 +100,7 @@ class Article:
         locations = []
         for location in location_matches:
                 loc_string = doc[location[1]:location[2]].text
-                locations.append(Location.Location(loc_string, [loc_string], (location[1], location[2])))
+                locations.append(Location.Location(loc_string, [loc_string], location[1], location[2]))
 
         return locations
 

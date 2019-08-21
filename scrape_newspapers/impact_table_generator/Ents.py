@@ -110,17 +110,17 @@ class Ents:
             for location_obj in locations:
                 # get dependency distances
                 dep_distances = []
-                for loc_index in range(location_obj.index[0],location_obj.index[1]):
+                for loc_index in range(location_obj.index_start,location_obj.index_end):
                     if str(loc_index) in self.dependency_graph:
                         dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.i), target=str(loc_index)))
                 dep_distance = min(dep_distances)
                 location_obj.dep_distance = dep_distance
 
                 # get regular distance
-                if ent.i < location_obj.index[0]:
-                    distance = location_obj.index[0] - ent.i
-                elif ent.i > location_obj.index[1]:
-                    distance = ent.i - location_obj.index[1]
+                if ent.i < location_obj.index_start:
+                    distance = location_obj.index_start - ent.i
+                elif ent.i > location_obj.index_end:
+                    distance = ent.i - location_obj.index_end
 
                 location_obj.distance = distance
 
@@ -144,10 +144,10 @@ class Ents:
             # check only regular distance if dependency tree is unavailable
             distances = []
             for location_obj in locations:
-                if ent.idx < location_obj.index[0]:
-                    distance = location_obj.index[0] - ent.idx
-                elif ent.idx > location_obj.index[1]:
-                    distance = ent.idx - location_obj.index[1]
+                if ent.idx < location_obj.index_start:
+                    distance = location_obj.index_start - ent.idx
+                elif ent.idx > location_obj.index_end:
+                    distance = ent.idx - location_obj.index_end
 
                 distances.append((location_obj.list, distance))
             # assuming no equal distances
