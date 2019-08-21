@@ -22,10 +22,7 @@ class Sentence:
         # Find all locations in  sentence
         self.locations_found = [location for location in locations if sentence.start <= location.index_end < sentence.end]
 
-        # Clean location strings
-        self.locations_found, self.sentence_text = Location.clean_locations(self.locations_found, self.sentence_text)
-
-        # Get list of final location dicts
+        # Get list of final location objects
         self._get_sentence_location(self.locations_found, self.sentence, language, location_article)
 
     def analyze(self, keywords, language):
