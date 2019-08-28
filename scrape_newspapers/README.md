@@ -46,45 +46,52 @@ save location is `Articles_{keyword}_{country}/articles_{keyword}_{newspaper}.cs
 ## Inspect and tag articles
 
 Analyze the output of the scraped articles and decide if each article is relevant or not.
-This works in three steps:
+This works in 4 steps:
+
 1) A summary csv file is created, or read in if it already exists. This file
 contains the title, newspaper name and index of all articles that were scraped, 
 as well as a column for marking the relevance as `True` / `False`. It is saved as
 `articles_processed/articles_summary_{keyword}_{country}.csv`. 
+
 2) Automisation of the annotation process. 
 Based on the the summary dataframe, this script checks the title for words that 
 indicate the relevance or not. The result (True/False/blank) is written to the 
 column `topical`.
 Possible outcomes:
-    - Still require manual inspection of the article title and text --> left `blank`
-    This is based on the keywords in `keys_manual_check` in the Config file. 
-    These are be words that have ambiguous meaning: e.g. river Niger 
-    in Mali (relevant), or country Niger (not relevant for floods in Mali).
-    - Non topical / not relevant artciles --> `False`
-    This is based on the keywords in `Article_nontopical_{country}.txt`. Keyword 
-    examples are: countries outside target country, 'you searched for', words
-    related to the target word, but in a different sense: e.g. flooding a 'stadium'
-    with people, or a 'market' is flooded with cheap products.
-    - Topical or relevant articles --> `True`
+    - Article is relevant --> `True`
     This is based on the keywords in `Article_topical_{country}.txt` and 
     `Locations_{country}.txt`. Article_topical_{country}.txt contains words that
     indicate relevance, e.g. the target country president's name, the name of the
-    people ('maliens' for Mali, 'français' for France), etc.
+    people ('maliens' for Mali, 'français' for France) and other words indicating 
+    relevance of the article.
     Locations_{country}.txt contains a selection of (larger) cities and provinces
     in a country, e.g. from Wikipedia. A complete list of a country's locations
     is not used, since it may also include very small villages that are recognised
     in parts of words and therefore falsly treated as True by the script, e.g. 
-    village 'Da' in Mali is recognised in the word 'indonDAtion'.
-It is wise to check a sample of the annotation results (in Excel), to see if they
-are correct and to find more words to add to the (non)topical lists. The scripts
-prints for every title: the title, index, True/False/Check, and the word responsible
-for the choice of True/False/Check.
-NOTE: all keywords need to be written in lower case and with accents.
+    village 'Da' in Mali is recognised in the word 'indonDAtion'.   
+    - Article is not relevant --> `False`
+    This is based on the keywords in `Article_nontopical_{country}.txt`. Keyword 
+    examples are: countries outside target country, 'you searched for', words
+    related to the target word ('flood'), but in a different sense: e.g. flooding 
+    a 'stadium' with people, or a 'market' is flooded with certain products.
+     - Article requires manual inspection of the article text --> left `blank`
+    This is based on the keywords in `keys_manual_check` in the Config file. 
+    These are be words that have ambiguous meaning: e.g. river 'Niger' 
+    in Mali (relevant), or country 'Niger' (not relevant for floods in Mali). 
+    This merely functions as a counter for these ambiguous words.
+IMPORTANT: Choosing the right keywords voor (non)topical articles is a iterative
+exercise. The user had to to check a sample of the annotation results (in Excel), 
+to see if they are correct and to find more words to add to the (non)topical lists. 
+The scripts prints for every title: the title, index, True/False/Check, and the 
+word responsible for the choice of True/False/Check.
+NOTE: all keywords need to be written in lower case and with AND without accents.
+
 3) For all articles that still require their relevancy to be assessed,
 the user will be shown the title of the article and prompted to evaluate it
 as relevant (`y`/`n`). There is also the option `i` to view the article text,
 and `q` to quit and save the current results. Only titles will be shown of 
 articles where the cell in column `topical` is left blank.
+
 4) The text from all articles with relevance marked as `True` is saved to a new file,
 `articles_processed/articles_all_topical_{keyword}_{country}.csv`. 
 
