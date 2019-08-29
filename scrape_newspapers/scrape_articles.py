@@ -264,7 +264,7 @@ def main(config_file, debug=False):
                     logger.info('{}'.format(search_result_next_page[0]))
                     try:
                         browser.get(search_result_next_page[0])
-                    except NoSuchElementException:
+                    except (NoSuchElementException, TimeoutException, InvalidArgumentException):
                         logger.error("Can't open page, abandoning news source")
                         break
             except (TimeoutException, InvalidArgumentException):
