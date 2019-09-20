@@ -207,7 +207,7 @@ def main(config_file, debug=False):
     opts = Options()
     opts.headless = True
     assert opts.headless  # operating in headless mode
-    browser = Firefox()
+    browser = Firefox(options=opts)
     browser.set_page_load_timeout(TIMEOUT)
 
     # get newspapers urls
@@ -222,6 +222,7 @@ def main(config_file, debug=False):
 
     # blacklist
     del Newspapers['Niarela']
+    del Newspapers['Journal du Mali']
 
     # loop over newspapers
     for news_name, news_url in Newspapers.items():
