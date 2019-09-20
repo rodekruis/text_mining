@@ -207,7 +207,7 @@ def main(config_file, debug=False):
     opts = Options()
     opts.headless = True
     assert opts.headless  # operating in headless mode
-    browser = Firefox()
+    browser = Firefox(options=opts)
     browser.set_page_load_timeout(TIMEOUT)
 
     # get newspapers urls
