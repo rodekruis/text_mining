@@ -222,7 +222,6 @@ def main(config_file, debug=False):
 
     # blacklist
     del Newspapers['Niarela']
-    del Newspapers['Journal du Mali']
 
     # loop over newspapers
     for news_name, news_url in Newspapers.items():
