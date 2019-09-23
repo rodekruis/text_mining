@@ -74,10 +74,12 @@ class ImpactTableGenerator:
             article.analyze(self.language, self.keywords, self.df_impact )
 
             logger.info("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
-            self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
-                             mode='w', encoding='utf-8', sep='|')
-            self.df_impact.to_excel(self.writer, 'Sheet1')
-            self.writer.save()
+            
+            if not self.df_impact.empty:
+                self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
+                                 mode='w', encoding='utf-8', sep='|')
+                self.df_impact.to_excel(self.writer, 'Sheet1')
+                self.writer.save()
 
         logger.info('found {} entries'.format(len(self.df_impact)))
         self.df_impact.dropna(how='all', inplace=True)
