@@ -212,5 +212,3 @@ You may sometimes make changes that improve the output results,
 in which case you can move the `new` file to the `prev` file
 and commit it to git. Also, please add any funny edge cases to
 the list of example articles. 
-
-author: Jacopo Margutti, 2019
