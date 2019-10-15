@@ -113,8 +113,10 @@ class Ents:
                 for loc_index in range(location_obj.index_start,location_obj.index_end):
                     if str(loc_index) in self.dependency_graph:
                         dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.i), target=str(loc_index)))
-                dep_distance = min(dep_distances)
-                location_obj.dep_distance = dep_distance
+                # Quick fix for parsing quality of Spacy (sometimes dependency distances cannot be found due to bad parsing)
+                if len(dep_distances) != 0:
+                    dep_distance = min(dep_distances)
+                    location_obj.dep_distance = dep_distance
 
                 # get regular distance
                 if ent.i < location_obj.index_start:
@@ -125,7 +127,7 @@ class Ents:
                 location_obj.distance = distance
 
             # find min dependency distance
-            min_dep_distance = min([location_obj.dep_distance for location_obj in locations])
+            min_dep_distance = min([location_obj.dep_distance for location_obj in locations if type(location_obj.dep_distance)==int])
             min_dep_distances = [location_obj for location_obj in locations if location_obj.dep_distance == min_dep_distance]
 
             # if multiple locations corresponds with minimum dependency distance
