@@ -51,6 +51,8 @@ class Sentence:
         for infrastructure in int_inf_in_sent:
             inf_text = infrastructure.text.strip()
             inf_text = re.sub('\n', '', inf_text)
+            inf_text = re.sub('-', '', inf_text)
+            inf_text = re.sub('_', '', inf_text)
 
             # if multiple locations (or lists of locations) are found
             # check which is the closest one to the impact data
@@ -59,10 +61,16 @@ class Sentence:
                 distances_locations_entities = []
                 for location_obj in self.locations_final:
                     pattern_entity = utils.get_pattern_entity(location_obj.string, inf_text)
-                    distances_locations_entities += [(location_obj.list,
-                                                      len(chunk[0])-len(location_obj.string)-len(inf_text))
-                                                     for chunk in re.finditer(pattern_entity, self.sentence_text)]
-                closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
+                    try:
+                        distances_locations_entities += [(location_obj.list,
+                                                          len(chunk[0])-len(location_obj.string)-len(inf_text))
+                                                         for chunk in re.finditer(pattern_entity, self.sentence_text)]
+                    except:
+                        pass
+                if len(distances_locations_entities) > 1:
+                    closest_entity = min(distances_locations_entities, key = lambda t: t[1])[0]
+                else:
+                    closest_entity = self.locations_final[0].list
             else:   # final location is a single (list of) location(s)
                 closest_entity = self.locations_final[0].list
 

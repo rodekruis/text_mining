@@ -22,9 +22,11 @@ class Ents:
     def __init__(self, sentence, sentence_text, language):
         self.sentence = sentence
         self.sentence_text = sentence_text
+        self.offset_token_index = 0
         if language in LANGUAGES_WITH_ENTS:
             self.ents = filter(lambda w: (w.label_ == 'CARDINAL') | (w.label_ == 'MONEY'),
                                self.sentence.as_doc().ents)
+            self.offset_token_index = self.sentence[0].i
         else:
             # Sometimes number tokens are classified as e.g. pronouns so also check for digits
             self.ents = [token for token in self.sentence if (token.pos_ == 'NUM' or token.is_digit)]
@@ -69,7 +71,7 @@ class Ents:
             if len(locations_final) > 1:
                 # get dependency tree
                 self._get_dependency_graph(self.sentence)
-                closest_entity = self._deal_with_multiple_locations(locations_final, ent, ent_text)
+                closest_entity = self._deal_with_multiple_locations(locations_final, ent, ent_text, language)
             else:  #final location is a single (list of) location(s)
                 closest_entity = locations_final[0].list
 
@@ -104,7 +106,12 @@ class Ents:
             logger.warning('Could not generate dependency tree')
             return
 
-    def _deal_with_multiple_locations(self, locations, ent, ent_text):
+    def _deal_with_multiple_locations(self, locations, ent, ent_text, language):
+        # convert from type entity to type token, if entity present
+        if language in LANGUAGES_WITH_ENTS:
+            ent = ent[0]
+        # extract entity location, correct for offset if needed
+        ent_loc = ent.i + self.offset_token_index
         # check if dependency tree exists
         if self.dependency_graph is not None:
             for location_obj in locations:
@@ -112,17 +119,17 @@ class Ents:
                 dep_distances = []
                 for loc_index in range(location_obj.index_start,location_obj.index_end):
                     if str(loc_index) in self.dependency_graph:
-                        dep_distances.append(nx.shortest_path_length(self.dependency_graph, source= str(ent.i), target=str(loc_index)))
+                        dep_distances.append(nx.shortest_path_length(self.dependency_graph, source=str(ent_loc), target=str(loc_index)))
                 # Quick fix for parsing quality of Spacy (sometimes dependency distances cannot be found due to bad parsing)
                 if len(dep_distances) != 0:
                     dep_distance = min(dep_distances)
                     location_obj.dep_distance = dep_distance
 
                 # get regular distance
-                if ent.i < location_obj.index_start:
-                    distance = location_obj.index_start - ent.i
-                elif ent.i > location_obj.index_end:
-                    distance = ent.i - location_obj.index_end
+                if ent_loc < location_obj.index_start:
+                    distance = location_obj.index_start - ent_loc
+                elif ent_loc >= location_obj.index_end:
+                    distance = ent_loc - location_obj.index_end
 
                 location_obj.distance = distance
 
@@ -146,10 +153,10 @@ class Ents:
             # check only regular distance if dependency tree is unavailable
             distances = []
             for location_obj in locations:
-                if ent.idx < location_obj.index_start:
-                    distance = location_obj.index_start - ent.idx
-                elif ent.idx > location_obj.index_end:
-                    distance = ent.idx - location_obj.index_end
+                if ent_loc < location_obj.index_start:
+                    distance = location_obj.index_start - ent_loc
+                elif ent_loc >= location_obj.index_end:
+                    distance = ent_loc - location_obj.index_end
 
                 distances.append((location_obj.list, distance))
             # assuming no equal distances
