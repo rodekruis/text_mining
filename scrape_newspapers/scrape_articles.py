@@ -149,11 +149,15 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
                     logger.info('{}'.format(dates_found))
                     dates_found.sort(key=lambda tup: tup[0])
                     for res in dates_found:
-                        res_date = dateparser.parse(res[1], languages=[language]).date()
-                        if (res_date < pd.to_datetime(datetime.today()).date()
-                            and res_date > pd.to_datetime('30/04/1993', format="%d/%m/%Y").date()):
-                            date_str = res_date.strftime(DATE_FORMAT)
-                            break
+                        try:
+                            res_date = dateparser.parse(res[1], languages=[language],
+                                                        settings={'DATE_ORDER': 'DMY'}).date()
+                            if (res_date < pd.to_datetime(datetime.today()).date()
+                                and res_date > pd.to_datetime('30/04/1993', format="%d/%m/%Y").date()):
+                                date_str = res_date.strftime(DATE_FORMAT)
+                                break
+                        except:
+                            pass
 
             if date_str == "":
                 logger.warning('Publication date not found or wrongly assigned, skipping article')
@@ -221,7 +225,7 @@ def main(config_file, debug=False):
     Newspapers = {key:val for key, val in Newspapers.items() if NEWSPAPER_URL_BASE not in val}
 
     # blacklist
-    del Newspapers['Niarela']
+    # del Newspapers['Niarela']
 
     # loop over newspapers
     for news_name, news_url in Newspapers.items():
