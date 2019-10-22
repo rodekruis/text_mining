@@ -74,11 +74,11 @@ class ImpactTableGenerator:
             article.analyze(self.language, self.keywords, self.df_impact )
 
             logger.info("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
-            
+
             if not self.df_impact.empty:
                 self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
                                  mode='w', encoding='utf-8', sep='|')
-                self.df_impact.to_excel(self.writer, 'Sheet1')
+                self.df_impact.to_excel(self.writer, sheet_name='Sheet1')
                 self.writer.save()
 
         logger.info('found {} entries'.format(len(self.df_impact)))
@@ -87,7 +87,7 @@ class ImpactTableGenerator:
         logger.info('{}'.format(self.df_impact.head()))
         self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
                          mode='w', encoding='utf-8', sep='|')
-        self.df_impact.to_excel(self.writer, 'Sheet1')
+        self.df_impact.to_excel(self.writer, sheet_name='Sheet1')
         self.writer.save()
 
     @staticmethod
@@ -156,9 +156,15 @@ class ImpactTableGenerator:
         build a dictionary of locations {name: coordinates}
         from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
         """
-        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short+'.txt')
+        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short+'_administrative_a.txt')
         columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
         locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
+        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_localities_l.txt')
+        locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
+        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_populatedplaces_p.txt')
+        locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
+        locations_df = locations_df[~locations_df['FULL_NAME_ND_RO'].str.contains(self.country)]
+        locations_df["ADM1"] = pd.to_numeric(locations_df["ADM1"], errors='coerce')
         return locations_df
 
 
