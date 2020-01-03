@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # coding: utf8
+
+"""
+Download 'geckodriver.exe' online and save it in the same folder as this script.
+Without driver, no connection to mozilla firefox can be made
+"""
 from __future__ import unicode_literals, print_function
 
 import plac
@@ -7,20 +12,22 @@ from pathlib import Path
 import re
 import os
 import sys
+import time
 from newspaper import Article
 from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, WebDriverException
 import pandas as pd
 pd.set_option('display.max_columns', 4)
 pd.set_option('max_colwidth', 20)
 from datetime import datetime
-import time
+
 
 keyword = 'flood'
 keyword_search = 'flood'
 keyword_in_url = 'flood'
-country='Uganda'
+country = 'Uganda'
+
 
 def is_date(string):
     try:
@@ -28,6 +35,7 @@ def is_date(string):
         return True
     except ValueError:
         return False
+
 
 def ProcessPage(vBrowser, vNews_name, vNews_url):
     """
@@ -167,7 +175,8 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
     browser = Firefox()
 
     # get newspapers urls
-    browser.get('http://www.abyznewslinks.com/mali.htm')
+    country_urls = {'Mali': 'mali', 'Uganda': 'ugand'}
+    browser.get('http://www.abyznewslinks.com/' + country_urls[country] +'.htm')
     newspaper_elements = browser.find_elements_by_css_selector('a')
     newspaper_urls = [el.get_attribute('href') for el in newspaper_elements]
     newspaper_names = [el.get_attribute('text') for el in newspaper_elements]
@@ -182,50 +191,54 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
         print('**********************************************************************************')
         print('Accessing ' + news_name + ' (' + news_url + ')')
         news_url += '?s='+keyword_search
-        browser.get(news_url)
+        try:
+            browser.get(news_url)
 
-        # process first results page
-        print("Begin to process page 1 ({0})".format(browser.current_url))
-        articles_page = ProcessPage(browser, news_name, news_url)
-        articles_news = articles_news.append(articles_page)
-
-        # start looping over all pages of results
-        page_number = 2
-        while True:
-            print("Trying to open page {0} ...".format(page_number))
-            try:
-                link = browser.find_element_by_link_text(str(page_number))
-                browser.get(link.get_attribute("href"))
-            except NoSuchElementException:
-                url_next_page = news_url
-                url_next_page = re.sub(re.escape('?s='+keyword_search), '', url_next_page)
-                url_next_page = re.sub(re.escape('search?k='+keyword_search), '', url_next_page)
-                url_next_page = re.escape(url_next_page) + 'page\/' + str(page_number) + '.*?(?=")'
-                regex = re.compile(url_next_page)
-                print('link not found, trying explicit regex: ', url_next_page)
-                search_result_next_page = re.search(regex, browser.page_source)
-                if search_result_next_page is None:
-                    print('Not found!')
-                    break
-                else:
-                    print(search_result_next_page[0])
-                    browser.get(search_result_next_page[0])
-
-            print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
-            try:
-                articles_page = ProcessPage(browser, news_name, news_url)
-            except:
-                print('Unexpected error: ', sys.exc_info()[0])
-                continue
+            # process first results page
+            print("Begin to process page 1 ({0})".format(browser.current_url))
+            articles_page = ProcessPage(browser, news_name, news_url)
             articles_news = articles_news.append(articles_page)
-            page_number += 1
 
-        ## save dataframe to csv
-        print('Saving articles from ' + news_name)
-        print(articles_news.describe())
-        print('*********************************************************')
-        output_dir_news = str(output_dir) + '/articles_' + keyword_in_url + '_' + news_name + '.csv'
-        articles_news.to_csv(output_dir_news, sep='|')
+            # start looping over all pages of results
+            page_number = 2
+            while True:
+                print("Trying to open page {0} ...".format(page_number))
+                try:
+                    link = browser.find_element_by_link_text(str(page_number))
+                    browser.get(link.get_attribute("href"))
+                except NoSuchElementException:
+                    url_next_page = news_url
+                    url_next_page = re.sub(re.escape('?s='+keyword_search), '', url_next_page)
+                    url_next_page = re.sub(re.escape('search?k='+keyword_search), '', url_next_page)
+                    url_next_page = re.escape(url_next_page) + 'page\/' + str(page_number) + '.*?(?=")'
+                    regex = re.compile(url_next_page)
+                    print('link not found, trying explicit regex: ', url_next_page)
+                    search_result_next_page = re.search(regex, browser.page_source)
+                    if search_result_next_page is None:
+                        print('Not found!')
+                        break
+                    else:
+                        print(search_result_next_page[0])
+                        browser.get(search_result_next_page[0])
+
+                print("Begin to process page {0} ({1})".format(page_number, browser.current_url))
+                try:
+                    articles_page = ProcessPage(browser, news_name, news_url)
+                except:
+                    print('Unexpected error: ', sys.exc_info()[0])
+                    continue
+                articles_news = articles_news.append(articles_page)
+                page_number += 1
+
+            ## save dataframe to csv
+            print('Saving articles from ' + news_name)
+            print(articles_news.describe())
+            print('*********************************************************')
+            output_dir_news = str(output_dir) + '/articles_' + keyword_in_url + '_' + news_name + '.csv'
+            articles_news.to_csv(output_dir_news, sep='|')
+
+        except WebDriverException:
+            print("Website bestaat niet meer")
 
 
     print("\nFINISHED PROCESSING *****************************")
@@ -236,6 +249,7 @@ def main(model='en_core_web_sm', output_dir='Articles_'+keyword+'_'+country):
     # output_dir_all = str(output_dir) + "/articles_" + keyword_in_url + "_all.h5"
     # print("Saving all articles to {0}".format(output_dir_all))
     # articles_all.to_hdf(output_dir_all, key='df', mode='w')
+
 
 if __name__ == '__main__':
     plac.call(main)
