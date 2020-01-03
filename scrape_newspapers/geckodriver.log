@@ -1,0 +1,533 @@
+1577967686743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofile740ibR"
+1577967687169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577967687169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577967687171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577967687171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577967688912	Marionette	INFO	Listening on port 53566
+1577967689390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.abamako.com/inc/main/inc_prieres_PE.js, line 21: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://web.archive.org/_static/js/ait-client-rewrite.js, line 234: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://web.archive.org/_static/js/ait-client-rewrite.js, line 234: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript error: https://maliactu.net/?s=flood, line 1289: TypeError: firebase.analytics is not a function
+JavaScript error: https://maliactu.net/wp-content/themes/newsworld-codebase/js/jquery.ticker.js, line 2: TypeError: a is undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: The OneSignal web SDK can only be initialized once. Extra initializations are ignored. Please remove calls initializing the SDK more than once.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=58
+JavaScript error: http://malifootball.com/wp-content/plugins/the-moneytizer/js/custom-script.js?ver=5.2.5, line 1: ReferenceError: trad is not defined
+JavaScript error: http://ads.themoneytizer.com/s/requestform.js?siteId=7368&formatId=6, line 475: SyntaxError: expected expression, got ';'
+JavaScript error: http://ads.themoneytizer.com/s/requestform.js?siteId=7368&formatId=15, line 461: SyntaxError: expected expression, got ';'
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+[Parent 14732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13956,[Child 11728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11728, Chrome_ChildThread][Parent 14732, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 61577967866600	Marionette	INFO	Stopped listening on port 53566
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP1577967983743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofileSeJofj"
+1577967984155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577967984155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577967984155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577967984155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577967986284	Marionette	INFO	Listening on port 54281
+1577967986369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.abamako.com/inc/main/inc_prieres_PE.js, line 21: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://web.archive.org/_static/js/ait-client-rewrite.js, line 234: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://web.archive.org/_static/js/ait-client-rewrite.js, line 234: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript error: https://maliactu.net/?s=flood, line 1289: TypeError: firebase.analytics is not a function
+JavaScript error: https://maliactu.net/wp-content/themes/newsworld-codebase/js/jquery.ticker.js, line 2: TypeError: a is undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: The OneSignal web SDK can only be initialized once. Extra initializations are ignored. Please remove calls initializing the SDK more than once.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=58
+JavaScript error: http://malifootball.com/wp-content/plugins/the-moneytizer/js/custom-script.js?ver=5.2.5, line 1: ReferenceError: trad is not defined
+JavaScript error: http://ads.themoneytizer.com/s/requestform.js?siteId=7368&formatId=6, line 475: SyntaxError: expected expression, got ';'
+JavaScript error: http://ads.themoneytizer.com/s/requestform.js?siteId=7368&formatId=15, line 461: SyntaxError: expected expression, got ';'
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+[Parent 7632, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7632, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7632, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10916, Chrome_ChildThread] WARNING[Parent 7632, :Gecko_IOThread] WARNING: pipe error: 109: file z:/task_ pipe error: 109: file z:/task_1575282935/build/s15rc/ipc/chromium/src/chrome/common/i75282935/build/src/ipc/cpc_channhel_win.cc, line 3r4om1ium/src/ch
+rome/common/ipc_channel_win.cc, line 341
+[Parent 7632, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7632, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1577981422303	Marionette	INFO	Stopped listening on port 54281
+t find profile directory.
+1577968663323	Marionette	INFO	Listening on port 54988
+1577968663423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.abamako.com/inc/main/inc_prieres_PE.js, line 21: SyntaxError: '' string literal contains an unescaped line break
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://web.archive.org/_static/js/ait-client-rewrite.js, line 234: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://web.archive.org/_static/js/ait-client-rewrite.js, line 234: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://archive.org/includes/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript error: https://maliactu.net/?s=flood, line 1289: TypeError: firebase.analytics is not a function
+JavaScript error: https://maliactu.net/wp-content/themes/newsworld-codebase/js/jquery.ticker.js, line 2: TypeError: a is undefined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: The OneSignal web SDK can only be initialized once. Extra initializations are ignored. Please remove calls initializing the SDK more than once.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one AdSense head tag supported per page. The second tag is ignored.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=58
+JavaScript error: http://malifootball.com/wp-content/plugins/the-moneytizer/js/custom-script.js?ver=5.2.5, line 1: ReferenceError: trad is not defined
+JavaScript error: http://ads.themoneytizer.com/s/requestform.js?siteId=7368&formatId=6, line 475: SyntaxError: expected expression, got ';'
+JavaScript error: http://ads.themoneytizer.com/s/requestform.js?siteId=7368&formatId=15, line 461: SyntaxError: expected expression, got ';'
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+JavaScript error: https://k4z6w9b5.stackpathcdn.com/v2/5c9c5888/shrMain.min.js, line 1: SecurityError: Permission denied to access property "document" on cross-origin object
+[Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14920, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577969656191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofileIOi0t7"
+1577969656655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577969656655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577969656655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577969656655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577969658423	Marionette	INFO	Listening on port 55779
+1577969658856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bbstv.ug/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 3940, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577970163178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofile7RXNfs"
+1577970163627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577970163628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577970163628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577970163628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577970165357	Marionette	INFO	Listening on port 55965
+1577970165810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bbstv.ug/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 15904, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577970614976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofileQ7tbrx"
+1577970615424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577970615424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577970615424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577970615424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577970617065	Marionette	INFO	Listening on port 56254
+1577970617132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bbstv.ug/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+[Parent 8788, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: Script terminated by timeout at:
+@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:587
+checkAndTriggerNotificationPermissionChanged@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:62683
+e/</<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:194650
+
+JavaScript warning: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: Script terminated by timeout at:
+get/</<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:41220
+get/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:41083
+r@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:716
+
+[Parent 8788, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8788, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8788, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common[Child 147/ip40, Chromec__cChannel_win.cc, lhildThine 341
+read][Ch WARiNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14740[Parent 8788, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6461577970830490	Marionette	INFO	Stopped listening on port 56254
+[GPU 17
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1577970881515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofile9v9SC8"
+1577970881931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577970881931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577970881931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577970881931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577970883544	Marionette	INFO	Listening on port 56501
+1577970883556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bbstv.ug/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+[Parent 1996, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577974005893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofile46RR7C"
+1577974006338	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577974006339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577974006339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577974006339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577974007959	Marionette	INFO	Listening on port 59661
+1577974008034	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: Script terminated by timeout at:
+@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:587
+getNotificationPermission@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:196452
+checkAndTriggerNotificationPermissionChanged/<@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:62801
+r@https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711:1:716
+
+1577974719688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofilepv05s0"
+1577974720108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577974720108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577974720108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577974720108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577974721723	Marionette	INFO	Listening on port 59964
+1577974721741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bbstv.ug/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+[Parent 16748, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577974909361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VERAVA~1\\AppData\\Local\\Temp\\rust_mozprofileVlsAUe"
+1577974909805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577974909805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577974909805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577974909805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1577974911401	Marionette	INFO	Listening on port 60114
+1577974911514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bbstv.ug/wp-includes/js/wp-emoji-release.min.js?ver=5.1.4, line 4: TypeError: Argument 1 of MutationObserver.observe is not an object.
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ/m=DGEKAc,EPszLb,GxIAgd,MkHyGd,NBZ7u,OG6ZHd,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,sfqVZ,shrb,tl,uiNkee,vs,xz7cCd,yyqeUd,zbML3c?xjs=s1, line 489: Error: Script terminated by timeout at:
+s_ZIg@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ/m=DGEKAc,EPszLb,GxIAgd,MkHyGd,NBZ7u,OG6ZHd,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,sfqVZ,shrb,tl,uiNkee,vs,xz7cCd,yyqeUd,zbML3c?xjs=s1:489:1
+s_8Ig@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ/m=DGEKAc,EPszLb,GxIAgd,MkHyGd,NBZ7u,OG6ZHd,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,sfqVZ,shrb,tl,uiNkee,vs,xz7cCd,yyqeUd,zbML3c?xjs=s1:495:139
+s_uJg@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ/m=DGEKAc,EPszLb,GxIAgd,MkHyGd,NBZ7u,OG6ZHd,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,sfqVZ,shrb,tl,uiNkee,vs,xz7cCd,yyqeUd,zbML3c?xjs=s1:522:175
+s_vJg.prototype.kb@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ/m=DGEKAc,EPszLb,GxIAgd,MkHyGd,NBZ7u,OG6ZHd,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,sfqVZ,shrb,tl,uiNkee,vs,xz7cCd,yyqeUd,zbML3c?xjs=s1:523:124
+s_a.y_@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ:413:210
+s_a.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ:411:385
+s_N1.prototype.Ca@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/exm=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff/ed=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ/m=DGEKAc,EPszLb,GxIAgd,MkHyGd,NBZ7u,OG6ZHd,T6sTsf,T7XTS,TxZWcc,URQPYc,WgDvvc,Wq6lxf,ZDfS0b,aCZVp,aa,aam1T,abd,async,bgd,dv7Bfe,dvl,eN4qad,exdc,foot,kyn,lazG7b,lu,m,mI3LFb,mUpTid,mpck,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,sb_wiz,sf,sfqVZ,shrb,tl,uiNkee,vs,xz7cCd,yyqeUd,zbML3c?xjs=s1:501:277
+s_eia@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ:331:230
+s_cia@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ:332:249
+s_aia/b<@https://www.google.com/xjs/_/js/k=xjs.s.nl.HBu3Y6rziN8.O/ck=xjs.s.K0351WPsuqI.L.F4.O/m=Fkg7bd,HcFEGb,IvlUe,MC8mtf,OF7gzc,RMhBfe,T4BAC,TJw5qb,TbaHGc,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,uz938c,vWNDde,ws9Tlc,yQ43ff,d,csi/am=AAAAgEUAs24APP8PBQAAQB0DAAABbcEGC4QgIcNYmIAAEA/d=1/dg=2/ct=zgms/rs=ACT90oGo7zV_KcwwL8GZoYi8Ep_XI05LMQ:328:277
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1792, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc[_chCannel_win.cc, line hild 56683,4 1C
+hrome_ChildTh[rChiead] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 56[Parent 1792, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1577981402016	Marionette	INFO	Stopped listening on port 60114
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+72: unreachable code after return statement
+[Parent 17928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: http://edge.ug/?s=flood, line 922: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/?s=flood, line 920: { opened at line 920, column 37
+JavaScript error: http://edge.ug/page/2/?s=flood, line 891: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/2/?s=flood, line 889: { opened at line 889, column 37
+JavaScript error: http://edge.ug/page/3/?s=flood, line 912: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/3/?s=flood, line 910: { opened at line 910, column 37
+JavaScript error: http://edge.ug/page/4/?s=flood, line 917: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/4/?s=flood, line 915: { opened at line 915, column 37
+JavaScript error: http://edge.ug/page/5/?s=flood, line 931: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/5/?s=flood, line 929: { opened at line 929, column 37
+JavaScript error: http://edge.ug/page/6/?s=flood, line 928: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/6/?s=flood, line 926: { opened at line 926, column 37
+JavaScript error: http://edge.ug/page/7/?s=flood, line 899: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/7/?s=flood, line 897: { opened at line 897, column 37
+JavaScript error: http://edge.ug/page/8/?s=flood, line 863: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/8/?s=flood, line 861: { opened at line 861, column 37
+JavaScript error: http://edge.ug/page/9/?s=flood, line 862: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/9/?s=flood, line 860: { opened at line 860, column 37
+JavaScript error: http://edge.ug/page/10/?s=flood, line 864: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/10/?s=flood, line 862: { opened at line 862, column 37
+JavaScript error: http://edge.ug/page/11/?s=flood, line 863: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/11/?s=flood, line 861: { opened at line 861, column 37
+JavaScript error: http://edge.ug/page/12/?s=flood, line 857: SyntaxError: missing } after function body
+JavaScript note: http://edge.ug/page/12/?s=flood, line 855: { opened at line 855, column 37
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript warning: https://theinsider.ug/wp-content/themes/flex-mag/js/scripts.js?ver=5.3.2, line 80: unreachable code after return statement
+[Parent 17928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://theinsider.ug/wp-content/themes/flex-mag/js/scripts.js?ver=5.3.2, line 80: unreachable code after return statement
+JavaScript warning: https://theinsider.ug/wp-content/themes/flex-mag/js/scripts.js?ver=5.3.2, line 80: unreachable code after return statement
+JavaScript warning: https://theinsider.ug/wp-content/themes/flex-mag/js/scripts.js?ver=5.3.2, line 80: unreachable code after return statement
+JavaScript error: https://www.kawowo.com/?s=flood, line 2451: SyntaxError: expected '=>' on the same line after an argument list, got '='
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://kawowo.com/page/2/?s=flood, line 2441: SyntaxError: expected '=>' on the same line after an argument list, got '='
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://kawowo.com/page/3/?s=flood, line 2432: SyntaxError: expected '=>' on the same line after an argument list, got '='
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://kawowo.com/page/4/?s=flood, line 2458: SyntaxError: expected '=>' on the same line after an argument list, got '='
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://kawowo.com/page/5/?s=flood, line 2453: SyntaxError: expected '=>' on the same line after an argument list, got '='
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://kawowo.com/2019/03/24/tanzania-beats-uganda-cranes-to-make-afcon-grade-after-39-years/#comments, line 2796: SyntaxError: expected '=>' on the same line after an argument list, got '='
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+[Parent 17928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://nilepost.co.ug/wp-content/uploads/minit/5c341583.js, line 246: ReferenceError: heateorSssHorizontalSharingCountEnable is not defined
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=150711, line 1: Error: OneSignal: This web push config can only be used on http://www.spyuganda.com. Your current origin is https://www.spyuganda.com.
+JavaScript error: https://ugbusiness.com/?s=flood line 1 > scriptElement, line 10: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: uncaught exception: Error: invalid version specified
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.ugandaonline.net/i/t/w/script/photohx.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://www.newvision.co.ug/?s=flood, line 412: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.newvision.co.ug/?s=flood, line 3610: ReferenceError: Recaptcha is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.newvision.co.ug/?s=flood, line 3476: TypeError: $this.find(...)[0] is undefined
+JavaScript error: , line 0: uncaught exception: TagError: adsbygoogle.push() error: Only one 'enable_page_level_ads' allowed per page.
+JavaScript error: https://www.bukedde.co.ug/?s=flood, line 2428: ReferenceError: newsletter_signup_validate is not defined
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript error: https://visiongroup.motionlivechat.com/index.php/chat/getstatus/(click)/internal/(position)/bottom_right/(ma)/br/(top)/350/(units)/pixels/(leaveamessage)/true/(theme)/1/(survey)/1?r=&l=%2F%2Fwww.bukedde.co.ug%2F%3Fs%3Dflood, line 21: TypeError: e.data.split is not a function
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript warning: https://static.zbcdn.net/__atnzjgf/bundle.js, line 274: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://jsc.mgid.com/i/n/independent.co.ug.719905.js?t=20200215, line 1: SecurityError: Permission denied to access property "innerWidth" on cross-origin object
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://www.matookerepublic.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=5.5.0, line 1: ReferenceError: jfla is not defined
+JavaScript error: https://www.matookerepublic.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=5.5.0, line 1: ReferenceError: jfla is not defined
+JavaScript error: https://www.matookerepublic.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=5.5.0, line 1: ReferenceError: jfla is not defined
+JavaScript error: https://www.matookerepublic.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=5.5.0, line 1: ReferenceError: jfla is not defined
+JavaScript error: https://www.matookerepublic.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=5.5.0, line 1: ReferenceError: jfla is not defined
+JavaScript error: https://www.matookerepublic.com/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=5.5.0, line 1: ReferenceError: jfla is not defined
+JavaScript error: https://www.observer.ug/?s=flood, line 758: TypeError: jQuery(...).fitVids is not a function
+JavaScript error: http://radioonefm90.com/?s=flood, line 463: TypeError: slider.container is undefined
+JavaScript error: http://radioonefm90.com/page/2/?s=flood, line 463: TypeError: slider.container is undefined
+JavaScript error: http://radioonefm90.com/page/3/?s=flood, line 463: TypeError: slider.container is undefined
+JavaScript error: http://radioonefm90.com/page/4/?s=flood, line 463: TypeError: slider.container is undefined
+JavaScript error: http://radioonefm90.com/page/5/?s=flood, line 415: TypeError: slider.container is undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[Parent 17928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10144, Chrome[_ChiChildThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1014[Parent 17928, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1575282935/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1577981401345	Marionette	INFO	Stopped listening on port 60276
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
