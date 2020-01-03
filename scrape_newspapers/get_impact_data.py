@@ -28,7 +28,8 @@ locations_keywords = 'keywords'
 output_directory = 'impact_data'
 
 # input directory
-input_directory = 'articles_processed'
+input_directory = 'articles_floods_Uganda_processed'
+
 
 def LoadLocations(input_folder, country_short):
     """
@@ -39,6 +40,7 @@ def LoadLocations(input_folder, country_short):
     # create a dictionary locations : coordinates
     locations_dict = dict(zip(locations_df.FULL_NAME_ND_RO, zip(locations_df.LAT, locations_df.LONG)))
     return locations_dict
+
 
 def FindLocations(target_sentence, locations_dict):
     """
@@ -60,8 +62,10 @@ def FindLocations(target_sentence, locations_dict):
                 locations_found.append(l)
         return locations_found
 
+
 def normalize_caseless(text):
     return unicodedata.normalize("NFKD", text.casefold())
+
 
 def preprocess_text(text, currencies_short):
     """
@@ -143,6 +147,7 @@ def preprocess_text(text, currencies_short):
     target_text_edit = re.sub(pattern_signatures_foot, '', target_text_edit)
 
     return target_text_edit
+
 
 def process_number_money(text, sentence_text, sentence, currencies_short, currencies_long):
     """
