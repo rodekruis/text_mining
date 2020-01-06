@@ -4,3 +4,11 @@
 *.rds
 .Ruserdata
 config.R
+.idea/
+__pycache__/
+geckodriver.log
+scrape_newspapers/articles_processed/
+scrape_newspapers/config_files/
+scrape_newspapers/impact_data/
+scrape_newspapers/locations/
+scrape_newspapers/logs/
