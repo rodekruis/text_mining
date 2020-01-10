@@ -21,9 +21,9 @@ a newspaper database\
 `country_short`: Used for finding the location file, which has the path
  `locations/{country}/{country_short}.txt`\
 `keyword`: The keyword to search for in article titles\
-`model`: The spaCy model to use\
+`model`: The spaCy model to use, see https://spacy.io/usage/models\
 `language`: The language of the articles (so far
-can only be 'english' or 'french'
+can only be 'english' or 'french')
 
 ### keywords
 The parameters with names that begin with 'filename' refer to names of
