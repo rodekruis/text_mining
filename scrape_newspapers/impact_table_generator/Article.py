@@ -83,8 +83,10 @@ class Article:
         """
         # find locations and append them to list
         matcher = Matcher(nlp.vocab)
+
         _ = [matcher.add('locations', None, [{'LOWER': location.lower(), 'POS': pos}])
-             for location in locations_df['FULL_NAME_RO'] for pos in ['NOUN', 'PROPN']]
+             for location in locations_df['Name'] for pos in ['NOUN', 'PROPN']]
+
         matches = matcher(doc)
         # As (longer) articles are often signed, toss out last location if it's close to the end
         # since it is probably someone's name
@@ -211,7 +213,7 @@ class Article:
                     need_to_merge = True
                 else:
                     try:
-                        number = text2num(str(prev_word))
+                        number = text2num(str(prev_word), 'fr')
                         need_to_merge = True
                     except ValueError:
                         number = 2  # Multiply 1 million or whatever by 2
