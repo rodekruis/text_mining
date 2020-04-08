@@ -181,6 +181,7 @@ class Sentence:
         else:
             # no locations mentioned in the sentence, use the paragraph one
             self.locations_final = location_article
+            # TODO: Find out where location_article is defined, since it sometimes nan
 
 
 def _normalize_caseless(text):
