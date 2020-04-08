@@ -6,8 +6,10 @@ import pandas as pd
 from pandas import ExcelWriter
 import spacy
 
-from . import Article
+from impact_table_generator import Article
 from utils import utils
+import geojson
+from nltk.corpus import words
 
 
 logger = logging.getLogger(__name__)
@@ -70,8 +72,9 @@ class ImpactTableGenerator:
                                       self.language,
                                       self.keywords,
                                       self.nlp,
-                                      self.locations_df)
-            article.analyze(self.language, self.keywords, self.df_impact )
+                                      self.locations_df
+                                      )
+            article.analyze(self.language, self.keywords, self.df_impact)
 
             logger.info("...finished article {}/{}, updating file\n".format(id_row+1, n_articles))
 
@@ -156,15 +159,35 @@ class ImpactTableGenerator:
         build a dictionary of locations {name: coordinates}
         from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
         """
-        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short+'_administrative_a.txt')
-        columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
-        locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
-        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_localities_l.txt')
-        locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
-        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_populatedplaces_p.txt')
-        locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
-        locations_df = locations_df[~locations_df['FULL_NAME_ND_RO'].str.contains(self.country)]
-        locations_df["ADM1"] = pd.to_numeric(locations_df["ADM1"], errors='coerce')
-        return locations_df
+
+        # --- OSM attempt
+        with open(r"locations/Uganda/TestUgandaDistricts.geojson", encoding='utf-8') as gf:
+            gj = geojson.load(gf)
+
+        gj_df = pd.DataFrame(columns=['Name', 'Settlement', 'ADM1', 'ADM1_Name'])
+        for i in gj.features:
+            try:
+                gj_df = pd.concat(
+                    [gj_df, pd.DataFrame({'Name': [i.properties['name']], 'Settlement': [i.properties['place']], 'ADM1':[i.properties['ADM1_PCODE']], 'ADM1_Name':[i.properties['ADM1_EN']]})],
+                    ignore_index=True)
+            except KeyError:
+                print(i.properties)
+
+        gj_df = gj_df[~gj_df['Name'].isna()]
+        gj_df = gj_df[~gj_df['ADM1'].isna()]
+
+        # There are some 'weird' entries around row 3777, only taking first word per entry compensates this
+        gj_df['Name'] = gj_df['Name'].apply(lambda x: x.split(' ', 1)[0])
+        gj_df.drop_duplicates(subset='Name', keep='first', inplace=True)
+        gj_df.reset_index(inplace=True, drop=True)
+
+        # Words among town names have been found using following code, is however very time consuming
+        # test = gj_df['Name'].apply(lambda x: x.lower() in words.words())
+
+        words_among_town_names = ['East', 'West', 'Upper', 'Lower', 'Point', 'Township', 'Central', 'Village', 'Block',
+                                  'Junior', 'Club', 'Air', 'Tank', 'Police', 'Hospital', 'New', 'Te', 'Railway', 'Media']
+
+        final = gj_df[~gj_df['Name'].apply(lambda x: x in words_among_town_names)]
+        return final
 
 
