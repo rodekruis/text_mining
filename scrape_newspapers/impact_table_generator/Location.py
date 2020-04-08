@@ -13,6 +13,7 @@ class Location:
         self.dep_distance = None
         self.distance = None
 
+
 def most_common(locations, locations_df):
 
     # Create list of found location strings
