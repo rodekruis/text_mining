@@ -28,15 +28,27 @@ def most_common(locations, locations_df):
     idx_max = np.where(np.max(counts) == counts)[0]
     # Set location to first entry, this works if there is only one location, or as a fallback
     # if the multiple location handling doesn't work
-    location = lst[idx_max[0]]
-    # If there is more than one location, take the lowest level admin region.
+    location_temp = lst[idx_max[0]]
+    # If there is more than one location, take one of the locations in the region that occurs the most.
+
     if len(idx_max) > 1:
         try:
             lst_max = [lst[idx] for idx in idx_max]
-            location_info = locations_df[locations_df['FULL_NAME_RO'].isin(lst_max)]
-            location = location_info.groupby('FULL_NAME_RO')['ADM1'].min().idxmin()
+
+            location_info = locations_df[locations_df['Name'].isin([i for i in lst_max])]
+
+            # Choose region that occurs the most as location instead of a city/village
+            location_region = location_info['ADM1_Name'].value_counts().idxmax()
+            location = location_info['Name'].iloc[np.where(location_info['ADM1_Name'] == location_region)[0][0]]
+
+            if not isinstance(location, str):
+                location = location_temp
+
         except ValueError:  # in case location_info is empty due to string matching problem reasons
+            location = location_temp
             pass
+    else:
+        location = location_temp
 
     # find corresponding location object
     for obj in locations:
@@ -44,6 +56,7 @@ def most_common(locations, locations_df):
             location = obj
 
     return [location]
+
 
 def clean_locations(locations, text_to_replace):
     # fix ambiguities: [Bongo West, Bongo] --> [Bongo-West, Bongo]
