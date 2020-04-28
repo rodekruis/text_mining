@@ -1,0 +1,15 @@
+## https://overpass-turbo.eu/
+# Go to above url and fill in this code. Change Uganda for desired country.
+# Code will retrieve all Cities, towns, villages and hamlets in desired country.
+
+# If results are to big to run at once, run for cities, towns, villages and hamlets separately
+
+area["name"="Uganda"]->.boundaryarea;
+(	nwr(area.boundaryarea)[place=city];
+  nwr(area.boundaryarea)[place=town];
+ nwr(area.boundaryarea)[place=hamlet];
+    nwr(area.boundaryarea)[place=village];
+  
+);
+
+out ;
