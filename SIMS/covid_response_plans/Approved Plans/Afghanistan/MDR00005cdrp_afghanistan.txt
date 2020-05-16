@@ -1,0 +1,4984 @@
+P a g e  | 1 
+
+Domestic Response Plan 
+Afghanistan: COVID-19 outbreak 
+
+ 
+
+ 
+
+ 
+
+Glide n°:  
+
+MDR00005 
+31/01/2020 
+ 
+26/03/2020 
+ 
+24/04/2020 
+
+Emergency Appeal n°  
+Emergency Appeal date of launch:  
+ 
+Emergency Appeal revised: 
+ 
+Domestic Response Plan launched: 
+  
+Category allocated to the disaster or crisis: Red 
+Domestic Response Plan budget: CHF 16,863,000 
+DREF allocated: CHF 1 million to global appeal (DREF has been reimbursed)  
+Total number of people affected: 
+
+Expected timeframe:  
+
+EP-2020-000012-CHN 
+12 months 
+
+Expected end date:  
+
+31 March 2021 
+
+As of 24 April 2020, 
+1,226 confirmed 
+cases of COVID-19 
+in Afghanistan 
+
+Total 30 Provinces 
+with 1,226 confirmed 
+cases; country-wide 
+
+Number of people to be 
+2,687,500 
+assisted: 
+people 
+or 
+indirect) 
+
+(direct 
+
+2,687,5001 
+ 
+
+Provinces/Regions 
+targeted:  
+
+All  34  provinces  and  7 
+regions 
+
+Provinces affected (as of 5 April): 
+
+Red Cross and Red Crescent Movement partners actively involved in the operation: Afghan Red Crescent Society 
+(lead), IFRC, ICRC, Norwegian Red Cross, Canadian Red Cross, Qatar Red Crescent, Turkish Red Crescent, Finnish 
+Red Cross, Red Cross Society of China. 
+Other partner organizations actively involved in the operation: Afghan Ministry of Public Health, WHO, OCHA, IOM, 
+UNICEF, BPHS implementers (INGOs and Local NGOs).  
+
+ 
+ 
+A. Situation analysis 
+ 
+Description of the disaster  
+ 
+On 31 December 2019, Wuhan city in China reported cases of pneumonia of unknown origin, which was later confirmed 
+to be caused by a new coronavirus now known as SARS-CoV-02 which causes the disease COVID-19. Since then, 
+COVID-19 has since been declared by WHO as global pandemic on 11 March, currently affecting 206 countries and 
+territories around the world.  
+ 
+As of 20 April 2020, more than 2.4 million cases of COVID-19 have been reported globally. While more than 629,000 
+people have recovered,  the death toll keeps growing with up to 165,000 deaths reported,  predominantly in the USA 
+(40,565), Italy (23,660), Spain (20,453), France (19,718), United-Kingdom (16,060) and Iran (5,118).China and South 
+Korea, initially two of the most affected countries, seem to have controlled the spread of the virus, concerns are growing 
+as the pandemic is expanding in fragile contexts where health and socio-economic systems are not equipped to capture 
+or absorb a massive pandemic shock.  
+ 
+In Afghanistan, the Ministry of Public Health (MoPH) reported the first confirmed case on 24 February 2020 located in 
+the western province of Herat, at the border with Iran. Herat has become since then the hotspot of the country due to its 
+proximity with the Iranian border which has been crossed by more than 200,000 Afghan returnees since February 2020 
+and became the main vectors of COVID-19 imported cases across the country.  
+ 
+
+1 Total 70 per cent coverage of 138 health facilities in 34 Provinces, with 455,000 people supported with food and/or cash interventions. 
+ 
+ 
+
+ 
+
+ 
+
+P a g e  | 2 
+
+ 
+As of 20 April, MoPH data shows that 996 people across 30 provinces were confirmed to have the virus, for 33 reported 
+deaths while 131 people had recovered from the virus. The case fatality rate was 3.4 per cent. More people had acquired 
+the virus inside Afghanistan than had brought it from other affected countries. Men between the ages of 40-69 represent 
+60  per  cent  of  all  COVID-19  related  deaths.  Cases  were  expected  to  increase  rapidly  over  the  weeks  ahead  as 
+community  transmission  escalates,  creating  grave  implications  for  Afghanistan’s  economy  and  people’s  well-being. 
+Herat was still the most affected part of the country. 
+ 
+COVID-19 outbreak situation as of 24 April 2020 (based on WHO) 
+ 
+
+Number of cases 
+Number of deaths 
+Recovered2  
+Response phase  
+Mode of transmission  
+Number of provinces affected  
+
+1,226 confirmed  
+40  
+188 
+Containment and mitigation   
+Imported cases from Iran, Saudi Arabia, UK and increasing local spreading 
+25 (out of 34) – See map below 
+
+ 
+ 
+
+ 
+
+ 
+
+  Confirmed cases 0 
+  Confirmed cases 1–9 
+  Confirmed cases 10–19 
+  Confirmed cases 20-99 
+  Confirmed cases ≥100 
+ 
+Map of affected provinces, Afghanistan. (Source: Afghan Ministry of Public Health) 
+
+ 
+A pandemic of potential disastrous proportions in the Afghan context 
+It is acknowledged that the COVID-19 caseload in Afghanistan only captures a fraction of the real impact of the pandemic 
+in  the  country.  Until  20  April,  the  Afghan  Ministry  of  Public  Health  (MoPH)  reported  that  only  6,422  tests  had  been 
+conducted. In war-torn Afghanistan, the overall health system is not equipped to absorb the shocks of a major pandemic 
+as suffering from systemic weaknesses in terms of human resources, financial resources and infrastructures. On 20 
+April,  the  testing  capacity  for  the  coronavirus  had  been  slowly  increased  up  to  1,000  tests  a  day  through  eight 
+laboratories. This remains largely insufficient compared to required standards and imperative to systematically track, 
+test and treat.  
+ 
+Towards the end of March, the Afghan Ministry of Public Health estimated that 25.6 million Afghans (approximately 80 
+per cent of the population) could be infected and 110,000 Afghans might die from COVID-19. If that estimate is borne 
+out, the casualties from the virus would be much higher than the total civilian casualties of the more than 18-year war.  
+ 
+The Emergency Response Plan adopted by the Afghan Ministry of Public Health (MoPH) on 24 March 2020 envisions 
+three possible scenarios for the country: 
+
+1.  Low-transmission scenario (based on the model analyzed in Hubei, China) would envision already a caseload 
+of 40,000 people early April for a total fatality of 1,383 people and more than 9,000 hospitalized. This would 
+however require massive mobilization and availability of protective equipment and medical materials as well as 
+aggressive  measures  to  find,  test,  isolate  and  treat  cases,  and  trace  contacts  –  a  capacity  which  is  not  in 
+Afghanistan’s  immediate  reach  due  to  multiple  shortages  and  fragile  systems  across  the  country.  However, 
+ARCS have the capacity to mobilize more than 600 staff through its health facilities as well as between 4,000 
+to  6,000  volunteers.  The  blocking  factor  for  scalable  mobilization  is  the  lack  of  PPEs  and  the  systemic 
+weaknesses of the local market for meeting the needs along acceptable quality standards. 
+
+2 Based on the Johns Hopkins University dashboard here. 
+ 
+ 
+
+ 
+
+ 
+
+P a g e  | 3 
+
+ 
+
+2.  Moderate-transmission  scenario  which  forecasts  more  than  190,000  cases,  mortality  at  5,716  and  38,205 
+persons  to  be  hospitalized.  This  scenario  supposes  full  compliance  to  social  distancing  and  preventive 
+measures as well as strengthened health systems and capacities over a period of eight months. 
+
+3.  High-transmission scenario look into a grimmer picture of more than 16 million people infected, a total fatality 
+110,000 persons, and 738,000 persons in need of hospitalization. This scenario is developed based on global 
+studies of the pattern of disease in other countries. In this scenario, 80 per cent of the total population would be 
+affected, out of which 66 per cent of the infected people would be symptomatic. From the total symptomatic 
+cases 4.4 per cent of the patients require hospitalization from which 30 per cent will be in the critical stage. 
+
+4.  The COVID-19 outbreak will make the already worse situation of the country more deteriorating. The shocks 
+and  stresses  of  this  pandemic  will  have  a  much  broader  impact  on  the  socio-economic  of  the  vulnerable 
+households and will not only diminished the well-being and livelihoods of people, but also has undermined the 
+markets and food security on which life depends. The shocks of COVID-19 will also have impacts on labour 
+markets, purchasing power and lost productivity – all of which are significant factors for Afghanistan, not least 
+because few Afghans have access to productive or sustainable remunerative employment. 
+
+ 
+While the moderate transmission scenario has been considered as the most likely and the one to prepare for, the high-
+transmission scenario is not excluded. More fine-tuned scenarios are being worked out by MoPH for planning purposes 
+that contemplate at least 40,000 hospitalizations until June. 
+ 
+An expected widespread humanitarian impact due to pre-existing high vulnerabilities 
+The  pandemic takes place against the  backdrop of already deeply  deteriorated  socio-economic conditions  while  the 
+ability of millions of people to cope with the crisis has been eroded from past shocks:  
+
+•  More than 50 per cent of the population are living with less than USD 1 a day, or even a week.  
+• 
+
+In 2020, 8.21 million vulnerable people are in need of urgent food and livelihoods assistance to reduce food 
+consumption gaps, protect livelihoods and reduce malnutrition (Humanitarian Response Plan (HRP) 2020). 
+
+•  Around  14.28  million  people  are  estimated  to  be  in  crisis  or  emergency  levels  of  food  insecurity  in  the  first 
+
+months of 2020.  
+
+•  More than 2.5 million people are internally displaced across Afghanistan due to both disasters and protracted 
+
+conflict. Many millions more are living as refugees in neighbouring countries, and across the globe.  
+
+•  A recent survey on nutrition conducted across Afghanistan indicated that 22 out of 34 provinces are currently 
+above  the  emergency  level  threshold  for  acute  malnutrition.  The  impacts  of  2018-2019  drought  further 
+aggravating an already poor nutritional situation in the country (HRP 2020). 
+
+•  62.7 per cent of the urban population in Afghanistan are living in informal settlements according to data collected 
+
+by the World Bank in 2014 3. 
+
+ 
+The restrictions and lockdown measures adopted in Afghanistan and neighbouring countries are expected to result in 
+steady increase of food prices. Spikes in prices have already been observed on some key food items such as wheat, 
+wheat flour, and cooking oil relative to COVID-19 impacts. For example, the price of wheat has increased by 15 per cent 
+between 14 March – 2 April 2020. Potential supply disruptions of key food commodities (such as wheat flour and wheat 
+grains) from Kazakhstan could further aggravate the possible negative economic impacts. The poorest households will 
+suffer disproportionally from potential food price spikes with urban areas hit the hardest. 
+ 
+Numerous reports also indicate that patients suspected or even confirmed cases were escaping from health facilities to 
+continue supporting their family with income generated on a daily basis. Between hunger and infection, impoverished 
+communities will tend to prioritize surviving strategies based on income rather than health protection.  
+ 
+In a fragile context like Afghanistan, the pandemic may have a significant and widespread humanitarian impact on the 
+poorest of the poor, especially in urban and remote areas and IDP sites. It will also affect the whole population and 
+further weaken coping mechanisms and social safety nets while unemployment is expected to rise from 40 per cent to 
+70 per cent as a direct consequence of the pandemic (Afghan Ministry of Finance). 
+ 
+Key concerns and aggravating factors 
+ 
+Cross-border concerns 
+
+•  As  of  20  April,  there  were  more  than  82,000  confirmed  cases  in  Iran  where  the  first  imported  cases  in 
+Afghanistan were originated from. More than 150,000 Afghan migrants (and refugees) living in Iran returned 
+crossed the border to Afghanistan between 1 and 28 March (IOM). The total number of Afghan migrants (and 
+refugees) returning is estimated to 215,000 people. Although significantly reduced since 21 March, the returns 
+still  continue  despite  lockdown  measures  while  all  flights  to  and  from  Iran  were  suspended.  This  influx  is 
+
+ 
+
+3 While there are challenges in going beyond Cash and Voucher Assistance (CVA) and the distribution of NFIs and emergency shelters at this time, 
+there is a plan to partially address these through disaster readiness proposals currently being reviewed.  
+ 
+ 
+
+ 
+
+P a g e  | 4 
+
+ 
+
+ 
+ 
+
+• 
+
+• 
+
+considered having been the highway of the virus across the country and the porosity of the border between Iran 
+and Afghanistan remains a high concern. 
+In Pakistan, where 8,418 cases were confirmed as of 10 April, the country’s border with Afghanistan has been 
+officially closed. Despite several brief openings during which a limited number of commercial trucks have been 
+allowed to cross to ensure continued supplies of goods, the humanitarian community has expressed concerns 
+about  the  impact  of  repeated  border  interruptions  on  supplies  of  commercial  goods  which  could  drive  up 
+domestic prices in Afghanistan, as well as the impact on pipelines for humanitarian goods (i.e. food supplies). 
+There are nearly 3 million documented and undocumented Afghan refugees living in Pakistan. The country’s 
+Torkham  and  Chaman-Spin  Boldak  border  crossings  with  Afghanistan  were  re-opened  on  6  April  to  allow 
+citizens of Afghanistan who have been stuck in Pakistan to return. More than 70,000 people travelled across 
+the borders from 6 to 10 April, which caused overwhelming COVID-19 screening measures according to IOM. 
+Initially people returning to Afghanistan were likely to be placed under quarantine immediately after crossing at 
+Torkham, irrespective of whether they had any symptoms. However, local authorities later changed their position 
+due to the volume of the cross-border movement and instructed people to self-quarantine in their respective 
+homes (OCHA/IOM). 
+In  early  March,  Afghanistan’s  neighbors  –  Tajikistan,  Turkmenistan  and  Uzbekistan  –  have  closed  their 
+borders for civilian movement and suspended flights to and from Afghanistan. However, several commercial 
+transports are still in service. 
+
+ 
+Insecurity and violence  
+
+•  Despite progress of the peace talks with the signing of a peace agreement between the US and the Taliban at 
+the end of February followed by initial intra-Afghan discussion on prisoners, violence and insecurity remain a 
+daily reality in the country. In March, the number of attacks has significantly increased, mostly targeting Afghan 
+National Security Forces but also affecting civilians. In this context, and despite the pandemics, the risk of a 
+‘Spring offensive’ is not excluded. 
+
+•  The level of criminality is also expected to rise while security forces focus on COVID-19 related measures and 
+
+potentially fed by the worsening of socio-economic conditions and access to affordable food. 
+
+•  With the further enforcement of lockdown measures, concerns are also growing with regards to heightened risk 
+
+of sexual and gender-based violence against women and children (SGBV) and the rise of protection needs. 
+
+ 
+Disease, disaster, displacement: combined risks of cumulated shocks 
+
+•  Disease: As observed in other countries, COVID-19 will have an impact on the capacity to address existing 
+health  challenges,  including  non-communicable  diseases  or  mother-and-child  health.  Owing  to  weak  health 
+systems  and  infrastructures,  it  is  expected  that  health  facilities  will  be  overwhelmed  by  the  priority  given  on 
+people  affected  by  the  pandemic  to  the  expense  of  people  suffering  from  chronic  and  other  communicable 
+diseases.  Among  vaccine  preventable  diseases,  polio  is  not  yet  eradicated  in  the  country,  measles  and 
+whooping  cough  outbreak  are  still  prevalent  in  different  areas  and  there  are  cases  of  hepatitis  A  especially 
+among children. Currently, main challenges with regards to vaccine preventable diseases in Afghanistan are: 
+
+o  Poor utilization of immunization services due to low coverage of basic health care implementer. 
+o  Disparity  in  distribution  of  healthcare  services  between  rural  and  urban  areas;  health  services  are 
+
+unavailable in many areas. 
+
+o  Ongoing security issues limiting access to health services. 
+o  Overall systemic weaknesses of the health system (human and technical resources, infrastructures and 
+
+etc.) after 40 years of war. 
+
+•  Disasters: Severe rainfall have been experienced across many provinces in March and April, with an estimated 
+caseload  of  more  than  34,000  people  affected  by  floods,  landslides  and  avalanches.  Preliminary  analysis 
+suggests  that  nearly  60,000  hectares  of  cropland  would  be  at  risk  of  flooding  across  10  provinces.  This 
+represents approximately 7 per cent of overall cropland across these provinces (Food Security Cluster). Efforts 
+to contain and control the pandemics will have to be coupled with preparedness for disaster response and risk 
+reduction. 
+
+•  Displacement: In addition to Afghan returnees from Iran (215,000) and Pakistan (65,000), there are around 
+55,700 people have been displaced by conflicts in first quarter of 2020 according to OCHA. Internally displaced 
+people (IDP) sites in various parts of the country are also bound to be potential pandemic hotspots due to limited 
+capacities to contain the propagation. 
+
+ 
+Summary of the current response 
+ 
+Afghanistan has been in a state of protracted crises and political instability for more than 40 years while the country is 
+exposed  to  recurring  natural  disasters,  diseases,  displacements,  and  disruption  of  livelihood  due  to  overall  high 
+vulnerability  and  reduced  coping  mechanisms.  Poor  access  to  health  care,  limited  access  to  water  and  sanitation, 
+widespread food  insecurity and high rates of  malnutrition  are all  additional complicating  factors for Afghanistan. The 
+
+ 
+
+P a g e  | 5 
+
+ 
+ongoing  propagation  of  COVID-19  is  threatening  to  have  overwhelming  consequences  on  a  fragile  context  like 
+Afghanistan. Recognizing the rapid propagation of the virus as well as the limited capacities of the health system to 
+respond,  there  is  an  urgent  need  to  enhance  multi-sectoral  preparedness,  operational  readiness  and  response 
+capacities to prevent and rapidly respond to pandemic, in line with International Health Regulations (IHR 2005), while 
+addressing its humanitarian consequences.  
+ 
+Official data shows that, as of 20 April, 996 people across 30 provinces were confirmed to have the virus (for 6,422 tests 
+conducted to date) and 15 people have died. Importantly, more people have now acquired the virus inside Afghanistan 
+than have brought it from other affected countries.  
+ 
+Afghan public authorities 
+Aware  of  facing  a  crisis  of  potential  nation-wide  disastrous  proportions,  an  Afghan  High-Level  Committee  has  been 
+established directly under the Afghan President, with a pivotal role given to the Afghan Ministry of Public Health (MoPH) 
+in driving the preparedness and response process.  
+ 
+Following initial measures in February focusing on risk communication and preparedness for response, the MoPH has 
+equipped itself with an Emergency Response Plan for Corona Virus 2020 which focus on six objectives across short 
+and medium terms: 
+
+•  Early  case  finding  through  active  surveillance,  which  includes  strict  screening  at  the  points  of  entry,  referral 
+
+system, contact tracing and community surveillance. 
+
+•  Early isolation of confirmed cases and effective management of infected persons, with a focus on hospitalizing 
+only those patients with severe symptoms (20 per cent of all cases) and those with critical conditions (5 per cent 
+of cases) by increasing the number of beds from 10,400 to 40,000. 
+Infection  prevention  and  control  as  vital  measures  for  controlling  the  pandemic  in  health  facilities  and 
+communities. 
+
+• 
+
+•  Health  education,  community  mobilization,  awareness  raising  and  risk  communication  to  enhance  public 
+awareness by disseminating a package of key messages and communication materials regarding COVID-19 
+using different communication channels 4. 
+
+•  Effective coordination and resource mobilization. 
+•  Effective and timely logistics support for emergency response.  
+
+ 
+At  the  end  of  March,  the  budget  projections  only  for  health,  has  been  increased  from  USD  123  million  for  a  low-
+transmission scenario to USD 891 million for high-transmission scenario. 
+ 
+Afghanistan relies heavily on imports for medical materials and equipment and foreign support at large. Stronger 
+capacities have been built over the years with a network of 3,500 public health facilities and 1,000 private hospitals and 
+clinics, 30,000 publicly employed health and around 30,000 community health volunteers, The surveillance system has 
+530 sentinel sites in all the 34 provinces, in both public and private health facilities. In response to the COVID-19, active 
+surveillance  sites  have  been  established  in  all  airports  and  zero-point  borders  of  the  country  with  trained  staff  and 
+screening equipment. 
+ 
+The health system would however need to be actively strengthened to enable the public authorities to detect, test, treat 
+and trace in a systematic manner. In March, only one central health laboratory was doing diagnostic tests, with maximum 
+capacity of 50 tests per day, costing USD 1,600 per diagnostic kit. The absence of local laboratories to do diagnostic 
+tests  for  COVID-19  created  considerable  delays  in  treating  and  isolating  patients  in  hospitals  in  distant  parts  of  the 
+country. The government announced in early April that around 50,000 tests to be made available and efforts to scale-
+up testing were underway with additional eight testing facilities (Kabul, Herat, Mazar-e-Sharif, Kandahar, Kapisa and 
+Nangarhar provinces). Altogether, the government plans to expand to 15 testing facilities across the country within the 
+month. 
+ 
+Several provinces have instituted measures to limit the exposure of residents to COVID-19. International airports have 
+been closed since end of March for commercial flights. Early April, lockdown measures were being enforced in the 
+main cities (Kabul, Herat, Mazar, Kandahar, Jalalabad) where stricter measures have been progressively put in place, 
+including  through  the  mobilization  of  military  and  police  forces  and  reported  arrests,  fines  and/or  placement  into 
+quarantine for people who did not comply. Movement restrictions should however not affect essential public services 
+nor humanitarian organizations.  
+ 
+ 
+ 
+
+ 
+
+4 ARCS will look into ensuring that all risk communication and community engagement (RCCE) activities are adapted and accessible to all people, 
+especially marginalized groups. 
+ 
+ 
+
+ 
+
+P a g e  | 6 
+
+ 
+Afghan Red Crescent Society (ARCS) 
+As  auxiliary  to  public  authorities,  ARCS  leadership  has  been  involved  from  the  onset  into  the  high-level  committee 
+established under the President of the country, as well as through the Emergency Committee under the MoPH while 
+participating to the Health cluster meetings focused on COVID-19.  
+ 
+In February-April, ARCS teams have been mobilized in various fronts to support prevention and containment activities, 
+especially  in  Herat  and  the  overall  western  region  sharing  a  border  with  Iran.  In  support  to  early  detection  and 
+surveillance  efforts,  ARCS  has  contributed  to  the  screening  of  returnees  from  China  and,  more  crucially,  from  Iran. 
+During the first phase of COVID-19 preparedness and response (February-March), ARCS contributed as follows: 
+
+•  Awareness raising on COVID-19 as part of preventive measures for ARCS own staff in all seven regional offices 
+and 34 branches as well as through widespread network of health facilities (hospitals, clinics, Mobile Health 
+Teams, etc.).  
+
+•  ARCS MHT and health centers conducted awareness raising sessions /risk communication in 31 provinces.  
+•  12  MHT  members,  trained  in  IPC,  engaged  in  early  detection  and  surveillance  efforts  –  more  than  142,000 
+people  screened  (as  of  20  April)  for  more  than  93  presumptive  cases  identified  and  referred  to  dedicated 
+governmental health facilities.   
+
+•  At the community level, ARCS CBHFA volunteers have conducted awareness raising and risk communication 
+regarding COVID-19 in 31 provinces – 470,000 people (287,000 males; 183,000 females) reached by 4,066 
+volunteers (3,388 males; 678 females), where more than 200,000 printed IEC materials have been distributed 
+to targeted communities.  
+
+•  ARCS has provided 184 family tents and tarpaulins for temporary screening and shelters in the cross border 
+
+between Afghanistan and Pakistan (Torkham, Spin – Boldak and Zherai district of Kandahar Province).  
+
+ 
+ARCS priorities in responding to the pandemics 
+
+1.  Duty of Care: To mobilize collective efforts in tackling the pandemics but also focusing on the safety of ARCS 
+personnel and volunteers. As of 10 April: Measures have been taken to reduce the presence in ARCS offices 
+(HQ and branch) to essential staff while Infection prevention and control routine activities are being carried out. 
+There is still a crucial need of personal protection materials required. 
+
+2.  Health in emergencies: For the emergency phase, ARCS Domestic Response Plan in health, aligned to MoPH 
+
+emergency plan, is meant to mobilize all ARCS capacities in health including: 
+
+Number of staff 
+
+Number of volunteers 
+
+Health services managed by 
+ARCS 
+
+736 medical, 45 administrative and 150 supportive staffs 
+3,400 CBHFA and 3,000 Youth Volunteers5  
+
+1 comprehensive health clinic, 45 basic health clinics (BHC), 22 health sub 
+centers (HSC), 39 mobile health clinics, 31 Mobile health teams (immunization), 
+1 district hospital (Kabul), 2 ambulances 
+
+ 
+Upon the request of the MoPH and highest level of Afghan authorities, ARCS developed a comprehensive 
+Emergency  Response  plan  which  was  submitted  to  and  approved  by  Afghan  MoPH.  Aligned  with  MoPH 
+emergency  plan,  ARCS  contribution  aims  at  mobilizing  ARCS  138  health  facilities  as  well  as  community 
+volunteers to support detection, surveillance, infection prevention and control activities and continued efforts in 
+awareness raising and risk communication. One of the priorities for ARCS is to transform their central hospital 
+in  Kabul  into  a  COVID-19  isolation  centre  (50  beds)  which  requires  urgent  procurement  of  equipment  and 
+medical materials. In March, only one hospital was officially assigned to treat COVID-19 patients with a capacity 
+of 100 beds for a population of 6 million people in Kabul.  
+
+3.  Livelihoods support: Increasing mobilization will also be required to address the humanitarian consequences 
+
+of COVID-19 with a focus on livelihoods support (food and unconditional cash transfers). 
+
+ 
+Key challenges  
+
+•  ARCS  nation-wide  engagement  has  been  impeded  and  limited  by  the  lack  of  personnel  protection 
+equipment (PPEs) and medical material. This shortage has been a huge challenge for Afghan authorities as 
+well as international organizations operating in the country. 
+In the face of a pandemic that has become global, resources (financial, skills, infrastructures) are also missing 
+in the country to rapidly and effectively bring response capacities at scale. 
+
+• 
+
+•  Combining  duty  of  care  and  operational  effectiveness  to  respond  to  this  emergency  will  remain  a 
+constant challenge that will requires constant focus and evaluation. As of 10 April, ARCS had one confirmed 
+case of COVID-19 and confirmed the loss of one associated member to ARCS mobile health team in Balkh. 
+
+ 
+
+ 
+ 
+
+5 Staff and volunteers will be oriented on gender and diversity sensitivity, protection, and exclusion risks. 
+ 
+ 
+
+ 
+
+ 
+
+P a g e  | 7 
+
+ 
+Overview of Red Cross and Red Crescent Movement actions 
+IFRC has been supporting ARCS from the onset at country and regional levels through targeted inputs including: 
+
+•  Technical support in producing ARCS emergency response plan. 
+• 
+• 
+
+Joint participation to the Health Cluster meetings co-led by MoPH Vice-Minister and WHO. 
+Initial financial support under the DREF for immediate action focused on procurement of medical items and 
+printing of IEC materials in support of prevention and preparedness efforts across ARCS offices, facilities and 
+volunteers and as contribution to MoPH emergency plan.  
+
+•  Provision of guidance materials produced at global or regional level to enhance ARCS readiness and technical 
+
+•  Support to procurement and resource mobilization. 
+•  Facilitation of Movement operational coordination and coordination with external actors, including through UN 
+
+support for response. 
+
+clusters. 
+
+•  Development of IFRC Domestic Response Plan for ARCS emergency operations. 
+•  Support to ARCS business continuity plan in collaboration with Movement partners. 
+
+ 
+ICRC has revised its activities to include COVID-19 preparedness and response with preliminary overview of the costing 
+amounting  CHF  11,200,000.  Ongoing  activities  will  continue  through  its  structure  of  10  offices  and  7  physical 
+rehabilitation centres. In support of patients and health care staff, the ICRC continues to work with Kandahar Mirwais 
+hospital to develop a preparedness plan in case of an outbreak. Hygiene material and personal protective equipment 
+(PPE) have been provided. Additional materials have been provided to MoPH identified structures that will be tasked 
+with COVID 19 case management, when available, including in the areas which are under the control of non-state armed 
+groups. For the detainees and detentions facilities, the ICRC has scaled up its support to authorities including donation 
+of more quantities of hygiene material and PPE to their staff.  Support will be provided to the Afghan Red Crescent to 
+ensure  protection  of  staff  and  volunteers  while  performing  their  Human  Remains  Transfer  Program  (including  dead 
+bodies due to COVID 19) and also restoring family links within the normal ongoing activities. The ICRC keeps close 
+coordination  with  Movement  partners  to  support  the  ARCS  emergency  response  plan  with  specific  focus  on  hard  to 
+reach areas. The support is focused on the 140 health structures to continue normal activities and respond to COVID 
+19 needs. The ICRC continues to provide major part of the ARCS Logistic supply chain for these health structures in 
+collaboration with Norwegian Red Cross including supplies for PPE and medical items.    
+ 
+Norwegian Red Cross and Canadian Red Cross have made financial contribution to support ARCS prevention and 
+preparedness activities while China Red Cross have expressed intention to enhance their support as well. Turkish RC 
+announced its bilateral support of USD 10,000 with in-kind support of 300 hygiene kits. QRCS supported the NS with 
+CHF 3,000 for PPEs and announced its CHF 15,000 more support to ARCS. 
+ 
+Movement coordination and cooperation 
+
+•  A COVID-19 task force has been established, led by ARCS leadership and health team, convening on a weekly 
+
+• 
+
+basis together with Movement partners.  
+In  rising  to  the  challenge  posed  by  the  pandemic,  Movement  partners  are  committed  to  work  together  in 
+providing technical support by leveraging synergies and expertise. A Movement Emergency Support Group 
+had to be formally established early April along the following distribution of roles: 
+
+Movement - One coordinated approach for technical and funding support to ARCS through available 
+
+resources (appeals) 
+
+Clinics 
+
+lead 
+
+Mobile health 
+
+Community mobilization 
+
+teams lead 
+
+/ risk communication 
+
+Livelihood 
+
+support 
+
+Case 
+
+Duty of 
+
+management 
+
+care / BCP 
+
+IFRC in liaison with 
+Canadian RC and 
+Norwegian RC 
+
+IFRC in liaison 
+with Turkish RC 
+
+ICRC (technical 
+support, 
+forensic)  
+
+ICRC and 
+IFRC 
+
+Norwegian 
+RC in 
+liaison with 
+Qatar RC 
+and ICRC 
+(supplies) 
+
+Canadian RC 
+in liaison with 
+Norwegian RC, 
+Swedish RC 
+and IFRC 
+
+Technical support on health is being co-facilitated by Norwegian Red Cross and IFRC, including to find 
+emergency stop-gap solutions to the shortage of protective supplies. 
+ 
+
+•  Other Movement Coordination mechanisms (Operational Coordination meetings, Tripartite Strategic meetings) 
+
+remain actionable in agreement with or upon request from ARCS leadership.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+P a g e  | 8 
+
+ 
+Overview of non-Red Cross and Red Crescent actors in country 
+ 
+Afghan Public Authorities 
+National Disaster Commission (NDC) is established is established in case of huge outbreak of diseases to coordinate 
+multisectoral efforts with a view to mitigate and control the outbreak. The President of the country appointed one Vice-
+President to lead COVID-19 response efforts through the NDC which has been meeting several times a week. ARCS is 
+a member of this Commission. The NDC has also established provincial disaster commissions. 
+ 
+The  Emergency  Inter-sectoral  Committee  was  established  by  the  decree  of  the  President  of  the  Islamic  Republic  of 
+Afghanistan  and  chaired  by  the  Minister  of  Public  Health,  it  includes  key  Ministries  (Foreign  Affairs,  Haj  and  Awqaf, 
+Transport,  Aviation,  Information  and  Culture,  Trade,  Agriculture  and  Livestock,  Rural  Development)  the  security 
+agencies and the ARCS are member of this Committee. 
+ 
+MoPH Emergency Committee (national and provincial) is the leading committee within MoPH responsible for ensuring 
+effective and efficient coordinated response by the health sector to any disaster in the country. MoPH operational arms 
+are  comprised  of  the  Department  of  Emergency  preparedness  and  Response  (EPR)  and  Centre  for  Command  and 
+Control  (CCC),  a  structure  which  is  under  the  direct  supervision  of  MOPH  leadership.  Provincial  health  emergency 
+committees  have  been  established  to  ensure  provincial  coordination  of  surveillance,  health  care  services  and  risk 
+communication in liaison with the central committee. The provincial health directorate acts as the secretariat. 
+ 
+Basic  Package  of  Health  Services  (BPHS)  implementers,  comprised  of  both  local  and  international  NGOs,  are 
+supporting  MoPH  in  undertaking  daily surveillance of  COVID-19  in  all  Health  facilities  and  carrying  out  preventive 
+measures, especially awareness raising for communities.  
+ 
+United Nations Response and Coordination 
+Afghan  public  authorities  are  also  supported  by  UN  agencies.  WHO  has  been  active  in  supporting  the  MoPH  plan, 
+COVID-19 related guidelines, health capacity strengthening (including testing capacities) and the mobilization of ‘polio- 
+eradication’ volunteers. IOM has been involved in border crossing site to support the crossing of returnees. 
+ 
+A  COVID-19  Multi-Sector  Humanitarian  Country  Plan  for  Afghanistan,  coordinated  by  OCHA,  has  been  finalized 
+requiring USD 108.1 million to reach 6.1 million people with life-saving assistance across all clusters. The plan outlines 
+initial  preparedness  and  response  efforts  for  the  next  three  months  but  is  expected  to  be  updated  as  the  situation 
+changes. This cost plan will form the basis of a Humanitarian Response Plan revision in the near future. The multisector 
+plan also aims to highlight the potential effects of the outbreak on ongoing humanitarian response and spell out mitigation 
+measures  being  employed  to  reduce  interruptions  to  life-saving  services.  Priority  activities  in  the  plan  include  the 
+strengthening of health capacities in expanding preparedness, containment and mitigation activities, the scaling-up of 
+WASH especially in IDP sites, risk communication and awareness raising, food security and malnutrition, population 
+movement monitoring, support to people with specific needs as well as advocacy and flight services (including an going 
+initiative to establish an international air-bridge. Meanwhile, on 2 April, the World Bank approved a US$100 million grant 
+to  support  Afghanistan  to  slow  and  limit  the  spread  of  COVID-19  through  enhanced  detection,  surveillance,  and 
+laboratory systems, as well as strengthening essential health care delivery and intensive care. 
+ 
+In term of Inter-agency coordination, the Humanitarian Country Team (HCT) is the main inter-agency coordination body 
+in liaison with the Inter-Cluster Coordination Group. 
+ 
+ARCS and IFRC have consistently engaged in critical inter-agency coordination mechanisms including: 
+
+•  The inter-cluster coordination group – IFRC. 
+•  Health cluster (co-led by MoPH and WHO). 
+•  Food security and Agriculture cluster. 
+•  Protection cluster. 
+•  Cash and voucher working group. 
+•  Risk communication working group. 
+
+ 
+Needs analysis, targeting, scenario planning and risk assessment  
+ 
+Needs analysis 
+Health:  ARCS  has  carried  out  a  baseline  assessment  to  identify  the  risks  and  challenges  associated  to  COVID 
+outbreak which are to be addressed in its health emergency response plan’s implementation. These risks or challenges 
+are summarized as follows: 
+
+•  Protection  and  safety  of  frontline  responders:  The  accelerating  transmission  of  the  virus  makes  frontline 
+responders  highly  exposed  to  infection,  especially  for  health  personnel  in  Kabul  and  Herat  where  infection 
+
+ 
+ 
+
+ 
+
+P a g e  | 9 
+
+ 
+
+ 
+ 
+
+cases have already been confirmed. The risk is heightened by the shortage or lack of protective equipment for 
+health responders. 
+
+•  Volatile and fragile security situation, 
+•  Food insecurity and poor immunity of mothers, children and elderly. 
+• 
+
+Inadequate capacities or potential; capability deficit in terms of adequate Human Resources and availability of 
+Medical and Non-medical Resources in the country's health clinics.  
+
+•  Lack of comprehensive assessment report to provide needed supply for health interventions.  
+•  Budget limitation for the response.  
+
+ 
+Hard-to-reach  areas  /  White  zones:  Due  to  the  current  conflict  and  insecurity,  part  of  country  is  out  of  control  of 
+Afghanistan  government.  Through  its  principled  humanitarian  action,  ARCS  is  in  capacity  to  ensure  access  and 
+acceptance in all part of the countries, including hard-to-reach areas, to carry out critical activities including awareness 
+raising,  risk  communication  and  referral  of  suspected  cases  to  dedicated  health  facilities.  MoPH  also  delegates  the 
+provision of primary health services to the community through BPHS (Basic Package of Health Services) through NGOs 
+which are not always in capacity to fill in gaps in ‘white areas’ where health services are missing. As per its MoU with 
+the MoPH, ARCS is one or the rare organizations able to operate in white zones and hard-to reach areas across the 
+whole country, through a  pool  of trained volunteers, MHTs, fixed clinics and  one district hospital  at the capital level. 
+ARCS provided free health services to vulnerable people who cannot afford to pay for it building on the deployment of 
+MHTs covering almost the full country. 
+ 
+
+Critical needs in health 
+
+• 
+
+• 
+
+• 
+
+• 
+• 
+
+Critical stocks of PPEs, such as masks and gowns, to equip first responders as the number of confirmed cases of COVID-
+19 in Afghanistan rises. 
+Medicines and medical equipment for isolation centers (including ARCS hospital in Kabul), transit facilities and health 
+mobile capacities (including ARCS two ambulances). 
+Training materials for ARCS health responder (clinics, MHTs and volunteers) for using PPEs, infection and prevention 
+control, identification of presumptive cases and referral to the dedicated hospitals in the country. 
+Non-medical equipment to support detection efforts (rub halls, etc.)  
+Awareness  raising  and  prevention  materials  including  speakers,  IECs,  etc.  for  community  engagement  and  risk 
+communication. 
+
+ 
+Food and livelihoods support: During COVID-19 pandemic is not a threat that stands separate from the sectors i.e. 
+health, WASH, family wellbeing, means of income and their livelihoods. This pandemic may have severe impact on each 
+pillar  of  food  security,  that  need  to  be  examined  the  protection  of  food  security  which  must  be  integrated  into  other 
+sectors  in  the  COVID1-19  emergency  operation.  In  the  context  of  the  COVID-19  outbreak,  country  may  suffer  from 
+various  market  disruptions,  producers,  suppliers  and  financial  service  providers,  and  retailers  can  be  affected  by 
+movement restrictions and fluctuations in the availability and prices of various goods, while concerns by the general 
+public  may  cause  a  spike  in  demand  for  basic  items  –  stockpiling.  This  is  particularly  likely  to  occur  following  the 
+confirmation of new imported cases and/or human-to-human transmission in the country. If the situation worsens, there 
+might be broader impacts on livelihoods due to border closures, restrictions of movement and economic slowdown. As 
+a consequence, both markets and the food security of the most vulnerable populations should be monitored. Market 
+indicators should be closely monitored to anticipate disruptions and contingency plans should be developed for the most 
+likely scenarios (e.g. market assessments, assessment of key supply chains, alternative strategies for procurement and 
+logistics  of  food  and  non-food  items  for  ARCS.  A  wide  range  of  actions  can  support  and  protect  food  security  in  a 
+pandemic. COVID-19 response depends on early planning, that is why preparedness is so important. After considering 
+the serious impact of outbreak, the NS leadership determined that food assistance is a suitable option for the operation.  
+ 
+Cash assistance: Those financially poor populations who are either affected and quarantined or who have lost their 
+income due to the COVID-19 will also be required immediate financial supports to cope with the situation.  
+ 
+
+Critical needs in livelihood support 
+
+• 
+
+As part of the broader COVID-19 response, and considering the fact that this pandemic is having radical negative impact 
+on the livelihoods and financial resilience of the poor and most vulnerable population, critical needs include 
+
+o  Food assistance (food baskets) to poor, in urban and rural areas, including quarantined households,  
+o  Multi-purpose cash assistance to the poor households that are either quarantined or have lost their incomes 
+
+due to the COVID-19 
+
+ 
+Targeting 
+ 
+Health interventions will be carried out through ARCS 46 basic health centres, 63 Mobile Health teams and 10 Health 
+Sub-Centres. The main targeting populations will be the health facilities catchment area population which have already 
+set up per health facility. If we consider the average population of each health facility, 4,000 people will be covered per 
+each which indicates a total of 400,000 population while such a figure will be a higher for the central hospital that maybe 
+
+ 
+
+ 
+within 60,000-120,000 total population. Fixed clinics are functional in 34 provinces including the capital. They have own 
+catchment population which has been already coded by the Ministry of Public Health GIS system. It's worth mentionable 
+at the moment; ARCS will focus mainly on the provinces that are most vulnerable and prone to COVID-19 outbreak and 
+bordering  neighbouring  countries  such  as  Iran  and  Pakistan.  According  to  statistic  report  from  the  World  Health 
+Organization,  the  highest  attention  will  be  on  provinces  such  as:  Kabul,  Herat,  Farah,  Nimroz,  Kandahar,  Helmand, 
+Balkh, Samangan and other provinces where suspected cases are recorded. 
+ 
+
+Targets for revised Domestic Response Plan 
+ 
+Areas 
+
+Male 
+
+ 
+
+Female 
+
+Total 
+
+P a g e  | 10 
+
+Health Services 
+
+Total MHTs &Clinics 
+
+Community & Volunteers 
+
+Total CBHFA & WASH 
+
+Livelihoods support 
+
+MHTs 
+
+Clinics 
+
+CBHFA 
+
+WASH 
+
+Food 
+
+Cash 
+
+ 
+
+Target group  
+
+General population 
+
+Women and children 
+
+IDPS and returning 
+migrants/refugees in camp 
+settings 
+Quarantined Individuals / 
+Households 
+
+Households that have lost their 
+incomes due to COVID-19 
+
+288,750 
+
+284,625 
+
+573,375 
+
+550,000 
+
+104,500 
+
+654,500 
+
+- 
+
+- 
+
+236,250 
+
+232,875 
+
+469,125 
+
+450,000 
+
+85,500 
+
+535,500 
+
+- 
+
+- 
+
+525,000 
+
+517,500 
+
+1,042,500 
+
+1,000,000 
+
+190,000 
+
+1,190,000 
+
+350,000 (50,000 households) 
+
+154,000 (22,000 households) 
+
+Grand Total 
+
+1,227,875 
+
+1,004,625 
+
+2,687,500 
+
+Rationale  
+In routine basis ARCS clinics have to provide primary health care services to the targeted 
+population while in the emergency situation the loading of work and services will be high and 
+require  more  specific  intervention in  accordance  with  the  need  for  outbreak  management. 
+Ensure  frontline  medical  personnel  are gender-balanced  and  health facilities  are culturally 
+and gender sensitive. 
+In the remote areas of the country, access and insecurity are the main challenges against the 
+health service quality and equity. Meanwhile, Cultural factors may restrict women’s access to 
+information on outbreaks and availability of health services: gender roles may dictate women 
+cannot  obtain  health  services  independently  or  from  male  service  providers  -  even  in  an 
+emergency.  So,  it  will  be  considered  to  provide  house  to  house  care  in  these  kinds  of 
+communities. 
+Established  camp  settlements  for  IDPs  and  returning  migrants/refugees  in  Herat  and 
+Nangarhar  province  will  be 
+returning 
+migrants/refugees in Nimroz and Herat as well as other at-risk provinces. 
+The  financially  poor  quarantined  households,  in  addition  to  health  care  supports,  will  also 
+require immediate food and livelihoods supports as a result of having no more incomes. 
+The poor and economically vulnerable households – that are not quarantined but have lost 
+their incomes due to the greater result of COVID-19 – must also receive immediate relief and 
+humanitarian supports, so that they should cope with the situation as well as the risk of greater 
+humanitarian disasters be reduced. 
+
+targeted,  alongside  new  settlements 
+
+for 
+
+ 
+In support to ARCS case management activities (COVID-19 hospital/isolation Center in Kabul), target group will also 
+include people infected and hospitalized (50 beds). 
+ 
+Scenario planning  
+ 
+
+Scenario 
+
+A small number of imported and isolated cases, managed effectively by the health system. 
+
+Long-term spread of  the  virus,  with outbreaks  in  certain  parts  of  the  community, putting stress  on the health 
+system. 
+
+Medium 
+
+Rapid spread of the virus, leading to breakdown of the health system and other essential services. 
+
+High 
+
+ 
+Currently  Afghanistan  is  in  “Long-term  spread  of  the  virus,  with  outbreaks  in  certain  parts  of  the  community,  putting 
+stress on the health system.” scenario:  
+ 
+MHTs  and  fixed  clinics  are  now  facing  the  cases  almost  everywhere  and  doing  case  identification  and  referrals  to 
+dedicated governmental hospitals. At the same time in continuation of health promotion, risk communication for COVID-
+19 is part of awareness raising activities through health facilities.  
+
+Humanitarian 
+impact 
+
+Low 
+
+ 
+ 
+
+ 
+
+P a g e  | 11 
+
+ 
+The  necessary  scaling-up  of  the  response  under  this  Domestic  Response  Plan  is  based  on  MoPH  projection  for  a 
+moderate-transmission scenario that foresees: Total cases 190,549; the peak [estimated at] 31,446 cases detected 
+in one week; total fatality with a 3 per cent of Case Fatality Rate, will be 5,716 persons, and 38,205 persons will need 
+hospitalization;  during the  peak two weeks 6,291 cases will need hospitalization at the same time  from which 1,574 
+cases (5 per cent of total cases) will be in critical phase – need ventilators. It is also taking into account the humanitarian 
+impact of the pandemic and the longer term needs to be addressed. 
+ 
+However, in case of worst-case scenario (high transmission, see above), which would have consequences of disastrous 
+proportions in a fragile context like Afghanistan, this plan would need to be reviewed and expanded. 
+ 
+Operational Risk Assessment  
+ 
+
+Risk area  
+Staff and volunteer health: risk 
+of contracting COVID-19 
+through clinical or community-
+based activities 
+ 
+
+-  Low 
+
+technical  and 
+
+Services disrupted due to 
+restrictions to movement or 
+illness of personnel 
+ 
+Negative media coverage 
+related to handling of the 
+response operation 
+HR 
+operational capacity of staff. 
+Coordination and 
+Communication - Delays in 
+implementation of planned 
+activities with delay processing 
+of documents required from 
+other departments. 
+  
+Weak  field  level  coordination 
+with  humanitarian  agencies; 
+to  health 
+less  participation 
+and 
+coordination 
+cluster 
+meetings by RHOs. 
+Logistics - Weak logistical and 
+control system. 
+ 
+Delayed the implementation of 
+the  planned  activities  due  to 
+delayed procurement approval. 
+ 
+Non-compliance 
+procurement 
+requirements. 
+Security  -  Worsened  conflict 
+situation. 
+ 
+Risks and threats for staff and 
+volunteers. 
+ 
+Abduction 
+interrogation. 
+ 
+Volatile security situation can 
+compromise community 
+access without notice resulting 
+in cancellation or 
+postponement of planned 
+activities. 
+External  -  Closure  of  main 
+roads for logistical supply. 
+
+to 
+logistics 
+
+staff 
+
+and 
+
+for 
+
+of 
+
+ 
+ 
+
+Controls  
+•  Information and training for staff and volunteers 
+•  PPE for all frontline staff and volunteers in high-risk affected areas 
+•  Enhanced efforts to localize the supply chain to the maximum in liaison with regional logistics 
+
+and Movement partners 
+ 
+
+•  Minimize non-essential travel 
+•  Business Continuity Plan including tasks for finance, admin, IT, HR 
+•  Set up flexible working arrangements  
+•  Identify  essential  and  non-essential  services  that  could  be prioritized  during  period  of 
+
+hibernation or withdrawal 
+
+•  Proactive communication with media and stakeholders 
+•  Community Engagement and Accountability (CEA) 
+•  Thorough needs analysis, planning, prioritization and reporting 
+•  Staff development training is supported to expand its trained human resources base. 
+
+ 
+
+•  Set up regular ARCS IFRC health management meetings at HQ level. 
+•  ARCS  Internal  communication  and  coordinated  mechanism  in  place  between  program 
+
+departments and different level. 
+
+•  Continued activation of the Movement Emergency Support Group on a daily basis. 
+•  Regular Movement Coordination meeting at HQ, regional and branch level. 
+•  Continued participation to national and local level UN clusters and working groups. 
+
+•  Monitor and supervise implementation of procurement procedures at regional level. 
+•  Orientation  of  ARCS  Health  program  staff  on  ARCS  and  IFRC  procurement/logistic 
+
+framework, guidelines and requirements for compliance. 
+
+•  ARCS coordinate with district authorities and community Shuras where ARCS programs will 
+
+be implemented for recognition and protection of staff and volunteers in the areas. 
+
+•  Safe  access  and  security  awareness  sessions  provided  to  ARCS  staff  and  volunteers  in 
+
+coordination with ICRC based on Movement Security Framework. 
+
+•  IFRC  coordinates  with  ARCS  and  ICRC  on  a  daily  basis  in  monitoring  of  security  factors 
+
+across the country 
+
+•  Orientation of ARCS Health staff on stay safe training 
+•  Support to establish ARCS security framework and training of ARCS Security focal point  
+•  IFRC  coordinates  with  ARCS  and  ICRC  on  a  daily  basis  in  monitoring  of  security  factors 
+
+across the country. 
+
+•  Having regular phone contacts with field officers. 
+
+•  Plan for earlier delivery/prepositioning of commodities to the regions and provincial branches.  
+•  Disasters  may  temporarily  interrupt  project  schedules  but  will  be  used  as  opportunities  to 
+
+ 
+
+P a g e  | 12 
+
+ 
+
+ 
+
+ 
+ 
+
+Risk area  
+ 
+Delay/suspension  of  project 
+activities. 
+
+Controls  
+
+enhance  the  experience  of  ARCS  in  the  application  of  response  skills  in  assessment, 
+coordination and integrated programming opportunities in emergencies with the DM, health, 
+OD, Gender, PMER and other related departments. 
+
+•  Re-prioritization of activities as needed. 
+
+ 
+The planned coverage areas are large and security situation need to be carefully monitored. This will be factored into 
+the detailed planning and budgeting for the operation and will include security and safety considerations, especially for 
+frontline responders (staff and volunteers) to be provided with protective equipment and additional trainings in liaison 
+with MoPH. 
+ 
+ 
+B. Operational strategy 
+ 
+The overall operational objective is to contribute to reducing morbidity, mortality as well as the humanitarian 
+impact of the pandemic, in urban and rural areas, by preventing or slowing transmission and helping affected 
+communities to access basic social services enabling them to cope with the situation in a dignified way.  
+ 
+The  ARCS  deliver  humanitarian  services  across  Afghanistan  through  its  branch  network  including  the  provision  of 
+community  and  primary health care services through  CBHFA volunteers, Mobile Health  teams, Health  Sub Centres, 
+Basic Health Centres, Comprehensive Health clinics and a district Hospital. The ARCS is uniquely placed to provide 
+essential  services  in  hard  to  reach  areas  where  ongoing  hostilities  have  resulted  in  increased  vulnerabilities  of 
+communities living in these areas. The operational strategy under IFRC emergency appeal focuses on ARCS health 
+facilities and livelihood support to affected households and communities. Across the response continuum, priority will 
+be given to staff and volunteers’ duty of care and protection, gender and inclusion at large.  
+ 
+Strengthening ARCS coordination with public health authorities and other stakeholders in emergency health will facilitate 
+building  synergies  while  avoiding  duplication  of  efforts  resulting  in  an  effective  national  and  sub-national  response 
+capacity.  
+ 
+Protection concerns are exacerbated by pre-existing conflicts. Considering this volatile security environment, it is vital 
+that  ARCS  take  preventative  measures  in  its  awareness  raising  and  mobilization  of  communities.  These  include 
+implementing  IFRC  Minimum  Standard  Commitments  on  Protection,  Gender  and  Inclusion  during  Emergencies. 
+Specifically, these minimum standards should be  utilized during assessments of the ARCS response. The  response 
+should  include  a  gender  and  diversity  analysis  in  all  actions  and  adapt  activities  as  required  to  ensure  to  ensure 
+protection and inclusion for all. 
+ 
+Proposed strategy 
+ 
+The proposed strategy for this Domestic Response Plan will seek to reduce the vulnerability of 2,687,500 people. The 
+operational strategy is articulated around four pillars: 
+ 
+
+1.  Duty of care for 1,000 staff and 4,000 volunteers during the emergency response 
+
+COVID 19 transmission is expected to significantly increase over the coming weeks exposing the frontline health 
+care workers and volunteers to high risk of infection and heavy workloads. Priority will be given to the safety 
+and  protection  the  frontline  workers  (staff  and  volunteers  involved  in  the  response)  who  are  critical  in  the 
+containment of the pandemic.  
+
+•  Provision of Personnel Protective Equipment (PPEs) for frontline staff in ARCS health facilities, including 
+in the district hospital in Kabul to be turned into a COVID-19 isolation centre (around 1,000 staff) as well 
+as volunteers engaged in community engagement and risk communication (4,000 volunteers). This is a 
+condition for ARCS teams to operate within minimum safety conditions. 
+
+•  The provision of 220,000 hygienic items – sanitizers, hand washing soap, disinfectant, etc. 
+•  Health risk allowance for staff involved in the response (clinics, MHTs, immunization teams, hospital). 
+• 
+
+Insurance for 4,000 volunteers. 
+
+2.  Health in emergencies 
+
+IFRC  Domestic  Response  Plan  for  Afghanistan  will  support  ARCS  health  emergency  plan  that  has  been 
+approved  by  Afghan  MoPH.  Coordinated  technical  support  with  RCRC  movement  partners    -  including  with 
+{Norwegian  Red  Cross  (emergency  health),  Canadian  Red  Cross  (Mobile  Health  teams)  and  ICRC  (case 
+management) -  will harness the technical support capacity that can be mobilized in the country in implementing 
+the Domestic Response Plan. 
+
+ 
+
+P a g e  | 13 
+
+•  Support  to  establishing  ARCS  district  hospital  as  COVID-19  isolation  centre  (50  beds)  in  Kabul  in  the 
+
+• 
+
+current District Hospital. 
+Infection, prevention and control (IPC) in health facilities and communities, including in white zones and 
+hard-to-reach areas. 
+
+•  Surveillance and detection: Early case finding through screening, referral, contact tracing (when possible) 
+
+and community surveillance, including establishment of rub hall screening centres. 
+
+•  Community engagement, risk communication and hygiene promotion. 
+•  Psychosocial support including supporting the frontline health workers and volunteers to build resilience 
+and cope with the stresses of responding to the pandemic in frontlines where some of the health workers 
+are casualties of the pandemic. Build the capacity of the Frontline workers on Psychosocial support for 
+patients and clients who find it challenging to cope with the emotions and realities of the pandemic. 
+
+3.  Emergency food security assistance 
+
+ARCS  will  be  supported  in  providing  emergency  food  security  assistance  to  the  poor  and  most  vulnerable 
+households (including displacement affected people) that are / will directly be affected by COVID-19 outbreak. 
+The planned activities under this component will be operationalized as per the following operational strategy 
+and procedures. 
+
+•  The poor and most vulnerable households in quarantine, households with a member(s) under treatment, 
+
+or households who have lost their main income sources will be prioritized. 
+
+•  The poor and most vulnerable households (around 22,000) that are still having access to local markets 
+
+will be provided with unconditional cash assistance to address their food needs. 
+
+ 
+The poor and most vulnerable households that are in quarantine and cannot leave their residences to purchase 
+food will be included: 
+
+•  Food  packages  or  multipurpose  cash  assistance  to  be  provided  with  in-kind  to  most  impoverished 
+
+communities, including in urban informal settlements and IDP and returnee sites,  
+
+•  Food packages or multipurpose cash assistance (raw or cooked food baskets). 
+•  The displacement affected households (IDPs or returnees) and households with handicapped member(s) 
+
+in need of emergency food assistance will be amongst prioritized beneficiaries under this component. 
+
+•  All the target households, under this component, will be eligible to receive complete food baskets for one 
+
+month. 
+
+ 
+
+4.  Capacities and systems strengthening 
+
+The operational response will go together with efforts to enhance ARCS capacities and systems in a sustainable 
+manner. Activities will aim at strengthening the organization effectiveness and readiness to respond in priority 
+areas (health and livelihoods support) as well as existing systems. Under this priority will be included: 
+
+•  Youth and volunteer engagement and management. 
+•  Data readiness and ARCS Information management in liaison with HMIS. 
+•  Support to ARCS logistical capacities (purchasing of 2 trucks and strengthened warehousing capacity). 
+•  Protection, gender and inclusion. 
+•  Support to ARCS Business continuity. 
+•  ARCS operational frameworks and procedures for preparedness and response to pandemics. 
+
+  
+While it is anticipated that some ongoing ARCS supported programmes will be postponed or delayed, this operational 
+strategy will also aim to  integrate COVID-19 response components in relevant  ongoing programmes and  operations 
+while keeping aa response capacity in case of other emergencies. This will require to repurpose, partially or integrally, 
+some activities in liaison and agreement with funding partners.  
+ 
+They include but are not limited to: 
+
+• 
+
+Immunization programme and health teams in hard-to-reach areas and associated mobile immunization and 
+health teams (31). 
+
+•  Community-based health programme, which includes the mobilization of community health volunteers. 
+•  Women empowerment programme, including through the involvement of ARCS Marastoons (social welfare 
+centres hosting widows and under-privileged women) in the effort of producing locally protective equipment as 
+income-generating activities. 
+
+•  Youth-led health projects. 
+•  Health and Cash remaining activities under IFRC emergency appeal on drought and floods. 
+•  Response readiness to other emergencies, especially natural disasters. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+P a g e  | 14 
+
+ 
+Proposed interventions 
+ 
+Overall, this operation seeks to assist the following within each sector:  
+
+ 
+
+• 
+
+•  Procurement  and  distribution  of  critical  items  which  include  Personal  Protective  Equipment  (PPE)  kits, 
+medicines, medical equipment, WASH-related items, food supplies and household items (rub halls, blankets, 
+etc.). These procurements will prioritize PPEs for frontline responders as well as operationalization of the ARCS 
+Isolation Centre for case management. Although the market in Afghanistan make the provision of these items 
+heavily dependent on external support and international procurements, all efforts will be made to source and 
+procure  local  items  in  line  with  acceptable  quality  standards  in  compliance  to  the  laid  down  procurement 
+procedures and guidelines. 
+
+Infection,  prevention  and  control  (IPC)  and  triage:  IPC  is  crucial  in  containing  the  spread  of  COVID-19. 
+Robust  IPC  measures  and  practices  through  development  and  operationalization  of  Standard  operating 
+procedures in all the ARCS health facilities. IPC aims to stop the spread of infectious diseases to other patients 
+as well as health care workers by rapid isolation of suspected cases; creation of isolation areas that  ensure 
+correct  patient  flow  and  keep  suspect  patient  away  from  others  seeking  usual  care;  and  availability  of 
+appropriate facilities and materials for hand washing, waste management, cleaning and disinfection as well as 
+PPE  for  health  workers.  It  is  also  important  that  facilities  have  trained  staff  in  triage  and  early  detection  of 
+suspected Coronavirus cases. ARCS will extend the support through existing health facilities countrywide for 
+improving IPC measures and the training of health personnel in the target provinces. These activities will be 
+implemented through ARCS MHTs and existing health structures focusing on IPC/triage at the facility level. With 
+active  support  from  Movement  partners,  IPC  needs  will  be  assessed  and  met,  taking  into  consideration  the 
+Movement capacities, geographical evolution of the pandemic as well as access constraints. With the support 
+of ICRC and MoPH health staff will be trained on IPC as part of critical preventive measures in all health facilities. 
+This  will  protect  health  staff  and  prevent  from  spreading  of  infection  to  the  clients  and  through  them  to  the 
+community members.  
+
+•  Surveillance and detection: Health staff and volunteers will be equipped with personal protective equipment 
+and trained on case identification (line listing), diagnosis and management where appropriate, in coordination 
+with MoPH. In ARCS health facilities, this will include screening, referral system and possible contact tracing. 
+ARCS community volunteers (100 per province) will reinforce, the surveillance programme in target provinces. 
+Joint  surveillance  trainings  would  be  supplemented  by  Red  Crescent-specific  training,  i.e.  community 
+engagement and epidemic control for volunteers (ECV) for those who do not already have this training.  
+ 
+
+•  Risk communication and community engagement (RCCE): Community engagement will be mainstreamed 
+of pandemic preparedness and response and will be integrated across all aspects of the operations in affected 
+provinces  across  the  country.  Trusted,  clear  and  effective  communication  and  engagement  approaches  are 
+critical to ensure that fear, panic, and rumours do not undermine the response efforts and lead to COVID-19 
+spreading even more quickly. Effective community engagement will also support the operation to gain an insight 
+into the perceptions and behaviours of different groups, and to develop effective and targeted messaging. ARCS 
+will  adopt  diversified  approaches  to  implement  the  operation  activities  in  targeted  areas,  including  adapting 
+sensitization tools to local realities and needs, using key informants to reach people and influence their ways 
+and practices. These approaches put communities at the centre of all actions through community leaders, men, 
+women and youth groups. IFRC will ensure national RCCE plans are informed by gender analysis and sex, age, 
+pregnancy status, and disability disaggregated data where available.  
+
+•  Mental Health and psychosocial support: COVID-19 pandemic needs are identified in various populations 
+facing  the  outbreak.  SGBV  prevalence  has  complicated  the  emergency  response  in  Afghanistan  where  the 
+coping mechanisms of most individuals deficient and stressful. Frontline health workers and volunteers who are 
+supporting  the  response  encounter  challenging  problems  daily  and  would  need  PSS  in  order  to  continue  to 
+function optimally. In addition, SGBV increases in contexts of emergencies, with additional strain being put on 
+already weak health structures in the country, a training component on responding to the mental health and 
+psychosocial needs of SGBV survivors will also be integrated into the PSS pillar of the response. Alongside the 
+training  of  volunteers,  the  coordination  with  other  actors  able  to  provide  services  for  survivors  will  be 
+strengthened  to  ensure  the  availability  of  referral  pathways.  Volunteers  working  in  COVID-19  response  and 
+especially  in  high  risk  activities  are  under  extreme  stress  and  carry  out  some  of  the  most  dangerous  tasks 
+related to the outbreak. MHPSS services should be made available to them as well, including,  workshops and 
+actual practice of roster and work shifts to assist volunteers and staff on stress management and peer support, 
+and setting up support systems to help them deal with their situation without engaging in risk taking behaviour. 
+A team of trainers in psychosocial support will be set up within ARCS and will be able to carry out awareness 
+activities and trainings for both the staff and volunteers involved in pandemic response. Referral mechanisms 
+should be made available in handling various mental health clinical conditions due to pre-existing and outbreak-
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+P a g e  | 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+related disorders.  
+
+•  Maintenance (continuance) of and access to health care services: While focusing on the response to the 
+pandemics, ARCS will also aim at ensuring continuity in the delivery of primary health services in the catchment 
+areas of its 138 health facilities.  
+
+•  Hygiene  promotion:  Hygiene  promotion  begins  by 
+
+through  appropriate 
+communication  channels  and  then  focusing  on  the  most  effective  interventions,  including  handwashing  with 
+soap, excreta disposal, household water treatment and safe storage. Messages will aim to address local health 
+risks  and  behaviour  change  in  most  at-risk  communities.  In  this  operation  ARCS  will  support  communities 
+through its trained volunteers to communicate and disseminate the information to households on WASH issues. 
+
+identifying  key  messages 
+
+•  Food assistance: The proper functioning of market chains and flow of agricultural products are key elements 
+for food and nutrition security. The deadly COVID-19 outbreak knock-on and may have huge effects – loss of 
+lives, stifled growth rates, reverse socio-economic  gains, aggravate poverty and  food insecurity  and destroy 
+livelihoods and particularly affecting women and children. Beyond physical effects of the pandemic, people will 
+suffer reversals in economic empowerment, because of reduction of the economic activities related to COVID-
+19 control measures that restrict the movement of people and goods. In their role as economic providers for 
+their families, people will experience sharper negative economic impacts. If the situation worsens, there might 
+be broader impacts on livelihoods due to border closures, restrictions of movement and economic slowdown. 
+Consequently,  both  markets  and  the  food  security  of  the  most  vulnerable  populations  should  be  monitored. 
+Under  specific  circumstances  during  COVID-19  outbreak,  ARCS  will  provide  food  assistance  to  households 
+affected by movement restrictions and loss of their livelihoods. Food assistance brings a clear contribution to 
+the  disease  containment  efforts  and/or  food  security  outcomes.  ARCS  will  ensure  to  access  equally  and  to 
+impartial assistance according to need and without discrimination. This includes identifying people in need of 
+food  assistance  if  they  are  marginalized  or  fear  marginalization  due  to  the  virus  and  preserving  sensitive 
+information on affected persons or communities. 
+
+•  Cash and Voucher Assistance to support affected people needs and livelihoods: ARCS will be supported 
+in  providing  emergency  food  assistance  to  the  poor  and  most  vulnerable  households  that  are  affected  by 
+COVID-19. This will include households in quarantine, households with a member under treatment, and poor 
+households that lost their main income source due to movement restrictions. Depending on the local context 
+and accessibility of target households to markets, the type of food assistance will either be unconditional cash 
+assistance  (cash  for  food),  or  in-kind  assistance  (raw  or  cooked  food  baskets).  As  of  development  of  this 
+Domestic Response  Plan,  ARCS intend to provide unconditional cash  assistance to 22,000  households and 
+food baskets to additional 50,000 households across all 34 provinces of Afghanistan. The distribution of targets 
+to  provinces  will  be  finalized  at  the  start-up  phase  of  the  implementation.  All  the  households,  within  this 
+component, will be eligible to receive complete food basket for one month. 
+ 
+
+•  Protection, gender and inclusion: The operation will apply an integrated approach and the IFRC Minimum 
+Standard  to  Protection,  Gender  and  Inclusion  in  Emergency  Programming  will  be  mainstreamed  in  sector 
+specific interventions.  Briefings will be held on IFRC/ARCS commitments through the Code of Conduct and 
+Child protection Policy, as well as obligations of volunteers, staff and management to ensure a zero tolerance 
+to  sexual  exploitation  and  abuse  (PSEA).  Community  based  protection  approaches  will  be  designed  by 
+communities  and  this  will  be  enhanced  during  the  operation  to  ensure  social  inclusion  and  community 
+cohesiveness, as well as to mitigate tensions. Based on the community structures in the villages, a need  to 
+focus on women’s participation and decision making in the community is essential, promoting grandmothers as 
+active agents in all activities including longer term social inclusion initiatives. Outreach teams and mobile health 
+teams  will  be  equipped  with  referral  information  and  will  have  received  training  on  Protection,  gender  and 
+inclusion to be able to support with house to house visits when difficulties in access may be increased. 
+
+ 
+Operational support services 
+ 
+Human resources 
+As part of the implementation of this Domestic Response Plan, Movement partners and ARCS will mobilize the following 
+resources:  
+ 
+In-country resources 
+
+• 
+
+IFRC  country  team  covering  operation  management,  health,  Cash  and  livelihoods,  coordination,  security, 
+National Society development (including youth and volunteers), logistics, human resources and finance. The 
+IFRC  Head  of  Country  Office  will  be  ultimately  accountable  for  timely  implementation,  compliance,  financial 
+management and reporting of the operation. 
+
+ 
+
+P a g e  | 16 
+
+•  Norwegian Red Cross country team (co-lead on emergency health operation) covering support to fixed clinics 
+
+and MHTs, risk communication and procurement of essential and medical items. 
+
+•  Canadian Red Cross country team will lead on technical support for MHTs 
+•  Qatar Red Crescent team (clinics) and Turkish Red Crescent (hygiene and livelihoods) 
+• 
+
+ICRC will integrate COVID 19 in its operations (health and detention) with technical support capacities for case 
+management, forensic and ARCS business continuity. 
+
+ 
+Surge support 
+Due to the closure of airports and access to and from Kabul, surge capacities will be sourced locally, at least during the 
+first phase of the response, and will include: 
+
+•  An  operations  support  coordinator,  responsible  for  coordinating  the  emergency  response  with  a  focus  on 
+
+monitoring, evaluation and reporting functions, in support to ARCS and in compliance with IFRC procedures.  
+
+•  Health officer to support ARCS health-related activities with a focus on health communication. 
+•  PGI officer to ensure the mainstreaming of protection and gender related activities and monitoring. 
+•  A PMER senior officer. 
+•  A livelihoods senior officer. 
+•  Communication coordinator to support awareness raising activities, facilitate content generation and produce 
+
+regular information materials for partners and media. 
+
+•  Disaster risk  management  coordinator  to support ARCS  emergency readiness  and systems and prepare for 
+
+disaster response.  
+
+ 
+ARCS 
+
+ 
+
+•  At the provincial level, the National Society will hire a project staff designated for the implementation of ARCS 
+emergency  plan.  Besides  health,  livelihoods  &  cash,  and  youth  &  volunteer  focal  points,  administration  and 
+finance persons will also be appointed.  
+
+•  At the level of the implementation areas, the National Society will commit DRUs/NDRTs for operation and for 
+
+the supervision of volunteers.  
+
+Logistics and supply chain management 
+Logistics activities aim to effectively manage the supply chain, including mobilization, procurement, customs clearance, 
+fleet, storage and transport to distribution sites in accordance with the operation’s requirements and aligned to IFRC’s 
+logistics standards, processes and procedures.  
+ 
+Personal protective equipment (PPE) kit are needed for this operation. Except medicine and water filter, most of the 
+relief items will be replenished subject to funding availability. PPE kits will be sourced internationally through Operational 
+Logistics,  Procurement  &  Supply  Chain  Management  Unit,  Asia  Pacific  (OLPSCM).  IFRC  CO  will  source  out  some 
+items/equipment  based  on  the  availability  in  Afghanistan  in  accordance  with  IFRC  procurement  procedures  and 
+processes. 
+ 
+One  surge  specialized  in  logistics  will  be  deployed  to  Kabul  in  review  the  logistics  and  procurement  processes  and 
+introduce  improvements,  coach  and  train  IFRC  logistics  officer,  and,  coordinate  logistics  of  the  Emergency  Appeal 
+operation.  
+ 
+Communication strategy  
+ARCS and IFRC will collaborate to implement a two-fold communication approach: 
+
+•  Support awareness raising and risk communication strategy through the provision of communication materials, 
+messages  and  recommendations  on  appropriate  communication  channels  to  ensure  wide  outreach  on 
+prevention activities. 
+
+•  Movement  and  external  communication,  in  liaison  with  and  support  to  ARCS  communication  team,  through 
+context analysis, content generation, media/social media materials and outreach, potential field visits as well as 
+weekly  updates  and  information  materials  on  the  emergency  response  targeting  partners  and  external 
+stakeholders.  
+
+ 
+Security  
+Generally, the security situation in the country remains unpredictable and volatile, and in some areas the security risks 
+are  extreme.  The  overall  response  in  COVID-19  outbreak  may  affect  the  activities  and  communities  due  to  access 
+restriction  or  security  concerns.  Civilians  living  in  the  provinces  of  Nangarhar,  Kabul,  Helmand,  Ghazni,  and  Faryab 
+were most impacted by the conflict. The increase in the number of civilian casualties from suicide and complex attacks 
+by anti-government elements, more than half of which are attributed to a non-state armed group, continued to offset 
+decreases  in  civilian  casualties  from  other  incidents.  The  majority  resulted  from  suicide  and  complex  attacks,  which 
+increased both in frequency and in lethality to civilians, driving the overall rise in civilian deaths. Ground engagements 
+
+ 
+
+ 
+
+ 
+ 
+
+P a g e  | 17 
+
+ 
+were the second leading cause of civilian casualties, followed by targeted and deliberate killings, aerial operations, and 
+explosive remnants of war. confinement measures initially led to a decrease in traditional criminality in many places, as 
+movement restrictions and curfew made it difficult for criminals to move around. The fact that people are staying at home 
+means less victims in the street and less empty houses to break into. However, in the medium term this might lead to 
+an increase in crime of opportunity 
+ 
+The IFRC Afghanistan country office will continue to provide regular analytical updates on security to inform emergency 
+operations and facilitate anticipation and adaptability in planning and delivery.  
+ 
+Planning, monitoring, evaluation, and reporting (PMER)  
+Continuous monitoring will be carried out through the ARCS staff members in the areas of implementation to support 
+the  COVID-19  interventions  and  will  ensure  that  there  is  compliance  with  the  minimum  international  humanitarian 
+standards and IFRC Fundamental Principles, as well as beneficiary satisfaction, and the management of the available 
+resources. The IFRC Afghanistan Country Office will also carry out monitoring missions in collaboration with the ARCS 
+to support the effective implementation of the revised Emergency Appeal and Domestic Response Plan and budget will 
+be  conducted  based  on  the  results  of  the  monitoring  report.  Trained  staff  and  volunteers  will  be  mobilized  for  data 
+collection  and  basic  analysis  in  all  target  provincial  branches.  Data  collections  include  registration  of  people  to  be 
+assisted,  baseline  data  on  Cash  and  Voucher  Assistance  (CVA),  post-distribution  monitoring  (PDM)  data,  end  line 
+survey, market analysis and price monitoring data. Steps are being taken to strengthen the National Society approaches 
+to PMER.  
+ 
+Through this Domestic Response Plan, IFRC Afghanistan country office as part of PMER development efforts of the 
+National Society will extend its PMER support, the plans will be developed with PMER unit at the National Society that 
+will  be  responsible  for  implementing  a  monitoring,  evaluation  and  reporting  system.  Monitoring  and  reporting  will  be 
+done according to the agreed monitoring  framework. Whereby the  provincial branch staff  and volunteers  will submit 
+reports  to  respective  branch  focal  person  weekly  and  monthly.  The  branch  weekly  and  monthly  report  will  then  be 
+submitted to national PMER unit for consolidation. A mid-term and an (independent) end-term evaluation will be carried 
+out, mainly for impact assessment.  
+ 
+Administration and Finance 
+A Project Agreement will be signed between the IFRC Afghanistan country office and the ARCS, which will outline the 
+parties’ responsibilities to implement the activities planned within the Emergency Appeal and ensure that the appropriate 
+guidelines are complied with in terms of the use of the funding allocations. The ARCS have a permanent administrative 
+and financial department, which will ensure the proper use of financial resources in accordance with terms of the Project 
+Grant Agreement for COVID-19 Emergency Appeal. Monthly field returns will be sent to the IFRC Afghanistan county 
+office  for  verification  and  booking  to  ensure  that  the  activities  are  reported  in  accordance  with  the  IFRC  Standard 
+Financial Management procedures.  
+
+ 
+ 
+
+ 
+
+P a g e  | 18 
+
+ 
+
+ 
+ 
+
+C. Detailed Operational Plan 
+ 
+
+Livelihoods and basic needs 
+People targeted: 504,000 
+Male: 252,000 
+Female: 252,000 
+Requirements (CHF): 7,185,679 
+
+ 
+
+ 
+Needs analysis: First, in general, poverty rates in Afghanistan continue to rise as a result of continued conflict, climate change, and the added challenges created by cross 
+border arrivals on already stretched economies and systems. Based on the 2020 Humanitarian Needs Overview, in 2020, 8.21 million vulnerable people are in need of urgent 
+food and livelihoods assistance in the country. A recent nutrition survey across Afghanistan indicated that 22 out of 34 provinces are currently above the emergency level 
+threshold for acute malnutrition. 
+ 
+The ongoing COVID-19 outbreak has made the already worse situation of the country more deteriorating. The shocks and stresses of the COVID-19 pandemic is having a much 
+broader impact on the socio- economic of the vulnerable households and will not only diminished the well-being and livelihoods of people, but also undermined the markets and 
+food security on which life depends. In Afghanistan, the COVID-19 outbreak comes against the backdrop of the Spring flood season. Each year, floods affect large swathes of 
+the country as heavy snow melts and rivers swell, inundating communities. Heavy rainfall also contributes to flash flooding. The typical flood season runs from March to June 
+each year. In 2020, some 200,000 people are expected to be affected only by floods. 
+  
+The shocks of COVID-19 will also have impacts on labour markets, purchasing power and lost productivity – all of which are significant factors for Afghanistan, not least because 
+few Afghans have access to productive or sustainable remunerative employment. A quarter of the labour force is unemployed, and 80 percent of employment is ‘vulnerable’ 
+and insecure, comprising self-employment, day labour, or unpaid work. There are also growing concerns that due to price increases and future movement restrictions, farmers’ 
+and  herders’  access  to  farming  inputs  may  be  hampered,  reducing  their  ability  to  successfully  grow  summer  crops  (mostly  vegetables  and  pulses),  sell  produce  and 
+vaccinate/treat their livestock. 
+ 
+It is also important to note that Afghanistan’s economy and millions of families have grown reliant on remittances from Iran. Currency devaluations over the past year have 
+resulted in a drop in the value of such remittances but the surge in returns and COVID-19 interruptions to work opportunities in Iran will further diminish the purchasing power 
+of many communities who have been heavily reliant on remittance payments over recent years. This will have a severe impact on vulnerable families. 
+ 
+Within this broader context, and considering the direct impact of COVID-19 on food, nutrition, and livelihoods security of especially the poor and most vulnerable households 
+(households in IPC phase 3 and 4, and IDP and returnee households both in urban and rural areas), IFRC intends to support the ARCS provide food assistance and multi-
+purpose cash assistance to the households that will be quarantined, households that will be under treatments, or households that will lose their incomes due to the COVID-
+19. In addition, ARCS will also be supported in recruiting the food suppliers, so that the food suppliers should supply food directly to the homes of the households that will be 
+quarantined and that cannot access market to purchase food. 
+ 
+
+ 
+
+ 
+
+P a g e  | 19 
+
+ 
+Risk analysis: The following risks are anticipated with implementing the activities planned under the livelihoods and basic needs component of this Domestic Response 
+Plan.  
+ 
+Quarantined groups have difficulty accessing distribution site and/or local markets: the quarantined individuals and households and other vulnerable groups (persons 
+with disabilities, elderly, etc.), who face problems accessing the distribution sites or local markets will receive their cash in their locations. Furthermore, the local food vendors 
+willing to transport food items to local areas will also be contracted and used. 
+ 
+Diversion of assistance to non-eligible or non-beneficiaries: IFRC will support the ARCS in conducting verification of beneficiary lists before finalization to ensure the 
+households are eligible. Beneficiaries will be verified during cash distributions (i.e. ID check to verify they are the intended recipient) and ARCS will seek to ensure that there 
+is a context-specific identity verification process at the distribution site. The engagement of community elders and other community-based networks will reduce the risk of fake 
+beneficiary inclusion. Furthermore, IFRC will also support ARCS in establishing community-based feedback and complaint mechanism that will allow the beneficiaries and 
+non-beneficiaries share their voices / feedback / complaints with ARCS. 
+ 
+Transfer  value  is  insufficient  to  cover  food  or  other  basic  needs  due  to  market  price  fluctuations:  IFRC  will  support  ARCS  to  regularly  monitor  the  market  prices 
+especially the prices of food items. In addition, close and systematic coordination with relevant clusters such as the Food Security and Agriculture Cluster and the Cash and 
+Voucher Working Group will also enable IFRC and ARCS receive up to date market related information from these sources. In case of significant increase in food other basic 
+need market prices, IFRC and ARCS will remain flexible in changing the transfer value. 
+ 
+Population to be assisted: under this Emergency Appeal, IFRC and ARCS intend to provide emergency food assistance and multiple cash grants to the financially 
+most vulnerable households that will lose their incomes due to being quarantined or the broader impact of the COVID-19. 
+ 
+Programme standards/benchmarks: IFRC and ARCS, to implement the planned livelihoods and basic needs assistance activities under this Emergency Appeal, will 
+consider and apply the programming standards of the relevant clusters (i.e. Afghanistan Food Security Cluster and Cash and Voucher Working Group), and the Ministry of 
+Public Health of Afghanistan. 
+ 
+
+Livelihoods and basic needs Outcome 1: Communities, especially in disaster and crisis affected areas, restore 
+and strengthen their livelihoods 
+Livelihoods and basic needs Output 1.2: Basic needs assistance for livelihoods security including food is 
+provided to the most affected communities 
+Activities planned                                                                                           Month 
+Identification, registration and verification of people to be assisted  
+Procurement of food package  
+
+# of people will have enough food, cash or 
+income to meet their survival threshold 
+(Target: 455,000) 
+
+# of households reached with food assistance 
+(Target: 50,000) 
+
+1 
+x 
+x 
+
+ 
+
+2 
+x 
+x 
+
+x 
+
+x 
+
+3 
+x 
+x 
+
+x 
+
+x 
+
+4 
+x 
+x 
+
+x 
+
+x 
+
+5 
+x 
+x 
+
+x 
+
+x 
+
+6 
+x 
+ 
+
+x 
+
+x 
+
+7 
+x 
+ 
+
+x 
+
+x 
+
+Distribution of food packages to 50,000 households 
+
+Post distribution monitoring, including regular measurement of Food Security 
+indicators and reporting  
+Livelihoods and basic needs Output 1.5: Households are provided with unconditional/ 
+multipurpose cash grants to address their basic needs 
+Activities planned                                                                                           Month 
+
+1 
+
+ 
+
+8 
+x 
+ 
+
+ 
+
+x 
+
+8 
+
+9 
+ 
+
+ 
+
+ 
+
+x 
+
+9 
+
+# of households reached with multipurpose cash grants to meet livelihoods and 
+basic needs. (Target: 15,000 HHs) 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+ 
+
+ 
+
+P&B 
+
+Output 
+Code 
+
+AP008 
+AP008 
+
+AP008 
+
+AP008 
+
+P&B 
+
+Output 
+Code 
+
+ 
+ 
+
+AP081 
+
+AP081 
+
+AP081 
+
+AP081 
+
+Modification and extension of Memorandum of Understanding (MoU) with 
+previously selected financial service provider (FSP) 
+Beneficiary selection and verification, including targeting and registration 
+committees formed from the target communities 
+Distribution of unconditional cash assistance to 22,000 households those who 
+lose their income due to the COVID-19 
+Recruitment of food supplier and distribution of complete food baskets to the 
+affected households that are quarantined and that cannot access to market to 
+purchase foods 
+
+AP081  Conduct post distribution monitoring 
+
+AP081 
+
+Monitoring and evaluation activities to document response achievements, 
+lessons learned, and the best practices.  
+
+ 
+
+x 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+ 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+P a g e  | 20 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+P a g e  | 21 
+
+ 
+
+ 
+ 
+
+Health 
+People targeted: 2,042,500 
+Male: 1,035,547 
+Female: 1,006,953 
+Requirements (CHF): 4,500,001 
+
+ 
+
+ 
+Needs analysis: The overall operational objective is to contribute to reduce the morbidity and mortality of COVID-19 outbreak by preventing or slowing transmission of the 
+virus across Afghanistan’s 34 provinces. Adjusted to a moderate-transmission scenario (40,000 confirmed cases), response strategies must however be adaptable to a changing 
+epidemiology. Given the different challenges faced in urban and non-urban settings including access and security, the response must be continuously adapted to fit the evolution 
+of the outbreak and of the new areas affected including increasing the use of mobile health teams, decentralizing and localizing response activities and use of rapid response 
+teams while taking into account the psychosocial dimension on vulnerable communities.  
+ 
+In support of ARCS priorities and commitments under the MoPH, IFRC Domestic Response Plan will focus its efforts on equipping and supporting ARCS health facilities and 
+outreach in communities with a focus on: 
+
+•  Procuring and providing protective equipment for staff and volunteers as absolute priority.  
+•  Supporting the supply chain to operationalize ARCS hospital/isolation capacities for case management. 
+•  Providing medical and non-medical materials to ARCS health teams (clinics, mobile teams, etc.) to support screening, contact tracing and community outreach as part 
+
+of the nation-wide surveillance efforts.  
+
+•  Risk communication activities to share timely and trustworthy information, address misinformation and build knowledge, acceptance and intention about signs and 
+
+symptoms, transmission modes, preventive actions (handwashing and social distancing).  
+
+•  Community engagement approaches with focus on targeted public engagement (through media), community feedback systems, volunteers dialogue and community 
+level activities (through/ with key influencers) to address fear, enhance trust and promote community-led solutions to prevent and control the outbreak (closely linking 
+health and PSSMH activities).  
+
+•  Ensuring the mainstreaming of PGI in emergencies across health response, including for Sexual and gender-based violence prevention and child protection. 
+•  Facilitating care for people who cannot access health and other essential services due to social  exclusion, other barriers to  access, or during shutdown  of public 
+
+services, public transportation, etc.  
+
+ 
+Risk analysis: In case of accelerated and uncontrolled transmission of the virus affecting frontline responders could result in proportionally reduced response capacities. The 
+risk is particularly high for large populations concentrated in cities, especially in informal urban settlements without adequate water and waste management and deficiencies in 
+public health infrastructures. Security risks and impeded access remain permanent as the response takes place in a protracted crisis context marked by more than 18 years of 
+conflict. 
+ 
+Population to be assisted:  
+
+•  Preparedness and containment activities will focus on enhanced engagement of ARCS health facilities and engagement of communities at risk of transmission, in 
+
+urban settings and hard-to-reach areas. 
+
+•  Mitigation and risk reduction activities will be focused on ensuring the most vulnerable and excluded groups have access to essential services  
+•  Priority communities across all phases of the outbreak will include: 
+
+ 
+
+ 
+
+P a g e  | 22 
+
+ 
+
+AP084 
+
+AP084 
+
+AP084 
+
+AP084 
+
+AP084 
+
+P&B 
+
+Output 
+Code 
+
+AP040 
+
+AP040 
+
+AP011 
+
+ 
+ 
+
+Internal Displaced Population (IDPs). 
+
+o 
+o  Refugees/ returnees.  
+o  HTR, white and insecure areas. 
+o  Remote and isolated community.  
+
+ 
+Programme standards/benchmarks: SPHERE standards and WHO guidelines. 
+ 
+
+P&B 
+
+Output 
+Code 
+
+Health Outcome 1: Communities and National Societies can quickly and effectively respond to an 
+outbreak of COVID-19 
+Health Output 1.1: Increase understanding of risk and safe activities, including risk communication 
+and health promotion based on community feedback 
+
+Activities planned                                                                                           Month 
+
+Mobilize NS volunteers’ networks and key influencers (i.e. religious and community leaders) 
+to encourage promotion of general health behaviours and address mistrust, misinformation 
+and rumours with actionable and verified information  
+Carry out risk communication activities based on community information needs, concerns and 
+perceptions,  share  timely  and  trustworthy  information,  address  misinformation  and  build 
+knowledge,  acceptance  and  intention  about  signs  and  symptoms,  transmission  modes, 
+preventive actions (handwashing, social distancing) and care-seeking behaviours by people 
+experiencing respiratory symptoms. Participate in and contribute to risk communication and 
+community engagement coordination structures 
+Preposition community engagement and communication material for rapid use by volunteers 
+in at risk/affected areas (i.e. FAQ documents)  
+Promote local dialogue and social cohesion with focus on addressing stigma and xenophobia 
+and promote acceptance and trust 
+Set up a community feedback system (including rumours tracking) to monitor, address and 
+answer information  gaps,  believes and misconceptions, questions and rumours and  inform 
+health approaches  
+
+Health Output 1.2: ARCS is prepared to maintain life-saving humanitarian and development 
+activities during an outbreak of COVID-19 and can adapt their approaches to the evolving outbreak. 
+
+Activities planned                                                                                           Month 
+
+AP011  Develop and review pandemic emergency response plan 
+
+Conduct training for new staff and volunteers on Infection prevention and control and case 
+detection, risk communication and CEA 
+Training  and  sensitization  of  the  appropriate,  safe  and  effective  use  of  PPE  to  staff  and 
+volunteers 
+Localize,  contextualize  and/or  translate  COVID-19  materials  and  tools  for  community-level 
+use 
+
+ 
+
+1 
+
+x 
+
+x 
+
+ 
+
+ 
+
+1 
+x 
+
+x 
+
+x 
+
+x 
+
+2 
+
+x 
+
+x 
+
+x 
+
+ 
+
+2 
+x 
+
+x 
+
+x 
+
+x 
+
+NS together with MoPH completed capacity and risk mapping and response 
+planning. (Target: Yes)  
+# of people reached through risk communication and community engagement 
+activities. (Target: 200,000)   
+# of people reached with community-based epidemic prevention and control 
+activities. (Target: 200,000)  
+5 
+
+4 
+
+7 
+
+9 
+
+3 
+
+8 
+
+6 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+ 
+
+ 
+
+x 
+
+ 
+
+ 
+
+x 
+
+ 
+
+ 
+
+x 
+
+ 
+
+ 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+# of people reached with community-based epidemic prevention and control 
+activities. (Target: 200,000)  
+# of risk communication and community engagement plan developed (Target: 
+Yes)   
+3 
+ 
+
+5 
+x 
+
+4 
+ 
+
+7 
+ 
+
+9 
+x 
+
+6 
+x 
+
+8 
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+P&B 
+
+Output 
+Code 
+
+AP011 
+
+AP084 
+
+AP084 
+
+AP021 
+
+P&B 
+
+Output 
+Code 
+
+AP050 
+
+AP011 
+
+AP011 
+
+P&B 
+
+Output 
+Code 
+
+AP023 
+
+ 
+ 
+
+Health Outcome 2: National Societies support rapid containment of localized outbreaks when they 
+occur in new communities or countries 
+Health Output 2.1: Support public confidence in the health system and outbreak response measures, 
+and promote effective community engagement, risk communication, behaviour change and hygiene 
+promotion approach to motivate action and promote participation. Reduce stigma and violence 
+Activities planned                                                                                           Month 
+Implement  a  risk  communication  and  community  engagement  plan,  in  line  with 
+MoPH plan, with focus on vulnerable groups: the elderly, women, migrants, persons 
+with disability) 
+Communicate  about 
+psychosocial support, etc.), based on community questions and concerns  
+Enhance  understanding  and  acceptance  of key  containment  actions (e.g.  IPC, 
+community-based surveillance, quarantine, point of control screening, isolation and 
+treatment) 
+Influence government  and  partner  approaches  to  quarantine,  isolation,  treatment 
+and other response approaches based on community feedback.  
+Health Output 2.2:  Reduce risk of secondary transmission of the virus to prevent an outbreak or once 
+local transmission has begun, reduce risk of more generalized transmission of the virus to contain the 
+outbreak. 
+Activities planned                                                                                           Month 
+
+relevant  available  services (i.e.  mental  health  and 
+
+1 
+
+2 
+
+3 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+AP050  Equip staff and volunteers with PPEs 
+
+Support the supply of ARCS isolation centre and case management (PPE, medical 
+and non-medical materials 
+Provide  medical  and  non-medical  items  (rub  halls,  blankets)  in  support  to  ARCS 
+hospital, clinics and health teams 
+Screening,  contact  tracing  and  other  services  related  to  surveillance  and  case 
+detection, in support of government activities 
+
+AP023  Psychosocial support to responders, including RCRC volunteers and staff 
+
+1 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+2 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+3 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+Health Outcome 3: People living under disease containment measures have access to MHPSS services 
+to maintain their wellbeing and dignity. 
+Health Output 3.1: Psychosocial support provided to the target populations as well as to Red Cross 
+Red Crescent volunteers and staff  
+Activities planned                                                                                           Month 
+Emergency social services and related psychosocial support. If applicable, MHPSS 
+activities,  including  psychological  first  aid  and  psychoeducation,  are  provided  to 
+quarantined or movement-restricted communities, including elderly and people with 
+chronic conditions, disability, health workers, as well as NS staff and volunteers 
+
+2 
+
+1 
+
+3 
+
+x 
+
+x 
+
+x 
+
+ 
+
+P a g e  | 23 
+
+NS supported outbreak response at the request of the respective 
+government. (Target: Yes) 
+
+NS working in clinical setting following IPC guidance. (Target: Yes) 
+
+# of cases screened and detected related to surveillance (Target: Yes)    
+# of people reached by psychosocial support. (Target: 10% of population) 
+
+4 
+
+x 
+
+x 
+
+x 
+
+x 
+
+4 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+4 
+
+x 
+
+5 
+
+x 
+
+x 
+
+x 
+
+x 
+
+5 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+5 
+
+x 
+
+6 
+
+x 
+
+x 
+
+x 
+
+x 
+
+6 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+6 
+
+x 
+
+7 
+
+ 
+
+x 
+
+x 
+
+x 
+
+7 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+7 
+
+x 
+
+8 
+
+ 
+
+x 
+
+x 
+
+x 
+
+8 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+8 
+
+x 
+
+% of target population who agree their priority needs are being met. (Target: 
+at least 80%)  
+
+ # of people reached by mental health and psychosocial support. (Target: 
+10% of target population)  
+
+9 
+
+ 
+
+x 
+
+x 
+
+x 
+
+9 
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+ 
+
+ 
+AP023  PSS trainings for targeted volunteers and establishing a PSS national hotline 
+AP023  Conduct PSS trainings/refreshers for staff and volunteers 
+AP023  Establish referral pathway for cases needing of other MHPSS services 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+P&B 
+
+Output 
+Code 
+
+AP021 
+
+AP021 
+
+Health Outcome 7: National Society has increased capacity to manage and respond to health risks 
+
+Health Output 7.1: The National Society and its volunteers are able to provide better, more appropriate, 
+and higher quality emergency health services 
+Activities planned                                                                                           Month 
+Support health and social service maintenance (e.g. support to scale up services 
+required, direct service provision as appropriate) 
+Engage  with  inter-governmental  bodies  and  stakeholders  to  provide  regional 
+frameworks  and  leadership  to  facilitate  information  exchange,  surveillance  and 
+coordination 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+3 
+
+1 
+
+2 
+
+P a g e  | 24 
+
+NS requested by MoH to support COVID-19 preparedness and response. 
+(Target: Yes) 
+
+NS having epidemic preparedness and response plan. (Target: Yes) 
+
+x 
+
+x 
+
+x 
+
+4 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+5 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+6 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+7 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+8 
+
+x 
+
+x 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+x 
+
+ 
+
+P a g e  | 25 
+
+ 
+
+ 
+ 
+
+Water, sanitation and hygiene 
+People targeted: 190,000 
+Male: 96,330 
+Female: 93,670 
+Requirements (CHF): 529,724 
+
+ 
+
+ 
+Needs analysis: Community people are unaware on water purification methods for safe drinking while sanitation management systems and hygiene practices remain weak 
+and sub-standard across the country, including on handwashing. Gaps in WASH need to be addressed as critical part of the emergency response to the pandemic.  
+ 
+Risk analysis: One of the key risks of spreading of COVID-19 is due to poor hygiene especially hand washing. In Afghanistan this risk is very high due to lack of health 
+knowledge, poor economic status and water supply.     
+ 
+Population  to  be  assisted:  Preparedness  and  containment  activities  will  focus  on  hygiene  promotion  in  most  at-risk  communities,  while  building  the  capacity  and 
+relationships needed for ARCS and volunteers to effectively respond. Priority communities across all phases of the outbreak will include: 
+
+Internal Displaced Population (IDPs). 
+
+• 
+•  Refugees/ returnees. 
+•  Hard-to-reach, white and insecure areas. 
+•  Remote and isolated communities. 
+
+ 
+Programme standards/benchmarks: The aim of WASH interventions under this sectoral component is to promote good personal and environmental hygiene as barriers 
+to virus transmission. WASH activities in targeted provinces will be conducted in collaboration with MoPH and other humanitarian actors in accordance with the Sphere Standards 
+as well as IFRC WASH for hygiene promotion in emergency operations and IFRC MHM guide and tools. 
+ 
+
+P&B 
+
+AP030 
+
+Output 
+Code 
+
+WASH Outcome1: Immediate reduction in risk of waterborne and water related diseases in 
+targeted communities 
+WASH Output 1.4:  Hygiene promotion activities which meet Sphere standards in terms of 
+the identification and use of hygiene items provided to target population 
+Activities planned                                                                      Month 
+Conduct  needs  assessment,  define  hygiene  issues  and  assess 
+capacity to address the problem 
+Select target groups, key messages, and methods of communicating 
+with beneficiaries (mass media and interpersonal communication) 
+Develop  a  hygiene  communication  plan  and  train  volunteers  to 
+implement activities from communication plan 
+AP030  Design/print and distribution of IEC materials 
+
+AP030 
+
+AP030 
+
+1 
+
+2 
+
+3 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+AP030 
+
+Construct  or  encourage  construction  and  maintenance  of 
+handwashing facilities and water points in targeted communities 
+
+x 
+
+x 
+
+% of targeted population increased knowledge of personal hygiene (Target: 80%)  
+
+% of people provided with hygiene promotion education (Target: 80%)  
+# of handwashing facilities constructed (Target: 17) 
+
+4 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+5 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+6 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+x 
+
+  
+
+ 
+
+ 
+
+  
+
+8 
+ 
+
+x 
+
+ 
+
+ 
+ 
+
+9 
+ 
+
+x 
+
+ 
+
+ 
+ 
+
+x 
+
+ 
+
+ 
+
+P a g e  | 26 
+
+% of targeted population increased knowledge on how to use hygiene related 
+items (NFIs) (Target: 80%) 
+
+7 
+
+8 
+
+9 
+
+WASH Output 1.5: Hygiene-related goods (NFIs) which meet Sphere standards and training 
+on how to use those goods is provided to the target population   
+Activities planned                                                                      Month 
+Determine the needs for hygiene NFIs, including soap, water storage, 
+and menstrual hygiene for each community based on health risks and 
+user  preference  in  targeted  communities  in  coordination  with  the 
+WASH group or cluster 
+
+1 
+
+3 
+
+2 
+
+x 
+
+x 
+
+x 
+
+AP030  Distribute of hygiene kits to target population  
+
+ 
+
+x 
+
+x 
+
+Train population of targeted communities in use of distributed hygiene 
+items. 
+Determine whether additional distributions are required and whether 
+changes should be made 
+Monitor  use  of  hygiene  items  and  water  treatment  products  and 
+user’s satisfaction through household surveys and household water 
+quality tests 
+WASH Outcome 2: Sustainable reduction in risk of waterborne and water related diseases in 
+targeted communities in the recovery phase 
+
+x 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WASH Output 2.1:  Continuous monitoring and evaluation of water, sanitation, and hygiene 
+situation is carried out in targeted communities 
+
+Activities planned                                                                      Month 
+Conduct  baseline  survey  to  define  hygiene  issues  and  assess 
+capacity to address the problem 
+Conduct  training  for  ARCS  volunteers  on  carrying  out  water, 
+sanitation and hygiene monitoring and evaluation 
+Continuously  monitor  the  water,  sanitation  and  hygiene  situation  in 
+targeted communities 
+Coordinate  with  other  WASH  actors  on  target  group  needs  and 
+appropriate response 
+
+2 
+
+x 
+
+x 
+
+x 
+
+x 
+
+3 
+
+ 
+
+x 
+
+x 
+
+x 
+
+4 
+
+ 
+
+x 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+5 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+x 
+
+6 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+x 
+
+x 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+x  
+
+x  
+
+% of targeted population have a knowledge of waterborne and water related 
+diseases (Target: 80%) 
+
+Visits conducted to evaluate the water, sanitation, and hygiene situation in 
+targeted communities (Target: Yes) 
+Trainings conducted for ARCS volunteers in target areas (Target: Yes) 
+% of the targeted population reached for hygiene promotion activities (Target: 
+80%) 
+4 
+
+8 
+
+6 
+
+9 
+
+7 
+
+5 
+
+P&B 
+
+Output 
+Code 
+
+AP030 
+
+AP030 
+
+AP030 
+
+AP030 
+
+P&B 
+
+Output 
+Code 
+
+AP026 
+
+AP026 
+
+AP026 
+
+AP026 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+1 
+
+x 
+
+x 
+
+x  
+
+x  
+
+ 
+
+ 
+
+P a g e  | 27 
+
+ 
+
+ 
+ 
+
+Protection, Gender and Inclusion 
+People targeted: 150,000 
+Male: 76,050 
+Female: 73,950 
+Requirements (CHF): 298,200 
+
+ 
+
+ 
+Protection needs: This response is taking place across the country with a high rate of gender-based violence, marginalization of a number of populations and presence of 
+extremely vulnerable groups. The major needs in this sector include ensuring all populations  the most vulnerable people are reached by COVID-19 response and preparedness 
+activities; training of ARCS volunteers and staff on key areas including prevention and response to sexual and gender-based violence as well as protection against sexual 
+exploitation and abuse. The PGI activities will be implemented for both COVID-19 response and preparedness in all provinces across the country. Vulnerable population in 
+Afghanistan such as women, children, elderly, persons with disabilities and the sick are at higher risk of exploitation. There is a need to protect this population and incorporate 
+their  different needs into the programming. Protection needs in the complex  emergency in Afghanistan  are mainly related to the deteriorating security situation  and forced 
+population movements. Children are at particular risk of abuse, neglect, marginalization, and exploitation. Holistic approaches aimed at improving the resilience and self-reliance 
+of affected households, as well as enhancing positive engagement of governance structures to reduce vulnerabilities and to mitigate short and longer-term protection risks. 
+Timely identification of protection risks through systematic and coordinated protection monitoring and analysis will inform preventative, responsive, and remedial interventions, 
+as well as enhance accountability. This includes evidence-based advocacy, protection specific service delivery, and community-based mobilization, mitigation, and prevention 
+activities creating a protection-conducive environment.  
+ 
+ARCS and IFRC will coordinate with protection and gender-based violence clusters in western, central, northern and eastern regions. Stronger linkages with protection clusters 
+are also sought on relevant issues of common interest, such as the development of a comprehensive disability and assistance survivor support strategy and response; enhanced 
+operational and planning integration of PGI across the emergency response. 
+ 
+Risk analysis: The PGI risks are cross cutting in nature. The programme staff often overlook the softer issues in relation to inclusiveness, protection and gender sensitivity 
+while undertaking community-based livelihoods activities in affected areas.  
+ 
+Population to be assisted: All the people involved/assisted in either relief phase and through any sectoral interventions, must include PGI lenses, especially in beneficiary 
+selection, delivery of interventions, monitoring and reporting. As an essential crosscutting theme for all RCRC emergency operations, the operation targets all beneficiaries with 
+a PGI driven approach.  
+ 
+Program standards/benchmarks: PGI approaches will be aligned with the IFRC Minimum Standard to Protection, Gender and Inclusion in Emergency Programming, the 
+IASC Gender-Based Violence Guidelines. The IFRC  MSs  have been developed based  on  (but not  limited  to) the  Sphere handbook and  the Minimum Standards for  Child 
+Protection in Humanitarian Action. The Protection, Gender and Inclusion Area of Focus of the emergency appeal is complimentary to the Response Priority 1 of the One Window 
+Framework.  
+ 
+
+P&B 
+
+Output 
+
+Protection, Gender & Inclusion Outcome 1: Communities become more peaceful, safe and inclusive 
+through meeting the needs and rights of the most vulnerable. 
+
+Operation demonstrates evidence of addressing the specific needs 
+and rights are met and PGI are included in all stages. (Target: Yes)  
+ 
+
+ 
+
+ 
+
+Code  Protection, Gender & Inclusion Output 1.1:  Programmes and operations ensure safe and equitable 
+
+provision of basic services, considering different needs based on gender and other diversity factors. 
+Activities planned                                                                                                          Month 
+AP031  Gender-balanced staff and volunteer mobilization to the extent possible in Afghan context 
+AP031  Collection, analysis, and dissemination of sex- and age-disaggregated data 
+AP031  Collection, analysis, and dissemination of sex- and age and disability-disaggregated data 
+
+2 
+
+1 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+AP031 
+
+AP031 
+
+AP031 
+
+AP031 
+
+P&B 
+
+Output 
+Code 
+
+AP033 
+
+AP033 
+
+AP033 
+
+AP033 
+
+x 
+
+x 
+
+x 
+
+x 
+
+Support sectoral teams to include measures to address vulnerabilities specific to gender and 
+diversity factors (including people with disabilities) in their planning and aim for gender parity 
+in volunteers 
+Training of volunteers on protection, gender and inclusion, including gender analysis, basic 
+prevention of sexual and Gender Based Violence, Sexual Exploitation and Abuse and Child 
+Protection 
+Incorporate  key  PGI  messaging  together  with  RCEC  for  integrated  delivery  to  National 
+Societies and communities. 
+During community consultations and awareness sessions, special effort is made to ensure 
+women  and  people  with  disabilities  are  also  included  and  feel  comfortable  to  share  their 
+concerns  and  feedback.  This  includes  gender-segregated  group  discussions  to  enable 
+women to speak freely 
+Protection, Gender & Inclusion Output 1.2:  Programmes and operations prevent and respond to 
+sexual- and gender-based violence and other forms of violence especially against children. 
+Activities planned                                                                                                          Month 
+Use Minimum Standards as a guide to support sectoral teams to include child protection and 
+measures to mitigate the risk of SGBV 
+Establish a system to ensure IFRC and NS staff and volunteers have signed the Code of 
+Conduct and have received a briefing in this regard 
+Appoint a Prevention of Sexual Exploitation and Abuse (PSEA) and Code of Conduct focal 
+person 
+Volunteers, staff and contractors sign, are screened for, and are briefed on child protection 
+policy/guidelines 
+
+1 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+2 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+3 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+P a g e  | 28 
+
+Initial assessments include key PGI areas. (Target: Yes) 
+Sex, age and disability disaggregated data is collected. (Target: Yes) 
+# of staff and volunteers trained on minimum standards. (Target: 150) 
+9 
+3 
+
+6 
+
+4 
+
+7 
+
+8 
+
+5 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+4 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+5 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+6 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+7 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+8 
+
+x  
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+ 
+
+x 
+
+x 
+
+9 
+
+x 
+
+ 
+
+ 
+
+ 
+
+% of staff and volunteers signed the Code of Conduct. (Target: 100%) 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+P a g e  | 29 
+
+ 
+ 
+
+ 
+ 
+
+P&B 
+
+Output 
+Code 
+
+P&B 
+
+Output 
+Code 
+
+Strategies for Implementation 
+Requirements (CHF): 4,349,305 
+
+ 
+Based on the demand for the technical and coordination support required for this operation, the following programme support functions will be put in place or maintained to 
+ensure an effective and efficient technical coordination: human resources, logistics and supply chain; information technology support (IT); communications; security; planning, 
+monitoring, evaluation and reporting (PMER); partnerships and resource development; finance and administration; and information management (IM). A core emphasis of the 
+strategy  is  to  strengthen  the  National  Society  in  the  above-mentioned  areas.  The  regional  coordination  strategy  and  plans,  in  addition  to  providing  technical  and  strategic 
+guidance, further allows for the coordination and overview needed for monitoring, reviews and a final evaluation of the operation. Core assumptions, the context and impact, 
+operational constraints, and priority needs continuous assessments will be carried out by the ARCS staff and volunteers as well as IFRC operational staff in the targeted area. 
+ 
+Several related guidance and additional tools are or have been adapted, revised or updated, in particular for business continuity planning, which establishes the basis for 
+National Societies to ensure the continuous functioning of key services during the crisis in all relevant locations. It includes also a plan to recover and resume business processes 
+when programmes have been disrupted unexpectedly. Beside activities ensuring the duty of care for staff and volunteers, special focus is also put on back-up measures for 
+defined services of the National Societies.  
+ 
+
+Outcome S1.1: National Society capacity building and organizational development objectives are 
+facilitated to ensure that National Societies have the necessary legal, ethical and financial foundations, 
+systems and structures, competences and capacities to plan and perform  
+
+Output S1.1.4: National Societies have effective and motivated volunteers who are protected   
+
+Activities planned                                                                                                          Month 
+AP039  Ensure that volunteers working with NS have insurance coverage for accidents and death 
+
+AP039 
+
+A  volunteer  management  platform  is  established  to  support  community  engagement 
+activities 
+
+AP039  Youth and volunteers have appropriate trainings and support to perform their tasks 
+
+Output S1.1.6: National Societies have the necessary corporate infrastructure and systems in place 
+
+Activities planned                                                                                                          Month 
+
+AP040  ARCS data readiness, PMER and information management capacities are strengthened  
+
+AP021 
+
+AP040 
+
+Ensure an effective emergency response with reduced resources, including a mapping of 
+the  minimum  structures  needed  to  keep  core  business  going  as  part  of  the  business 
+continuity plan 
+ARCS business continuity is supported including for IT equipment and connectivity, in close 
+liaison with the regional/global BCP helpdesk operated by GDPC and IFRC as appropriate 
+
+ 
+
+# of volunteers mobilized (Target: 4,400)  
+ 
+
+# of volunteers insured. (Target: 500)  
+% of staff and volunteers are provided with necessary PPE. 
+(Target: 100%)  
+5 
+
+6 
+
+4 
+
+8 
+
+7 
+
+# situation reports. (Target: TBC) 
+# operational and financial report. (Target: TBC)  
+# ARCS essential staff enabled to perform its work despite 
+lockdown and reduced movements to office. (Target: TBC) 
+NS developed Business Continuity Plans finalized. (Target: Yes) 
+# staff and volunteers signed ARCS Code of Conduction and 
+Fraud and Corruption prevention policy. (Target: TBC) 
+
+x 
+
+x 
+
+x 
+
+4 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+5 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+6 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+7 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+8 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+x 
+
+x 
+
+ 
+
+3 
+
+x 
+
+x 
+
+x 
+
+3 
+
+x 
+
+x 
+
+x 
+
+1 
+
+x 
+
+ 
+
+x 
+
+1 
+
+x 
+
+x 
+
+x 
+
+2 
+
+x 
+
+ 
+
+x 
+
+2 
+
+x 
+
+x 
+
+x 
+
+ 
+AP040  ARCS financial management is strengthened 
+
+AP040 
+
+ARCS is equipped with a proper SOP for preparedness and response to pandemics enabling 
+effective emergency management at HQ and branch level, and will review the impact from 
+COVID-19 pandemic on other disaster and crisis scenarios and develop/revise contingency 
+plan with multi-hazards approach for these other disaster and crisis situations 
+
+AP040  ARCS Code of Conduct and zero tolerance for fraud and corruption are enforced 
+
+Outcome S2.1: Effective and coordinated international disaster response is ensured 
+
+Output S2.1.1: Effective response preparedness and NS surge capacity mechanism is maintained 
+
+Activities planned                                                                                                          Month 
+Effective emergency management capacities are established 
+
+Localized surge support is mobilized in PMER, health, logistics, communication, PGI and 
+disaster risk management 
+ARCS surge capabilities are supported and mobilized 
+
+Outcome S3.1: The IFRC secretariat, together with National Societies uses their unique position to 
+influence decisions at local, national and international levels that affect the most vulnerable. 
+
+Output S3.1.1: IFRC and NS are visible, trusted and effective advocates on humanitarian issues 
+Activities planned                                                                                                          Month 
+ARCS, supported by IFRC, has enhanced visibility amongst its key public audiences and 
+maintains active online media engagement throughout the emergency 
+Implement awareness raising and risk communication campaigns 
+Enable visibility  and positive ARCS profiling through  high quality  photos, video  clips,  and 
+news stories for use across ARCS and IFRC cross media platforms 
+
+1 
+
+x 
+
+x 
+
+x 
+
+Activities planned                                                                                                          Month 
+
+AP055  Mid-term review and end term evaluations are carried out  
+
+AP055 
+
+Recommendations and learnings from evaluations are shared for improved preparedness 
+for both IFRC and National Societies in epidemic/pandemic responses in the future 
+
+AP055  Support to ARCS auxiliary role across the response 
+
+AP055  Production of context analysis, positions and opinion pieces 
+
+AP055  Participation to external/cluster coordination meetings at national and provincial levels   
+
+Effective and coordinated international disaster response 
+ensured (Target: Yes) 
+
+# of NS surge capacity deployed for the operation (Target: TBC) 
+# of people deployed using global response tools (Target: 3) 
+
+# people reached through awareness raising and risk 
+communication (Target: TBC) 
+# News stories and media materials on ARCS emergency 
+response (Target: TBC) 
+
+Communications materials produced/published. (Target: Yes) 
+
+x 
+
+x 
+
+x 
+
+1 
+
+x 
+
+x 
+
+x 
+
+x 
+
+1 
+  
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+2 
+
+x 
+
+x 
+
+x 
+
+2 
+
+x 
+
+x 
+
+x 
+
+x 
+
+2 
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+3 
+
+x 
+
+x 
+
+x 
+
+3 
+
+x 
+
+x 
+
+x 
+
+x 
+
+3 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+4 
+
+x 
+
+x 
+
+x 
+
+4 
+
+x 
+
+x 
+
+x 
+
+x 
+
+4 
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+5 
+
+x 
+
+x 
+
+x 
+
+5 
+
+x 
+
+x 
+
+x 
+
+x 
+
+5 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+6 
+
+x 
+
+x 
+
+x 
+
+6 
+
+x 
+
+x 
+
+x 
+
+x 
+
+6 
+
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+7 
+
+x 
+
+x 
+
+x 
+
+7 
+
+x 
+
+x 
+
+x 
+
+x 
+
+7 
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+P a g e  | 30 
+
+x 
+
+x 
+
+x 
+
+8 
+
+x 
+
+x 
+
+x 
+
+8 
+
+x 
+
+x 
+
+x 
+
+x 
+
+8 
+ 
+
+ 
+
+ 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+x 
+
+x 
+
+x 
+
+9 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+AP053  Support the positioning of ARCS as a credible and leading humanitarian responder  
+
+Output S3.1.2: IFRC produces high-quality research and evaluation that informs advocacy, resource 
+mobilization and programming. 
+
+# of Lessons learned workshop is conducted. (Target: 1) 
+# of evaluations conducted (Target: 2) 
+# of paper/report published (for RCRC) (Target: 2) 
+
+P&B 
+
+Output 
+Code  
+
+AP046 
+
+AP046 
+
+AP046 
+
+P&B 
+
+Output 
+Code 
+
+AP053 
+
+AP053 
+
+AP053 
+
+P&B 
+
+Output 
+Code 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+AP055  Partnership meetings/briefings (Movement and external) 
+
+P&B 
+
+Output 
+Code 
+
+Outcome S4.1: The IFRC enhances its effectiveness, credibility and accountability 
+
+Output S4.1.2: IFRC staff shows good level of engagement and performance 
+Activities planned                                                                                                          Month 
+
+AP069  Staff awareness training on Fraud and Corruption Prevention 
+
+AP069 
+
+IFRC staff insurance is ensured 
+
+AP069  Office cost for BCP activation 
+
+P&B 
+
+Output 
+Code 
+
+Output S4.1.3: Financial resources are safeguarded; quality financial and administrative support is 
+provided contributing to efficient operations and ensuring effective use of assets; timely quality financial 
+reporting to stakeholders 
+Activities planned                                                                                                          Month 
+
+1 
+
+3 
+
+2 
+
+AP065  Essential staff recruited to ensure effective implementation of COVID-19 operation 
+P&B 
+
+Output S4.1.4: Staff security is prioritized in all IFRC activities 
+
+Activities planned                                                                                                          Month 
+
+Output 
+Code 
+AP066  Security Risk Assessment (SRA) and continuous security updates 
+ 
+
+P a g e  | 31 
+
+x 
+
+ 
+
+x 
+
+ 
+
+x 
+
+ 
+
+ 
+
+ 
+
+x 
+
+# of staff participated in Fraud and Corruption training. (Target: 
+TBC) 
+
+2 
+
+x 
+
+x 
+
+x 
+
+3 
+
+x 
+
+x 
+
+x 
+
+x 
+
+x 
+
+2 
+x 
+
+3 
+x 
+
+4 
+ 
+
+ 
+
+ 
+
+4 
+
+x 
+
+4 
+x 
+
+5 
+ 
+
+ 
+
+ 
+
+5 
+
+x 
+
+5 
+x 
+
+6 
+ 
+
+ 
+
+ 
+
+6 
+
+x 
+
+6 
+x 
+
+7 
+ 
+
+ 
+
+ 
+
+7 
+
+x 
+
+8 
+ 
+
+ 
+
+ 
+
+8 
+
+x 
+
+7 
+x 
+
+8 
+x 
+
+9 
+ 
+
+ 
+
+ 
+
+9 
+
+x 
+
+9 
+x 
+
+# of staff recruited to support the implementation of the COVID-
+19 operation. (Target: 10) 
+
+Regular monitoring of safety and security of staff members (Target: Yes) 
+
+1 
+
+x 
+
+x 
+
+x 
+
+x 
+
+1 
+x 
+
+ 
+ 
+
+ 
+
+ 
+
+P a g e  | 32 
+
+all amounts in 
+Swiss Francs 
+(CHF) 
+
+ 
+
+24/4/2020 
+
+ 
+
+  
+ 
+
+ 
+ 
+
+Budget 
+
+3,400 
+4,327,532 
+495,273 
+2,368,816 
+6,329 
+1,813,924 
+9,015,274 
+25,316 
+507,202 
+400,000 
+932,518 
+233,021 
+70,004 
+950,000 
+1,253,025 
+108,000 
+245,980 
+1,502,595 
+683,595 
+2,540,170 
+37,975 
+133,291 
+171,266 
+560,146 
+560,146 
+549,661 
+385,990 
+39,000 
+80,759 
+50,593 
+18,987 
+236,328 
+1,361,319 
+
+ 
+
+15,833,717 
+1,029,192 
+16,862,909 
+
+ 
+  
+ 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+  
+  
+  
+
+ 
+
+ 
+  
+ 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+  
+  
+  
+
+ 
+Funding Requirements 
+ 
+Refer to below for revised budget details. 
+ 
+
+ 
+
+ 
+
+  
+ 
+
+International Federation of Red Cross and Red Crescent 
+Societies  
+DOMESTIC RESPONSE PLAN 
+MDR00005 - AFGHANISTAN - COVID-19 
+OUTBREAK 
+  
+ 
+Budget by Resource  
+ 
+Budget Group 
+Clothing & Textiles 
+Food 
+Water, Sanitation & Hygiene 
+Medical & First Aid 
+Other Supplies & Services 
+Cash Disbursement 
+Relief items, Construction, Supplies 
+Computers & Telecom 
+Medical Equipment 
+Other Machinery & Equipment 
+Land, vehicles & equipment 
+Distribution & Monitoring 
+Transport & Vehicles Costs 
+Logistics Services 
+Logistics, Transport & Storage 
+International Staff 
+National Staff 
+National Society Staff 
+Volunteers 
+Personnel 
+Consultants 
+Professional Fees 
+Consultants & Professional Fees 
+Workshops & Training 
+Workshops & Training 
+Travel 
+Information & Public Relations 
+Office Costs 
+Communications 
+Financial Charges 
+Other General Expenses 
+Shared Office and Services Costs 
+General Expenditure 
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+
+DIRECT COSTS 
+INDIRECT COSTS 
+TOTAL BUDGET 
+
+ 
+
+ 
+
+ 
+  
+  
+  
+
+ 
+
+  
+ 
+
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+  
+  
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+P a g e  | 33 
+
+Reference 
+documents 
+ 
+Click here for: 
+• 
+Information 
+bulletin 
+
+•  Revised EA 
+
+For further information, specifically related to this operation please contact: 
+ 
+In the Afghanistan National Society  
+
+•  Dr Nilab Mobarez, Secretary General; email: drnilab.mobarez@gmail.com 
+•  Dr Salim Bahramand, Health Director; email: drsalim.arcs@gmail.com 
+
+ 
+In the Afghanistan IFRC Country Office 
+
+•  Pierre Kremer, head of country office; email: pierre.kremer@ifrc.org 
+•  Dr Abdul Khalid Amini, CBHP manager; email: abdulkhalid.amini@ifrc.org 
+
+ 
+In the IFRC Asia Pacific Regional Office, Kuala Lumpur  
+
+•  Mohammed Mukhier, deputy director; email: mohammedomer.mukhier@ifrc.org   
+•  Necephor Mghendi, head of disaster and crises unit; email: necephor.mghendi@ifrc.org   
+• 
+Jessica Letch, emergency operations coordination manager; email: jessica.letch@ifrc.org 
+•  Dr. 
+coordinator;  
+
+emergency 
+
+Abhishek 
+
+regional 
+
+Rimal, 
+
+health 
+
+email: abhishek.rimal@ifrc.org 
+
+•  Nicholas Prince, pandemic preparedness surge; email: emergencyhealth.ap@ifrc.org 
+•  Victor Ng, operations coordinator; email: opscoord.apro@ifrc.org  
+•  Siokkun Jang, regional logistics manager; email: siokkun.jang@ifrc.org  
+
+  
+In IFRC Geneva  
+
+•  Nelson Castano, manager operations coordination, nelson.castano@ifrc.org  
+•  Eszter Matyeka, senior DREF officer; email: eszter.matyeka@ifrc.org   
+
+  
+For IFRC Resource Mobilization and Pledges support:  
+
+•  Alice Ho, partnership in emergencies coordinator; email: PartnershipsEA.AP@ifrc.org  
+
+  
+For Performance and Accountability support (planning, monitoring, evaluation and reporti
+enquiries)  
+
+ 
+
+•  Liew Siew Hui, PMER manager; email: siewhui.liew@ifrc.org   
+•  Fadzli Saari, PMER coordinator; email: fadzli.saari@ifrc.org 
+
+ 
+
+ 
+ 
+How we work  
+All  IFRC  assistance  seeks  to  adhere  to  the  Code  of  Conduct  for  the  International  Red  Cross  and  Red  Crescent 
+Movement  and  Non-Governmental  Organizations  (NGO’s)  in  Disaster  Relief  and  the  Humanitarian  Charter  and 
+Minimum  Standards  in  Humanitarian  Response  (Sphere)  in  delivering  assistance  to  the  most  vulnerable.  The 
+IFRC’s vision is to inspire, encourage, facilitate and promote at all times all forms of humanitarian activities by 
+National  Societies,  with  a  view  to  preventing  and  alleviating  human  suffering,  and  thereby  contributing  to  the 
+maintenance and promotion of human dignity and peace in the world. 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+
