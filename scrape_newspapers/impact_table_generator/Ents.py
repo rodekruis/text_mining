@@ -169,6 +169,7 @@ class Ents:
         # get the object, i.e. what the number refers to
         obj = self._get_object(ent, language)
         number = Ents._process_number_words(ent_text, language)
+        number = str(number).strip('%')   #remove %, it was giving an error
         addendum = '' # extra info (currency or object)
         impact_label = '' # label specifying the nature of the impact data
         if (obj != '') & (number != ''):

@@ -106,7 +106,8 @@ class ImpactTableGenerator:
                    'infrastructures_affected',
                    'infrastructures_mentioned',
                    'sentence(s)',
-                   'article_title']
+                   'article_title',
+                   'url'] #add URL to output in final table
         return pd.DataFrame(index=pd.MultiIndex(levels=levels, codes=codes, names=names),
                             columns=columns)
 
