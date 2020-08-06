@@ -4,7 +4,7 @@
 
 # If results are to big to run at once, run for cities, towns, villages and hamlets separately
 
-area["name"="Uganda"]->.boundaryarea;
+area["name"="Kenya"]->.boundaryarea;
 (	nwr(area.boundaryarea)[place=city];
   nwr(area.boundaryarea)[place=town];
  nwr(area.boundaryarea)[place=hamlet];

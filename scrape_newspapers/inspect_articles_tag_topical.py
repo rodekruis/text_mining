@@ -74,25 +74,26 @@ def main(config_file,
         cnt_check = 0
         
         for row in df_articles_summary.itertuples():
-            title_summary = df_articles_summary.at[row.Index, 'title']
+            title_summary = str(df_articles_summary.at[row.Index, 'title'])      #to string the titles names
             logger.debug('{}'.format(title_summary.lower()))
             logger.debug('{}'.format(keys_manual_check))
             logger.debug('{}'.format([word in title_summary.lower() for word in keys_manual_check]))
             logger.debug('{}'.format([word for word in keys_manual_check]))
             log_string = ' -{index}- | {flag} | {word_list} | {title_summary}'
-            if any(word.lower() in title_summary.lower() for word in keys_topical):
-                df_articles_summary.loc[row.Index, 'topical'] = True
-                cnt_true += 1
-                logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
-                                              word_list=[word for word in keys_topical if
-                                                         word.lower() in title_summary.lower()]))
-            elif any(word.lower() in title_summary.lower() for word in keys_not_topical):
+            if any(word.lower() in title_summary.lower() for word in keys_not_topical):      #Filtering is done first in non-topical to remove not relevant articles
                 df_articles_summary.loc[row.Index, 'topical'] = False
                 cnt_false += 1
                 logger.info(log_string.format(index=row.Index, flag='FALSE', title_summary=title_summary,
                                               word_list=[word for word in keys_not_topical if
                                                          word.lower() in title_summary.lower()]))
-            elif any(word.lower() in title_summary.lower() for word in keys_manual_check): 
+            elif any(word.lower() in title_summary.lower() for word in keys_topical):
+                df_articles_summary.loc[row.Index, 'topical'] = True
+                cnt_true += 1
+                logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
+                                              word_list=[word for word in keys_topical if
+                                                         word.lower() in title_summary.lower()]))
+
+            elif any(word.lower() in title_summary.lower() for word in keys_manual_check):
                 df_articles_summary.loc[row.Index, 'topical'] = None
                 cnt_check += 1
                 logger.info(log_string.format(index=row.Index, flag='CHECK', title_summary=title_summary,

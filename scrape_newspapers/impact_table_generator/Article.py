@@ -29,6 +29,7 @@ class Article:
         self.text_with_title = self.title + '.\n' + self.text
         self.article_num = df_row['Unnamed: 0']
         self.publication_date = str(df_row['publish_date'].date())
+        self.url = df_row['url']     #added URL
 
         self._preprocess_french_number_words()
         self._preprocess_numbers(keywords)
@@ -58,9 +59,10 @@ class Article:
             sentence = Sentence.Sentence(s, self.locations, language, self.location)
             final_info_list = sentence.analyze(keywords, language)
             for (location, impact_label, number, addendum) in final_info_list:
+
                 _save_in_dataframe(df_impact, location,
                                    self.publication_date, self.article_num, impact_label,
-                                   number, addendum, sentence.sentence_text, self.title)
+                                   number, addendum, sentence.sentence_text, self.title, self.url)       #include URL
 
     def _get_doc_location(self, locations_df):
         """
@@ -211,7 +213,7 @@ class Article:
                     need_to_merge = True
                 else:
                     try:
-                        number = text2num(str(prev_word))
+                        number = text2num(str(prev_word),'fr')    #included required language
                         need_to_merge = True
                     except ValueError:
                         number = 2  # Multiply 1 million or whatever by 2
@@ -227,7 +229,7 @@ class Article:
 
 
 
-def _save_in_dataframe(df_impact, location, date, article_num, label, number_or_text, addendum, sentence, title):
+def _save_in_dataframe(df_impact, location, date, article_num, label, number_or_text, addendum, sentence, title, url):   # Included URL to output
     """
     Save impact data in dataframe, sum entries if necessary
     """
@@ -248,6 +250,7 @@ def _save_in_dataframe(df_impact, location, date, article_num, label, number_or_
     # otherwise just save the new entry
     df_impact.loc[final_index, label] = str(number_or_text+' '+addendum).strip()
     df_impact.loc[final_index, ['sentence(s)', 'article_title']] = [sentence, title]
+    df_impact.loc[final_index,['url']]=url             #included URL to attached to the file
 
 
 def sum_values(old_string, new_string, new_addendum, which_impact_label):

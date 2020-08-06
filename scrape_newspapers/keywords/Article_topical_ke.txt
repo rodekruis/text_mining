@@ -1,0 +1,7 @@
+kenya,
+drought,
+loss,
+crop,
+dry,
+cattle,
+crops
