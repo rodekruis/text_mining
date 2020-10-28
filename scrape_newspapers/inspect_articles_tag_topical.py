@@ -62,53 +62,54 @@ def main(config_file,
         
         # Automised article annotation
         # load keywords
-        df_locations = utils.read_keyword_csv(keywords['filename_locations'])
-        keys_topical = utils.read_keyword_csv(keywords['filename_article_topical']) + df_locations
-        keys_not_topical = utils.read_keyword_csv(keywords['filename_article_nontopical'])
-        keys_manual_check = ast.literal_eval(keywords['keys_manual_check'])
+        if 'filename_locations' in keywords.keys():
+            df_locations = utils.read_keyword_csv(keywords['filename_locations'])
+            keys_topical = utils.read_keyword_csv(keywords['filename_article_topical']) + df_locations
+            keys_not_topical = utils.read_keyword_csv(keywords['filename_article_nontopical'])
+            keys_manual_check = ast.literal_eval(keywords['keys_manual_check'])
 
-        #set counters and annotate article titles
-        cnt_true = 0
-        cnt_false = 0
-        cnt_total = 0
-        cnt_check = 0
-        
-        for row in df_articles_summary.itertuples():
-            title_summary = str(df_articles_summary.at[row.Index, 'title'])      #to string the titles names
-            logger.debug('{}'.format(title_summary.lower()))
-            logger.debug('{}'.format(keys_manual_check))
-            logger.debug('{}'.format([word in title_summary.lower() for word in keys_manual_check]))
-            logger.debug('{}'.format([word for word in keys_manual_check]))
-            log_string = ' -{index}- | {flag} | {word_list} | {title_summary}'
-            if any(word.lower() in title_summary.lower() for word in keys_not_topical):      #Filtering is done first in non-topical to remove not relevant articles
-                df_articles_summary.loc[row.Index, 'topical'] = False
-                cnt_false += 1
-                logger.info(log_string.format(index=row.Index, flag='FALSE', title_summary=title_summary,
-                                              word_list=[word for word in keys_not_topical if
-                                                         word.lower() in title_summary.lower()]))
-            elif any(word.lower() in title_summary.lower() for word in keys_topical):
-                df_articles_summary.loc[row.Index, 'topical'] = True
-                cnt_true += 1
-                logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
-                                              word_list=[word for word in keys_topical if
-                                                         word.lower() in title_summary.lower()]))
+            #set counters and annotate article titles
+            cnt_true = 0
+            cnt_false = 0
+            cnt_total = 0
+            cnt_check = 0
 
-            elif any(word.lower() in title_summary.lower() for word in keys_manual_check):
-                df_articles_summary.loc[row.Index, 'topical'] = None
-                cnt_check += 1
-                logger.info(log_string.format(index=row.Index, flag='CHECK', title_summary=title_summary,
-                                              word_list=[word for word in keys_manual_check if
-                                                         word.lower() in title_summary.lower()]))
-            cnt_total += 1
+            for row in df_articles_summary.itertuples():
+                title_summary = str(df_articles_summary.at[row.Index, 'title'])      #to string the titles names
+                logger.debug('{}'.format(title_summary.lower()))
+                logger.debug('{}'.format(keys_manual_check))
+                logger.debug('{}'.format([word in title_summary.lower() for word in keys_manual_check]))
+                logger.debug('{}'.format([word for word in keys_manual_check]))
+                log_string = ' -{index}- | {flag} | {word_list} | {title_summary}'
+                if any(word.lower() in title_summary.lower() for word in keys_not_topical):      #Filtering is done first in non-topical to remove not relevant articles
+                    df_articles_summary.loc[row.Index, 'topical'] = False
+                    cnt_false += 1
+                    logger.info(log_string.format(index=row.Index, flag='FALSE', title_summary=title_summary,
+                                                  word_list=[word for word in keys_not_topical if
+                                                             word.lower() in title_summary.lower()]))
+                elif any(word.lower() in title_summary.lower() for word in keys_topical):
+                    df_articles_summary.loc[row.Index, 'topical'] = True
+                    cnt_true += 1
+                    logger.info(log_string.format(index=row.Index, flag='TRUE', title_summary=title_summary,
+                                                  word_list=[word for word in keys_topical if
+                                                             word.lower() in title_summary.lower()]))
 
-        #print result summary and write to csv
-        cnt_rest = cnt_total-cnt_true-cnt_false
-        processing_result = '\n Finished processing: \n {cnt_total} articles in total\n {cnt_true} True \n ' \
-                            '{cnt_false} False \n {cnt_rest} to be checked manually ({check} newspaper names problem)'
-        processing_result = processing_result.format(cnt_total=cnt_total, cnt_true=cnt_true, cnt_false=cnt_false,
-                                                     cnt_rest=cnt_rest, check = cnt_check)
-        logger.info(processing_result)
-        df_articles_summary.to_csv(articles_summary_filename, index=False)
+                elif any(word.lower() in title_summary.lower() for word in keys_manual_check):
+                    df_articles_summary.loc[row.Index, 'topical'] = None
+                    cnt_check += 1
+                    logger.info(log_string.format(index=row.Index, flag='CHECK', title_summary=title_summary,
+                                                  word_list=[word for word in keys_manual_check if
+                                                             word.lower() in title_summary.lower()]))
+                cnt_total += 1
+
+            #print result summary and write to csv
+            cnt_rest = cnt_total-cnt_true-cnt_false
+            processing_result = '\n Finished processing: \n {cnt_total} articles in total\n {cnt_true} True \n ' \
+                                '{cnt_false} False \n {cnt_rest} to be checked manually ({check} newspaper names problem)'
+            processing_result = processing_result.format(cnt_total=cnt_total, cnt_true=cnt_true, cnt_false=cnt_false,
+                                                         cnt_rest=cnt_rest, check = cnt_check)
+            logger.info(processing_result)
+            df_articles_summary.to_csv(articles_summary_filename, index=False)
         
     articles_to_analyze = df_articles_summary.loc[pd.isna(df_articles_summary['topical'])]
     number_to_analyze = len(articles_to_analyze)
@@ -122,15 +123,21 @@ def main(config_file,
         article = pd.read_csv(articles_folder+'/'+newspaper, sep='|').iloc[article_number]
         logging.info("\nArticle #{number}/{total}: {title}".format(
             number=cnt_article+1, total=number_to_analyze, title=article['title']))
-        var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
-        if var_topical == 'q':
-            break
-        elif var_topical == 'i':
-            logging.info(article['text'])
-            var_topical = input("Is it topical? t (True), f (False)  ")
-        df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
-        cnt_article += 1
-        df_articles_summary.to_csv(articles_summary_filename, index=False)
+        if len(article['text']) == 0 or article['text'] == article['title']:
+            logging.info('no text --> not topical')
+            df_articles_summary.loc[row.Index, 'topical'] = False
+            cnt_article += 1
+            df_articles_summary.to_csv(articles_summary_filename, index=False)
+        else:
+            var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
+            if var_topical == 'q':
+                break
+            elif var_topical == 'i':
+                logging.info(article['text'])
+                var_topical = input("Is it topical? t (True), f (False)  ")
+            df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
+            cnt_article += 1
+            df_articles_summary.to_csv(articles_summary_filename, index=False)
 
     # Use the summary to create a csv with only relevant articles
     columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']

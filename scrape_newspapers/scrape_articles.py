@@ -10,6 +10,7 @@ from selenium.webdriver import Firefox
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import \
     NoSuchElementException, TimeoutException, InvalidArgumentException, WebDriverException
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import pandas as pd
 import dateparser
 
@@ -69,16 +70,17 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
     url_any = vNews_url
     url_any = re.sub(re.escape('?s='+keyword), '', url_any)
     url_any = re.sub(re.escape('search?k='+keyword), '', url_any)
+    url_any = re.sub(re.escape('search?q=' + keyword), '', url_any)
     url_any = re.sub('\?m\=[0-9]{6}', '', url_any)
-    url_any = re.escape(url_any) + '(?=\S*[-])([0-9a-zA-Z-\/\.]+)'
+    url_any = re.escape(url_any) + '(?=\S*[-]*)([0-9a-zA-Z-\/\.\-\n]+)'
     regex = re.compile(url_any)
-    logger.info('searching for {}'.format(url_any))
+    # logger.info('searching for {}'.format(url_any))
     search_results = list(set([match[0] for match in
                                regex.finditer(search_result_page_source)
                                if keyword in match[0].lower()]))
 
     if vNews_name in ['NewVision']:
-        regex = re.compile('\/new\_vision\/news\/(?=\S*[-])([0-9a-zA-Z-\/\.]+)')
+        regex = re.compile('\/new\_vision\/news\/(?=\S*[-])([0-9a-zA-Z-\/\.\-]+)')
         search_results = list(set([ match[0] for match in regex.finditer(search_result_page_source) if keyword in match[0].lower()]))
         search_results = ['https://www.newvision.co.ug' + search_result for search_result in search_results]
 
@@ -208,11 +210,18 @@ def main(config_file, debug=False):
         os.mkdir(output_dir)
 
     # initialize webdriver
-    opts = Options()
-    opts.headless = True
-    assert opts.headless  # operating in headless mode
-    browser = Firefox(options=opts)
-    browser.set_page_load_timeout(TIMEOUT)
+    # opts = Options()
+    # opts.headless = True
+    # assert opts.headless  # operating in headless mode
+    # browser = Firefox(options=opts)
+    # browser.set_page_load_timeout(TIMEOUT)
+    binary = r'C:\Program Files\Mozilla Firefox\firefox.exe'
+    options = Options()
+    options.headless = True
+    options.binary = binary
+    cap = DesiredCapabilities().FIREFOX
+    cap["marionette"] = True  # optional
+    browser = Firefox(options=options, capabilities=cap, executable_path="C:\\geckodriver\\geckodriver.exe")
 
     # get newspapers urls
     newspaper_database_url = 'http://{newspaper_url_base}.com/{country}.htm'.format(
@@ -228,13 +237,13 @@ def main(config_file, debug=False):
     # del Newspapers['Niarela']
 
     # loop over newspapers
-    for news_name, news_url in Newspapers.items():
+    for news_name, news_url_clean in Newspapers.items():
 
         articles_news = pd.DataFrame(columns=['title', 'publish_date', 'text', 'url'])
 
         logger.info('**********************************************************************************')
-        logger.info('Accessing {0} ({1})'.format(news_name, news_url))
-        news_url += '?s='+config['keyword']
+        logger.info('Accessing {0} ({1})'.format(news_name, news_url_clean))
+        news_url = news_url_clean + '?s='+config['keyword']
         try:
             browser.get(news_url)
         except (TimeoutException, WebDriverException):
@@ -245,6 +254,16 @@ def main(config_file, debug=False):
         logger.info("Begin to process page 1 ({0})".format(browser.current_url))
         articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
         articles_news = articles_news.append(articles_page)
+        if len(articles_news) == 0:
+            news_url = news_url_clean + 'search?q=' + config['keyword']
+            logger.info('trying different url: {}'.format(news_url))
+            try:
+                browser.get(news_url)
+            except (TimeoutException, WebDriverException):
+                logger.error('Unable to access, skipping')
+                continue
+            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
+            articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
         page_number = 2
