@@ -12,7 +12,7 @@ example:
 ```
 $ python parse_table.py --input example-input.pdf --output example-output.xlsx
 ```
-docstring
+docstring:
 ```shell
 Usage: parse_table.py [OPTIONS]
 
