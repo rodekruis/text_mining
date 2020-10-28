@@ -1,0 +1,257 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,135,"MWI","Malawi",1,"Balaka",1,"Balaka Town","Town","Town",NA,NA
+2,135,"MWI","Malawi",1,"Balaka",2,"TA Kalembo","Traditional Authority","Traditional Authority",NA,NA
+3,135,"MWI","Malawi",1,"Balaka",3,"TA Nsamala","Traditional Authority","Traditional Authority",NA,NA
+4,135,"MWI","Malawi",2,"Blantyre",4,"Blantyre City","City","City",NA,NA
+5,135,"MWI","Malawi",2,"Blantyre",5,"TA Chigaru","Traditional Authority","Traditional Authority",NA,NA
+6,135,"MWI","Malawi",2,"Blantyre",6,"TA Kapeni","Traditional Authority","Traditional Authority",NA,NA
+7,135,"MWI","Malawi",2,"Blantyre",7,"TA Kuntaja","Traditional Authority","Traditional Authority",NA,NA
+8,135,"MWI","Malawi",2,"Blantyre",8,"TA Kunthembwe","Traditional Authority","Traditional Authority",NA,NA
+9,135,"MWI","Malawi",2,"Blantyre",9,"TA Lundu","Traditional Authority","Traditional Authority",NA,NA
+10,135,"MWI","Malawi",2,"Blantyre",10,"TA Machinjili","Traditional Authority","Traditional Authority",NA,NA
+11,135,"MWI","Malawi",2,"Blantyre",11,"TA Makata","Traditional Authority","Traditional Authority",NA,NA
+12,135,"MWI","Malawi",2,"Blantyre",12,"TA Somba","Traditional Authority","Traditional Authority",NA,NA
+13,135,"MWI","Malawi",3,"Chikwawa",13,"Chikwawa Boma","Boma","Headquarter",NA,NA
+14,135,"MWI","Malawi",3,"Chikwawa",14,"Lengwe National Park","National Park","National Park",NA,NA
+15,135,"MWI","Malawi",3,"Chikwawa",15,"Majete Game Reserve - Chikwawa","Reserve","Reserve",NA,NA
+16,135,"MWI","Malawi",3,"Chikwawa",16,"Ngabu Urban","Urban","Urban",NA,NA
+17,135,"MWI","Malawi",3,"Chikwawa",17,"TA Chapananga","Traditional Authority","Traditional Authority",NA,NA
+18,135,"MWI","Malawi",3,"Chikwawa",18,"TA Kasisi","Traditional Authority","Traditional Authority",NA,NA
+19,135,"MWI","Malawi",3,"Chikwawa",19,"TA Katunga","Traditional Authority","Traditional Authority",NA,NA
+20,135,"MWI","Malawi",3,"Chikwawa",20,"TA Lundu","Traditional Authority","Traditional Authority",NA,NA
+21,135,"MWI","Malawi",3,"Chikwawa",21,"TA Makhwira","Traditional Authority","Traditional Authority",NA,NA
+22,135,"MWI","Malawi",3,"Chikwawa",22,"TA Maseya","Traditional Authority","Traditional Authority",NA,NA
+23,135,"MWI","Malawi",3,"Chikwawa",23,"TA Ngabu","Traditional Authority","Traditional Authority",NA,NA
+24,135,"MWI","Malawi",4,"Chiradzulu",24,"Chiradzulu Boma","Boma","Headquarter",NA,NA
+25,135,"MWI","Malawi",4,"Chiradzulu",25,"TA Chitera","Traditional Authority","Traditional Authority",NA,NA
+26,135,"MWI","Malawi",4,"Chiradzulu",26,"TA Kadewere","Traditional Authority","Traditional Authority",NA,NA
+27,135,"MWI","Malawi",4,"Chiradzulu",27,"TA Likoswe","Traditional Authority","Traditional Authority",NA,NA
+28,135,"MWI","Malawi",4,"Chiradzulu",28,"TA Mpama","Traditional Authority","Traditional Authority",NA,NA
+29,135,"MWI","Malawi",4,"Chiradzulu",29,"TA Nchema","Traditional Authority","Traditional Authority",NA,NA
+30,135,"MWI","Malawi",4,"Chiradzulu",30,"TA Nkalo","Traditional Authority","Traditional Authority",NA,NA
+31,135,"MWI","Malawi",5,"Chitipa",31,"Chitipa Boma","Boma","Headquarter",NA,NA
+32,135,"MWI","Malawi",5,"Chitipa",32,"Nyika N.P. - Chitipa","National Park","National Park",NA,NA
+33,135,"MWI","Malawi",5,"Chitipa",33,"TA Kameme","Traditional Authority","Traditional Authority",NA,NA
+34,135,"MWI","Malawi",5,"Chitipa",34,"TA Mwabulambya","Traditional Authority","Traditional Authority",NA,NA
+35,135,"MWI","Malawi",5,"Chitipa",35,"TA Mwenemisuku","Traditional Authority","Traditional Authority",NA,NA
+36,135,"MWI","Malawi",5,"Chitipa",36,"TA Mwenewenya","Traditional Authority","Traditional Authority",NA,NA
+37,135,"MWI","Malawi",5,"Chitipa",37,"TA Nthalire","Traditional Authority","Traditional Authority",NA,NA
+38,135,"MWI","Malawi",6,"Dedza",38,"Dedza Boma","Boma","Headquarter",NA,NA
+39,135,"MWI","Malawi",6,"Dedza",39,"Lake Malawi","Water body","Water body",NA,NA
+40,135,"MWI","Malawi",6,"Dedza",40,"SC Chauma","Sub-chief","Sub-chief",NA,NA
+41,135,"MWI","Malawi",6,"Dedza",41,"SC Chilikumwendo","Sub-chief","Sub-chief",NA,NA
+42,135,"MWI","Malawi",6,"Dedza",42,"SC Kamenya Gwaza","Sub-chief","Sub-chief",NA,NA
+43,135,"MWI","Malawi",6,"Dedza",43,"TA Kachindamoto","Traditional Authority","Traditional Authority",NA,NA
+44,135,"MWI","Malawi",6,"Dedza",44,"TA Kaphuka","Traditional Authority","Traditional Authority",NA,NA
+45,135,"MWI","Malawi",6,"Dedza",45,"TA Kasumbu","Traditional Authority","Traditional Authority",NA,NA
+46,135,"MWI","Malawi",6,"Dedza",46,"TA Pemba","Traditional Authority","Traditional Authority",NA,NA
+47,135,"MWI","Malawi",6,"Dedza",47,"TA Tambala","Traditional Authority","Traditional Authority",NA,NA
+48,135,"MWI","Malawi",7,"Dowa",48,"Dowa Boma","Boma","Headquarter",NA,NA
+49,135,"MWI","Malawi",7,"Dowa",49,"Mponela Urban","Urban","Urban",NA,NA
+50,135,"MWI","Malawi",7,"Dowa",50,"SC Chakhaza","Sub-chief","Sub-chief",NA,NA
+51,135,"MWI","Malawi",7,"Dowa",51,"SC Kayembe","Sub-chief","Sub-chief",NA,NA
+52,135,"MWI","Malawi",7,"Dowa",52,"SC Mkukula","Sub-chief","Sub-chief",NA,NA
+53,135,"MWI","Malawi",7,"Dowa",53,"SC Mponela","Sub-chief","Sub-chief",NA,NA
+54,135,"MWI","Malawi",7,"Dowa",54,"TA Chiwere","Traditional Authority","Traditional Authority",NA,NA
+55,135,"MWI","Malawi",7,"Dowa",55,"TA Dzoole","Traditional Authority","Traditional Authority",NA,NA
+56,135,"MWI","Malawi",7,"Dowa",56,"TA Msakambewa","Traditional Authority","Traditional Authority",NA,NA
+57,135,"MWI","Malawi",8,"Karonga",57,"Karonga Town","Town","Town",NA,NA
+58,135,"MWI","Malawi",8,"Karonga",58,"Lake Malawi","Water body","Water body",NA,NA
+59,135,"MWI","Malawi",8,"Karonga",59,"Nyipa N. P. - Karonga","National Park","National Park",NA,NA
+60,135,"MWI","Malawi",8,"Karonga",60,"SC Mwakaboko","Sub-chief","Sub-chief",NA,NA
+61,135,"MWI","Malawi",8,"Karonga",61,"SC Mwirang'ombe","Sub-chief","Sub-chief",NA,NA
+62,135,"MWI","Malawi",8,"Karonga",62,"TA Kilupula","Traditional Authority","Traditional Authority",NA,NA
+63,135,"MWI","Malawi",8,"Karonga",63,"TA Kyungu","Traditional Authority","Traditional Authority",NA,NA
+64,135,"MWI","Malawi",8,"Karonga",64,"TA Wasambo","Traditional Authority","Traditional Authority",NA,NA
+65,135,"MWI","Malawi",9,"Kasungu",65,"Kasungu Boma","Boma","Headquarter",NA,NA
+66,135,"MWI","Malawi",9,"Kasungu",66,"Kasungu National Park","National Park","National Park",NA,NA
+67,135,"MWI","Malawi",9,"Kasungu",67,"SC Chilowamatambe","Sub-chief","Sub-chief",NA,NA
+68,135,"MWI","Malawi",9,"Kasungu",68,"SC Chisikwa","Sub-chief","Sub-chief",NA,NA
+69,135,"MWI","Malawi",9,"Kasungu",69,"SC Kawamba","Sub-chief","Sub-chief",NA,NA
+70,135,"MWI","Malawi",9,"Kasungu",70,"SC Lukwa","Sub-chief","Sub-chief",NA,NA
+71,135,"MWI","Malawi",9,"Kasungu",71,"SC M'nyanja","Sub-chief","Sub-chief",NA,NA
+72,135,"MWI","Malawi",9,"Kasungu",72,"SC Njombwa","Sub-chief","Sub-chief",NA,NA
+73,135,"MWI","Malawi",9,"Kasungu",73,"SC Simlemba","Sub-chief","Sub-chief",NA,NA
+74,135,"MWI","Malawi",9,"Kasungu",74,"TA Chulu","Traditional Authority","Traditional Authority",NA,NA
+75,135,"MWI","Malawi",9,"Kasungu",75,"TA Kaluluma","Traditional Authority","Traditional Authority",NA,NA
+76,135,"MWI","Malawi",9,"Kasungu",76,"TA Kaomba","Traditional Authority","Traditional Authority",NA,NA
+77,135,"MWI","Malawi",9,"Kasungu",77,"TA Kapelula","Traditional Authority","Traditional Authority",NA,NA
+78,135,"MWI","Malawi",9,"Kasungu",78,"TA Mwase","Traditional Authority","Traditional Authority",NA,NA
+79,135,"MWI","Malawi",9,"Kasungu",79,"TA Santhe","Traditional Authority","Traditional Authority",NA,NA
+80,135,"MWI","Malawi",9,"Kasungu",80,"TA Wimbe","Traditional Authority","Traditional Authority",NA,NA
+81,135,"MWI","Malawi",10,"Likoma",81,"Lake Malawi","Water body","Water body",NA,NA
+82,135,"MWI","Malawi",11,"Lilongwe",82,"Lilongwe City","City","City",NA,NA
+83,135,"MWI","Malawi",11,"Lilongwe",83,"SC Chitekwele","Sub-chief","Sub-chief",NA,NA
+84,135,"MWI","Malawi",11,"Lilongwe",84,"SC Mtema","Sub-chief","Sub-chief",NA,NA
+85,135,"MWI","Malawi",11,"Lilongwe",85,"SC Njewa","Sub-chief","Sub-chief",NA,NA
+86,135,"MWI","Malawi",11,"Lilongwe",86,"SC Tsabango","Sub-chief","Sub-chief",NA,NA
+87,135,"MWI","Malawi",11,"Lilongwe",87,"TA Chadza","Traditional Authority","Traditional Authority",NA,NA
+88,135,"MWI","Malawi",11,"Lilongwe",88,"TA Chimutu","Traditional Authority","Traditional Authority",NA,NA
+89,135,"MWI","Malawi",11,"Lilongwe",89,"TA Chiseka","Traditional Authority","Traditional Authority",NA,NA
+90,135,"MWI","Malawi",11,"Lilongwe",90,"TA Chitukula","Traditional Authority","Traditional Authority",NA,NA
+91,135,"MWI","Malawi",11,"Lilongwe",91,"TA Kabudula","Traditional Authority","Traditional Authority",NA,NA
+92,135,"MWI","Malawi",11,"Lilongwe",92,"TA Kalolo","Traditional Authority","Traditional Authority",NA,NA
+93,135,"MWI","Malawi",11,"Lilongwe",93,"TA Kalumba","Traditional Authority","Traditional Authority",NA,NA
+94,135,"MWI","Malawi",11,"Lilongwe",94,"TA Kalumbu","Traditional Authority","Traditional Authority",NA,NA
+95,135,"MWI","Malawi",11,"Lilongwe",95,"TA Khongoni","Traditional Authority","Traditional Authority",NA,NA
+96,135,"MWI","Malawi",11,"Lilongwe",96,"TA Malili","Traditional Authority","Traditional Authority",NA,NA
+97,135,"MWI","Malawi",11,"Lilongwe",97,"TA Mazengera","Traditional Authority","Traditional Authority",NA,NA
+98,135,"MWI","Malawi",12,"Machinga",98,"Lake Chilwa","Water body","Water body",NA,NA
+99,135,"MWI","Malawi",12,"Machinga",99,"Lake Chiuta","Water body","Water body",NA,NA
+100,135,"MWI","Malawi",12,"Machinga",100,"Liwonda National Park","National Park","National Park",NA,NA
+101,135,"MWI","Malawi",12,"Machinga",101,"Liwonde Town","Town","Town",NA,NA
+102,135,"MWI","Malawi",12,"Machinga",102,"SC Chamba","Sub-chief","Sub-chief",NA,NA
+103,135,"MWI","Malawi",12,"Machinga",103,"SC Chikweo","Sub-chief","Sub-chief",NA,NA
+104,135,"MWI","Malawi",12,"Machinga",104,"SC Chiwalo","Sub-chief","Sub-chief",NA,NA
+105,135,"MWI","Malawi",12,"Machinga",105,"SC Mlomba","Sub-chief","Sub-chief",NA,NA
+106,135,"MWI","Malawi",12,"Machinga",106,"SC Mposa","Sub-chief","Sub-chief",NA,NA
+107,135,"MWI","Malawi",12,"Machinga",107,"SC Ngokwe","Sub-chief","Sub-chief",NA,NA
+108,135,"MWI","Malawi",12,"Machinga",108,"SC Sitola","Sub-chief","Sub-chief",NA,NA
+109,135,"MWI","Malawi",12,"Machinga",109,"TA Kawinga","Traditional Authority","Traditional Authority",NA,NA
+110,135,"MWI","Malawi",12,"Machinga",110,"TA Liwonde","Traditional Authority","Traditional Authority",NA,NA
+111,135,"MWI","Malawi",12,"Machinga",111,"TA Nyambi","Traditional Authority","Traditional Authority",NA,NA
+112,135,"MWI","Malawi",13,"Mangochi",112,"Lake Malawi","Water body","Water body",NA,NA
+113,135,"MWI","Malawi",13,"Mangochi",113,"Lake Malombe","Water body","Water body",NA,NA
+114,135,"MWI","Malawi",13,"Mangochi",114,"Mangochi Town","Town","Town",NA,NA
+115,135,"MWI","Malawi",13,"Mangochi",115,"Monkey Bay Urban","Urban","Urban",NA,NA
+116,135,"MWI","Malawi",13,"Mangochi",116,"SC Chowe","Sub-chief","Sub-chief",NA,NA
+117,135,"MWI","Malawi",13,"Mangochi",117,"SC Mbwana Nyambi","Sub-chief","Sub-chief",NA,NA
+118,135,"MWI","Malawi",13,"Mangochi",118,"SC Namabvi","Sub-chief","Sub-chief",NA,NA
+119,135,"MWI","Malawi",13,"Mangochi",119,"TA Chimwala","Traditional Authority","Traditional Authority",NA,NA
+120,135,"MWI","Malawi",13,"Mangochi",120,"TA Jalasi","Traditional Authority","Traditional Authority",NA,NA
+121,135,"MWI","Malawi",13,"Mangochi",121,"TA Katuli","Traditional Authority","Traditional Authority",NA,NA
+122,135,"MWI","Malawi",13,"Mangochi",122,"TA Makanjila","Traditional Authority","Traditional Authority",NA,NA
+123,135,"MWI","Malawi",13,"Mangochi",123,"TA Mponda","Traditional Authority","Traditional Authority",NA,NA
+124,135,"MWI","Malawi",13,"Mangochi",124,"TA Nankumba","Traditional Authority","Traditional Authority",NA,NA
+125,135,"MWI","Malawi",14,"Mchinji",125,"Mchinji Boma","Boma","Headquarter",NA,NA
+126,135,"MWI","Malawi",14,"Mchinji",126,"SC Dambe","Sub-chief","Sub-chief",NA,NA
+127,135,"MWI","Malawi",14,"Mchinji",127,"SC Mavwere","Sub-chief","Sub-chief",NA,NA
+128,135,"MWI","Malawi",14,"Mchinji",128,"SC Mduwa","Sub-chief","Sub-chief",NA,NA
+129,135,"MWI","Malawi",14,"Mchinji",129,"TA Mkanda","Traditional Authority","Traditional Authority",NA,NA
+130,135,"MWI","Malawi",14,"Mchinji",130,"TA Mlonyeni","Traditional Authority","Traditional Authority",NA,NA
+131,135,"MWI","Malawi",14,"Mchinji",131,"TA Zulu","Traditional Authority","Traditional Authority",NA,NA
+132,135,"MWI","Malawi",15,"Mulanje",132,"Mulanje Boma","Boma","Headquarter",NA,NA
+133,135,"MWI","Malawi",15,"Mulanje",133,"Mulanje Mountain Forest Reserve","Reserve","Reserve",NA,NA
+134,135,"MWI","Malawi",15,"Mulanje",134,"SC Juma","Sub-chief","Sub-chief",NA,NA
+135,135,"MWI","Malawi",15,"Mulanje",135,"SC Laston Njema","Sub-chief","Sub-chief",NA,NA
+136,135,"MWI","Malawi",15,"Mulanje",136,"TA Chikumbu","Traditional Authority","Traditional Authority",NA,NA
+137,135,"MWI","Malawi",15,"Mulanje",137,"TA Mabuka","Traditional Authority","Traditional Authority",NA,NA
+138,135,"MWI","Malawi",15,"Mulanje",138,"TA Nkanda","Traditional Authority","Traditional Authority",NA,NA
+139,135,"MWI","Malawi",15,"Mulanje",139,"TA Nthiramanja","Traditional Authority","Traditional Authority",NA,NA
+140,135,"MWI","Malawi",16,"Mwanza",140,"Majete Game Reserve - Mwanza","Reserve","Reserve",NA,NA
+141,135,"MWI","Malawi",16,"Mwanza",141,"Mwanza Boma","Boma","Headquarter",NA,NA
+142,135,"MWI","Malawi",16,"Mwanza",142,"TA Kanduku","Traditional Authority","Traditional Authority",NA,NA
+143,135,"MWI","Malawi",16,"Mwanza",143,"TA Nthache","Traditional Authority","Traditional Authority",NA,NA
+144,135,"MWI","Malawi",17,"Mzimba",144,"Mzimba Boma","Boma","Headquarter",NA,NA
+145,135,"MWI","Malawi",17,"Mzimba",145,"Mzuzu City","City","City",NA,NA
+146,135,"MWI","Malawi",17,"Mzimba",146,"SC Jaravikuba Munthali","Sub-chief","Sub-chief",NA,NA
+147,135,"MWI","Malawi",17,"Mzimba",147,"SC Kampingo Sibande","Sub-chief","Sub-chief",NA,NA
+148,135,"MWI","Malawi",17,"Mzimba",148,"SC Khosolo Gwaza Jere","Sub-chief","Sub-chief",NA,NA
+149,135,"MWI","Malawi",17,"Mzimba",149,"TA Chindi","Traditional Authority","Traditional Authority",NA,NA
+150,135,"MWI","Malawi",17,"Mzimba",150,"TA M'Mbelwa","Traditional Authority","Traditional Authority",NA,NA
+151,135,"MWI","Malawi",17,"Mzimba",151,"TA Mabulabo","Traditional Authority","Traditional Authority",NA,NA
+152,135,"MWI","Malawi",17,"Mzimba",152,"TA Mpherembe","Traditional Authority","Traditional Authority",NA,NA
+153,135,"MWI","Malawi",17,"Mzimba",153,"TA Mtwalo","Traditional Authority","Traditional Authority",NA,NA
+154,135,"MWI","Malawi",17,"Mzimba",154,"TA Mzikubola","Traditional Authority","Traditional Authority",NA,NA
+155,135,"MWI","Malawi",17,"Mzimba",155,"TA Mzukuzuku","Traditional Authority","Traditional Authority",NA,NA
+156,135,"MWI","Malawi",17,"Mzimba",156,"Vwaza Marsh Game Reserve - Mzimba","Reserve","Reserve",NA,NA
+157,135,"MWI","Malawi",18,"Neno",157,"Majete Game Reserve - Neno","Reserve","Reserve",NA,NA
+158,135,"MWI","Malawi",18,"Neno",158,"TA Dambe","Traditional Authority","Traditional Authority",NA,NA
+159,135,"MWI","Malawi",18,"Neno",159,"TA Mlauli","Traditional Authority","Traditional Authority",NA,NA
+160,135,"MWI","Malawi",18,"Neno",160,"TA Ngozi","Traditional Authority","Traditional Authority",NA,NA
+161,135,"MWI","Malawi",18,"Neno",161,"TA Symon","Traditional Authority","Traditional Authority",NA,NA
+162,135,"MWI","Malawi",19,"Nkhata Bay",162,"Lake Malawi","Water body","Water body",NA,NA
+163,135,"MWI","Malawi",19,"Nkhata Bay",163,"SC Fukamalaza","Sub-chief","Sub-chief",NA,NA
+164,135,"MWI","Malawi",19,"Nkhata Bay",164,"SC Malanda","Sub-chief","Sub-chief",NA,NA
+165,135,"MWI","Malawi",19,"Nkhata Bay",165,"SC Nyaluwanga","Sub-chief","Sub-chief",NA,NA
+166,135,"MWI","Malawi",19,"Nkhata Bay",166,"SC Zilakoma","Sub-chief","Sub-chief",NA,NA
+167,135,"MWI","Malawi",19,"Nkhata Bay",167,"TA Fukamapiri","Traditional Authority","Traditional Authority",NA,NA
+168,135,"MWI","Malawi",19,"Nkhata Bay",168,"TA Kabunduli","Traditional Authority","Traditional Authority",NA,NA
+169,135,"MWI","Malawi",19,"Nkhata Bay",169,"TA Malenga Mzoma","Traditional Authority","Traditional Authority",NA,NA
+170,135,"MWI","Malawi",19,"Nkhata Bay",170,"TA Musisya","Traditional Authority","Traditional Authority",NA,NA
+171,135,"MWI","Malawi",19,"Nkhata Bay",171,"TA Timbiri","Traditional Authority","Traditional Authority",NA,NA
+172,135,"MWI","Malawi",20,"Nkhotakota",172,"Lake Malawi","Water body","Water body",NA,NA
+173,135,"MWI","Malawi",20,"Nkhotakota",173,"Nkhotakota Boma","Boma","Headquarter",NA,NA
+174,135,"MWI","Malawi",20,"Nkhotakota",174,"Nkhotakota Game Reserve","Reserve","Reserve",NA,NA
+175,135,"MWI","Malawi",20,"Nkhotakota",175,"SC Kafuzila","Sub-chief","Sub-chief",NA,NA
+176,135,"MWI","Malawi",20,"Nkhotakota",176,"SC Mphonde","Sub-chief","Sub-chief",NA,NA
+177,135,"MWI","Malawi",20,"Nkhotakota",177,"SC Mwansambo","Sub-chief","Sub-chief",NA,NA
+178,135,"MWI","Malawi",20,"Nkhotakota",178,"TA Kanyenda","Traditional Authority","Traditional Authority",NA,NA
+179,135,"MWI","Malawi",20,"Nkhotakota",179,"TA Malenga Chanzi","Traditional Authority","Traditional Authority",NA,NA
+180,135,"MWI","Malawi",20,"Nkhotakota",180,"TA Mwadzama","Traditional Authority","Traditional Authority",NA,NA
+181,135,"MWI","Malawi",21,"Nsanje",181,"Mwabvi Game Reserve","Reserve","Reserve",NA,NA
+182,135,"MWI","Malawi",21,"Nsanje",182,"Nsanje Boma","Boma","Headquarter",NA,NA
+183,135,"MWI","Malawi",21,"Nsanje",183,"SC Makoka","Sub-chief","Sub-chief",NA,NA
+184,135,"MWI","Malawi",21,"Nsanje",184,"SC Mbenje","Sub-chief","Sub-chief",NA,NA
+185,135,"MWI","Malawi",21,"Nsanje",185,"TA Chimombo","Traditional Authority","Traditional Authority",NA,NA
+186,135,"MWI","Malawi",21,"Nsanje",186,"TA Malemia","Traditional Authority","Traditional Authority",NA,NA
+187,135,"MWI","Malawi",21,"Nsanje",187,"TA Mlolo","Traditional Authority","Traditional Authority",NA,NA
+188,135,"MWI","Malawi",21,"Nsanje",188,"TA Ndamera","Traditional Authority","Traditional Authority",NA,NA
+189,135,"MWI","Malawi",21,"Nsanje",189,"TA Ngabu","Traditional Authority","Traditional Authority",NA,NA
+190,135,"MWI","Malawi",21,"Nsanje",190,"TA Nyachikadza","Traditional Authority","Traditional Authority",NA,NA
+191,135,"MWI","Malawi",21,"Nsanje",191,"TA Tengani","Traditional Authority","Traditional Authority",NA,NA
+192,135,"MWI","Malawi",22,"Ntcheu",192,"Ntcheu Boma","Boma","Headquarter",NA,NA
+193,135,"MWI","Malawi",22,"Ntcheu",193,"SC Champiti","Sub-chief","Sub-chief",NA,NA
+194,135,"MWI","Malawi",22,"Ntcheu",194,"SC Goodson Ganya","Sub-chief","Sub-chief",NA,NA
+195,135,"MWI","Malawi",22,"Ntcheu",195,"SC Makwangwala","Sub-chief","Sub-chief",NA,NA
+196,135,"MWI","Malawi",22,"Ntcheu",196,"TA Chakhumbira","Traditional Authority","Traditional Authority",NA,NA
+197,135,"MWI","Malawi",22,"Ntcheu",197,"TA Kwataine","Traditional Authority","Traditional Authority",NA,NA
+198,135,"MWI","Malawi",22,"Ntcheu",198,"TA Masasa","Traditional Authority","Traditional Authority",NA,NA
+199,135,"MWI","Malawi",22,"Ntcheu",199,"TA Mpando","Traditional Authority","Traditional Authority",NA,NA
+200,135,"MWI","Malawi",22,"Ntcheu",200,"TA Njolomole","Traditional Authority","Traditional Authority",NA,NA
+201,135,"MWI","Malawi",22,"Ntcheu",201,"TA Phambala","Traditional Authority","Traditional Authority",NA,NA
+202,135,"MWI","Malawi",23,"Ntchisi",202,"Ntchisi Boma","Boma","Headquarter",NA,NA
+203,135,"MWI","Malawi",23,"Ntchisi",203,"SC Chilooko","Sub-chief","Sub-chief",NA,NA
+204,135,"MWI","Malawi",23,"Ntchisi",204,"SC Nthondo","Sub-chief","Sub-chief",NA,NA
+205,135,"MWI","Malawi",23,"Ntchisi",205,"TA Chikho","Traditional Authority","Traditional Authority",NA,NA
+206,135,"MWI","Malawi",23,"Ntchisi",206,"TA Kalumo","Traditional Authority","Traditional Authority",NA,NA
+207,135,"MWI","Malawi",23,"Ntchisi",207,"TA Kasakula","Traditional Authority","Traditional Authority",NA,NA
+208,135,"MWI","Malawi",23,"Ntchisi",208,"TA Kasukula","Traditional Authority","Traditional Authority",NA,NA
+209,135,"MWI","Malawi",24,"Phalombe",209,"Lake Chilwa","Water body","Water body",NA,NA
+210,135,"MWI","Malawi",24,"Phalombe",210,"TA Mkhumba","Traditional Authority","Traditional Authority",NA,NA
+211,135,"MWI","Malawi",24,"Phalombe",211,"TA Nazombe","Traditional Authority","Traditional Authority",NA,NA
+212,135,"MWI","Malawi",25,"Rumphi",212,"Lake Malawi","Water body","Water body",NA,NA
+213,135,"MWI","Malawi",25,"Rumphi",213,"Nyika National Park - Rumphi","National Park","National Park",NA,NA
+214,135,"MWI","Malawi",25,"Rumphi",214,"Rumphi Boma","Boma","Headquarter",NA,NA
+215,135,"MWI","Malawi",25,"Rumphi",215,"SC Chapinduka","Sub-chief","Sub-chief",NA,NA
+216,135,"MWI","Malawi",25,"Rumphi",216,"SC Kachulu","Sub-chief","Sub-chief",NA,NA
+217,135,"MWI","Malawi",25,"Rumphi",217,"SC Mwahenga","Sub-chief","Sub-chief",NA,NA
+218,135,"MWI","Malawi",25,"Rumphi",218,"SC Mwalweni","Sub-chief","Sub-chief",NA,NA
+219,135,"MWI","Malawi",25,"Rumphi",219,"SC Mwankhunikira","Sub-chief","Sub-chief",NA,NA
+220,135,"MWI","Malawi",25,"Rumphi",220,"TA Chikulamayembe","Traditional Authority","Traditional Authority",NA,NA
+221,135,"MWI","Malawi",25,"Rumphi",221,"TA Katumbi","Traditional Authority","Traditional Authority",NA,NA
+222,135,"MWI","Malawi",25,"Rumphi",222,"TA Mwamlowe","Traditional Authority","Traditional Authority",NA,NA
+223,135,"MWI","Malawi",25,"Rumphi",223,"Vwaza Marsh Game Reserve - Rumphi","Reserve","Reserve",NA,NA
+224,135,"MWI","Malawi",26,"Salima",224,"Lake Malawi","Water body","Water body",NA,NA
+225,135,"MWI","Malawi",26,"Salima",225,"Salima Town","Town","Town",NA,NA
+226,135,"MWI","Malawi",26,"Salima",226,"SC Kambalame","Sub-chief","Sub-chief",NA,NA
+227,135,"MWI","Malawi",26,"Salima",227,"SC Kambwiri","Sub-chief","Sub-chief",NA,NA
+228,135,"MWI","Malawi",26,"Salima",228,"SC Mwanza","Sub-chief","Sub-chief",NA,NA
+229,135,"MWI","Malawi",26,"Salima",229,"TA Karonga","Traditional Authority","Traditional Authority",NA,NA
+230,135,"MWI","Malawi",26,"Salima",230,"TA Khombedza","Traditional Authority","Traditional Authority",NA,NA
+231,135,"MWI","Malawi",26,"Salima",231,"TA Kuluunda","Traditional Authority","Traditional Authority",NA,NA
+232,135,"MWI","Malawi",26,"Salima",232,"TA Maganga","Traditional Authority","Traditional Authority",NA,NA
+233,135,"MWI","Malawi",26,"Salima",233,"TA Ndindi","Traditional Authority","Traditional Authority",NA,NA
+234,135,"MWI","Malawi",26,"Salima",234,"TA Pemba","Traditional Authority","Traditional Authority",NA,NA
+235,135,"MWI","Malawi",27,"Thyolo",235,"Luchenza Town","Town","Town",NA,NA
+236,135,"MWI","Malawi",27,"Thyolo",236,"SC Kwethemule","Sub-chief","Sub-chief",NA,NA
+237,135,"MWI","Malawi",27,"Thyolo",237,"SC Mbawela","Sub-chief","Sub-chief",NA,NA
+238,135,"MWI","Malawi",27,"Thyolo",238,"SC Mphuka","Sub-chief","Sub-chief",NA,NA
+239,135,"MWI","Malawi",27,"Thyolo",239,"SC Thukuta","Sub-chief","Sub-chief",NA,NA
+240,135,"MWI","Malawi",27,"Thyolo",240,"TA Bvumbwe","Traditional Authority","Traditional Authority",NA,NA
+241,135,"MWI","Malawi",27,"Thyolo",241,"TA Changata","Traditional Authority","Traditional Authority",NA,NA
+242,135,"MWI","Malawi",27,"Thyolo",242,"TA Chimaliro","Traditional Authority","Traditional Authority",NA,NA
+243,135,"MWI","Malawi",27,"Thyolo",243,"TA Kapichi","Traditional Authority","Traditional Authority",NA,NA
+244,135,"MWI","Malawi",27,"Thyolo",244,"TA Nchilamwela","Traditional Authority","Traditional Authority",NA,NA
+245,135,"MWI","Malawi",27,"Thyolo",245,"TA Nsabwe","Traditional Authority","Traditional Authority",NA,NA
+246,135,"MWI","Malawi",27,"Thyolo",246,"TA Thomas","Traditional Authority","Traditional Authority",NA,NA
+247,135,"MWI","Malawi",27,"Thyolo",247,"Thyolo Boma","Boma","Headquarter",NA,NA
+248,135,"MWI","Malawi",28,"Zomba",248,"Lake Chilwa","Water body","Water body",NA,NA
+249,135,"MWI","Malawi",28,"Zomba",249,"SC Mbiza","Sub-chief","Sub-chief",NA,NA
+250,135,"MWI","Malawi",28,"Zomba",250,"SC Mkumbira","Sub-chief","Sub-chief",NA,NA
+251,135,"MWI","Malawi",28,"Zomba",251,"TA Chikowi","Traditional Authority","Traditional Authority",NA,NA
+252,135,"MWI","Malawi",28,"Zomba",252,"TA Kuntumanji","Traditional Authority","Traditional Authority",NA,NA
+253,135,"MWI","Malawi",28,"Zomba",253,"TA Malemia","Traditional Authority","Traditional Authority",NA,NA
+254,135,"MWI","Malawi",28,"Zomba",254,"TA Mlumbe","Traditional Authority","Traditional Authority",NA,NA
+255,135,"MWI","Malawi",28,"Zomba",255,"TA Mwambo","Traditional Authority","Traditional Authority",NA,NA
+256,135,"MWI","Malawi",28,"Zomba",256,"Zomba City","City","City",NA,NA
