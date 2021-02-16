@@ -1,3 +1,5 @@
+## scrape_reliefweb
+
 This project takes scrapes situation reports of the IFRC from ReliefWeb and mines impact data from them.
 This impact data is placed into a dataset and visualized. The order of using the pipeline is as follows:
 * Start with the WebScrapers folder to obtain datasets:
