@@ -1,17 +1,16 @@
-
-#General
+## General
 
 The files serve to scrape information from https://reliefweb.int/ on disasters that have
 occured in the past. More specifically it scraps "Final Disaster Reports" and general
 information on disasters.
 
-#Important
+## Important
 Both files "scraper_alldisasters.py" and "scraper_finalreports.py" are unable to work properly. This is because of a
 pipeline failure on Gitlab. However if one adjusts the code in both files (the part 'driver = ...') the code will
 work properly. This is also explained in a comment on line 27 in both files.
 
 
-#Different files and functioning of the program
+## Different files and functioning of the program
 
 The "scraper_finalreports.py" scraps the pdf link of the final report,
 the links containing the final report in html format, the type of disaster and the countries
@@ -30,7 +29,7 @@ which in this case is all_disasters.csv
 
 The "chromedriver" files are used to launch the google chrome webdriver for the webscraper
 
-#Automated Tests
+## Automated Tests
 
 The folder "test" contains automated tests for the webscrapers.
 For now the tests for which a webdriver is used are skipped.These test work, but the GitLab pipeline fails because
