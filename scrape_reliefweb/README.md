@@ -11,3 +11,5 @@ This impact data is placed into a dataset and visualized. The order of using the
 
 Dataset 1 (called dataset_final_reports.csv) and dataset 2 (called all_disasters.csv) are present in the Datasets folder.
 Every folder has its own README for instructions of using the files within.
+
+N.B. See **Delft report.pdf** for more details.
