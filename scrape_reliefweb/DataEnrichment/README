@@ -1,0 +1,2 @@
+Visualisation.py
+In this script, one finds two type of functions. The first are meant to format the data in such a way that it can be used for the second type of functions, that visualise the data. All these functions use the all_disasters.csv set in the DataEnrichment folder. It should be noted that this dataset has been cleaned in such a way, that the dates are all specified as “Mon Year”, or “Year-Year”.
