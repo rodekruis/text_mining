@@ -3,20 +3,21 @@ import os
 from datetime import datetime
 import time
 import logging
-
+from dotenv import load_dotenv
 import plac
 from newspaper import Article
 from selenium.webdriver import Firefox
+from selenium.webdriver.firefox.service import Service
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
 from selenium.common.exceptions import \
     NoSuchElementException, TimeoutException, InvalidArgumentException, WebDriverException
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import pandas as pd
 import dateparser
-
 from utils import utils
 
-
+load_dotenv()
 logger = logging.getLogger(__name__)
 for package in ['selenium', 'urllib3']:
     logging.getLogger(package).setLevel(max(logger.level, getattr(logging, 'INFO')))
@@ -84,6 +85,11 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
         search_results = list(set([ match[0] for match in regex.finditer(search_result_page_source) if keyword in match[0].lower()]))
         search_results = ['https://www.newvision.co.ug' + search_result for search_result in search_results]
 
+    if vNews_name == "FloodList":
+        regex = re.compile('(http|ftp|https):\/\/([\w_-]+(?:(?:\.[\w_-]+)+))([\w.,@?^=%&:\/~+#-]*[\w@?^=%&\/~+#-])')
+        search_results = list(set([ match[0] for match in regex.finditer(search_result_page_source) if '.com/africa/' in match[0].lower()]))
+        search_results = [url for url in search_results if "/attachment/" not in url]
+
     if len(search_results) > 0:
         logger.info("found {0} article(s):".format(len(search_results)))
         for title in search_results:
@@ -98,10 +104,15 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
         # download article
         article = Article(search_result, keep_article_html=True)
         article.download()
-        attempts = 0
-        while (article.download_state != 2) & (attempts<5): #ArticleDownloadState.SUCCESS is 2
+        attempts, attempts_max = 0, 10
+        while (article.download_state != 2) and (attempts < attempts_max):
             attempts += 1
-            time.sleep(1)
+            logger.warning(f"download_state {article.download_state} "
+                           f", retrying {attempts}/{attempts_max}")
+            article = Article(search_result, keep_article_html=True)
+            article.download()
+            time.sleep(10)
+
         if article.download_state != 2:
             logger.warning('unable to download article: {}'.format(search_result))
             continue
@@ -121,9 +132,9 @@ def ProcessPage(keyword, vBrowser, vNews_name, vNews_url, language):
             date_str = ""
             search_date = False
 
-            if date is not None:
+            if not pd.isnull(date):
                 # keep date found only if older than today
-                if pd.to_datetime(date_str).date() < pd.to_datetime(datetime.today()).date():
+                if pd.to_datetime(date).date() < pd.to_datetime(datetime.today()).date():
                     date_str = date.strftime(DATE_FORMAT)
                 else:
                     search_date = True
@@ -210,31 +221,26 @@ def main(config_file, debug=False):
         os.mkdir(output_dir)
 
     # initialize webdriver
-    # opts = Options()
-    # opts.headless = True
-    # assert opts.headless  # operating in headless mode
-    # browser = Firefox(options=opts)
-    # browser.set_page_load_timeout(TIMEOUT)
-    binary = r'C:\Program Files\Mozilla Firefox\firefox.exe'
     options = Options()
     options.headless = True
-    options.binary = binary
-    cap = DesiredCapabilities().FIREFOX
-    cap["marionette"] = True  # optional
-    browser = Firefox(options=options, capabilities=cap, executable_path="C:\\geckodriver\\geckodriver.exe")
+    if os.getenv("FIREFOX_BINARY"):
+        options.binary = os.getenv("FIREFOX_BINARY")
+    service = None
+    if os.getenv("GECKODRIVER"):
+        service = Service(os.getenv("GECKODRIVER"))
+    browser = Firefox(options=options, service=service)
+    browser.set_page_load_timeout(TIMEOUT)
 
     # get newspapers urls
     newspaper_database_url = 'http://{newspaper_url_base}.com/{country}.htm'.format(
         newspaper_url_base=NEWSPAPER_URL_BASE, country=config['country'][:5].lower())
     browser.get(newspaper_database_url)
-    newspaper_elements = browser.find_elements_by_css_selector('a')
+    newspaper_elements = browser.find_elements(By.CSS_SELECTOR, 'a')
     newspaper_urls = [el.get_attribute('href') for el in newspaper_elements]
     newspaper_names = [el.get_attribute('text') for el in newspaper_elements]
     Newspapers = dict(zip(newspaper_names, newspaper_urls))
-    Newspapers = {key:val for key, val in Newspapers.items() if NEWSPAPER_URL_BASE not in val}
-
-    # blacklist
-    # del Newspapers['Niarela']
+    Newspapers = {key: val for key, val in Newspapers.items() if NEWSPAPER_URL_BASE not in val}
+    Newspapers['FloodList'] = "https://floodlist.com"  # add FloodList by hand
 
     # loop over newspapers
     for news_name, news_url_clean in Newspapers.items():
@@ -243,7 +249,10 @@ def main(config_file, debug=False):
 
         logger.info('**********************************************************************************')
         logger.info('Accessing {0} ({1})'.format(news_name, news_url_clean))
-        news_url = news_url_clean + '?s='+config['keyword']
+        if news_name == "FloodList":
+            news_url = news_url_clean + f"/tag/{config['country']}"
+        else:
+            news_url = news_url_clean + f"?s={config['keyword']}"
         try:
             browser.get(news_url)
         except (TimeoutException, WebDriverException):
@@ -252,7 +261,7 @@ def main(config_file, debug=False):
 
         # process first results page
         logger.info("Begin to process page 1 ({0})".format(browser.current_url))
-        articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
+        articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'])
         articles_news = articles_news.append(articles_page)
         if len(articles_news) == 0:
             news_url = news_url_clean + 'search?q=' + config['keyword']
@@ -262,7 +271,7 @@ def main(config_file, debug=False):
             except (TimeoutException, WebDriverException):
                 logger.error('Unable to access, skipping')
                 continue
-            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
+            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'])
             articles_news = articles_news.append(articles_page)
 
         # start looping over all pages of results
@@ -270,7 +279,7 @@ def main(config_file, debug=False):
         while True:
             logger.info("Trying to open page {0} ...".format(page_number))
             try:
-                link = browser.find_element_by_link_text(str(page_number))
+                link = browser.find_element(By.LINK_TEXT, str(page_number))
                 browser.get(link.get_attribute("href"))
             except NoSuchElementException:
                 url_next_page = news_url
@@ -294,18 +303,20 @@ def main(config_file, debug=False):
                 logger.error("Can't open page, abandoning news source")
                 break
             logger.info("Begin to process page {0} ({1})".format(page_number, browser.current_url))
-            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'][:2])
+            articles_page = ProcessPage(config['keyword'], browser, news_name, news_url, language=config['language'])
             articles_news = articles_news.append(articles_page)
             page_number += 1
 
         # save dataframe to csv
-        logger.info('Saving articles from {}'.format( news_name))
-        logger.info('{}'.format(articles_news.describe()))
-        logger.info('*********************************************************')
-        output_name = 'articles_{keyword}_{news_name}.csv'.format(
-            keyword=config['keyword'], news_name=news_name)
-        output_dir_news = os.path.join(output_dir, output_name)
-        articles_news.to_csv(output_dir_news, sep='|', index=False)
+        if len(articles_news) > 0:
+            logger.info('Saving articles from {}'.format( news_name))
+            logger.info('{}'.format(articles_news.describe()))
+            output_name = 'articles_{keyword}_{news_name}.csv'.format(
+                keyword=config['keyword'], news_name=news_name)
+            output_dir_news = os.path.join(output_dir, output_name)
+            articles_news.to_csv(output_dir_news, sep='|', index=False)
+        else:
+            logger.info('No articles found in {}'.format(news_name))
 
     logger.info("\nFINISHED PROCESSING *****************************")
 

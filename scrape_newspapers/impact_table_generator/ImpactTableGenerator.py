@@ -1,7 +1,7 @@
 import os
 import logging
 import ast
-
+import geopandas as gpd
 import pandas as pd
 from pandas import ExcelWriter
 import spacy
@@ -39,6 +39,14 @@ class ImpactTableGenerator:
         # load spacy model
         logger.info("Loading model {}".format(self.model))
         self.nlp = spacy.load(self.model)
+
+        # check for space-separated locations and add as custom entities
+        locations_double_name = self.locations_df[self.locations_df['FULL_NAME_RO'].str.contains(" ")]
+        if not locations_double_name.empty:
+            entity_ruler = self.nlp.add_pipe("entity_ruler", before="ner")
+            for location in locations_double_name['FULL_NAME_RO'].unique():
+                entity_ruler.add_patterns([{"label": "GPE", "pattern": location}])
+        self.nlp.add_pipe("merge_entities")
 
         # get df of articles
         self.articles_df = self._load_articles(input_filename)
@@ -87,8 +95,11 @@ class ImpactTableGenerator:
         logger.info('{}'.format(self.df_impact.head()))
         self.df_impact.to_csv(os.path.join(self.output_directory, self.output_filename_base+'.csv'),
                          mode='w', encoding='utf-8', sep='|')
-        self.df_impact.to_excel(self.writer, sheet_name='Sheet1')
-        self.writer.save()
+        if not self.df_impact.empty:
+            self.df_impact.to_excel(self.writer, sheet_name='Sheet1')
+            self.writer.save()
+        else:
+            logger.info('no impact data found')
 
     @staticmethod
     def _make_df_impact():
@@ -119,10 +130,11 @@ class ImpactTableGenerator:
                 {'keyword': self.keyword, 'country': self.country})
         df = pd.read_csv(os.path.join(input_directory, input_filename),
                          sep='|').drop_duplicates(['title', 'text'], keep=False)
-        df['publish_date'] = df['publish_date'].apply(pd.to_datetime)
+        df['publish_date'] = pd.to_datetime(df['publish_date'])
+        df['text'] = df['text'].str.normalize('NFKD').str.encode('ascii', errors='ignore').str.decode('utf-8')
         logger.info('got {} articles:'.format(len(df)))
         logger.info('{} -- {}'.format(df['publish_date'].min().strftime('%Y-%m-%d'),
-                                      df['publish_date'].min().strftime('%Y-%m-%d')))
+                                      df['publish_date'].max().strftime('%Y-%m-%d')))
         return df
 
     @staticmethod
@@ -157,15 +169,61 @@ class ImpactTableGenerator:
         build a dictionary of locations {name: coordinates}
         from a gazetteer in tab-separated csv format (http://geonames.nga.mil/gns/html/namefiles.html)
         """
+        # check if there are locations from OSM (txt)
+        locations_df = pd.DataFrame()
         input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short+'_administrative_a.txt')
-        columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
-        locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
-        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_localities_l.txt')
-        locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
-        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_populatedplaces_p.txt')
-        locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
-        locations_df = locations_df[~locations_df['FULL_NAME_ND_RO'].str.contains(self.country)]
-        locations_df["ADM1"] = pd.to_numeric(locations_df["ADM1"], errors='coerce')
+        if os.path.exists(input_file):
+            columns = ['FULL_NAME_RO', 'FULL_NAME_ND_RO', 'LAT', 'LONG', 'ADM1']
+            locations_df = pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns)
+            input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_localities_l.txt')
+            locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
+            input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_populatedplaces_p.txt')
+            locations_df = locations_df.append(pd.read_csv(input_file, sep='\t', encoding='utf-8', usecols=columns), ignore_index=True)
+            locations_df = locations_df[~locations_df['FULL_NAME_ND_RO'].str.contains(self.country)]
+            locations_df["ADM1"] = pd.to_numeric(locations_df["ADM1"], errors='coerce')
+        # check if there are locations from HDX (xlsx)
+        input_file = os.path.join(LOCATIONS_FOLDER, self.country, self.country_short + '_adminboundaries_tabulardata.xlsx')
+        if os.path.exists(input_file):
+            try:
+                hdx_df = pd.read_excel(input_file, sheet_name="Admin3")
+                levels = [1, 2, 3]
+            except ValueError:
+                hdx_df = pd.read_excel(input_file, sheet_name="Admin2")
+                levels = [1, 2]
+            locations_df = pd.DataFrame()
+            for lvl in levels:
+                cols = [x for x in hdx_df.columns if f"admin{lvl}Name" in x]
+                col_adm_name = cols[0]
+                if locations_df.empty:
+                    locations_df["FULL_NAME_RO"] = pd.Series(hdx_df[col_adm_name])
+                    locations_df = locations_df.drop_duplicates(subset=["FULL_NAME_RO"])
+                    locations_df["ADM1"] = lvl
+                else:
+                    locations_df_ = pd.DataFrame()
+                    locations_df_["FULL_NAME_RO"] = pd.Series(hdx_df[col_adm_name])
+                    locations_df_ = locations_df_.drop_duplicates(subset=["FULL_NAME_RO"])
+                    locations_df_["ADM1"] = lvl
+                    locations_df = locations_df.append(locations_df_, ignore_index=True)
+        # check if there are locations from geoBoundaries (geojson)
+        input_file = os.path.join(LOCATIONS_FOLDER, self.country,
+                                  self.country_short + '_adminboundaries_vectordata.geojson')
+        if os.path.exists(input_file):
+            hdx_df = gpd.read_file(input_file)
+            locations_df = pd.DataFrame()
+            for lvl in [1, 2, 3]:
+                hdx_df_lvl = hdx_df[hdx_df["Level"] == f"ADM{lvl}"]
+                if locations_df.empty:
+                    locations_df["FULL_NAME_RO"] = pd.Series(hdx_df_lvl["shapeName"])
+                    locations_df = locations_df.drop_duplicates(subset=["FULL_NAME_RO"])
+                    locations_df["ADM1"] = lvl
+                else:
+                    locations_df_ = pd.DataFrame()
+                    locations_df_["FULL_NAME_RO"] = pd.Series(hdx_df_lvl["shapeName"])
+                    locations_df_ = locations_df_.drop_duplicates(subset=["FULL_NAME_RO"])
+                    locations_df_["ADM1"] = lvl
+                    locations_df = locations_df.append(locations_df_, ignore_index=True)
+        if locations_df.empty:
+            raise(ValueError)
         return locations_df
 
 

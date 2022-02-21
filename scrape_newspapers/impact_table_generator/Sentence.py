@@ -91,8 +91,8 @@ class Sentence:
         Create corresponding location dictionary
         """
         and_word = {
-            'french': 'et',
-            'english': 'and'
+            'fr': 'et',
+            'en': 'and'
         }[language]
         list_final = []
 

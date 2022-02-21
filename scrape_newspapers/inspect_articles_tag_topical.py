@@ -55,6 +55,7 @@ def main(config_file,
         index_article = 0
         for file in files_in_articles_folder:
             df_articles = pd.read_csv(articles_folder+'/'+file, sep='|')
+            df_articles = df_articles.drop_duplicates(subset=['url'])
             for index, article in df_articles.iterrows():
                 row_to_add = [file, index, article['title'], None]
                 df_articles_summary.loc[index_article] = row_to_add
@@ -123,26 +124,31 @@ def main(config_file,
         article = pd.read_csv(articles_folder+'/'+newspaper, sep='|').iloc[article_number]
         logging.info("\nArticle #{number}/{total}: {title}".format(
             number=cnt_article+1, total=number_to_analyze, title=article['title']))
-        if len(article['text']) == 0 or article['text'] == article['title']:
-            logging.info('no text --> not topical')
+        if pd.isna(article['text']):
             df_articles_summary.loc[row.Index, 'topical'] = False
             cnt_article += 1
-            df_articles_summary.to_csv(articles_summary_filename, index=False)
+            continue
         else:
-            var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
-            if var_topical == 'q':
-                break
-            elif var_topical == 'i':
-                logging.info(article['text'])
-                var_topical = input("Is it topical? t (True), f (False)  ")
-            df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
-            cnt_article += 1
-            df_articles_summary.to_csv(articles_summary_filename, index=False)
+            if len(article['text']) == 0 or article['text'] == article['title']:
+                logging.info('no text --> not topical')
+                df_articles_summary.loc[row.Index, 'topical'] = False
+                cnt_article += 1
+                df_articles_summary.to_csv(articles_summary_filename, index=False)
+            else:
+                var_topical = input("Is it topical? t (True), f (False), i (Inspect text), q (Quit)  ")
+                if var_topical == 'q':
+                    break
+                elif var_topical == 'i':
+                    logging.info(article['text'])
+                    var_topical = input("Is it topical? t (True), f (False)  ")
+                df_articles_summary.loc[row.Index, 'topical'] = var_topical == 't'
+                cnt_article += 1
+                df_articles_summary.to_csv(articles_summary_filename, index=False)
 
     # Use the summary to create a csv with only relevant articles
     columns = ['Unnamed: 0', 'title', 'publish_date', 'text', 'url']
     df_articles_topical = pd.DataFrame(columns=columns)
-    relevant_articles = df_articles_summary[df_articles_summary['topical'] == True]
+    relevant_articles = df_articles_summary[df_articles_summary['topical']]
     logging.info('Saving {} topical articles'.format(len(relevant_articles)))
     for index, row in relevant_articles.iterrows():
         article = pd.read_csv(articles_folder+'/'+row['newspaper'], sep='|').iloc[row['article_number']]

@@ -10,7 +10,7 @@ from utils import utils
 
 logger = logging.getLogger(__name__)
 
-LANGUAGES_WITH_ENTS = ['english']
+LANGUAGES_WITH_ENTS = ['en']
 
 CRAZY_NUMBER_CUTOFF = 1E6
 USD_CUTOFF = 1E7
@@ -245,6 +245,9 @@ class Ents:
             return None
         # check if root is damage-like
         token_root = next(iter([token for token in self.sentence if token.dep_ == 'ROOT']), None)
+        if token_root is None:
+            logger.debug('no token root, discarding')
+            return None
         if any(type in token_root.text for type in keywords['donation']):
             # donation, discard
             logger.debug('donation, discarding')
@@ -293,7 +296,7 @@ class Ents:
         """
         Convert number words into numbers
         """
-        if language == 'english':
+        if language == 'en':
             parser = w2n.word_to_num
         elif language == 'french':
             parser = text2num
@@ -398,10 +401,14 @@ class Ents:
             if re.search(regex_currency, self.sentence_text) is not None:
                 for idx, word in enumerate(self.sentence):
                     if word.text in text:
-                        if currency_long in self.sentence[idx+1].text or currency_long in self.sentence[idx+2].text:
-                            currency = currency_long
-                        if currency_long in self.sentence[idx-1].text or currency_long in self.sentence[idx-2].text:
-                            currency = currency_long
+                        try:
+                            if currency_long in self.sentence[idx+1].text or currency_long in self.sentence[idx+2].text:
+                                currency = currency_long
+                            if currency_long in self.sentence[idx-1].text or currency_long in self.sentence[idx-2].text:
+                                currency = currency_long
+                        except IndexError:
+                            continue
+
         if currency != '':
             if currency in local_currency_names_short or currency in local_currency_names_long:
                 currency = local_currency_code

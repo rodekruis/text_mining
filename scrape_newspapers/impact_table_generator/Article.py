@@ -1,6 +1,6 @@
 import re
 import logging
-
+import pandas as pd
 import numpy as np
 from text_to_num import text2num
 from spacy.matcher import Matcher
@@ -26,6 +26,8 @@ class Article:
 
         self.text = df_row['text']
         self.title = df_row['title']
+        if pd.isna(self.title):
+            self.title = ""
         self.text_with_title = self.title + '.\n' + self.text
         self.article_num = df_row['Unnamed: 0']
         self.publication_date = str(df_row['publish_date'].date())
@@ -85,8 +87,11 @@ class Article:
         """
         # find locations and append them to list
         matcher = Matcher(nlp.vocab)
-        _ = [matcher.add('locations', None, [{'LOWER': location.lower(), 'POS': pos}])
-             for location in locations_df['FULL_NAME_RO'] for pos in ['NOUN', 'PROPN']]
+        patterns = []
+        for location in locations_df['FULL_NAME_RO']:
+            for pos in ['NOUN', 'PROPN']:
+                patterns.append([{'LOWER': location.lower(), 'POS': pos}])
+        matcher.add('locations', patterns)
         matches = matcher(doc)
         # As (longer) articles are often signed, toss out last location if it's close to the end
         # since it is probably someone's name
@@ -109,8 +114,8 @@ class Article:
     def _preprocess_titles(self, titles, language):
         # Remove proper names of people because they can have names of towns
         name_replacement = {
-            'english': 'someone',
-            'french': "quelq'un"
+            'en': 'someone',
+            'fr': "quelq'un"
         }[language]
         name_pattern_query_list = [
             r'\.\s[A-Za-z]+\s[A-Z][a-z]+',
@@ -139,7 +144,7 @@ class Article:
         return self.text
 
     def _clean(self, language):
-        if language == 'english':
+        if language == 'en':
             return ''.join([i if (ord(i) < 128) and (i != '\'') else '' for i in self.text])
         else:
             return ''.join([i if (i != '\'') else '' for i in self.text])
