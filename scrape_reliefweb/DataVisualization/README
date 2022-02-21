@@ -1,0 +1,43 @@
+#General:
+
+The Visualisation of data folder contains data processors that clean the dataset so as
+to collect valid data and then transforms them into comprehensive summary statistics and
+graphs. Moreover it also contains the created plots in .png format and the dataset used
+which is stored in a csv file
+
+#Functioning of the Folder:
+
+The data originates form the file "data_clean.csv", this can be updated with another file,
+it should however than adhere to the same formatting, then the data processors can operate
+without any need of change.
+
+The data processor all function in the same way but are fine tuned according to what
+is expected from them here are the steps taken:
+
+1) extracting, ordering cleaning
+- csv file is read and transformed into a dictionary, the needed columns are taken
+and the specified columns are cleaned and put into a list .If there are several lists
+the lists are zipped together.
+
+2) Processing and counting
+- thereafter the list is filtered according to certain criteria (ex. digits of the month
+in the date) and then put into dictionary. Data that does not have the specified format
+such as is not a numerical value if it ought to be, are discarted in that process
+
+3) Visualisation
+-with the data at hand, the dictionary is transformed into a dataframe and is then either printed
+as a summary statistic table or is then ploted as graph
+
+#Testing:
+
+Given that it is not really possible to automated test for data processing and visualisation
+we were obliged to do manually testing. Tests were done by printing the resulting counter
+dictionary and the intermediate variables so as to assure the right values are being processed
+in the right way. Moreover, it was made sure that for every eventuality, be it missing column
+or wrongly specified input the data processer would pick it up and exlude it from the counter.
+This was done by precisely specifying how the format should look like before it is accepted
+for processing.
+
+
+
+
